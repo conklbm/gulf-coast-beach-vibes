@@ -39,28 +39,30 @@ export default function NewsletterBanner({ variant = 'hero' }: NewsletterBannerP
         {submitted ? (
           <p className="text-ocean font-semibold">You&apos;re in! Check your inbox for a welcome email. 🎉</p>
         ) : (
-          <form onSubmit={handleSubmit} className="flex flex-col sm:flex-row gap-3">
-            <label htmlFor="newsletter-email-compact" className="sr-only">Email address</label>
-            <input
-              id="newsletter-email-compact"
-              type="email"
-              value={email}
-              onChange={(e) => setEmail(e.target.value)}
-              placeholder="your@email.com"
-              required
-              className="flex-1 px-4 py-3 rounded-full border border-navy/20 bg-white
-                         text-navy placeholder-navy/40 text-sm
-                         focus:outline-none focus:ring-2 focus:ring-ocean"
-            />
-            <button
-              type="submit"
-              disabled={loading}
-              className="btn-primary text-base py-3 px-6 disabled:opacity-70"
-            >
-              {loading ? 'Joining…' : 'Count Me In'}
-            </button>
-          </form>
-          {error && <p className="text-red-500 text-sm mt-2">{error}</p>}
+          <>
+            <form onSubmit={handleSubmit} className="flex flex-col sm:flex-row gap-3">
+              <label htmlFor="newsletter-email-compact" className="sr-only">Email address</label>
+              <input
+                id="newsletter-email-compact"
+                type="email"
+                value={email}
+                onChange={(e) => setEmail(e.target.value)}
+                placeholder="your@email.com"
+                required
+                className="flex-1 px-4 py-3 rounded-full border border-navy/20 bg-white
+                           text-navy placeholder-navy/40 text-sm
+                           focus:outline-none focus:ring-2 focus:ring-ocean"
+              />
+              <button
+                type="submit"
+                disabled={loading}
+                className="btn-primary text-base py-3 px-6 disabled:opacity-70"
+              >
+                {loading ? 'Joining…' : 'Count Me In'}
+              </button>
+            </form>
+            {error && <p className="text-red-500 text-sm mt-2">{error}</p>}
+          </>
         )}
       </div>
     )
