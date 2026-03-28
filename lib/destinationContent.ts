@@ -497,4 +497,116 @@ export const destinationContent: Record<string, DestinationContent> = {
     localTip:
       "If you're coming for birding, mid-April is peak migration and the island can be absolutely electric with songbirds that have just crossed the Gulf of Mexico overnight. They land exhausted and hungry, making the sanctuary one of the best birdwatching spots in North America for that brief window. Also: the ferry from Fort Morgan is worth taking even if you don't need the shortcut — the bay crossing gives you a perspective on the Gulf Coast that you simply can't get from the road.",
   },
+
+  'orange-beach': {
+    slug: 'orange-beach',
+    beaches: [
+      {
+        name: 'Orange Beach Public Beach',
+        description:
+          'The main Gulf-front beach right in town — wide, white sand with the emerald water Orange Beach is known for. Less crowded than Gulf Shores on peak summer weekends. Beach chair and umbrella rentals available, plus easy parking access.',
+      },
+      {
+        name: 'Perdido Pass Beach',
+        description:
+          "Where the Gulf meets Perdido Pass, the waterway connecting the Gulf to Perdido Bay. A great spot for watching boats come and go through the pass, plus the currents here create some of the clearest water on the Alabama coast. Popular with snorkelers.",
+      },
+      {
+        name: 'Gulf Beach at Perdido Key (FL border)',
+        description:
+          "Drive a few miles east and you cross into Florida's Perdido Key State Park — undeveloped barrier island beach with no development in sight. One of the most naturally beautiful stretches of sand on the entire Gulf Coast. Worth the short detour.",
+      },
+    ],
+    whereToStay: [
+      {
+        name: 'Turquoise Place',
+        type: 'vacation-rental',
+        description:
+          "One of the largest and most amenity-packed condo resorts on the Alabama Gulf Coast. Private hot tubs on select balconies, lazy river, multiple pools, and direct Gulf frontage. A step up from the typical condo experience — great for a splurge trip.",
+        affiliateUrl: 'https://vrbo.tp.st/rB1ITlqz', // ✓ tracked
+        provider: 'vrbo',
+      },
+      {
+        name: 'Perdido Beach Resort',
+        type: 'resort',
+        description:
+          "Orange Beach's premier full-service hotel — right on the Gulf with a private beach, multiple pools, the excellent Voyagers restaurant, and a marina. The only true resort-style hotel in Orange Beach. Voyagers' wine list alone (700+ bottles) is worth a visit.",
+        affiliateUrl: 'https://www.booking.com/hotel/us/perdido-beach-resort.html', // TODO: confirm tracking
+        provider: 'booking',
+      },
+      {
+        name: 'Orange Beach Condos via VRBO',
+        type: 'vacation-rental',
+        description:
+          "Orange Beach is a condo town — the rental market is massive and ranges from budget-friendly studios to multi-bedroom beachfront penthouses. VRBO has the best selection. Filter by Gulf-front and private pool for the full experience.",
+        affiliateUrl: 'https://vrbo.tp.st/rB1ITlqz', // ✓ tracked
+        provider: 'vrbo',
+      },
+    ],
+    whereToEat: [
+      {
+        name: 'The Gulf',
+        cuisine: 'Seasonal Coastal',
+        description:
+          "One of the best restaurants on the entire Alabama Gulf Coast. The menu rotates with the seasons and uses local producers — the fried grouper sandwich alone is worth the trip. Modern, thoughtful cooking in a beach town. Make a reservation.",
+        priceRange: '$$$',
+      },
+      {
+        name: "Cobalt, The Restaurant",
+        cuisine: 'Contemporary Gulf Coast',
+        description:
+          "Upscale waterfront dining you can arrive at by boat. Known for Gulf shrimp barbecue, pecan catfish, and bronze gulf grouper. Happy Hour 3–5 PM is excellent value. One of Orange Beach's most consistently praised restaurants.",
+        priceRange: '$$$',
+      },
+      {
+        name: "Tacky Jack's",
+        cuisine: 'Seafood / American',
+        description:
+          "The quintessential Orange Beach waterfront bar and grill — accessible by land or boat. Famous Bushwacker cocktails, solid seafood, live entertainment, and a vibe that perfectly captures the spirit of this town. Great for a long lunch.",
+        priceRange: '$$',
+      },
+      {
+        name: 'Wolf Bay Restaurant',
+        cuisine: 'Seafood',
+        description:
+          "A family-owned institution serving fresh Gulf seafood for generations. The stuffed whole flounder is legendary. No frills, no pretension — just excellent Gulf Coast cooking done right. Locals eat here when they want the real thing.",
+        priceRange: '$$',
+      },
+    ],
+    activities: [
+      {
+        name: 'The Wharf',
+        description:
+          "Orange Beach's waterfront entertainment district — shops, restaurants, waterfront bars, live music, a Ferris wheel, and a laser light experience all in one place. The best spot for an evening out when you want something beyond the beach.",
+      },
+      {
+        name: 'Deep-Sea & Inshore Fishing Charters',
+        description:
+          "Orange Beach is one of the top sportfishing destinations on the Gulf Coast. Offshore charters target red snapper, amberjack, mahi-mahi, and wahoo. Inshore trips work Perdido Bay for speckled trout and redfish. Dozens of reputable captains operate out of Perdido Pass Marina.",
+        affiliateUrl: 'https://fishingbooker.tp.st/lQGpTKBV', // ✓ tracked
+        provider: 'getyourguide',
+      },
+      {
+        name: 'Hugh S. Branyon Backcountry Trail',
+        description:
+          "Over 15 miles of paved and natural trails through six distinct coastal habitats — pine forests, wetlands, dunes, and more. One of the best-kept secrets in Orange Beach. Perfect for cycling, birding, or a morning run away from the crowds.",
+      },
+      {
+        name: 'Dolphin Cruises & Sailing',
+        description:
+          "Multiple operators run dolphin-watching cruises through the waters around Orange Beach — resident bottlenose dolphins are a near-certain sighting. Sail Wild Hearts offers sunset cruises on a 53-foot ocean yacht that's hard to beat for a romantic evening.",
+        affiliateUrl: 'https://viator.tp.st/dDeat4RV', // ✓ tracked
+        provider: 'getyourguide',
+      },
+      {
+        name: 'Flora-Bama',
+        description:
+          "The legendary roadhouse bar sitting right on the Alabama-Florida state line. Live music on five stages, a raw oyster bar, the famous Mullet Toss competition every April, and decades of Gulf Coast history soaked into the walls. An institution.",
+      },
+    ],
+    gettingThere:
+      "Orange Beach sits on Alabama's Gulf Coast, directly east of Gulf Shores on Highway 182 (Perdido Beach Blvd). From I-10, take the same Highway 59 exit south as Gulf Shores, then head east on AL-182. The closest airport is Pensacola International (PNS), about 45 minutes east — often the best option for flights. Mobile Regional (MOB) is about 90 minutes west. No toll roads. Parking near the public beach and The Wharf is free.",
+    localTip:
+      "Orange Beach's secret weapon is Perdido Pass — the deep-water channel that cuts between the Gulf and Perdido Bay. At sunrise, the fishing fleet heads out through the pass and the light on the water is genuinely spectacular. Grab coffee and watch from the public pier at Perdido Pass Park. Also: the stretch of beach just east of the pass is consistently less crowded than the main public beach, with the same water. It's a 10-minute walk from the parking lot but worth every step.",
+  },
 }

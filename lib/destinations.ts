@@ -72,7 +72,7 @@ export const destinations: Destination[] = [
       'Fresh Gulf seafood',
     ],
     order: 3,
-    hasFullContent: false,
+    hasFullContent: true,
   },
   {
     slug: 'pensacola-beach',
