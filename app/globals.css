@@ -1,0 +1,77 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-cream text-navy font-sans;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-display;
+  }
+
+  /* Smooth scrolling */
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer components {
+  /* Reusable section container */
+  .section-container {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+
+  /* Gradient text for headings */
+  .gradient-text {
+    @apply bg-gradient-to-r from-ocean to-ocean-700 bg-clip-text text-transparent;
+  }
+
+  /* Card base style */
+  .card {
+    @apply bg-white rounded-2xl shadow-md overflow-hidden transition-all duration-300;
+  }
+
+  .card:hover {
+    @apply shadow-xl -translate-y-1;
+  }
+
+  /* Primary button */
+  .btn-primary {
+    @apply inline-flex items-center justify-center px-8 py-4 rounded-full
+           bg-coral text-white font-semibold text-lg
+           hover:bg-coral-600 active:scale-95
+           transition-all duration-200 shadow-lg hover:shadow-xl;
+  }
+
+  /* Secondary button */
+  .btn-secondary {
+    @apply inline-flex items-center justify-center px-6 py-3 rounded-full
+           border-2 border-ocean text-ocean font-semibold
+           hover:bg-ocean hover:text-white
+           transition-all duration-200;
+  }
+
+  /* Wave divider helper */
+  .wave-divider {
+    @apply w-full overflow-hidden leading-none;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  /* Hide scrollbar but keep scrolling */
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+}
