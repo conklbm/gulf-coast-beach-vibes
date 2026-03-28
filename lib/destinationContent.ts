@@ -382,4 +382,119 @@ export const destinationContent: Record<string, DestinationContent> = {
     localTip:
       "The quartz sand at Pensacola Beach is so fine and bright white that it squeaks when you walk on it — this is called 'singing sand' and it only happens with ultra-pure quartz. It's not just marketing. Also: the water at Fort Pickens is noticeably clearer than at the main Casino Beach because there's no development disturbing the seafloor. The drive out there at sunset, with the fort silhouetted against the sky, is genuinely one of the most beautiful things on the Gulf Coast.",
   },
+
+  'dauphin-island': {
+    slug: 'dauphin-island',
+    beaches: [
+      {
+        name: 'East Beach',
+        description:
+          'The main public beach on the east end of the island — wide, nearly white sand with calm Gulf waters. There\'s a boardwalk, picnic pavilions, restrooms, and paid parking. Lifeguards in peak season. Best for families wanting amenities close by.',
+      },
+      {
+        name: 'West Beach (Cadillac Square)',
+        description:
+          'Head west past the campground and the beaches thin out to almost nothing — in the best way. Fewer people, wilder shoreline, and a real sense of the undeveloped Gulf Coast. This is where serious shellers come.',
+      },
+      {
+        name: 'Dauphin Island Campground Beach',
+        description:
+          'The beachfront campground sits right on the Gulf with 151 sites, making it one of the most unique camping spots on the Alabama coast. Even if you\'re not camping, walk the beach in front of it — it\'s beautiful.',
+      },
+    ],
+    whereToStay: [
+      {
+        name: 'Dauphin Island Vacation Rentals via VRBO',
+        type: 'vacation-rental',
+        description:
+          'Dauphin Island is almost entirely a rental market — beach houses, cottages, and elevated Gulf-front homes are the way to stay here. VRBO has the best selection. Book early for summer, especially the beachfront properties on the east end.',
+        affiliateUrl: 'https://vrbo.tp.st/rB1ITlqz', // ✓ tracked
+        provider: 'vrbo',
+      },
+      {
+        name: 'Dauphin Island Campground',
+        type: 'vacation-rental',
+        description:
+          'One of the most unique stays on the Gulf Coast — 151 beachfront campsites right on the sand, with a bathhouse, playground, boat launches, and a fish-cleaning pavilion. Pet-friendly. Book well in advance for summer weekends.',
+        affiliateUrl: 'https://www.dauphinislandcampground.com/', // TODO: confirm tracking
+        provider: 'generic',
+      },
+      {
+        name: 'Gulf-Front Cottages via Airbnb',
+        type: 'vacation-rental',
+        description:
+          'Airbnb has a solid selection of Dauphin Island cottages, including some of the charming old fishing camp "bird houses" that are an island landmark. A great option for couples or small groups wanting a more personal stay.',
+        affiliateUrl: 'https://www.airbnb.com/rp/bconkle', // ✓ tracked
+        provider: 'generic',
+      },
+    ],
+    whereToEat: [
+      {
+        name: "Islanders Restaurant",
+        cuisine: 'Seafood / American',
+        description:
+          "The most complete restaurant on the island — open for breakfast through late night, with sunset views over the water. Great seafood, dog-friendly, and handicap accessible. The go-to when you want a real sit-down meal.",
+        priceRange: '$$',
+      },
+      {
+        name: "Pirate's Bar and Grill",
+        cuisine: 'Seafood / Bar',
+        description:
+          "Fresh made-to-order seafood, legendary Bushwacker cocktails, signature wings with house-made sauces, and live music on weekends. A true island bar in the best sense — casual, fun, and full of locals.",
+        priceRange: '$',
+      },
+      {
+        name: "Lighthouse Bakery",
+        cuisine: 'Bakery / Breakfast',
+        description:
+          "Operating since 1997 out of one of the oldest buildings on the island. The cinnamon rolls are the stuff of legend. Get there early — they sell out. Also carries local artisan goods if you need a gift.",
+        priceRange: '$',
+      },
+      {
+        name: "Dockside Seafood Restaurant",
+        cuisine: 'Seafood',
+        description:
+          "Casual dockside dining with generous portions and fresh Gulf seafood. Bay views, indoor and outdoor seating, and the kind of no-frills atmosphere that makes a fried shrimp plate taste better.",
+        priceRange: '$',
+      },
+    ],
+    activities: [
+      {
+        name: 'Dauphin Island Sea Lab & Alabama Aquarium',
+        description:
+          'The island\'s premier attraction — 100+ marine species from Mobile Bay and the Gulf, interactive stingray touch pools, and exhibits that actually teach you something. Great for kids and adults. Open daily 9 AM–5 PM.',
+      },
+      {
+        name: 'Audubon Bird Sanctuary',
+        description:
+          '137 acres of diverse coastal habitat along a 3-mile accessible boardwalk. Dauphin Island is one of only four North American spring migration stopover points — over 420 species documented. Peak season is April–May. Even casual birdwatchers will be amazed.',
+      },
+      {
+        name: 'Fort Gaines Historic Site',
+        description:
+          'Civil War-era masonry fort overlooking Mobile Bay and the Gulf of Mexico. Built from 3 million bricks and designated an endangered historic site. Walk the ramparts for sweeping views of the bay entrance. History buffs will love the context here.',
+      },
+      {
+        name: 'Fishing Charter',
+        description:
+          'Dauphin Island has a deep charter fishing tradition. Offshore trips target red snapper, cobia, mahi-mahi, and tuna. Inshore trips focus on speckled trout and redfish in Mobile Bay. The Alabama Deep Sea Fishing Rodeo — the world\'s largest, running since 1929 — is held here every July.',
+        affiliateUrl: 'https://fishingbooker.tp.st/lQGpTKBV', // ✓ tracked
+        provider: 'getyourguide',
+      },
+      {
+        name: 'Kayak & Bike Rentals',
+        description:
+          'Dauphin Island Kayak & Bicycle Rentals offers island-wide delivery, guided kayak tours for all skill levels, and historical bike tours. Open 9 AM–6 PM. A kayak tour through the back marshes at sunrise is one of the best things you can do here.',
+      },
+      {
+        name: 'Indian Shell Mound Park',
+        description:
+          'An 11-acre botanical garden built around ancient shell middens left by Native Americans between 1100–1550 CE. Prime spring and fall birdwatching. Free to visit and rarely crowded — a genuine hidden gem.',
+      },
+    ],
+    gettingThere:
+      "Dauphin Island is about 35 miles south of Mobile via the Dauphin Island Parkway (AL-193). There's no bridge toll. The island can also be reached from Fort Morgan on the eastern shore via the Mobile Bay Ferry — a scenic 35-minute crossing that avoids Mobile entirely. The closest major airport is Mobile Regional (MOB), about 50 minutes north. Pensacola International (PNS) is about 90 minutes east. There's no public transit on the island — a rental car or bike is essential.",
+    localTip:
+      "If you're coming for birding, mid-April is peak migration and the island can be absolutely electric with songbirds that have just crossed the Gulf of Mexico overnight. They land exhausted and hungry, making the sanctuary one of the best birdwatching spots in North America for that brief window. Also: the ferry from Fort Morgan is worth taking even if you don't need the shortcut — the bay crossing gives you a perspective on the Gulf Coast that you simply can't get from the road.",
+  },
 }

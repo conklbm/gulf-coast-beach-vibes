@@ -32,7 +32,7 @@ export const destinations: Destination[] = [
       'Dinosaur Island shelling',
     ],
     order: 1,
-    hasFullContent: false,
+    hasFullContent: true,
   },
   {
     slug: 'gulf-shores',
