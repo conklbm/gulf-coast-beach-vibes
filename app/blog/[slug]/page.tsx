@@ -42,7 +42,7 @@ export default function BlogPostPage({ params }: Props) {
           <div className="text-5xl mb-4">📋</div>
           <h1 className="font-display font-bold text-navy text-3xl mb-3">{post.title}</h1>
           <p className="text-navy/60 mb-6">
-            This article is being written. Subscribe below to get notified when it&apos;s live.
+            This article is being written. Drop your email below and we&apos;ll let you know when it&apos;s live.
           </p>
           <div className="max-w-sm mx-auto">
             <NewsletterBanner variant="compact" />

@@ -1,4 +1,5 @@
 interface AffiliateLinkProps {
+  /** Full URL or a /go/ slug key, e.g. "booking-gulf-shores" */
   href: string
   label: string
   provider?: 'booking' | 'vrbo' | 'getyourguide' | 'amazon' | 'generic'
@@ -21,36 +22,45 @@ const providerLabels: Record<string, string> = {
   generic:      '',
 }
 
+/** Accepts a /go/ slug key ("booking-gulf-shores") or a full URL. */
+function resolveHref(href: string): string {
+  if (href.startsWith('http') || href.startsWith('/')) return href
+  return `/go/${href}`
+}
+
 export default function AffiliateLink({
   href,
   label,
   provider = 'generic',
   variant  = 'button',
 }: AffiliateLinkProps) {
-  const colorClass = providerColors[provider]
+  const colorClass   = providerColors[provider]
   const providerName = providerLabels[provider]
+  const resolvedHref = resolveHref(href)
+  const isExternal   = resolvedHref.startsWith('http')
+
+  const linkProps = {
+    href:   resolvedHref,
+    target: isExternal ? '_blank' : undefined,
+    rel:    isExternal ? 'noopener noreferrer sponsored' : 'sponsored',
+  }
 
   if (variant === 'inline') {
     return (
       <a
-        href={href}
-        target="_blank"
-        rel="noopener noreferrer sponsored"
+        {...linkProps}
         className="text-ocean font-medium underline underline-offset-2 hover:text-ocean-700
                    transition-colors"
       >
         {label}
-        <span className="sr-only"> (affiliate link, opens in new tab)</span>
+        <span className="sr-only"> (affiliate link{isExternal ? ', opens in new tab' : ''})</span>
       </a>
     )
   }
 
   return (
-    // TODO: Replace href with real tracked affiliate URL
     <a
-      href={href}
-      target="_blank"
-      rel="noopener noreferrer sponsored"
+      {...linkProps}
       className={`inline-flex items-center gap-2 px-6 py-3 rounded-full
                   ${colorClass} text-white font-semibold text-sm
                   transition-all duration-200 shadow-md hover:shadow-lg`}

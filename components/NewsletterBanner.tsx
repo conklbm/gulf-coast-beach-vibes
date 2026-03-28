@@ -1,6 +1,7 @@
 'use client'
 
 import { useState } from 'react'
+import { subscribeToNewsletter } from '@/app/actions/subscribe'
 
 interface NewsletterBannerProps {
   variant?: 'hero' | 'compact'
@@ -10,15 +11,19 @@ export default function NewsletterBanner({ variant = 'hero' }: NewsletterBannerP
   const [email,     setEmail]     = useState('')
   const [submitted, setSubmitted] = useState(false)
   const [loading,   setLoading]   = useState(false)
+  const [error,     setError]     = useState('')
 
   async function handleSubmit(e: React.FormEvent) {
     e.preventDefault()
     if (!email) return
     setLoading(true)
-    // TODO: Replace with real ConvertKit form action
-    // Example: POST to https://app.convertkit.com/forms/{formId}/subscriptions
-    await new Promise((r) => setTimeout(r, 800)) // Simulate network request
-    setSubmitted(true)
+    setError('')
+    const result = await subscribeToNewsletter(email)
+    if (result.success) {
+      setSubmitted(true)
+    } else {
+      setError(result.error)
+    }
     setLoading(false)
   }
 
@@ -26,10 +31,10 @@ export default function NewsletterBanner({ variant = 'hero' }: NewsletterBannerP
     return (
       <div className="bg-ocean/10 rounded-2xl p-6 md:p-8">
         <h3 className="font-display font-bold text-navy text-xl mb-2">
-          Get weekly Gulf Coast tips 🌊
+          The Gulf Coast Insider 🌊
         </h3>
         <p className="text-navy/60 text-sm mb-4">
-          Beach conditions, local tips, and hidden gems — straight to your inbox.
+          Local intel on beaches, eats, and hidden spots — from someone who actually lives here.
         </p>
         {submitted ? (
           <p className="text-ocean font-semibold">You&apos;re in! Check your inbox for a welcome email. 🎉</p>
@@ -52,9 +57,10 @@ export default function NewsletterBanner({ variant = 'hero' }: NewsletterBannerP
               disabled={loading}
               className="btn-primary text-base py-3 px-6 disabled:opacity-70"
             >
-              {loading ? 'Subscribing…' : 'Subscribe'}
+              {loading ? 'Joining…' : 'Count Me In'}
             </button>
           </form>
+          {error && <p className="text-red-500 text-sm mt-2">{error}</p>}
         )}
       </div>
     )
@@ -84,11 +90,11 @@ export default function NewsletterBanner({ variant = 'hero' }: NewsletterBannerP
       <div className="relative z-10 max-w-3xl mx-auto px-4 sm:px-6 py-16 md:py-20 text-center">
         <div className="text-4xl mb-4" aria-hidden="true">✉️</div>
         <h2 className="font-display font-bold text-white text-3xl sm:text-4xl mb-4">
-          Get Weekly Gulf Coast Tips in Your Inbox
+          Join the Gulf Coast Insider
         </h2>
         <p className="text-white/70 text-lg mb-8 max-w-lg mx-auto">
-          Beach conditions, local secrets, best new restaurants, and seasonal guides — delivered every week.
-          No spam, ever.
+          Beach intel, local restaurant finds, hidden spots, and travel tips — straight from someone
+          who actually lives on the Gulf Coast. No spam, ever.
         </p>
 
         {submitted ? (
@@ -124,13 +130,14 @@ export default function NewsletterBanner({ variant = 'hero' }: NewsletterBannerP
                          hover:bg-coral-600 disabled:opacity-70
                          transition-colors duration-200 shadow-lg whitespace-nowrap"
             >
-              {loading ? 'Subscribing…' : 'Subscribe Free'}
+              {loading ? 'Joining…' : 'I\'m In!'}
             </button>
           </form>
         )}
 
+        {error && <p className="text-red-300 text-sm mt-3">{error}</p>}
         <p className="text-white/40 text-xs mt-4">
-          Join 2,000+ Gulf Coast lovers. Unsubscribe anytime.
+          Join 2,000+ Gulf Coast insiders. Unsubscribe anytime.
         </p>
       </div>
     </section>

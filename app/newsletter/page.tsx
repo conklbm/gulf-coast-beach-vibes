@@ -2,15 +2,15 @@ import type { Metadata } from 'next'
 import NewsletterBanner from '@/components/NewsletterBanner'
 
 export const metadata: Metadata = {
-  title: 'Gulf Coast Beach Vibes Newsletter — Weekly Gulf Coast Tips',
+  title: 'The Gulf Coast Insider — Local Tips From People Who Live Here',
   description:
-    'Subscribe to the Gulf Coast Beach Vibes newsletter for weekly beach condition reports, local tips, restaurant finds, and Gulf Coast travel guides.',
+    'Join the Gulf Coast Insider for beach intel, local restaurant finds, hidden spots, and travel tips from someone who actually lives on the Gulf Coast.',
 }
 
 const perks = [
   {
     icon: '🌊',
-    title: 'Weekly Beach Conditions',
+    title: 'Beach Conditions & Reports',
     description: 'Water temp, wave height, and jellyfish warnings so you know what to expect before you go.',
   },
   {
@@ -54,13 +54,13 @@ export default function NewsletterPage() {
         <div className="section-container relative z-10 max-w-3xl text-center">
           <div className="text-5xl mb-5" aria-hidden="true">✉️</div>
           <h1 className="font-display font-bold text-white text-4xl sm:text-5xl md:text-6xl mb-4">
-            The Gulf Coast Beach Vibes Newsletter
+            The Gulf Coast Insider
           </h1>
           <p className="text-white/70 text-xl mb-2">
-            Weekly Gulf Coast tips from someone who actually lives here.
+            Gulf Coast tips from someone who actually lives here.
           </p>
           <p className="text-white/40 text-sm mb-8">
-            Join 2,000+ Gulf Coast lovers. No spam, ever. Unsubscribe anytime.
+            Join 2,000+ Gulf Coast insiders. No spam, ever. Unsubscribe anytime.
           </p>
           <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-6 md:p-8 max-w-lg mx-auto">
             <NewsletterBanner variant="compact" />
@@ -79,7 +79,7 @@ export default function NewsletterPage() {
         <div className="section-container">
           <div className="text-center mb-12">
             <h2 className="font-display font-bold text-navy text-3xl sm:text-4xl mb-3">
-              What You&apos;ll Get Every Week
+              What You&apos;ll Get
             </h2>
             <p className="text-navy/60 text-lg">
               Real Gulf Coast content — not just regurgitated tourism board stuff.

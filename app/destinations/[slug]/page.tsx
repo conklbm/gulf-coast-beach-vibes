@@ -285,7 +285,7 @@ function StubContent({ destination }: { destination: ReturnType<typeof getDestin
           </h2>
           <p className="text-navy/60 mb-6">
             We&apos;re working on a complete guide for {destination.name} — covering the best beaches,
-            where to stay, where to eat, and local tips. Subscribe below to get notified when it drops.
+            where to stay, where to eat, and local tips. Drop your email below and be the first to know when it drops.
           </p>
           <div className="mt-4 mx-auto max-w-sm">
             <NewsletterBanner variant="compact" />

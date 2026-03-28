@@ -47,7 +47,7 @@ export default function StaySlugPage({ params }: Props) {
           <div className="text-5xl mb-4">🏨</div>
           <h1 className="font-display font-bold text-navy text-3xl mb-3">Guide Coming Soon</h1>
           <p className="text-navy/60 mb-6">
-            We&apos;re working on this one. Subscribe to our newsletter to be notified when it&apos;s live.
+            We&apos;re working on this one. Drop your email below and we&apos;ll let you know when it&apos;s live.
           </p>
           <NewsletterBanner variant="compact" />
         </div>

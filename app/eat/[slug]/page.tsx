@@ -28,7 +28,7 @@ export default function EatSlugPage({ params }: Props) {
           {eatContent[params.slug]?.title ?? 'Restaurant Guide Coming Soon'}
         </h1>
         <p className="text-navy/60 mb-6">
-          We&apos;re putting together this dining guide. Subscribe to be notified when it&apos;s ready.
+          We&apos;re putting together this dining guide. Drop your email below and we&apos;ll let you know when it&apos;s ready.
         </p>
         <div className="max-w-sm mx-auto">
           <NewsletterBanner variant="compact" />

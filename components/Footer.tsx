@@ -17,7 +17,7 @@ const footerLinks = {
   ],
   Connect: [
     { href: 'https://facebook.com/gulfcoastbeachvibes', label: 'Facebook Page', external: true },
-    { href: '/newsletter', label: 'Newsletter Signup' },
+    { href: '/newsletter', label: 'Get the Insider Tips' },
   ],
 }
 

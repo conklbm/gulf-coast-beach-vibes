@@ -98,7 +98,7 @@ export default function DestinationsPage() {
             Not Sure Where to Start?
           </h2>
           <p className="text-navy/60 text-lg mb-8 max-w-xl mx-auto">
-            Subscribe to our newsletter and get personalized Gulf Coast recommendations straight to your inbox.
+            Get Gulf Coast insider tips, hidden beach spots, and local finds — straight from someone who lives here.
           </p>
           <Link href="/newsletter" className="btn-primary">
             Get Gulf Coast Tips
