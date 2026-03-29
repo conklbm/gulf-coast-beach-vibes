@@ -1,4 +1,5 @@
 import TipCallout from '@/components/TipCallout'
+import AffiliateLink from '@/components/AffiliateLink'
 import Link from 'next/link'
 
 export default function PetFriendlyContent() {
@@ -178,6 +179,21 @@ export default function PetFriendlyContent() {
         beat. It&apos;s one of the least-crowded stretches of Gulf Coast beach, allows dogs year-round
         outside the swim area, and has excellent vacation rental inventory.
       </TipCallout>
+
+      <h2>Find Pet-Friendly Gulf Coast Rentals</h2>
+      <p>
+        VRBO and Airbnb both have strong pet-friendly filters — use them to find condos and houses
+        that welcome your dog. Navarre Beach and Gulf Shores tend to have the best pet-friendly
+        inventory.
+      </p>
+      <div className="not-prose flex flex-col sm:flex-row gap-3 my-6">
+        <AffiliateLink href="vrbo-navarre-beach" label="Pet-Friendly Rentals at Navarre Beach" provider="vrbo" />
+        <AffiliateLink href="vrbo-gulf-shores" label="Pet-Friendly Rentals in Gulf Shores" provider="vrbo" />
+      </div>
+      <div className="not-prose flex flex-col sm:flex-row gap-3 mb-6">
+        <AffiliateLink href="airbnb-referral" label="Browse Pet-Friendly Airbnbs" provider="generic" />
+        <AffiliateLink href="vrbo-pensacola-beach" label="Pet-Friendly Rentals in Pensacola" provider="vrbo" />
+      </div>
     </>
   )
 }

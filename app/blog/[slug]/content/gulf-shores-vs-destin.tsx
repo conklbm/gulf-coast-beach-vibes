@@ -1,4 +1,5 @@
 import TipCallout from '@/components/TipCallout'
+import AffiliateLink from '@/components/AffiliateLink'
 import Link from 'next/link'
 
 export default function GulfShoresVsDestinContent() {
@@ -174,6 +175,15 @@ export default function GulfShoresVsDestinContent() {
         <Link href="/destinations/gulf-shores">Gulf Shores</Link> and{' '}
         <Link href="/destinations/destin">Destin</Link> when you&apos;re ready to go deeper.
       </p>
+
+      <div className="not-prose flex flex-col sm:flex-row gap-3 my-6">
+        <AffiliateLink href="vrbo-gulf-shores" label="Browse Gulf Shores Rentals" provider="vrbo" />
+        <AffiliateLink href="vrbo-destin" label="Browse Destin Rentals" provider="vrbo" />
+      </div>
+      <div className="not-prose flex flex-col sm:flex-row gap-3 mb-6">
+        <AffiliateLink href="booking-gulf-shores" label="Hotels in Gulf Shores" provider="booking" />
+        <AffiliateLink href="booking-destin" label="Hotels in Destin" provider="booking" />
+      </div>
     </>
   )
 }

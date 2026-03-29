@@ -1,4 +1,5 @@
 import TipCallout from '@/components/TipCallout'
+import AffiliateLink from '@/components/AffiliateLink'
 import Link from 'next/link'
 
 export default function GulfCoastFromAtlantaContent() {
@@ -157,6 +158,15 @@ export default function GulfCoastFromAtlantaContent() {
         in America instead of traffic on US-441. If you&apos;ve been sleeping on this trip,
         stop sleeping on it.
       </p>
+
+      <div className="not-prose flex flex-col sm:flex-row gap-3 my-6">
+        <AffiliateLink href="vrbo-gulf-shores" label="Browse Gulf Shores Vacation Rentals" provider="vrbo" />
+        <AffiliateLink href="booking-gulf-shores" label="Find Hotels in Gulf Shores" provider="booking" />
+      </div>
+      <div className="not-prose flex flex-col sm:flex-row gap-3 mb-6">
+        <AffiliateLink href="rentalcars-mobile" label="Rent a Car at Mobile Airport (MOB)" provider="generic" />
+        <AffiliateLink href="rentalcars-pensacola" label="Rent a Car at Pensacola Airport (PNS)" provider="generic" />
+      </div>
     </>
   )
 }

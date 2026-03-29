@@ -1,4 +1,5 @@
 import TipCallout from '@/components/TipCallout'
+import AffiliateLink from '@/components/AffiliateLink'
 
 export default function BestTimeGulfShoresContent() {
   return (
@@ -205,6 +206,20 @@ export default function BestTimeGulfShoresContent() {
           early June — everything open, good weather, before peak crowds hit
         </li>
       </ul>
+
+      <h2>Ready to Book?</h2>
+      <p>
+        Browse vacation rentals and hotels in Gulf Shores across the full calendar — rates change
+        significantly by season, so it&apos;s worth checking a few dates.
+      </p>
+      <div className="not-prose flex flex-col sm:flex-row gap-3 my-6">
+        <AffiliateLink href="vrbo-gulf-shores" label="Browse Gulf Shores Vacation Rentals" provider="vrbo" />
+        <AffiliateLink href="booking-gulf-shores" label="Find Hotels in Gulf Shores" provider="booking" />
+      </div>
+      <div className="not-prose flex flex-col sm:flex-row gap-3 mb-6">
+        <AffiliateLink href="tripshock-gulf-shores-all" label="Book Activities in Gulf Shores" provider="generic" />
+        <AffiliateLink href="fishingbooker-gulf-coast" label="Book a Fishing Charter" provider="generic" />
+      </div>
     </>
   )
 }

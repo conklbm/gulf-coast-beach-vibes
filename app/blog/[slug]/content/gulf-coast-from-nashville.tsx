@@ -1,4 +1,5 @@
 import TipCallout from '@/components/TipCallout'
+import AffiliateLink from '@/components/AffiliateLink'
 import Link from 'next/link'
 
 export default function GulfCoastFromNashvilleContent() {
@@ -180,6 +181,14 @@ export default function GulfCoastFromNashvilleContent() {
         <Link href="/destinations/gulf-shores">Gulf Shores</Link> or browse all{' '}
         <Link href="/destinations">Gulf Coast destinations</Link>.
       </p>
+      <div className="not-prose flex flex-col sm:flex-row gap-3 my-6">
+        <AffiliateLink href="vrbo-gulf-shores" label="Browse Gulf Shores Vacation Rentals" provider="vrbo" />
+        <AffiliateLink href="booking-gulf-shores" label="Find Hotels in Gulf Shores" provider="booking" />
+      </div>
+      <div className="not-prose flex flex-col sm:flex-row gap-3 mb-6">
+        <AffiliateLink href="tripshock-gulf-shores-all" label="Book Activities in Gulf Shores" provider="generic" />
+        <AffiliateLink href="fishingbooker-gulf-coast" label="Book a Fishing Charter" provider="generic" />
+      </div>
     </>
   )
 }

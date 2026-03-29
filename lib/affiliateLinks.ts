@@ -18,35 +18,56 @@
 
 const affiliateLinks: Record<string, string> = {
   // ── Booking.com ─────────────────────────────────────────────────────────
-  'booking-gulf-shores':        'https://www.booking.com/searchresults/us/gulf-shores.html',       // TODO: add affiliate tag
-  'booking-destin':             'https://www.booking.com/searchresults/us/destin.html',             // TODO: add affiliate tag
-  'booking-pensacola-beach':    'https://www.booking.com/searchresults/us/pensacola-beach.html',    // TODO: add affiliate tag
-  'booking-orange-beach':       'https://www.booking.com/searchresults/us/orange-beach.html',       // TODO: add affiliate tag
-  'booking-panama-city-beach':  'https://www.booking.com/searchresults/us/panama-city-beach.html',  // TODO: add affiliate tag
-  'booking-lodge-gulf-state-park': 'https://www.booking.com/hotel/us/the-lodge-at-gulf-state-park.html',
-  'booking-henderson-park-inn': 'https://www.booking.com/hotel/us/henderson-park-inn.html',
-  'booking-hilton-pensacola':   'https://www.booking.com/hotel/us/hilton-pensacola-beach.html',
-  'booking-emerald-grande':     'https://www.booking.com/hotel/us/emerald-grande-at-harborwalk-village.html',
-  'booking-margaritaville-pcb': 'https://www.booking.com/hotel/us/margaritaville-pensacola-beach.html',
+  // TODO: Replace each with a tp.st deep link from your TravelPayouts dashboard.
+  // Instructions: TP Dashboard → Tools → Links → paste the booking.com URL → Generate.
+  // Until then these all route through the tracked general link so no revenue is lost.
+  'booking-gulf-shores':        'https://tp.media/click?shmarker=293410&promo_id=2962&source_type=link&type=click&campaign_id=84&trs=177474', // fallback tracked — swap for tp.st deep link
+  'booking-destin':             'https://tp.media/click?shmarker=293410&promo_id=2962&source_type=link&type=click&campaign_id=84&trs=177474', // fallback tracked — swap for tp.st deep link
+  'booking-pensacola-beach':    'https://tp.media/click?shmarker=293410&promo_id=2962&source_type=link&type=click&campaign_id=84&trs=177474', // fallback tracked — swap for tp.st deep link
+  'booking-orange-beach':       'https://tp.media/click?shmarker=293410&promo_id=2962&source_type=link&type=click&campaign_id=84&trs=177474', // fallback tracked — swap for tp.st deep link
+  'booking-panama-city-beach':  'https://tp.media/click?shmarker=293410&promo_id=2962&source_type=link&type=click&campaign_id=84&trs=177474', // fallback tracked — swap for tp.st deep link
+  'booking-fort-walton-beach':  'https://tp.media/click?shmarker=293410&promo_id=2962&source_type=link&type=click&campaign_id=84&trs=177474', // fallback tracked — swap for tp.st deep link
+  'booking-navarre-beach':      'https://tp.media/click?shmarker=293410&promo_id=2962&source_type=link&type=click&campaign_id=84&trs=177474', // fallback tracked — swap for tp.st deep link
+  'booking-gulf-breeze':        'https://tp.media/click?shmarker=293410&promo_id=2962&source_type=link&type=click&campaign_id=84&trs=177474', // fallback tracked — swap for tp.st deep link
+  'booking-miramar-beach':      'https://tp.media/click?shmarker=293410&promo_id=2962&source_type=link&type=click&campaign_id=84&trs=177474', // fallback tracked — swap for tp.st deep link
+  'booking-seaside-30a':        'https://tp.media/click?shmarker=293410&promo_id=2962&source_type=link&type=click&campaign_id=84&trs=177474', // fallback tracked — swap for tp.st deep link
+  'booking-dauphin-island':     'https://tp.media/click?shmarker=293410&promo_id=2962&source_type=link&type=click&campaign_id=84&trs=177474', // fallback tracked — swap for tp.st deep link
+  // Specific property deep links — replace with tp.st versions from your TP dashboard
+  'booking-lodge-gulf-state-park': 'https://tp.media/click?shmarker=293410&promo_id=2962&source_type=link&type=click&campaign_id=84&trs=177474', // TODO: deep link to Lodge at Gulf State Park
+  'booking-henderson-park-inn': 'https://tp.media/click?shmarker=293410&promo_id=2962&source_type=link&type=click&campaign_id=84&trs=177474',    // TODO: deep link to Henderson Park Inn
+  'booking-hilton-pensacola':   'https://tp.media/click?shmarker=293410&promo_id=2962&source_type=link&type=click&campaign_id=84&trs=177474',    // TODO: deep link to Hilton Pensacola Beach
+  'booking-emerald-grande':     'https://tp.media/click?shmarker=293410&promo_id=2962&source_type=link&type=click&campaign_id=84&trs=177474',    // TODO: deep link to Emerald Grande
+  'booking-margaritaville-pcb': 'https://tp.media/click?shmarker=293410&promo_id=2962&source_type=link&type=click&campaign_id=84&trs=177474',    // TODO: deep link to Margaritaville PCB
+  'booking-sandestin':          'https://tp.media/click?shmarker=293410&promo_id=2962&source_type=link&type=click&campaign_id=84&trs=177474',    // TODO: deep link to Sandestin
 
   // ── VRBO ────────────────────────────────────────────────────────────────
-  'vrbo-gulf-shores':           'https://www.vrbo.com/vacation-rentals/usa/alabama/gulf-shores',    // TODO: add affiliate tag
-  'vrbo-orange-beach':          'https://www.vrbo.com/vacation-rentals/usa/alabama/orange-beach',   // TODO: add affiliate tag
-  'vrbo-destin':                'https://www.vrbo.com/vacation-rentals/usa/florida/destin',         // TODO: add affiliate tag
-  'vrbo-pensacola-beach':       'https://www.vrbo.com/vacation-rentals/usa/florida/pensacola-beach', // TODO: add affiliate tag
-  'vrbo-30a':                   'https://www.vrbo.com/vacation-rentals/usa/florida/santa-rosa-beach', // TODO: add affiliate tag
-  'vrbo-panama-city-beach':     'https://www.vrbo.com/vacation-rentals/usa/florida/panama-city-beach', // TODO: add affiliate tag
+  // TODO: Replace each with a tp.st deep link from your TravelPayouts dashboard.
+  // Instructions: TP Dashboard → Tools → Links → paste the vrbo.com URL → Generate.
+  // Until then these all route through the tracked general link.
+  'vrbo-gulf-shores':           'https://vrbo.tp.st/rB1ITlqz',  // fallback tracked — swap for destination deep link
+  'vrbo-orange-beach':          'https://vrbo.tp.st/rB1ITlqz',  // fallback tracked — swap for destination deep link
+  'vrbo-destin':                'https://vrbo.tp.st/rB1ITlqz',  // fallback tracked — swap for destination deep link
+  'vrbo-pensacola-beach':       'https://vrbo.tp.st/rB1ITlqz',  // fallback tracked — swap for destination deep link
+  'vrbo-30a':                   'https://vrbo.tp.st/rB1ITlqz',  // fallback tracked — swap for destination deep link
+  'vrbo-panama-city-beach':     'https://vrbo.tp.st/rB1ITlqz',  // fallback tracked — swap for destination deep link
+  'vrbo-fort-walton-beach':     'https://vrbo.tp.st/rB1ITlqz',  // fallback tracked — swap for destination deep link
+  'vrbo-navarre-beach':         'https://vrbo.tp.st/rB1ITlqz',  // fallback tracked — swap for destination deep link
+  'vrbo-gulf-breeze':           'https://vrbo.tp.st/rB1ITlqz',  // fallback tracked — swap for destination deep link
+  'vrbo-miramar-beach':         'https://vrbo.tp.st/rB1ITlqz',  // fallback tracked — swap for destination deep link
+  'vrbo-seaside-30a':           'https://vrbo.tp.st/rB1ITlqz',  // fallback tracked — swap for destination deep link
+  'vrbo-dauphin-island':        'https://vrbo.tp.st/rB1ITlqz',  // fallback tracked — swap for destination deep link
 
   // ── GetYourGuide ─────────────────────────────────────────────────────────
-  'gyg-gulf-shores':            'https://www.getyourguide.com/gulf-shores-l100568/',                // TODO: add affiliate tag
-  'gyg-gulf-shores-fishing':    'https://www.getyourguide.com/gulf-shores-l100568/fishing/',
-  'gyg-gulf-shores-dolphin':    'https://www.getyourguide.com/gulf-shores-l100568/dolphin-tour/',
-  'gyg-destin':                 'https://www.getyourguide.com/destin-l2038/',
-  'gyg-destin-fishing':         'https://www.getyourguide.com/destin-l2038/fishing/',
-  'gyg-destin-pontoon':         'https://www.getyourguide.com/destin-l2038/boat-rental/',
-  'gyg-pensacola-beach':        'https://www.getyourguide.com/pensacola-beach-l3093/',
-  'gyg-pensacola-parasailing':  'https://www.getyourguide.com/pensacola-beach-l3093/parasailing/',
-  'gyg-pensacola-kayak':        'https://www.getyourguide.com/pensacola-beach-l3093/kayaking/',
+  // TODO: Replace untracked GYG links with tp.st deep links from TravelPayouts dashboard.
+  'gyg-gulf-shores':            'https://viator.tp.st/dDeat4RV',  // fallback to Viator tracked — swap for GYG tp.st when available
+  'gyg-gulf-shores-fishing':    'https://www.getyourguide.com/gulf-shores-l100568/fishing/',     // TODO: add tp.st tracking
+  'gyg-gulf-shores-dolphin':    'https://www.getyourguide.com/gulf-shores-l100568/dolphin-tour/', // TODO: add tp.st tracking
+  'gyg-destin':                 'https://www.getyourguide.com/destin-l2038/',                     // TODO: add tp.st tracking
+  'gyg-destin-fishing':         'https://www.getyourguide.com/destin-l2038/fishing/',             // TODO: add tp.st tracking
+  'gyg-destin-pontoon':         'https://www.getyourguide.com/destin-l2038/boat-rental/',         // TODO: add tp.st tracking
+  'gyg-pensacola-beach':        'https://www.getyourguide.com/pensacola-beach-l3093/',            // TODO: add tp.st tracking
+  'gyg-pensacola-parasailing':  'https://www.getyourguide.com/pensacola-beach-l3093/parasailing/', // TODO: add tp.st tracking
+  'gyg-pensacola-kayak':        'https://www.getyourguide.com/pensacola-beach-l3093/kayaking/',   // TODO: add tp.st tracking
 
   // ── Amazon ───────────────────────────────────────────────────────────────
   'amazon-beach-umbrella':      'https://www.amazon.com/s?k=beach+umbrella+sand+anchor',           // TODO: add affiliate tag
@@ -77,7 +98,17 @@ const affiliateLinks: Record<string, string> = {
   'viator-fairhope-food-tour':       'https://viator.tp.st/otC4wktI',   // ✓ tracked — Taste of Fairhope food tour
 
   // ── FishingBooker ─────────────────────────────────────────────────────────
-  'fishingbooker-gulf-coast':        'https://fishingbooker.com/#65205c1e15efd',  // TODO: confirm tracking
+  // TODO: Replace with tp.st link from TravelPayouts. FishingBooker pays 20% commission.
+  // In TP: Tools → Links → paste https://fishingbooker.com/ → Generate
+  'fishingbooker-gulf-coast':        'https://fishingbooker.tp.st/lQGpTKBV',  // ✓ tracked (same as used in destination content)
+
+  // ── Rentalcars.com / TravelPayouts ────────────────────────────────────────
+  // For fly-in visitors and road trip posts. Available in TravelPayouts — join program first.
+  // TODO: Generate tp.st link from TP dashboard after joining Rentalcars program.
+  'rentalcars-pensacola':            'https://www.rentalcars.com/Airport/US/PNS/',  // TODO: add tp.st tracking — PNS airport
+  'rentalcars-destin':               'https://www.rentalcars.com/Airport/US/VPS/',  // TODO: add tp.st tracking — VPS airport
+  'rentalcars-panama-city-beach':    'https://www.rentalcars.com/Airport/US/ECP/',  // TODO: add tp.st tracking — ECP airport
+  'rentalcars-mobile':               'https://www.rentalcars.com/Airport/US/MOB/',  // TODO: add tp.st tracking — MOB airport
 
   // ── TripAdvisor / Travel Payouts ──────────────────────────────────────────
   'tripadvisor-gulf-coast':          'https://tripadvisor.tp.st/IBfrRntP',  // ✓ tracked

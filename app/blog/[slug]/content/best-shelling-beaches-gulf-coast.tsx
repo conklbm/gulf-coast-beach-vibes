@@ -1,4 +1,5 @@
 import TipCallout from '@/components/TipCallout'
+import AffiliateLink from '@/components/AffiliateLink'
 import Link from 'next/link'
 
 export default function BestShellingContent() {
@@ -166,6 +167,20 @@ export default function BestShellingContent() {
           haven&apos;t fully washed ashore yet. Water shoes and willingness to wade pay off.
         </li>
       </ul>
+
+      <h2>Planning a Gulf Coast Shell-Hunting Trip?</h2>
+      <p>
+        Dauphin Island, Shell Island (Panama City Beach), and Navarre Beach are the top picks.
+        Browse rentals near each one — fall and winter are the best shelling seasons.
+      </p>
+      <div className="not-prose flex flex-col sm:flex-row gap-3 my-6">
+        <AffiliateLink href="vrbo-dauphin-island" label="Rentals on Dauphin Island" provider="vrbo" />
+        <AffiliateLink href="vrbo-panama-city-beach" label="Rentals Near Shell Island (PCB)" provider="vrbo" />
+      </div>
+      <div className="not-prose flex flex-col sm:flex-row gap-3 mb-6">
+        <AffiliateLink href="vrbo-navarre-beach" label="Rentals at Navarre Beach" provider="vrbo" />
+        <AffiliateLink href="tripshock-gulf-shores-all" label="Book Gulf Shore Activities" provider="generic" />
+      </div>
     </>
   )
 }

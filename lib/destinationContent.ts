@@ -64,7 +64,7 @@ export const destinationContent: Record<string, DestinationContent> = {
         type: 'resort',
         description:
           "The showstopper of Gulf Shores accommodations. A full-service Hilton resort built into Gulf State Park with direct beach access, multiple pools, a spa, and miles of walking trails out your back door. It's expensive, but it's worth it for a special trip.",
-        affiliateUrl: 'https://www.booking.com/hotel/us/the-lodge-at-gulf-state-park.html', // TODO: Replace with tracked affiliate link
+        affiliateUrl: 'booking-lodge-gulf-state-park', // ✓ tracked via TP fallback — swap for deep link when available
         provider: 'booking',
       },
       {
@@ -72,7 +72,7 @@ export const destinationContent: Record<string, DestinationContent> = {
         type: 'vacation-rental',
         description:
           'Gulf Shores has an enormous selection of condos and houses right on the beach. VRBO is the best way to find them. For families or groups, a condo beats a hotel every time — you get a full kitchen, a balcony, and more space for less per person.',
-        affiliateUrl: 'https://www.vrbo.com/vacation-rentals/usa/alabama/gulf-shores', // TODO: Replace with tracked affiliate link
+        affiliateUrl: 'vrbo-gulf-shores', // ✓ tracked via vrbo.tp.st
         provider: 'vrbo',
       },
       {
@@ -80,7 +80,7 @@ export const destinationContent: Record<string, DestinationContent> = {
         type: 'hotel',
         description:
           'A more budget-friendly option right in town with comfortable rooms and easy beach access. Good location for exploring restaurants on foot. Check current availability.',
-        affiliateUrl: 'https://www.booking.com/searchresults/us/gulf-shores.html', // TODO: Replace with tracked affiliate link
+        affiliateUrl: 'booking-gulf-shores', // ✓ tracked via TP fallback
         provider: 'booking',
       },
     ],
@@ -121,11 +121,18 @@ export const destinationContent: Record<string, DestinationContent> = {
           'Over 28 miles of trails through coastal pine forest, dunes, and lakeside paths. Rent a bike at the park and spend a morning exploring. The Nature Center has great info on local wildlife.',
       },
       {
-        name: 'Deep-Sea Fishing Charter',
+        name: 'Deep-Sea Fishing Charters',
         description:
           'Gulf Shores has dozens of fishing charters operating out of the local marinas. Red snapper, amberjack, and grouper are the big targets. Half-day and full-day trips available.',
-        affiliateUrl: 'https://www.getyourguide.com/gulf-shores-l100568/', // TODO: Replace with tracked affiliate link
-        provider: 'getyourguide',
+        affiliateUrl: 'fishingbooker-gulf-coast', // ✓ tracked via fishingbooker.tp.st
+        provider: 'generic',
+      },
+      {
+        name: 'Dolphin Tours & Waverunner Rentals',
+        description:
+          'Book dolphin-watching cruises and waverunner tours directly out of Orange Beach and Gulf Shores marinas. Bottlenose dolphin sightings are near-guaranteed on most tours. A highlight of any Gulf Coast trip.',
+        affiliateUrl: 'tripshock-dolphin-waverunner', // ✓ tracked via TripShock
+        provider: 'generic',
       },
       {
         name: 'Waterville USA',
@@ -599,6 +606,20 @@ export const destinationContent: Record<string, DestinationContent> = {
         provider: 'getyourguide',
       },
       {
+        name: 'Parasailing & Jet Ski Rentals',
+        description:
+          "Parasailing over Orange Beach's emerald water is one of the best ways to take in the coast from above. Jet ski rentals and waverunner tours are also widely available out of Perdido Pass Marina and The Wharf area.",
+        affiliateUrl: 'tripshock-parasailing-oba', // ✓ tracked via TripShock
+        provider: 'generic',
+      },
+      {
+        name: 'Boat Rentals',
+        description:
+          "Rent a pontoon or deck boat by the hour and explore the backwaters, bays, and sandbars around Orange Beach. The shallow-water sandbars just inside Perdido Pass are a local favorite for afternoon anchoring.",
+        affiliateUrl: 'tripshock-boat-rentals-oba', // ✓ tracked via TripShock
+        provider: 'generic',
+      },
+      {
         name: 'Flora-Bama',
         description:
           "The legendary roadhouse bar sitting right on the Alabama-Florida state line. Live music on five stages, a raw oyster bar, the famous Mullet Toss competition every April, and decades of Gulf Coast history soaked into the walls. An institution.",
@@ -634,7 +655,7 @@ export const destinationContent: Record<string, DestinationContent> = {
         type: 'vacation-rental',
         description:
           'VRBO has a solid selection of Gulf Breeze homes — mostly 2–4 bedroom houses with bay views or water access. Rates run significantly lower than comparable Pensacola Beach condos while putting you 5 minutes from the Gulf. Great for families who want space.',
-        affiliateUrl: 'https://vrbo.tp.st/gulfbreeze',
+        affiliateUrl: 'https://vrbo.tp.st/rB1ITlqz',
         provider: 'vrbo',
       },
       {
@@ -642,7 +663,7 @@ export const destinationContent: Record<string, DestinationContent> = {
         type: 'hotel',
         description:
           'A reliable mid-range hotel option for Gulf Breeze with easy bridge access to Pensacola Beach. Clean, consistent, and significantly more affordable than beachfront properties across the bridge.',
-        affiliateUrl: 'https://booking.tp.st/gulfbreeze',
+        affiliateUrl: 'https://tp.media/click?shmarker=293410&promo_id=2962&source_type=link&type=click&campaign_id=84&trs=177474',
         provider: 'booking',
       },
     ],
@@ -686,7 +707,7 @@ export const destinationContent: Record<string, DestinationContent> = {
         name: 'Kayaking & Paddleboarding on the Sound',
         description:
           'The calm, shallow Santa Rosa Sound is ideal for paddling. Multiple rental outfitters in the area offer kayaks, SUPs, and guided tours through the sea grass beds where you can spot rays, sea turtles, and dolphins in the shallows.',
-        affiliateUrl: 'https://viator.tp.st/gulfbreeze',
+        affiliateUrl: 'https://viator.tp.st/dDeat4RV',
         provider: 'getyourguide',
       },
       {
@@ -730,7 +751,7 @@ export const destinationContent: Record<string, DestinationContent> = {
         type: 'vacation-rental',
         description:
           'VRBO and Airbnb have excellent Gulf-front and second-row vacation homes and condos in Navarre Beach. Because this area is less marketed than Destin or PCB, you can often find beachfront properties at significantly lower rates. Most rentals are 2–5 bedrooms.',
-        affiliateUrl: 'https://vrbo.tp.st/navarrebeach',
+        affiliateUrl: 'https://vrbo.tp.st/rB1ITlqz',
         provider: 'vrbo',
       },
       {
@@ -738,7 +759,7 @@ export const destinationContent: Record<string, DestinationContent> = {
         type: 'vacation-rental',
         description:
           'For campers and RV travelers, Navarre Beach Camping Resort offers sites just steps from the Gulf. Wake up to the sound of waves for a fraction of the cost of a vacation rental. Full hookups available.',
-        affiliateUrl: 'https://booking.tp.st/navarrebeach',
+        affiliateUrl: 'https://tp.media/click?shmarker=293410&promo_id=2962&source_type=link&type=click&campaign_id=84&trs=177474',
         provider: 'booking',
       },
     ],
@@ -775,7 +796,7 @@ export const destinationContent: Record<string, DestinationContent> = {
         name: 'Snorkeling the Marine Sanctuary',
         description:
           "Navarre Beach sits above the nation's only beach-based marine sanctuary — an artificial reef teeming with marine life in shallow, clear water. Even novice snorkelers can see tropical fish, sea fans, and rays. Gear rentals available at the pier.",
-        affiliateUrl: 'https://viator.tp.st/navarrebeach',
+        affiliateUrl: 'https://viator.tp.st/dDeat4RV',
         provider: 'getyourguide',
       },
       {
@@ -819,7 +840,7 @@ export const destinationContent: Record<string, DestinationContent> = {
         type: 'hotel',
         description:
           "Fort Walton Beach has a range of beachfront hotels and condo rentals at prices noticeably lower than Destin. Booking.com shows strong availability at properties along Miracle Strip Parkway and Okaloosa Island. A practical base camp for exploring the entire Emerald Coast.",
-        affiliateUrl: 'https://booking.tp.st/fortwaltonsbeach',
+        affiliateUrl: 'https://tp.media/click?shmarker=293410&promo_id=2962&source_type=link&type=click&campaign_id=84&trs=177474',
         provider: 'booking',
       },
       {
@@ -827,7 +848,7 @@ export const destinationContent: Record<string, DestinationContent> = {
         type: 'vacation-rental',
         description:
           'VRBO has a solid selection of vacation homes and condos in Fort Walton Beach — many Gulf-front or with easy beach access. Larger groups save significantly compared to equivalent Destin properties.',
-        affiliateUrl: 'https://vrbo.tp.st/fortwaltonbeach',
+        affiliateUrl: 'https://vrbo.tp.st/rB1ITlqz',
         provider: 'vrbo',
       },
     ],
@@ -871,7 +892,7 @@ export const destinationContent: Record<string, DestinationContent> = {
         name: 'Water Sports on Okaloosa Island',
         description:
           "Jet ski rentals, parasailing, paddleboard rentals, banana boat rides — all the Emerald Coast water sports available right on Okaloosa Island. Multiple vendors operate along the beach strip and prices here are noticeably lower than Destin.",
-        affiliateUrl: 'https://viator.tp.st/fortwaltonbeach',
+        affiliateUrl: 'https://viator.tp.st/dDeat4RV',
         provider: 'getyourguide',
       },
       {
@@ -915,7 +936,7 @@ export const destinationContent: Record<string, DestinationContent> = {
         type: 'resort',
         description:
           "The centerpiece of Miramar Beach — a massive self-contained resort with condos, villas, hotel towers, golf courses, a marina, and the Village of Baytowne Wharf retail/dining complex. Booking through Booking.com often surfaces the best available rates across the various property types.",
-        affiliateUrl: 'https://booking.tp.st/sandestin',
+        affiliateUrl: 'https://tp.media/click?shmarker=293410&promo_id=2962&source_type=link&type=click&campaign_id=84&trs=177474',
         provider: 'booking',
       },
       {
@@ -923,7 +944,7 @@ export const destinationContent: Record<string, DestinationContent> = {
         type: 'vacation-rental',
         description:
           "VRBO has an excellent selection of Gulf-front and Gulf-view condos and homes throughout Miramar Beach. The residential character of the community means you'll find genuinely nice properties in quiet neighborhoods — a very different feel from resort condo towers.",
-        affiliateUrl: 'https://vrbo.tp.st/miramarfl',
+        affiliateUrl: 'https://vrbo.tp.st/rB1ITlqz',
         provider: 'vrbo',
       },
     ],
@@ -962,7 +983,7 @@ export const destinationContent: Record<string, DestinationContent> = {
         name: 'Sandestin Golf Courses',
         description:
           "Sandestin Resort has four championship golf courses — Burnt Pine, The Links, Baytowne, and The Raven — ranging from beginner-friendly to PGA Tour-quality. The Links course plays along the Gulf and is consistently rated among the best in Florida.",
-        affiliateUrl: 'https://viator.tp.st/sandestin',
+        affiliateUrl: 'https://viator.tp.st/dDeat4RV',
         provider: 'getyourguide',
       },
       {
@@ -1011,7 +1032,7 @@ export const destinationContent: Record<string, DestinationContent> = {
         type: 'vacation-rental',
         description:
           "The original Seaside cottages are available for rent directly through the Seaside community rental program and via VRBO. These pastel architectural gems — the ones featured in The Truman Show — book up months in advance for summer. Reserve early. Prices reflect the demand.",
-        affiliateUrl: 'https://vrbo.tp.st/seaside30a',
+        affiliateUrl: 'https://vrbo.tp.st/rB1ITlqz',
         provider: 'vrbo',
       },
       {
@@ -1019,7 +1040,7 @@ export const destinationContent: Record<string, DestinationContent> = {
         type: 'resort',
         description:
           "The boutique resort adjacent to Seaside offers luxury accommodations with beach club access and a gorgeous pool. A more traditional resort experience than Seaside's cottage rentals, with the same access to the 30A corridor.",
-        affiliateUrl: 'https://booking.tp.st/watercolor30a',
+        affiliateUrl: 'https://tp.media/click?shmarker=293410&promo_id=2962&source_type=link&type=click&campaign_id=84&trs=177474',
         provider: 'booking',
       },
     ],
@@ -1058,7 +1079,7 @@ export const destinationContent: Record<string, DestinationContent> = {
         name: 'Cycling the 30A Corridor',
         description:
           "County Road 30A runs 28 miles through 16 distinct beach communities — one of the great cycling routes in the American South. Bike rentals are readily available in Seaside. The full out-and-back to Rosemary Beach is a beautiful 30-mile ride; even a 5-mile spin through WaterColor and Watergrass is spectacular.",
-        affiliateUrl: 'https://viator.tp.st/seaside30a',
+        affiliateUrl: 'https://viator.tp.st/dDeat4RV',
         provider: 'getyourguide',
       },
       {
@@ -1107,7 +1128,7 @@ export const destinationContent: Record<string, DestinationContent> = {
         type: 'hotel',
         description:
           "Panama City Beach has the widest range of Gulf-front accommodations on the Panhandle — from budget motels to full-service condo towers. Booking.com covers the full spectrum. The stretch of Front Beach Road between Pier Park and St. Andrews State Park offers the best balance of access and value.",
-        affiliateUrl: 'https://booking.tp.st/panamacitybeach',
+        affiliateUrl: 'https://tp.media/click?shmarker=293410&promo_id=2962&source_type=link&type=click&campaign_id=84&trs=177474',
         provider: 'booking',
       },
       {
@@ -1115,7 +1136,7 @@ export const destinationContent: Record<string, DestinationContent> = {
         type: 'vacation-rental',
         description:
           "PCB has one of the largest vacation rental inventories on the Gulf Coast — thousands of condos, townhouses, and single-family homes. VRBO is the best place to search. Large groups get exceptional value in the 4–6 bedroom Gulf-front condos here.",
-        affiliateUrl: 'https://vrbo.tp.st/panamacitybeach',
+        affiliateUrl: 'https://vrbo.tp.st/rB1ITlqz',
         provider: 'vrbo',
       },
     ],
@@ -1154,7 +1175,7 @@ export const destinationContent: Record<string, DestinationContent> = {
         name: 'Shell Island Water Taxi',
         description:
           "The quintessential PCB experience. Take the water taxi from St. Andrews State Park to Shell Island — a completely undeveloped barrier island with wild beaches, crystal-clear snorkeling near the jetties, and dolphins that routinely swim alongside the boat. Pack a lunch and spend the day.",
-        affiliateUrl: 'https://viator.tp.st/panamacitybeach',
+        affiliateUrl: 'https://viator.tp.st/dDeat4RV',
         provider: 'getyourguide',
       },
       {

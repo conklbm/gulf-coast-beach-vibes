@@ -1,4 +1,5 @@
 import TipCallout from '@/components/TipCallout'
+import AffiliateLink from '@/components/AffiliateLink'
 import Link from 'next/link'
 
 export default function DestinVsPensacolaContent() {
@@ -191,6 +192,18 @@ export default function DestinVsPensacolaContent() {
         <Link href="/destinations/destin">Destin</Link> and{' '}
         <Link href="/destinations/pensacola-beach">Pensacola Beach</Link> before you book.
       </p>
+      <div className="not-prose flex flex-col sm:flex-row gap-3 my-6">
+        <AffiliateLink href="vrbo-destin" label="Browse Destin Vacation Rentals" provider="vrbo" />
+        <AffiliateLink href="vrbo-pensacola-beach" label="Browse Pensacola Beach Rentals" provider="vrbo" />
+      </div>
+      <div className="not-prose flex flex-col sm:flex-row gap-3 mb-6">
+        <AffiliateLink href="booking-destin" label="Find Hotels in Destin" provider="booking" />
+        <AffiliateLink href="booking-pensacola-beach" label="Find Hotels in Pensacola Beach" provider="booking" />
+      </div>
+      <div className="not-prose flex flex-col sm:flex-row gap-3 mb-6">
+        <AffiliateLink href="fishingbooker-gulf-coast" label="Book a Destin Fishing Charter" provider="generic" />
+        <AffiliateLink href="tripshock-pensacola-navarre" label="Book Activities in Pensacola" provider="generic" />
+      </div>
     </>
   )
 }

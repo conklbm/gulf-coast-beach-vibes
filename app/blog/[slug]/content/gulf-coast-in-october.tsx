@@ -1,4 +1,5 @@
 import TipCallout from '@/components/TipCallout'
+import AffiliateLink from '@/components/AffiliateLink'
 import Link from 'next/link'
 
 export default function GulfCoastOctoberContent() {
@@ -162,6 +163,20 @@ export default function GulfCoastOctoberContent() {
         a secret that locals keep — it&apos;s just a well-kept secret from the rest of the country.
         Now you know.
       </p>
+
+      <h2>Ready to Book Your October Trip?</h2>
+      <p>
+        Fall rates drop 25–40% from summer peak — browse what&apos;s available. Availability is
+        much better than summer too, so you won&apos;t need to book 6 months out.
+      </p>
+      <div className="not-prose flex flex-col sm:flex-row gap-3 my-6">
+        <AffiliateLink href="vrbo-destin" label="Browse Destin Vacation Rentals" provider="vrbo" />
+        <AffiliateLink href="vrbo-gulf-shores" label="Browse Gulf Shores Rentals" provider="vrbo" />
+      </div>
+      <div className="not-prose flex flex-col sm:flex-row gap-3 mb-6">
+        <AffiliateLink href="fishingbooker-gulf-coast" label="Book a Fall Fishing Charter" provider="generic" />
+        <AffiliateLink href="tripshock-gulf-shores-all" label="Book Activities in Gulf Shores" provider="generic" />
+      </div>
     </>
   )
 }
