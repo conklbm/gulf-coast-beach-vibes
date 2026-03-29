@@ -57,7 +57,7 @@ const categories = [
     href:        '/blog',
     label:       'Travel Tips',
     icon:        '📋',
-    imageSrc:    'https://images.unsplash.com/photo-1505228058230-1d7cce43cd57?auto=format&fit=crop&w=800&q=80',
+    imageSrc:    '/images/travel-tips-beach-luggage.jpg',
     imageAlt:    'Beach travel planning',
     description: 'Guides, packing lists & more',
   },

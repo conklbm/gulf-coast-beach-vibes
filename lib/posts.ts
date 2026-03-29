@@ -81,8 +81,7 @@ export const posts: Post[] = [
     excerpt:
       "Two of the best beaches on the planet, 50 miles apart. Same white quartz sand, same emerald Gulf water — but very different vibes, prices, and experiences. Here's how to choose.",
     category: 'Destination Guides',
-    heroImage:
-      'https://images.unsplash.com/photo-1544551763-46a013bb70d5?auto=format&fit=crop&w=800&q=80',
+    heroImage: '/images/destin-vs-pensacola-beach.jpg',
     publishedAt: '2025-02-15',
     readTime: '8 min read',
   },
