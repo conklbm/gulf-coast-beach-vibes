@@ -48,8 +48,7 @@ export const posts: Post[] = [
     excerpt:
       "It's the most common question Gulf Coast travelers ask. Both have stunning white sand and warm Gulf water — but they're very different trips. Here's the honest breakdown.",
     category: 'Destination Guides',
-    heroImage:
-      'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80',
+    heroImage: '/images/gulf-shores-beach-alabama.jpg',
     publishedAt: '2025-01-10',
     readTime: '9 min read',
   },
