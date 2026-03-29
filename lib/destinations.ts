@@ -112,7 +112,7 @@ export const destinations: Destination[] = [
       'Quick access to Pensacola Beach',
     ],
     order: 5,
-    hasFullContent: false,
+    hasFullContent: true,
   },
   {
     slug: 'navarre-beach',
@@ -132,7 +132,7 @@ export const destinations: Destination[] = [
       'Nesting sea turtles in summer',
     ],
     order: 6,
-    hasFullContent: false,
+    hasFullContent: true,
   },
   {
     slug: 'fort-walton-beach',
@@ -152,7 +152,7 @@ export const destinations: Destination[] = [
       'More affordable than Destin',
     ],
     order: 7,
-    hasFullContent: false,
+    hasFullContent: true,
   },
   {
     slug: 'destin',
@@ -192,7 +192,7 @@ export const destinations: Destination[] = [
       'Direct access to Destin Commons',
     ],
     order: 9,
-    hasFullContent: false,
+    hasFullContent: true,
   },
   {
     slug: 'seaside',
@@ -212,7 +212,7 @@ export const destinations: Destination[] = [
       'Scenic 30A cycling corridor',
     ],
     order: 10,
-    hasFullContent: false,
+    hasFullContent: true,
   },
   {
     slug: 'panama-city-beach',
@@ -232,7 +232,7 @@ export const destinations: Destination[] = [
       'Shell Island day trips',
     ],
     order: 11,
-    hasFullContent: false,
+    hasFullContent: true,
   },
 ]
 

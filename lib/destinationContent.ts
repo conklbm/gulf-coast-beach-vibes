@@ -609,4 +609,575 @@ export const destinationContent: Record<string, DestinationContent> = {
     localTip:
       "Orange Beach's secret weapon is Perdido Pass — the deep-water channel that cuts between the Gulf and Perdido Bay. At sunrise, the fishing fleet heads out through the pass and the light on the water is genuinely spectacular. Grab coffee and watch from the public pier at Perdido Pass Park. Also: the stretch of beach just east of the pass is consistently less crowded than the main public beach, with the same water. It's a 10-minute walk from the parking lot but worth every step.",
   },
+  'gulf-breeze': {
+    slug: 'gulf-breeze',
+    beaches: [
+      {
+        name: 'Quietwater Beach',
+        description:
+          'A calm, family-friendly beach on the Santa Rosa Sound side of Pensacola Beach — accessible via the Gulf Breeze Causeway. No Gulf waves here, just flat, clear water perfect for young kids and paddleboarders. Free parking, picnic tables, and a small playground.',
+      },
+      {
+        name: 'Bob Sikes Public Boat Ramp Beach',
+        description:
+          'A low-key spot on the bay where locals fish, launch kayaks, and watch pelicans work the shallows. Not a swimming beach, but a great place to absorb authentic Gulf Breeze waterfront life away from the tourist strip.',
+      },
+      {
+        name: 'Pensacola Beach (5 minutes away)',
+        description:
+          "Gulf Breeze's best feature: you're literally 5 minutes across the bridge from some of the most stunning white quartz sand on the Gulf Coast. Stay in Gulf Breeze for better rates and quieter evenings, then walk or drive to the beach for the day.",
+      },
+    ],
+    whereToStay: [
+      {
+        name: 'Gulf Breeze Vacation Rentals',
+        type: 'vacation-rental',
+        description:
+          'VRBO has a solid selection of Gulf Breeze homes — mostly 2–4 bedroom houses with bay views or water access. Rates run significantly lower than comparable Pensacola Beach condos while putting you 5 minutes from the Gulf. Great for families who want space.',
+        affiliateUrl: 'https://vrbo.tp.st/gulfbreeze',
+        provider: 'vrbo',
+      },
+      {
+        name: 'Hampton Inn Gulf Breeze',
+        type: 'hotel',
+        description:
+          'A reliable mid-range hotel option for Gulf Breeze with easy bridge access to Pensacola Beach. Clean, consistent, and significantly more affordable than beachfront properties across the bridge.',
+        affiliateUrl: 'https://booking.tp.st/gulfbreeze',
+        provider: 'booking',
+      },
+    ],
+    whereToEat: [
+      {
+        name: 'Surf Burger',
+        cuisine: 'American / Burgers',
+        description:
+          'A beloved local burger joint with a serious following. Straightforward menu, fresh ingredients, and the kind of no-frills execution that builds regulars. Lines out the door on summer weekends — worth the wait.',
+        priceRange: '$',
+      },
+      {
+        name: 'Peg Leg Pete\'s',
+        cuisine: 'Seafood',
+        description:
+          'A Gulf Breeze classic — laid-back waterfront seafood with generous portions and cold drinks. The boiled shrimp and grouper sandwich are the moves. Great sunset views from the deck over the water.',
+        priceRange: '$$',
+      },
+      {
+        name: 'Global Grill',
+        cuisine: 'International / Upscale',
+        description:
+          "One of the best restaurants in the area by any measure. The menu travels — Cuban pork, Thai-spiced fish, Mediterranean influences — but every plate is executed with serious skill. A genuinely special dinner option that doesn't require crossing the bridge.",
+        priceRange: '$$$',
+      },
+      {
+        name: 'Chan\'s Wine World',
+        cuisine: 'Wine Bar / Small Plates',
+        description:
+          "More than a wine shop — Chan's is a gathering spot with a carefully curated selection of bottles, artisan cheeses, charcuterie, and small plates. Perfect for a relaxed evening where the conversation matters as much as the food.",
+        priceRange: '$$',
+      },
+    ],
+    activities: [
+      {
+        name: 'Gulf Breeze Zoo (Northwest Florida Zoo)',
+        description:
+          'A surprisingly impressive zoo for a small beach town — over 900 animals on 50 acres of natural habitat. A great half-day option for families, especially on days when beach conditions aren\'t ideal. The giraffe feeding experience is a hit with kids.',
+      },
+      {
+        name: 'Kayaking & Paddleboarding on the Sound',
+        description:
+          'The calm, shallow Santa Rosa Sound is ideal for paddling. Multiple rental outfitters in the area offer kayaks, SUPs, and guided tours through the sea grass beds where you can spot rays, sea turtles, and dolphins in the shallows.',
+        affiliateUrl: 'https://viator.tp.st/gulfbreeze',
+        provider: 'getyourguide',
+      },
+      {
+        name: 'Shoreline Park South',
+        description:
+          "A hidden gem — a small bayfront park with a fishing pier, boat ramp, and some of the best sunset views in the region. Gulf Breeze locals consider this one of their best-kept secrets. Bring a fishing rod or just a lawn chair.",
+      },
+      {
+        name: 'UWF Archaeological Site & Presidio de Santa María de Galve',
+        description:
+          'History buffs will appreciate the nearby archaeological remains of one of the earliest Spanish colonial settlements in North America. The University of West Florida runs the excavation site with guided tours explaining the 400+ year history of the Pensacola region.',
+      },
+    ],
+    gettingThere:
+      "Gulf Breeze sits on the peninsula between Pensacola Bay and Santa Rosa Sound, connected to Pensacola via the Three-Mile Bridge (US-98) and to Pensacola Beach via the Bob Sikes Bridge (FL-399). From I-10, take Exit 13 (US-98 East) toward Gulf Breeze — about 15 miles. Pensacola International Airport (PNS) is 20–25 minutes west via US-98. No toll roads. Parking is free throughout Gulf Breeze.",
+    localTip:
+      "Gulf Breeze is the move if you want Pensacola Beach access without Pensacola Beach prices. Book a VRBO house in Gulf Breeze, walk or bike across the Bob Sikes Bridge to the beach (it's about 1.5 miles), and you'll have a quieter, more local experience than the condo-resort crowd. The weekday morning bike ride over the bridge at sunrise — with dolphins often visible in the sound below — is one of the best free experiences in the entire Panhandle.",
+  },
+  'navarre-beach': {
+    slug: 'navarre-beach',
+    beaches: [
+      {
+        name: 'Navarre Beach (Gulf Islands National Seashore)',
+        description:
+          "The main beach — and it genuinely earns the 'best kept secret' nickname. Miles of pure white quartz sand within Gulf Islands National Seashore, with water that shifts from pale green to deep turquoise depending on the light. Crowds here are a fraction of what you'll find at Pensacola Beach or Destin.",
+      },
+      {
+        name: 'Navarre Beach Marine Sanctuary',
+        description:
+          "The nation's first designated beach-based marine sanctuary sits just offshore here. The artificial reef system attracts exceptional snorkeling and diving — tropical fish, sea fans, and occasional sea turtles in crystal-clear, shallow water. Gear rentals are available near the pier.",
+      },
+      {
+        name: 'Navarre Beach County Park',
+        description:
+          "A well-maintained public beach park with restrooms, showers, and ample free parking — rare on the Gulf Coast. Less than a mile from the pier and consistently less crowded than the main beach access points. A local favorite for exactly that reason.",
+      },
+    ],
+    whereToStay: [
+      {
+        name: 'Navarre Beach Vacation Rentals',
+        type: 'vacation-rental',
+        description:
+          'VRBO and Airbnb have excellent Gulf-front and second-row vacation homes and condos in Navarre Beach. Because this area is less marketed than Destin or PCB, you can often find beachfront properties at significantly lower rates. Most rentals are 2–5 bedrooms.',
+        affiliateUrl: 'https://vrbo.tp.st/navarrebeach',
+        provider: 'vrbo',
+      },
+      {
+        name: 'Navarre Beach Camping Resort',
+        type: 'vacation-rental',
+        description:
+          'For campers and RV travelers, Navarre Beach Camping Resort offers sites just steps from the Gulf. Wake up to the sound of waves for a fraction of the cost of a vacation rental. Full hookups available.',
+        affiliateUrl: 'https://booking.tp.st/navarrebeach',
+        provider: 'booking',
+      },
+    ],
+    whereToEat: [
+      {
+        name: 'Navarre Beach Bar & Grill',
+        cuisine: 'Seafood / American',
+        description:
+          "Right on the beach, this open-air spot delivers exactly what the name promises — cold drinks, fresh Gulf seafood, and a view. The grouper tacos and shrimp baskets are consistently reliable. Come for lunch and stay for the sunset.",
+        priceRange: '$$',
+      },
+      {
+        name: 'Sailor\'s Grill',
+        cuisine: 'Seafood',
+        description:
+          'A local mainstay with a casual atmosphere and a menu that leans hard into Gulf Coast tradition — boiled crawfish in season, raw oysters, and fried seafood platters. Nothing fancy, everything satisfying.',
+        priceRange: '$',
+      },
+      {
+        name: 'Juana\'s Pagodas',
+        cuisine: 'Beach Bar / Seafood',
+        description:
+          "The most famous beachfront bar in the Navarre area — a longtime Gulf Coast institution known for live music, strong drinks, and a back deck that practically sits on the sand. The party scene here is tame compared to Destin but reliably fun.",
+        priceRange: '$$',
+      },
+    ],
+    activities: [
+      {
+        name: 'Navarre Beach Fishing Pier',
+        description:
+          'At 1,545 feet, this is one of the longest piers on the Gulf Coast. An absolutely excellent place to fish for Spanish mackerel, king mackerel, and cobia — and equally great for sunset walks even if you don\'t fish. Equipment rentals available on the pier.',
+      },
+      {
+        name: 'Snorkeling the Marine Sanctuary',
+        description:
+          "Navarre Beach sits above the nation's only beach-based marine sanctuary — an artificial reef teeming with marine life in shallow, clear water. Even novice snorkelers can see tropical fish, sea fans, and rays. Gear rentals available at the pier.",
+        affiliateUrl: 'https://viator.tp.st/navarrebeach',
+        provider: 'getyourguide',
+      },
+      {
+        name: 'Sea Turtle Nesting Season',
+        description:
+          'From May through October, loggerhead and green sea turtles nest on Navarre Beach. The Gulf Islands National Seashore staff runs guided turtle walks during peak season (July–August) — one of the most memorable wildlife experiences on the Gulf Coast. Reserve early.',
+      },
+      {
+        name: 'Kayaking & Water Sports',
+        description:
+          "The calm Navarre Sound on the north side of Santa Rosa Island is ideal for kayaking, paddleboarding, and windsurfing. Several outfitters operate near the bridge with rentals and guided tours through the sea grass beds.",
+      },
+    ],
+    gettingThere:
+      "Navarre Beach is located on Santa Rosa Island, accessible via the Navarre Beach Bridge from US-98 in Navarre, Florida. From I-10, take Exit 31 (Navarre/Milton exit) south on FL-87 for about 20 miles to US-98, then head west a few miles to the bridge. Pensacola International Airport (PNS) is approximately 40 minutes west. The beach sits within Gulf Islands National Seashore — no admission fee for the beach itself. Free parking at the county park.",
+    localTip:
+      "Navarre Beach is at its absolute best during the week in late spring (May) or early fall (September–October). The water is warm, the sand is perfect, and you may genuinely have stretches of National Seashore beach nearly to yourself. If you visit in summer, arrive before 9am — the parking lots fill up by late morning on weekends, and early birds get that otherworldly morning light on the white sand that belongs on a postcard.",
+  },
+  'fort-walton-beach': {
+    slug: 'fort-walton-beach',
+    beaches: [
+      {
+        name: 'Okaloosa Island Beach',
+        description:
+          "Fort Walton Beach's main beach sits on Okaloosa Island — the same barrier island as Destin, just a few miles west. The same brilliant emerald water, the same powdery white quartz sand, and substantially fewer people and lower prices. The public beach park has paid parking, restrooms, and a pavilion.",
+      },
+      {
+        name: 'Beasley Park',
+        description:
+          'A large beachfront park on Okaloosa Island with ample parking, volleyball courts, picnic areas, and easy beach access. One of the better-equipped public beach parks on the Emerald Coast, and a consistent pick for locals who want the full beach experience without paying resort prices.',
+      },
+      {
+        name: 'Santa Rosa Island (Destin side)',
+        description:
+          "Fort Walton Beach sits at the western end of the same barrier island as Destin, so you have easy driving access east toward Henderson Beach State Park and all of Destin's beachfront. The drive along US-98 through Destin offers some of the most stunning water views on the Gulf Coast.",
+      },
+    ],
+    whereToStay: [
+      {
+        name: 'Fort Walton Beach Hotels & Condos',
+        type: 'hotel',
+        description:
+          "Fort Walton Beach has a range of beachfront hotels and condo rentals at prices noticeably lower than Destin. Booking.com shows strong availability at properties along Miracle Strip Parkway and Okaloosa Island. A practical base camp for exploring the entire Emerald Coast.",
+        affiliateUrl: 'https://booking.tp.st/fortwaltonsbeach',
+        provider: 'booking',
+      },
+      {
+        name: 'Vacation Rentals via VRBO',
+        type: 'vacation-rental',
+        description:
+          'VRBO has a solid selection of vacation homes and condos in Fort Walton Beach — many Gulf-front or with easy beach access. Larger groups save significantly compared to equivalent Destin properties.',
+        affiliateUrl: 'https://vrbo.tp.st/fortwaltonbeach',
+        provider: 'vrbo',
+      },
+    ],
+    whereToEat: [
+      {
+        name: 'Staff\'s Restaurant',
+        cuisine: 'Seafood / American',
+        description:
+          "A Fort Walton Beach institution since 1931. Old-school Gulf Coast dining at its most authentic — fresh grouper, hand-cut steaks, and a room full of locals who've been coming here for decades. The kind of place that doesn't need to advertise.",
+        priceRange: '$$',
+      },
+      {
+        name: 'The Boathouse Oyster Bar',
+        cuisine: 'Oysters / Seafood',
+        description:
+          "Raw oysters, fried fish, cold beer, and a back deck that looks out over the Intracoastal Waterway. Everything a Gulf Coast oyster bar should be. Live music on weekends and one of the best happy hours in the area.",
+        priceRange: '$',
+      },
+      {
+        name: 'Angler\'s Beachside Grill & Bar',
+        cuisine: 'Seafood / Beach Bar',
+        description:
+          "Right on Okaloosa Island with beach views and a menu built around fresh Gulf catch. The grouper sandwich and crab claws are standouts. A casual, all-ages spot that delivers solid food with a genuine beach atmosphere.",
+        priceRange: '$$',
+      },
+      {
+        name: 'Crab Trap',
+        cuisine: 'Seafood',
+        description:
+          'A local landmark sitting on the Intracoastal Waterway — fresh Gulf seafood, enormous portions, and a menu that changes with whatever the boats brought in. The stone crab claws (in season, October–May) are exceptional.',
+        priceRange: '$$',
+      },
+    ],
+    activities: [
+      {
+        name: 'Indian Temple Mound Museum',
+        description:
+          "One of the most impressive Native American archaeological sites on the Gulf Coast — a massive ceremonial mound built by the Fort Walton Culture over 1,000 years ago, right in the middle of downtown. The museum tells 12,000 years of Gulf Coast human history through an excellent collection of artifacts.",
+      },
+      {
+        name: 'Water Sports on Okaloosa Island',
+        description:
+          "Jet ski rentals, parasailing, paddleboard rentals, banana boat rides — all the Emerald Coast water sports available right on Okaloosa Island. Multiple vendors operate along the beach strip and prices here are noticeably lower than Destin.",
+        affiliateUrl: 'https://viator.tp.st/fortwaltonbeach',
+        provider: 'getyourguide',
+      },
+      {
+        name: 'Emerald Coast Science Center',
+        description:
+          "A hands-on science museum in downtown Fort Walton Beach — more relevant than it sounds for a beach vacation. Great rainy-day option for families with kids, and genuinely engaging interactive exhibits covering everything from local ecology to space.",
+      },
+      {
+        name: 'Air Force Armament Museum',
+        description:
+          "Adjacent to Eglin Air Force Base, this free museum houses an extraordinary collection of military aircraft — B-52, SR-71 Blackbird, F-117 Nighthawk — displayed both indoors and on an outdoor flight line. One of the best free military aviation museums in the Southeast.",
+      },
+    ],
+    gettingThere:
+      "Fort Walton Beach sits on the Emerald Coast of the Florida Panhandle, on US-98 (Miracle Strip Parkway) and Okaloosa Island. From I-10, take Exit 56 (Crestview) south on FL-85 for about 25 miles to Fort Walton Beach, then follow US-98 to Okaloosa Island. Destin-Fort Walton Beach Airport (VPS) is just 10 minutes east — a convenient option with Delta, American, and Southwest service. Pensacola International (PNS) is 50 minutes west.",
+    localTip:
+      "Fort Walton Beach is the Emerald Coast's best value play. You get the exact same emerald-green water and white quartz sand as Destin — the barrier island is the same island — for 20–30% less. Go east on US-98 toward Henderson Beach State Park for some of the most beautiful protected beach on the Gulf Coast, then come back west to Fort Walton for dinner. You beat the Destin prices and parking hassles while missing out on nothing.",
+  },
+  'miramar-beach': {
+    slug: 'miramar-beach',
+    beaches: [
+      {
+        name: 'Miramar Beach Public Access',
+        description:
+          "The main public beach access point in Miramar Beach — free parking, clean facilities, and direct access to the same brilliant emerald Gulf water as Destin. The beach here is slightly less crowded than Destin's main public beaches, which makes it an easy sell.",
+      },
+      {
+        name: 'Sandestin Resort Beach',
+        description:
+          'Guests of the Sandestin Golf & Beach Resort have access to a beautifully maintained private beachfront with beach chairs, umbrellas, and attendants. The resort sits on 2,400 acres with both Gulf and bay frontage — a rare combination on the Panhandle.',
+      },
+      {
+        name: 'Henderson Beach State Park',
+        description:
+          "Just east of the Sandestin resort, Henderson Beach is 208 acres of protected, pristine Emerald Coast beach — consistently rated among the best state parks in Florida. Old-growth scrub dunes, nesting sea turtles, and some of the most photogenic white sand on the entire Gulf Coast.",
+      },
+    ],
+    whereToStay: [
+      {
+        name: 'Sandestin Golf & Beach Resort',
+        type: 'resort',
+        description:
+          "The centerpiece of Miramar Beach — a massive self-contained resort with condos, villas, hotel towers, golf courses, a marina, and the Village of Baytowne Wharf retail/dining complex. Booking through Booking.com often surfaces the best available rates across the various property types.",
+        affiliateUrl: 'https://booking.tp.st/sandestin',
+        provider: 'booking',
+      },
+      {
+        name: 'Miramar Beach Vacation Rentals',
+        type: 'vacation-rental',
+        description:
+          "VRBO has an excellent selection of Gulf-front and Gulf-view condos and homes throughout Miramar Beach. The residential character of the community means you'll find genuinely nice properties in quiet neighborhoods — a very different feel from resort condo towers.",
+        affiliateUrl: 'https://vrbo.tp.st/miramarfl',
+        provider: 'vrbo',
+      },
+    ],
+    whereToEat: [
+      {
+        name: 'Bijoux Restaurant',
+        cuisine: 'French-Inspired / Upscale',
+        description:
+          'One of the finest dining experiences on the Emerald Coast — a sophisticated French-accented menu with impeccable local seafood, a serious wine program, and service to match. The place you go when the occasion calls for something exceptional.',
+        priceRange: '$$$',
+      },
+      {
+        name: 'Seagar\'s Prime Steaks & Seafood',
+        cuisine: 'Steakhouse / Seafood',
+        description:
+          "Located inside the Hilton Sandestin, Seagar's is the Emerald Coast's premier steakhouse — AAA Four Diamond awarded, with dry-aged prime cuts and Gulf seafood sourced daily. The oysters Rockefeller are a must.",
+        priceRange: '$$$$',
+      },
+      {
+        name: 'Johnny Rockets at Grand Boulevard',
+        cuisine: 'American',
+        description:
+          "Grand Boulevard is the upscale outdoor shopping center connecting Miramar Beach to Sandestin's main entrance — a great spot for a casual lunch between beach sessions. Multiple dining options from fast casual to sit-down.",
+        priceRange: '$',
+      },
+      {
+        name: 'Baytowne Wharf Restaurants',
+        cuisine: 'Varied / Village',
+        description:
+          "The Village of Baytowne Wharf inside Sandestin has a dozen dining options from sports bars to waterfront seafood. Best for groups or families who want variety — walk around the village and pick what looks right.",
+        priceRange: '$$',
+      },
+    ],
+    activities: [
+      {
+        name: 'Sandestin Golf Courses',
+        description:
+          "Sandestin Resort has four championship golf courses — Burnt Pine, The Links, Baytowne, and The Raven — ranging from beginner-friendly to PGA Tour-quality. The Links course plays along the Gulf and is consistently rated among the best in Florida.",
+        affiliateUrl: 'https://viator.tp.st/sandestin',
+        provider: 'getyourguide',
+      },
+      {
+        name: 'Grand Boulevard Shopping',
+        description:
+          "The upscale open-air shopping district connecting Miramar Beach to Sandestin has everything from local boutiques to national brands like Tommy Bahama and Anthropologie. More pleasant than a mall — outdoor dining, fountains, and a curated tenant mix.",
+      },
+      {
+        name: 'Baytowne Wharf Village',
+        description:
+          "The entertainment village inside Sandestin — boutique shops, restaurants, bars, a ropes course, a kids' splash zone, mini golf, and regular live music and events. A reliable evening activity even on rainy days.",
+      },
+      {
+        name: 'Henderson Beach State Park Hiking',
+        description:
+          "186 acres of protected coastal scrub adjacent to Miramar Beach — old dune ridges, wildlife-rich trails through sand pine and rosemary scrub, and 30 campsites if you want to sleep under the stars. The 1-mile Nature Trail is accessible and rewarding.",
+      },
+    ],
+    gettingThere:
+      "Miramar Beach sits on US-98 between Destin (5 miles west) and 30A (10 miles east), in Walton County, Florida. From I-10, take Exit 85 (Defuniak Springs) south on US-331 — about 30 miles to US-98 at the coast, then head west a couple miles. Destin-Fort Walton Beach Airport (VPS) is 20 minutes west. Northwest Florida Beaches International Airport (ECP) in Panama City Beach is about 45 minutes east. Most Sandestin guests receive parking passes — public beach parking is available at the Miramar Beach access point on Scenic Gulf Drive.",
+    localTip:
+      "The move at Miramar Beach is to walk Henderson Beach State Park first thing in the morning — arrive at or before 8am on summer days before the lot fills. The old-growth dunes here are some of the most dramatic on the Gulf Coast, and you'll often see deer, gopher tortoises, and scrub jays along the trail before it opens to that spectacular beach. Then head back to your Sandestin rental or Grand Boulevard for lunch. It's a perfect half-day.",
+  },
+  'seaside': {
+    slug: 'seaside',
+    beaches: [
+      {
+        name: 'Seaside Beach',
+        description:
+          "The iconic beach at the heart of the Seaside community — white quartz sand, emerald water, and a perfectly framed view of the pastel cottages beyond the dunes. The beach pavilion at the end of County Road 30A is the postcard shot. Parking requires patience on summer weekends.",
+      },
+      {
+        name: 'Grayton Beach State Park',
+        description:
+          "A mile west of Seaside, Grayton Beach State Park consistently ranks among the best beaches in the United States — pristine, protected, and stunning. Crystal-clear water in Western Lake, old-growth dunes, and a beach so beautiful it almost feels unreal. Day-use fee applies.",
+      },
+      {
+        name: 'Watercolor Beach Club',
+        description:
+          "The adjacent WaterColor resort community shares the same stretch of coastline as Seaside with a private beach club for resort guests. The transition from WaterColor to Seaside's public beach is seamless — walk east along the sand.",
+      },
+    ],
+    whereToStay: [
+      {
+        name: 'Seaside Cottage Rentals',
+        type: 'vacation-rental',
+        description:
+          "The original Seaside cottages are available for rent directly through the Seaside community rental program and via VRBO. These pastel architectural gems — the ones featured in The Truman Show — book up months in advance for summer. Reserve early. Prices reflect the demand.",
+        affiliateUrl: 'https://vrbo.tp.st/seaside30a',
+        provider: 'vrbo',
+      },
+      {
+        name: 'WaterColor Inn & Resort',
+        type: 'resort',
+        description:
+          "The boutique resort adjacent to Seaside offers luxury accommodations with beach club access and a gorgeous pool. A more traditional resort experience than Seaside's cottage rentals, with the same access to the 30A corridor.",
+        affiliateUrl: 'https://booking.tp.st/watercolor30a',
+        provider: 'booking',
+      },
+    ],
+    whereToEat: [
+      {
+        name: 'Bud & Alley\'s Restaurant',
+        cuisine: 'Seafood / Coastal',
+        description:
+          "Seaside's original restaurant and still its best. Opened in 1986 with the town, Bud & Alley's sits right on the beach and serves Gulf-fresh seafood with a creative, seasonal menu. The rooftop bar at sunset is one of the iconic 30A experiences.",
+        priceRange: '$$$',
+      },
+      {
+        name: 'The Great Southern Café',
+        cuisine: 'Southern / Brunch',
+        description:
+          "The breakfast and brunch spot in Seaside — shrimp and grits, Southern-style eggs benedict, biscuits with local honey. The kind of place that draws a line out the door by 9am on summer mornings. Worth the wait.",
+        priceRange: '$$',
+      },
+      {
+        name: 'Airstream Row',
+        cuisine: 'Food Trucks / Varied',
+        description:
+          "Seaside's famous cluster of converted Airstream trailers on the town green, each operating as a food vendor. Tacos, crepes, gourmet grilled cheese, ice cream, smoothies — the best casual lunch option in town and a genuinely fun social experience.",
+        priceRange: '$',
+      },
+      {
+        name: 'The Pickle',
+        cuisine: 'American / Deli',
+        description:
+          'A Seaside institution for sandwiches, salads, and quick bites. Great for a beach picnic — pick up provisions here before heading to the sand. The lobster roll has serious devotees.',
+        priceRange: '$$',
+      },
+    ],
+    activities: [
+      {
+        name: 'Cycling the 30A Corridor',
+        description:
+          "County Road 30A runs 28 miles through 16 distinct beach communities — one of the great cycling routes in the American South. Bike rentals are readily available in Seaside. The full out-and-back to Rosemary Beach is a beautiful 30-mile ride; even a 5-mile spin through WaterColor and Watergrass is spectacular.",
+        affiliateUrl: 'https://viator.tp.st/seaside30a',
+        provider: 'getyourguide',
+      },
+      {
+        name: 'Seaside Amphitheater & Saturday Market',
+        description:
+          "The Seaside amphitheater hosts live music, movies, and community events throughout the year. The Saturday Farmers Market (spring through fall) is one of the best on the Panhandle — local produce, artisan goods, live music, and a gathering energy that captures everything Seaside aspired to be.",
+      },
+      {
+        name: 'Grayton Beach State Park',
+        description:
+          "Beyond the beach, Grayton has paddling on Western Lake (kayak rentals available), miles of hiking trails through coastal dune lake habitat, and some of the best nature photography opportunities on the Gulf Coast. The rare coastal dune lakes here — found in very few places on Earth — support unique ecosystems.",
+      },
+      {
+        name: 'Architecture Walking Tour',
+        description:
+          "Seaside was designed by Andrés Duany and Elizabeth Plater-Zyberk as a prototype for New Urbanism — the movement to design walkable, human-scaled communities. A self-guided walk through the neighborhood examining the street patterns, building codes, and public spaces is genuinely interesting even for non-architects.",
+      },
+    ],
+    gettingThere:
+      "Seaside sits on County Road 30A in Walton County, Florida, about 20 miles east of Destin. From US-98, turn south on CR-283 or CR-393 to reach 30A — Seaside will be clearly signed. Northwest Florida Beaches International Airport (ECP) near Panama City Beach is about 45 minutes east; Destin-Fort Walton Beach Airport (VPS) is about 40 minutes west. Parking in Seaside is notoriously limited in summer — arrive by 8am or use the public lot and walk in. Many visitors rent bikes to avoid parking altogether.",
+    localTip:
+      "Seaside is genuinely one of the most architecturally interesting places in America, but it's also genuinely small. Most visitors see everything in half a day. The move is to stay here for the experience — rent a cottage for a week, live within the community, cycle 30A every morning, and use it as a base for exploring the other beach towns. As a day trip destination it can disappoint; as a home base for a week it's exceptional.",
+  },
+  'panama-city-beach': {
+    slug: 'panama-city-beach',
+    beaches: [
+      {
+        name: 'Panama City Beach Public Beach',
+        description:
+          "The main beach — and there's a lot of it. 27 miles of Gulf-front white quartz sand stretching along Front Beach Road (US-98 Alt). This is the heart of PCB's beach scene, with lifeguards in season, water sports vendors, parasailing, and all the energy of one of Florida's most-visited beach destinations.",
+      },
+      {
+        name: 'St. Andrews State Park',
+        description:
+          "The crown jewel of PCB. This 1,260-acre state park at the eastern tip of the peninsula has pristine, uncrowded beaches, crystal-clear water, snorkeling on the jetties, hiking trails through pine flatwoods, and stunning lagoon views. Consistently rated one of the best beaches in the country. Day-use fee applies.",
+      },
+      {
+        name: 'Shell Island',
+        description:
+          "An uninhabited barrier island accessible only by boat, Shell Island is a surreal experience — over 7 miles of completely undeveloped Gulf beach. Dolphin sightings on the crossing are virtually guaranteed. Water taxis run from St. Andrews State Park marina throughout the day.",
+      },
+    ],
+    whereToStay: [
+      {
+        name: 'PCB Gulf-Front Hotels & Condos',
+        type: 'hotel',
+        description:
+          "Panama City Beach has the widest range of Gulf-front accommodations on the Panhandle — from budget motels to full-service condo towers. Booking.com covers the full spectrum. The stretch of Front Beach Road between Pier Park and St. Andrews State Park offers the best balance of access and value.",
+        affiliateUrl: 'https://booking.tp.st/panamacitybeach',
+        provider: 'booking',
+      },
+      {
+        name: 'Vacation Rentals via VRBO',
+        type: 'vacation-rental',
+        description:
+          "PCB has one of the largest vacation rental inventories on the Gulf Coast — thousands of condos, townhouses, and single-family homes. VRBO is the best place to search. Large groups get exceptional value in the 4–6 bedroom Gulf-front condos here.",
+        affiliateUrl: 'https://vrbo.tp.st/panamacitybeach',
+        provider: 'vrbo',
+      },
+    ],
+    whereToEat: [
+      {
+        name: 'Schooners',
+        cuisine: 'Seafood / Beach Bar',
+        description:
+          "Self-described as 'the last local beach club' and that's basically accurate. Right on the sand, live music every night, cold beer, fresh Gulf seafood, and a crowd that ranges from college groups to families to retirees. The fish tacos and fresh grouper are the go-to orders.",
+        priceRange: '$$',
+      },
+      {
+        name: 'Thomas Donut & Snack Shop',
+        cuisine: 'Donuts / Breakfast',
+        description:
+          'A PCB institution since 1971. The line runs out the door on summer mornings and every local will tell you the same thing: go early, get the glazed, and eat them warm in the parking lot. Old-school, no pretension, absolutely essential.',
+        priceRange: '$',
+      },
+      {
+        name: 'Hunt\'s Oyster Bar & Seafood Restaurant',
+        cuisine: 'Oysters / Seafood',
+        description:
+          "A dive bar masquerading as a seafood restaurant, or a seafood restaurant masquerading as a dive bar — either way, it's one of the best raw oyster bars on the Panhandle. Cash only, paper plates, and oysters that come straight off local boats. An institution.",
+        priceRange: '$',
+      },
+      {
+        name: 'Firefly Restaurant',
+        cuisine: 'New American / Upscale',
+        description:
+          "The nicest restaurant in PCB, full stop. A sophisticated menu with exceptional local seafood, a serious cocktail program, and an intimate dining room that feels a world away from Front Beach Road. Reserve well in advance in summer.",
+        priceRange: '$$$',
+      },
+    ],
+    activities: [
+      {
+        name: 'Shell Island Water Taxi',
+        description:
+          "The quintessential PCB experience. Take the water taxi from St. Andrews State Park to Shell Island — a completely undeveloped barrier island with wild beaches, crystal-clear snorkeling near the jetties, and dolphins that routinely swim alongside the boat. Pack a lunch and spend the day.",
+        affiliateUrl: 'https://viator.tp.st/panamacitybeach',
+        provider: 'getyourguide',
+      },
+      {
+        name: 'Pier Park',
+        description:
+          "PCB's main entertainment and shopping complex — a massive outdoor mall with 100+ stores, 30+ restaurants, a movie theater, a giant Ferris wheel, and continuous live events. Located right at the edge of the beach. More Vegas than beach town, but genuinely fun for groups.",
+      },
+      {
+        name: 'Ripley\'s Believe It or Not & Gulf World Marine Park',
+        description:
+          "PCB has a full lineup of classic Florida tourist attractions — dolphin shows, a marine park, Ripley's museum, mini golf, go-karts, and more. The Gulf World Marine Park dolphin encounters are particularly popular with families.",
+      },
+      {
+        name: 'Deep-Sea Fishing Charters',
+        description:
+          "PCB's fishing fleet is one of the largest on the Gulf Coast. Half-day party boats let you fish for bottom species without a full charter; private offshore trips target red snapper, mahi-mahi, and wahoo. Fishing Booker has the best selection of vetted captains.",
+        affiliateUrl: 'https://fishingbooker.tp.st/lQGpTKBV',
+        provider: 'getyourguide',
+      },
+    ],
+    gettingThere:
+      "Panama City Beach sits at the eastern end of the Florida Panhandle, accessible via US-98/98 Alt (Front Beach Road) from the east or west. From I-10, take Exit 296 (Chipley) south on FL-77 for about 35 miles to PCB, or Exit 304 south on FL-79. Northwest Florida Beaches International Airport (ECP) serves PCB directly — a modern airport with Delta, American, Southwest, and United service. It's the most convenient air option. Destin-Fort Walton Beach Airport (VPS) is about 90 minutes west. Most public beach parking along Front Beach Road is free.",
+    localTip:
+      "St. Andrews State Park is the real PCB — arrive when the gates open (8am) on any summer day and you'll have some of the most beautiful beach in Florida largely to yourself. The main tourist strip is pure spectacle and fine for a day, but the park is what you'll remember. Snorkel around the rock jetties for an impressive variety of fish in very clear, shallow water — no boat required. Then catch the Shell Island water taxi at the marina for the afternoon.",
+  },
 }
