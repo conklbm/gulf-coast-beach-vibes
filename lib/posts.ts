@@ -61,7 +61,7 @@ export const posts: Post[] = [
       "Atlanta to the Gulf Coast is one of the best beach drives in the Southeast — under 6 hours, no tolls, and some of the most beautiful white-sand beaches in America waiting at the end.",
     category: 'Road Trips',
     heroImage:
-      'https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&w=800&q=80',
+      'https://images.unsplash.com/photo-1753744402410-44319f72f8c5?auto=format&fit=crop&w=800&q=80',
     publishedAt: '2025-01-20',
     readTime: '8 min read',
   },
