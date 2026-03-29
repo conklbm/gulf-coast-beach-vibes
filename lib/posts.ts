@@ -17,7 +17,7 @@ export const posts: Post[] = [
       "Don't show up to the Gulf Coast unprepared. Here's exactly what you need to pack for the perfect Gulf beach trip — from beach gear to sun protection to the snacks locals swear by.",
     category: 'Travel Tips',
     heroImage:
-      'https://images.unsplash.com/photo-1505228058230-1d7cce43cd57?auto=format&fit=crop&w=800&q=80',
+      'https://images.unsplash.com/photo-1560769629-975ec94e6a86?auto=format&fit=crop&w=800&q=80',
     publishedAt: '2024-12-01',
     readTime: '6 min read',
   },
@@ -61,7 +61,7 @@ export const posts: Post[] = [
       "Atlanta to the Gulf Coast is one of the best beach drives in the Southeast — under 6 hours, no tolls, and some of the most beautiful white-sand beaches in America waiting at the end.",
     category: 'Road Trips',
     heroImage:
-      'https://images.unsplash.com/photo-1494266296545-c46a879d7a22?auto=format&fit=crop&w=800&q=80',
+      'https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?auto=format&fit=crop&w=800&q=80',
     publishedAt: '2025-01-20',
     readTime: '8 min read',
   },
@@ -127,7 +127,7 @@ export const posts: Post[] = [
       "Gulf Shores is closer to Nashville than most people realize — a straight shot down I-65, under 5 hours on a good day. Here's everything you need to plan the perfect Nashville-to-Gulf-Coast trip.",
     category: 'Road Trips',
     heroImage:
-      'https://images.unsplash.com/photo-1530521954074-e64f4810b5d2?auto=format&fit=crop&w=800&q=80',
+      'https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=800&q=80',
     publishedAt: '2025-04-01',
     readTime: '7 min read',
   },
