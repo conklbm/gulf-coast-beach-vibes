@@ -46,7 +46,7 @@ export default function AboutPage() {
                           prose-a:text-ocean prose-a:no-underline hover:prose-a:underline
                           prose-li:text-navy/70">
 
-            <h2>Hi, I&apos;m Brook</h2>
+            <h2>Hi, I&apos;m Brooks</h2>
 
             <p>
               I&apos;m a Mobile, Alabama native who has spent the last 30 years exploring every

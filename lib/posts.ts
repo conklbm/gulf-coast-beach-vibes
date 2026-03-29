@@ -94,7 +94,7 @@ export const posts: Post[] = [
       "September crowds are gone, the water is still 75°F, prices drop 30%, and the weather is perfect. October might be the best month to visit the Gulf Coast — and almost no one knows it.",
     category: 'Travel Tips',
     heroImage:
-      'https://images.unsplash.com/photo-1504701954957-2010ec3bcec1?auto=format&fit=crop&w=800&q=80',
+      'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80',
     publishedAt: '2025-03-01',
     readTime: '7 min read',
   },
