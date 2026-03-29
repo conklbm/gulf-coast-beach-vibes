@@ -26,25 +26,32 @@ export default function GulfCoastOctoberContent() {
       </p>
 
       <h2>Weather and Water in October</h2>
+
+      <h3>Air Temperatures</h3>
       <p>
-        <strong>Air temperatures:</strong> Average highs of 76–82°F, lows of 60–66°F. Warm enough
-        for beach days, cool enough for comfortable evenings without air conditioning. The
-        oppressive summer humidity drops significantly.
+        Average highs of 76–82°F, lows of 60–66°F. Warm enough for beach days, cool enough for
+        comfortable evenings without air conditioning. The oppressive summer humidity drops
+        significantly.
       </p>
+
+      <h3>Water Temperatures</h3>
       <p>
-        <strong>Water temperatures:</strong> 74–78°F — well within the comfortable swimming range.
-        The Gulf holds summer heat well into fall; October water is genuinely warm. Many people
-        find October water more pleasant than July&apos;s bathwater-temperature (85°F+) Gulf.
+        74–78°F — well within the comfortable swimming range. The Gulf holds summer heat well into
+        fall; October water is genuinely warm. Many people find October water more pleasant than
+        July&apos;s bathwater-temperature (85°F+) Gulf.
       </p>
+
+      <h3>Rain</h3>
       <p>
-        <strong>Rain:</strong> October is generally drier than summer months, though frontal systems
-        can bring brief rain. The Gulf Coast averages about 3–4 inches of rain in October versus
-        6–8 inches in July.
+        October is generally drier than summer months, though frontal systems can bring brief rain.
+        The Gulf Coast averages about 3–4 inches of rain in October versus 6–8 inches in July.
       </p>
+
+      <h3>Hurricane Risk</h3>
       <p>
-        <strong>Hurricane risk:</strong> October sees much lower Gulf storm activity than August and
-        September, though it&apos;s technically still hurricane season through November 30. Check
-        forecasts close to your trip and consider travel insurance.
+        October sees much lower Gulf storm activity than August and September, though it&apos;s
+        technically still hurricane season through November 30. Check forecasts close to your trip
+        and consider travel insurance.
       </p>
 
       <TipCallout title="Jellyfish Note" variant="tip">

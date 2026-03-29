@@ -79,9 +79,8 @@ export default function GulfShoresVsDestinContent() {
       </p>
 
       <h2>Things to Do</h2>
-      <p>
-        <strong>Gulf Shores advantages:</strong>
-      </p>
+
+      <h3>Gulf Shores Advantages</h3>
       <ul>
         <li>
           <strong>Gulf State Park</strong> — 6,150 acres with 28 miles of trails, a gorgeous
@@ -99,9 +98,7 @@ export default function GulfShoresVsDestinContent() {
           views of Mobile Bay
         </li>
       </ul>
-      <p>
-        <strong>Destin advantages:</strong>
-      </p>
+      <h3>Destin Advantages</h3>
       <ul>
         <li>
           <strong>Henderson Beach State Park</strong> — exceptional protected beach with old-growth
@@ -134,9 +131,7 @@ export default function GulfShoresVsDestinContent() {
 
       <h2>The Verdict: Who Should Pick Which?</h2>
 
-      <p>
-        <strong>Pick Gulf Shores if:</strong>
-      </p>
+      <h3>Pick Gulf Shores If...</h3>
       <ul>
         <li>You&apos;re driving from Alabama, Tennessee, or Georgia</li>
         <li>You have a family with kids who want a great state park and beach combo</li>
@@ -145,9 +140,7 @@ export default function GulfShoresVsDestinContent() {
         <li>History and nature (Fort Morgan, Bon Secour) are on your list</li>
       </ul>
 
-      <p>
-        <strong>Pick Destin if:</strong>
-      </p>
+      <h3>Pick Destin If...</h3>
       <ul>
         <li>
           That vivid emerald-green water is the reason you&apos;re going — you want the iconic

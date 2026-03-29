@@ -89,9 +89,8 @@ export default function DestinVsPensacolaContent() {
       </p>
 
       <h2>Things to Do</h2>
-      <p>
-        <strong>Destin&apos;s strengths:</strong>
-      </p>
+
+      <h3>Destin&apos;s Strengths</h3>
       <ul>
         <li>
           <strong>Fishing</strong> — the &quot;World&apos;s Luckiest Fishing Village&quot; earns
@@ -112,9 +111,7 @@ export default function DestinVsPensacolaContent() {
           Beach
         </li>
       </ul>
-      <p>
-        <strong>Pensacola Beach&apos;s strengths:</strong>
-      </p>
+      <h3>Pensacola Beach&apos;s Strengths</h3>
       <ul>
         <li>
           <strong>Gulf Islands National Seashore</strong> — miles of undeveloped federal beach land
@@ -145,15 +142,17 @@ export default function DestinVsPensacolaContent() {
       </TipCallout>
 
       <h2>Getting There</h2>
+      <h3>Pensacola Beach</h3>
       <p>
-        <strong>Pensacola Beach:</strong> Pensacola International Airport (PNS) is 25–30 minutes
-        from the beach and has solid airline coverage from most major cities. No tolls on the
-        bridge. The most convenient airport option for either destination.
+        Pensacola International Airport (PNS) is 25–30 minutes from the beach and has solid
+        airline coverage from most major cities. No tolls on the bridge. The most convenient
+        airport option for either destination.
       </p>
+      <h3>Destin</h3>
       <p>
-        <strong>Destin:</strong> Destin-Fort Walton Beach Airport (VPS) is 15 minutes from most
-        Destin hotels and has service from major airlines including Southwest, Delta, and American.
-        Alternatively, fly into PNS and drive 50 minutes east on US-98.
+        Destin-Fort Walton Beach Airport (VPS) is 15 minutes from most Destin hotels and has
+        service from major airlines including Southwest, Delta, and American. Alternatively, fly
+        into PNS and drive 50 minutes east on US-98.
       </p>
 
       <h2>The Verdict</h2>
