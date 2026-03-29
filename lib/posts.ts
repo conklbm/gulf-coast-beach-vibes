@@ -16,8 +16,7 @@ export const posts: Post[] = [
     excerpt:
       "Don't show up to the Gulf Coast unprepared. Here's exactly what you need to pack for the perfect Gulf beach trip — from beach gear to sun protection to the snacks locals swear by.",
     category: 'Travel Tips',
-    heroImage:
-      'https://images.unsplash.com/photo-1560769629-975ec94e6a86?auto=format&fit=crop&w=800&q=80',
+    heroImage: '/images/beach-packing-list.jpg',
     publishedAt: '2024-12-01',
     readTime: '6 min read',
   },
@@ -104,8 +103,7 @@ export const posts: Post[] = [
     excerpt:
       "The Gulf Coast won't beat Sanibel for variety, but the right beaches at the right time deliver lightning whelks, sand dollars, horse conchs, and more. Here's where serious shellers go.",
     category: 'Beach Life',
-    heroImage:
-      'https://images.unsplash.com/photo-1586348943529-beaae6c28db9?auto=format&fit=crop&w=800&q=80',
+    heroImage: '/images/best-shell-beach.jpg',
     publishedAt: '2025-03-10',
     readTime: '7 min read',
   },
@@ -126,8 +124,7 @@ export const posts: Post[] = [
     excerpt:
       "Gulf Shores is closer to Nashville than most people realize — a straight shot down I-65, under 5 hours on a good day. Here's everything you need to plan the perfect Nashville-to-Gulf-Coast trip.",
     category: 'Road Trips',
-    heroImage:
-      'https://images.unsplash.com/photo-1501785888041-af3ef285b470?auto=format&fit=crop&w=800&q=80',
+    heroImage: '/images/beachers-near-Nashville-TN.jpg',
     publishedAt: '2025-04-01',
     readTime: '7 min read',
   },
