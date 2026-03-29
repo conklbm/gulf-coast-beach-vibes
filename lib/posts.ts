@@ -105,7 +105,7 @@ export const posts: Post[] = [
       "The Gulf Coast won't beat Sanibel for variety, but the right beaches at the right time deliver lightning whelks, sand dollars, horse conchs, and more. Here's where serious shellers go.",
     category: 'Beach Life',
     heroImage:
-      'https://images.unsplash.com/photo-1563911302283-d2bc129e7570?auto=format&fit=crop&w=800&q=80',
+      'https://images.unsplash.com/photo-1586348943529-beaae6c28db9?auto=format&fit=crop&w=800&q=80',
     publishedAt: '2025-03-10',
     readTime: '7 min read',
   },
