@@ -8,6 +8,8 @@ import { posts, getPostBySlug } from '@/lib/posts'
 
 // Content components — one per article
 import PackingListContent from './content/gulf-coast-beach-packing-list'
+import BestThingsToDoGulfShoresContent from './content/best-things-to-do-gulf-shores'
+import BestGulfCoastBeachesFamiliesContent from './content/best-gulf-coast-beaches-for-families'
 import GulfShoresVsDestinContent from './content/gulf-shores-vs-destin'
 import GulfCoastFromAtlantaContent from './content/gulf-coast-from-atlanta'
 import BestTimeGulfShoresContent from './content/best-time-to-visit-gulf-shores'
@@ -16,6 +18,22 @@ import GulfCoastOctoberContent from './content/gulf-coast-in-october'
 import BestShellingContent from './content/best-shelling-beaches-gulf-coast'
 import PetFriendlyContent from './content/pet-friendly-gulf-coast-beaches'
 import GulfCoastFromNashvilleContent from './content/gulf-coast-from-nashville'
+import GulfCoastFromNewOrleansContent from './content/gulf-coast-from-new-orleans'
+import GulfCoastFromBirminghamContent from './content/gulf-coast-from-birmingham'
+import GulfShoresVsOrangeBeachContent from './content/gulf-shores-vs-orange-beach'
+import ThreeDaysInGulfShoresContent from './content/3-days-in-gulf-shores'
+import IsDestinWorthItContent from './content/is-destin-worth-it'
+import GulfCoastFromMemphisContent from './content/gulf-coast-from-memphis'
+import GulfCoastOnABudgetContent from './content/gulf-coast-on-a-budget'
+import BestTimeToVisitDestinContent from './content/best-time-to-visit-destin'
+import ThreeDaysInDestinContent from './content/3-days-in-destin'
+import PanamaCityBeachVsDestinContent from './content/panama-city-beach-vs-destin'
+import NavarreBeachGuideContent from './content/navarre-beach-guide'
+import FortWaltonBeachGuideContent from './content/fort-walton-beach-guide'
+import FortWaltonBeachVsDestinContent from './content/fort-walton-beach-vs-destin'
+import DauphinIslandGuideContent from './content/dauphin-island-guide'
+import ThirtyAFloridaGuideContent from './content/30a-florida-guide'
+import GulfCoastRoadTripItineraryContent from './content/gulf-coast-road-trip-itinerary'
 
 interface Props {
   params: { slug: string }
@@ -24,6 +42,8 @@ interface Props {
 // Map slugs to their content components
 const CONTENT_MAP: Record<string, React.ComponentType> = {
   'gulf-coast-beach-packing-list': PackingListContent,
+  'best-things-to-do-gulf-shores': BestThingsToDoGulfShoresContent,
+  'best-gulf-coast-beaches-for-families': BestGulfCoastBeachesFamiliesContent,
   'gulf-shores-vs-destin': GulfShoresVsDestinContent,
   'gulf-coast-from-atlanta': GulfCoastFromAtlantaContent,
   'best-time-to-visit-gulf-shores': BestTimeGulfShoresContent,
@@ -32,6 +52,22 @@ const CONTENT_MAP: Record<string, React.ComponentType> = {
   'best-shelling-beaches-gulf-coast': BestShellingContent,
   'pet-friendly-gulf-coast-beaches': PetFriendlyContent,
   'gulf-coast-from-nashville': GulfCoastFromNashvilleContent,
+  'gulf-coast-from-new-orleans': GulfCoastFromNewOrleansContent,
+  'gulf-coast-from-birmingham': GulfCoastFromBirminghamContent,
+  'gulf-shores-vs-orange-beach': GulfShoresVsOrangeBeachContent,
+  '3-days-in-gulf-shores': ThreeDaysInGulfShoresContent,
+  'is-destin-worth-it': IsDestinWorthItContent,
+  'gulf-coast-from-memphis': GulfCoastFromMemphisContent,
+  'gulf-coast-on-a-budget': GulfCoastOnABudgetContent,
+  'best-time-to-visit-destin': BestTimeToVisitDestinContent,
+  '3-days-in-destin': ThreeDaysInDestinContent,
+  'panama-city-beach-vs-destin': PanamaCityBeachVsDestinContent,
+  'navarre-beach-guide': NavarreBeachGuideContent,
+  'fort-walton-beach-guide': FortWaltonBeachGuideContent,
+  'fort-walton-beach-vs-destin': FortWaltonBeachVsDestinContent,
+  'dauphin-island-guide': DauphinIslandGuideContent,
+  '30a-florida-guide': ThirtyAFloridaGuideContent,
+  'gulf-coast-road-trip-itinerary': GulfCoastRoadTripItineraryContent,
 }
 
 export async function generateStaticParams() {
@@ -134,9 +170,13 @@ export default function BlogPostPage({ params }: Props) {
 
           <div className="mt-8 prose prose-lg max-w-none
                           prose-headings:font-display prose-headings:text-navy
-                          prose-p:text-navy/70 prose-p:leading-relaxed
+                          prose-h2:text-2xl prose-h2:mt-12 prose-h2:mb-4 prose-h2:pb-2 prose-h2:border-b prose-h2:border-navy/10
+                          prose-h3:text-xl prose-h3:mt-8 prose-h3:mb-3
+                          prose-p:text-navy/70 prose-p:leading-relaxed prose-p:mb-5
                           prose-a:text-ocean prose-a:no-underline hover:prose-a:underline
-                          prose-li:text-navy/70">
+                          prose-li:text-navy/70 prose-li:leading-relaxed
+                          prose-ul:my-5 prose-ul:space-y-1
+                          prose-strong:text-navy">
             <ContentComponent />
           </div>
         </div>
