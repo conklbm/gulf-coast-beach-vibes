@@ -21,10 +21,8 @@ export const destinations: Destination[] = [
     tagline: "Alabama's most secluded island escape",
     description:
       "A quiet barrier island at the mouth of Mobile Bay, Dauphin Island offers a peaceful alternative to the busier Gulf Coast beaches. Known for world-class birding, shelling, and that authentic \"old Gulf\" feel that's getting harder to find.",
-    heroImage:
-      'https://images.unsplash.com/photo-0hZylJ-wq9w?auto=format&fit=crop&w=1920&q=80',
-    cardImage:
-      'https://images.unsplash.com/photo-0hZylJ-wq9w?auto=format&fit=crop&w=800&q=80',
+    heroImage: '/images/dauphin-island-alabama.jpg',
+    cardImage: '/images/dauphin-island-alabama.jpg',
     highlights: [
       'Pristine barrier island beaches',
       'Audubon Bird Sanctuary',
@@ -41,10 +39,8 @@ export const destinations: Destination[] = [
     tagline: "Alabama's #1 beach destination",
     description:
       'Gulf Shores is where Alabama goes to the beach. With miles of white-sand Gulf Coast shoreline, Gulf State Park, great restaurants, and family-friendly activities, it earns the title of Alabama\'s beach capital every single year.',
-    heroImage:
-      'https://images.unsplash.com/photo-smN4NCzeuNI?auto=format&fit=crop&w=1920&q=80',
-    cardImage:
-      'https://images.unsplash.com/photo-smN4NCzeuNI?auto=format&fit=crop&w=800&q=80',
+    heroImage: '/images/gulf-shores-beach-alabama.jpg',
+    cardImage: '/images/gulf-shores-beach-alabama.jpg',
     highlights: [
       'Gulf State Park & nature trails',
       'Gulf Shores Public Beach',
@@ -61,10 +57,8 @@ export const destinations: Destination[] = [
     tagline: "Sportfishing capital of the Gulf Coast",
     description:
       "Orange Beach sits right next door to Gulf Shores and packs just as much punch — upscale condos, world-class marinas, deep-sea fishing, and some of the best fresh seafood on the Gulf. A little more resort-polished than its neighbor.",
-    heroImage:
-      'https://images.unsplash.com/photo-x_wloeGrJGs?auto=format&fit=crop&w=1920&q=80',
-    cardImage:
-      'https://images.unsplash.com/photo-x_wloeGrJGs?auto=format&fit=crop&w=800&q=80',
+    heroImage: '/images/orange-beach-alabama.jpg',
+    cardImage: '/images/orange-beach-alabama.jpg',
     highlights: [
       'Deep-sea fishing charters',
       'The Wharf entertainment complex',
@@ -81,10 +75,8 @@ export const destinations: Destination[] = [
     tagline: "World's whitest, most beautiful sand beaches",
     description:
       "Pensacola Beach sits on Santa Rosa Island and is home to some of the most stunning white quartz sand on the planet. The water runs every shade of green and blue, and the beach is consistently rated among the best in the country.",
-    heroImage:
-      'https://images.unsplash.com/photo-OehMzHBi-mo?auto=format&fit=crop&w=1920&q=80',
-    cardImage:
-      'https://images.unsplash.com/photo-OehMzHBi-mo?auto=format&fit=crop&w=800&q=80',
+    heroImage: '/images/pensacola-beach-florida.jpg',
+    cardImage: '/images/pensacola-beach-florida.jpg',
     highlights: [
       'Sugar-white quartz sand',
       'Gulf Islands National Seashore',
@@ -101,10 +93,8 @@ export const destinations: Destination[] = [
     tagline: 'A charming town on the Santa Rosa Sound',
     description:
       "Gulf Breeze is the gateway to Pensacola Beach — a quiet, walkable town on the peninsula between Pensacola Bay and Santa Rosa Sound. Great for kayaking, bay fishing, and experiencing local Florida life without the tourist crowds.",
-    heroImage:
-      'https://images.unsplash.com/photo-2vB8q-Qdwrg?auto=format&fit=crop&w=1920&q=80',
-    cardImage:
-      'https://images.unsplash.com/photo-2vB8q-Qdwrg?auto=format&fit=crop&w=800&q=80',
+    heroImage: '/images/gulf-breeze-florida.jpg',
+    cardImage: '/images/gulf-breeze-florida.jpg',
     highlights: [
       'Bay kayaking & paddleboarding',
       'Zoo of Northwest Florida',
@@ -121,10 +111,8 @@ export const destinations: Destination[] = [
     tagline: "Florida's best kept secret",
     description:
       "Navarre Beach has earned that nickname honestly. Tucked between Pensacola Beach and Fort Walton Beach, this uncrowded stretch of Gulf Islands National Seashore offers crystal-clear water, spectacular sunsets, and none of the chaos.",
-    heroImage:
-      'https://images.unsplash.com/photo-w7I8kiI2I6Q?auto=format&fit=crop&w=1920&q=80',
-    cardImage:
-      'https://images.unsplash.com/photo-w7I8kiI2I6Q?auto=format&fit=crop&w=800&q=80',
+    heroImage: '/images/navarre-beach-florida.jpg',
+    cardImage: '/images/navarre-beach-florida.jpg',
     highlights: [
       'Gulf Islands National Seashore',
       'One of the least-crowded beaches',
@@ -141,10 +129,8 @@ export const destinations: Destination[] = [
     tagline: 'Emerald Coast history and beach bliss',
     description:
       "Fort Walton Beach has everything you need for a great Gulf Coast vacation — great beaches, serious water sports, a walkable downtown with good food, and easy access to both Destin and Navarre. No pretension, just a good time.",
-    heroImage:
-      'https://images.unsplash.com/photo-1LY4A8xKRJs?auto=format&fit=crop&w=1920&q=80',
-    cardImage:
-      'https://images.unsplash.com/photo-1LY4A8xKRJs?auto=format&fit=crop&w=800&q=80',
+    heroImage: '/images/destin-florida.jpg',
+    cardImage: '/images/destin-florida.jpg',
     highlights: [
       'Okaloosa Island beaches',
       'Indian Temple Mound Museum',
@@ -161,10 +147,8 @@ export const destinations: Destination[] = [
     tagline: 'The Emerald Coast jewel — where the water is impossibly green',
     description:
       "Destin's emerald-green water is genuinely unlike anything else on the Gulf Coast. The combination of fine white quartz sand and clear shallow water creates a color that looks almost tropical. Add world-class fishing, great restaurants, and you understand why it's one of Florida's most visited beach towns.",
-    heroImage:
-      'https://images.unsplash.com/photo-Wx0u8dYX_y0?auto=format&fit=crop&w=1920&q=80',
-    cardImage:
-      'https://images.unsplash.com/photo-Wx0u8dYX_y0?auto=format&fit=crop&w=800&q=80',
+    heroImage: '/images/destin-florida.jpg',
+    cardImage: '/images/destin-florida.jpg',
     highlights: [
       'Iconic emerald-green water',
       "World's luckiest fishing village",
@@ -181,10 +165,8 @@ export const destinations: Destination[] = [
     tagline: 'Upscale 30A living on the Emerald Coast',
     description:
       "Miramar Beach is the more upscale, residential neighbor to Destin — quieter, more walkable, with luxury rentals right on the beach. It's a great base if you want Destin's water without Destin's crowds.",
-    heroImage:
-      'https://images.unsplash.com/photo-TzUyN1CkoxU?auto=format&fit=crop&w=1920&q=80',
-    cardImage:
-      'https://images.unsplash.com/photo-TzUyN1CkoxU?auto=format&fit=crop&w=800&q=80',
+    heroImage: '/images/seaside-florida.jpg',
+    cardImage: '/images/seaside-florida.jpg',
     highlights: [
       'Quiet, upscale beach community',
       'Sandestin Golf & Beach Resort',
@@ -201,10 +183,8 @@ export const destinations: Destination[] = [
     tagline: 'The iconic Panhandle town that inspired a movement',
     description:
       "Seaside is America's most famous planned community — the town that launched the New Urbanism movement and served as the set for The Truman Show. Its pastel cottages, white-picket fences, and turquoise water are the image most people picture when they think Florida Panhandle perfection.",
-    heroImage:
-      'https://images.unsplash.com/photo-Yws08GEgPGc?auto=format&fit=crop&w=1920&q=80',
-    cardImage:
-      'https://images.unsplash.com/photo-Yws08GEgPGc?auto=format&fit=crop&w=800&q=80',
+    heroImage: '/images/seaside-florida.jpg',
+    cardImage: '/images/seaside-florida.jpg',
     highlights: [
       'Iconic pastel architecture',
       'Vibrant Seaside Farmers Market',
@@ -221,10 +201,8 @@ export const destinations: Destination[] = [
     tagline: '27 miles of white-sand Gulf beaches',
     description:
       "Panama City Beach has the longest stretch of pure white Gulf sand on our list — 27 miles of it. Whether you're here for the beach, the theme parks, the nightlife, or the incredible seafood, PCB has something for everyone. It's bigger and louder than the others, and that's exactly why people love it.",
-    heroImage:
-      'https://images.unsplash.com/photo-pvxj_C-rPlw?auto=format&fit=crop&w=1920&q=80',
-    cardImage:
-      'https://images.unsplash.com/photo-pvxj_C-rPlw?auto=format&fit=crop&w=800&q=80',
+    heroImage: '/images/gulf-shores-beach-alabama.jpg',
+    cardImage: '/images/gulf-shores-beach-alabama.jpg',
     highlights: [
       '27 miles of Gulf beach',
       'Pier Park shopping & entertainment',
