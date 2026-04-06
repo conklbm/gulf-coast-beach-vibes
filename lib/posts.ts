@@ -36,8 +36,7 @@ export const posts: Post[] = [
     excerpt:
       "Traveling with kids? Not all Gulf beaches are created equal. Here's where you'll find calm water, soft sand, good food nearby, and easy parking — so everyone has a great day.",
     category: 'Family Travel',
-    heroImage:
-      'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?auto=format&fit=crop&w=800&q=80',
+    heroImage: '/images/gulf-shores-beach-alabama.jpg',
     publishedAt: '2024-11-01',
     readTime: '7 min read',
   },
@@ -68,8 +67,7 @@ export const posts: Post[] = [
     excerpt:
       "Gulf Shores is good in every season — but some months are dramatically better than others. Here's what to expect every month of the year, plus the two windows most locals would recommend.",
     category: 'Travel Tips',
-    heroImage:
-      'https://images.unsplash.com/photo-1473116763249-2faaef81ccda?auto=format&fit=crop&w=800&q=80',
+    heroImage: '/images/gulf-shores-beach-alabama.jpg',
     publishedAt: '2025-02-01',
     readTime: '10 min read',
   },
@@ -79,7 +77,7 @@ export const posts: Post[] = [
     excerpt:
       "Two of the best beaches on the planet, 50 miles apart. Same white quartz sand, same emerald Gulf water — but very different vibes, prices, and experiences. Here's how to choose.",
     category: 'Destination Guides',
-    heroImage: '/images/destin-vs-pensacola-beach.jpg',
+    heroImage: '/images/pensacola-beach-florida.jpg',
     publishedAt: '2025-02-15',
     readTime: '8 min read',
   },
@@ -142,8 +140,7 @@ export const posts: Post[] = [
     excerpt:
       "Birmingham to Gulf Shores is 3 hours on I-65 — one straight shot, no tolls, and some of the best white-sand beaches in the country at the end. Here's everything you need to plan it.",
     category: 'Road Trips',
-    heroImage:
-      'https://images.unsplash.com/photo-1495563381401-ecf3b1abe044?auto=format&fit=crop&w=800&q=80',
+    heroImage: '/images/gulf-coast-from-birmingham.jpg',
     publishedAt: '2025-04-20',
     readTime: '7 min read',
   },
@@ -153,7 +150,7 @@ export const posts: Post[] = [
     excerpt:
       "Gulf Shores and Orange Beach are 10 minutes apart with the same gorgeous Gulf water — but they attract different travelers for real reasons. Here's the honest breakdown.",
     category: 'Destination Guides',
-    heroImage: '/images/gulf-shores-beach-alabama.jpg',
+    heroImage: '/images/orange-beach-alabama.jpg',
     publishedAt: '2025-05-01',
     readTime: '8 min read',
   },
@@ -173,8 +170,7 @@ export const posts: Post[] = [
     excerpt:
       "Destin is expensive and crowded in summer. So is it actually worth the premium — or are you paying for a brand name? Here's a straight answer with no sales pitch.",
     category: 'Destination Guides',
-    heroImage:
-      'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80',
+    heroImage: '/images/destin-vs-pensacola-beach.jpg',
     publishedAt: '2025-05-20',
     readTime: '8 min read',
   },
@@ -195,8 +191,7 @@ export const posts: Post[] = [
     excerpt:
       "The Gulf Coast doesn't have to be expensive. The right timing, the right beach, and a few smart moves can cut your costs 30–40% while delivering the same white sand and warm Gulf water.",
     category: 'Travel Tips',
-    heroImage:
-      'https://images.unsplash.com/photo-1473116763249-2faaef81ccda?auto=format&fit=crop&w=800&q=80',
+    heroImage: '/images/gulf-shores-beach-alabama.jpg',
     publishedAt: '2025-06-10',
     readTime: '9 min read',
   },
@@ -206,8 +201,7 @@ export const posts: Post[] = [
     excerpt:
       "Destin is worth visiting any time of year — but the experience (and price) varies dramatically by season. Here's exactly what to expect each month, plus the two windows locals recommend.",
     category: 'Travel Tips',
-    heroImage:
-      'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80',
+    heroImage: '/images/destin-vs-pensacola-beach.jpg',
     publishedAt: '2025-06-20',
     readTime: '10 min read',
   },
@@ -217,8 +211,7 @@ export const posts: Post[] = [
     excerpt:
       "Three days is enough to experience the best of Destin — the emerald water, Henderson Beach, Harborwalk Village, world-class fishing, and the freshest Gulf seafood you've ever had.",
     category: 'Travel Tips',
-    heroImage:
-      'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80',
+    heroImage: '/images/destin-vs-pensacola-beach.jpg',
     publishedAt: '2025-07-01',
     readTime: '8 min read',
   },
@@ -238,8 +231,7 @@ export const posts: Post[] = [
     excerpt:
       "Navarre Beach sits between Pensacola Beach and Fort Walton Beach with the same white sand and emerald water — and a fraction of the crowds. Here's everything you need to know about one of the most underrated beaches on the Gulf Coast.",
     category: 'Destination Guides',
-    heroImage:
-      'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80',
+    heroImage: '/images/gulf-breeze-florida.jpg',
     publishedAt: '2025-08-01',
     readTime: '8 min read',
   },
@@ -271,8 +263,7 @@ export const posts: Post[] = [
     excerpt:
       "Dauphin Island sits at the western edge of the Gulf Coast corridor with a Civil War fort, one of the best birding spots in North America, excellent shelling, and some of the most uncrowded beaches in Alabama. Here's everything you need to know.",
     category: 'Destination Guides',
-    heroImage:
-      'https://images.unsplash.com/photo-1473116763249-2faaef81ccda?auto=format&fit=crop&w=800&q=80',
+    heroImage: '/images/dauphin-island-alabama.jpg',
     publishedAt: '2025-09-01',
     readTime: '9 min read',
   },
