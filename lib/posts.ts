@@ -56,8 +56,7 @@ export const posts: Post[] = [
     excerpt:
       "Atlanta to the Gulf Coast is one of the best beach drives in the Southeast — under 6 hours, no tolls, and some of the most beautiful white-sand beaches in America waiting at the end.",
     category: 'Road Trips',
-    heroImage:
-      'https://images.unsplash.com/photo-1753744402410-44319f72f8c5?auto=format&fit=crop&w=800&q=80',
+    heroImage: '/images/gulf-shores-beach-alabama.jpg',
     publishedAt: '2025-01-20',
     readTime: '8 min read',
   },
@@ -87,8 +86,7 @@ export const posts: Post[] = [
     excerpt:
       "September crowds are gone, the water is still 75°F, prices drop 30%, and the weather is perfect. October might be the best month to visit the Gulf Coast — and almost no one knows it.",
     category: 'Travel Tips',
-    heroImage:
-      'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80',
+    heroImage: '/images/gulf-shores-beach-alabama.jpg',
     publishedAt: '2025-03-01',
     readTime: '7 min read',
   },
@@ -108,8 +106,7 @@ export const posts: Post[] = [
     excerpt:
       "Dogs are welcome on parts of the Gulf Coast year-round — but the rules vary dramatically by location and season. Here's the complete breakdown so you don't get turned away at the gate.",
     category: 'Travel Tips',
-    heroImage:
-      'https://images.unsplash.com/photo-1587300003388-59208cc962cb?auto=format&fit=crop&w=800&q=80',
+    heroImage: '/images/gulf-shores-beach-alabama.jpg',
     publishedAt: '2025-03-20',
     readTime: '6 min read',
   },
@@ -129,8 +126,7 @@ export const posts: Post[] = [
     excerpt:
       "New Orleans sits 80 miles from the Gulf — but the best beaches are 2.5 hours east in Alabama and the Florida Panhandle. Here's why locals make the drive and exactly how to do it.",
     category: 'Road Trips',
-    heroImage:
-      'https://images.unsplash.com/photo-1568702846914-96b305d2aaeb?auto=format&fit=crop&w=800&q=80',
+    heroImage: '/images/gulf-shores-beach-alabama.jpg',
     publishedAt: '2025-04-15',
     readTime: '7 min read',
   },
@@ -170,7 +166,7 @@ export const posts: Post[] = [
     excerpt:
       "Destin is expensive and crowded in summer. So is it actually worth the premium — or are you paying for a brand name? Here's a straight answer with no sales pitch.",
     category: 'Destination Guides',
-    heroImage: '/images/destin-vs-pensacola-beach.jpg',
+    heroImage: '/images/destin-florida.jpg',
     publishedAt: '2025-05-20',
     readTime: '8 min read',
   },
@@ -180,8 +176,7 @@ export const posts: Post[] = [
     excerpt:
       "Memphis to Gulf Shores is 6 hours on I-65 — a very doable beach drive with one of the best white-sand Gulf Coast destinations at the end. Here's the best route and everything to plan.",
     category: 'Road Trips',
-    heroImage:
-      'https://images.unsplash.com/photo-1476984251899-8d7fdfc5c92c?auto=format&fit=crop&w=800&q=80',
+    heroImage: '/images/gulf-shores-beach-alabama.jpg',
     publishedAt: '2025-06-01',
     readTime: '7 min read',
   },
@@ -201,7 +196,7 @@ export const posts: Post[] = [
     excerpt:
       "Destin is worth visiting any time of year — but the experience (and price) varies dramatically by season. Here's exactly what to expect each month, plus the two windows locals recommend.",
     category: 'Travel Tips',
-    heroImage: '/images/destin-vs-pensacola-beach.jpg',
+    heroImage: '/images/destin-florida.jpg',
     publishedAt: '2025-06-20',
     readTime: '10 min read',
   },
@@ -211,7 +206,7 @@ export const posts: Post[] = [
     excerpt:
       "Three days is enough to experience the best of Destin — the emerald water, Henderson Beach, Harborwalk Village, world-class fishing, and the freshest Gulf seafood you've ever had.",
     category: 'Travel Tips',
-    heroImage: '/images/destin-vs-pensacola-beach.jpg',
+    heroImage: '/images/destin-florida.jpg',
     publishedAt: '2025-07-01',
     readTime: '8 min read',
   },
@@ -221,7 +216,7 @@ export const posts: Post[] = [
     excerpt:
       "PCB and Destin are the two biggest names on the Florida Panhandle — same white sand, similar Gulf water, but very different vibes, prices, and experiences. Here's the honest breakdown.",
     category: 'Destination Guides',
-    heroImage: '/images/destin-vs-pensacola-beach.jpg',
+    heroImage: '/images/destin-florida.jpg',
     publishedAt: '2025-07-10',
     readTime: '8 min read',
   },
@@ -231,7 +226,7 @@ export const posts: Post[] = [
     excerpt:
       "Navarre Beach sits between Pensacola Beach and Fort Walton Beach with the same white sand and emerald water — and a fraction of the crowds. Here's everything you need to know about one of the most underrated beaches on the Gulf Coast.",
     category: 'Destination Guides',
-    heroImage: '/images/gulf-breeze-florida.jpg',
+    heroImage: '/images/navarre-beach-florida.jpg',
     publishedAt: '2025-08-01',
     readTime: '8 min read',
   },
@@ -241,8 +236,7 @@ export const posts: Post[] = [
     excerpt:
       "Fort Walton Beach shares the same barrier island and emerald Gulf water as Destin — at prices 15–25% lower, with far less traffic and a beach that actually has room on it. Here's the complete guide.",
     category: 'Destination Guides',
-    heroImage:
-      'https://images.unsplash.com/photo-1568702846914-96b305d2aaeb?auto=format&fit=crop&w=800&q=80',
+    heroImage: '/images/destin-florida.jpg',
     publishedAt: '2025-08-10',
     readTime: '8 min read',
   },
@@ -252,8 +246,7 @@ export const posts: Post[] = [
     excerpt:
       "Same barrier island, same emerald water, same white sand — but Fort Walton Beach is significantly cheaper and less crowded than Destin. Here's the honest comparison to help you decide.",
     category: 'Destination Guides',
-    heroImage:
-      'https://images.unsplash.com/photo-1495563381401-ecf3b1abe044?auto=format&fit=crop&w=800&q=80',
+    heroImage: '/images/destin-florida.jpg',
     publishedAt: '2025-08-20',
     readTime: '7 min read',
   },
@@ -273,8 +266,7 @@ export const posts: Post[] = [
     excerpt:
       "Highway 30A traces 24 miles of the most distinctive coast on the Florida Panhandle — rare dune lakes, height-restricted development, and a string of planned communities from Seaside to Rosemary Beach. Here's the complete guide.",
     category: 'Destination Guides',
-    heroImage:
-      'https://images.unsplash.com/photo-1476984251899-8d7fdfc5c92c?auto=format&fit=crop&w=800&q=80',
+    heroImage: '/images/seaside-florida.jpg',
     publishedAt: '2025-09-10',
     readTime: '10 min read',
   },
@@ -284,8 +276,7 @@ export const posts: Post[] = [
     excerpt:
       "200 miles of white sand, emerald water, Civil War forts, barrier islands, and the best beaches in the country — all on one coastal road trip. Here's how to drive the full Gulf Coast corridor from Alabama to the Florida Panhandle.",
     category: 'Road Trips',
-    heroImage:
-      'https://images.unsplash.com/photo-1568702846914-96b305d2aaeb?auto=format&fit=crop&w=800&q=80',
+    heroImage: '/images/gulf-shores-beach-alabama.jpg',
     publishedAt: '2025-09-20',
     readTime: '10 min read',
   },
