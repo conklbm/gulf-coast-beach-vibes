@@ -4,7 +4,7 @@
 **Goal:** Rank for Gulf Coast travel searches, drive affiliate revenue, grow email list  
 **Geographic focus:** Dauphin Island, AL → Panama City Beach, FL  
 **Primary audience:** Travelers from Birmingham, Atlanta, Nashville, Memphis, New Orleans, Houston driving to the Gulf Coast  
-**Last updated:** 2026-05-28
+**Last updated:** 2026-07-04
 
 ---
 
@@ -52,12 +52,28 @@ Google rewards sites that thoroughly cover a topic. For us, the topic is **Gulf 
 - [x] `robots.ts` in place
 - [x] **Google Search Console** — verified and live (104 clicks, 27.9K impressions as of 2026-05-28)
 - [ ] **Google Analytics** or Vercel Analytics tracking conversions
-- [ ] Schema markup (Article JSON-LD) on blog posts
+- [x] Schema markup (Article JSON-LD) on blog posts — publisher + headline + image (dateless, see Evergreen Content Policy)
 - [ ] Schema markup (TouristDestination) on destination pages
 - [ ] Open Graph images for each post (currently defaulting to hero image — should be 1200×630)
 - [ ] Canonical tags confirmed on all pages
 - [ ] Core Web Vitals audit (run Lighthouse on homepage + a blog post)
 - [ ] Internal linking audit — every destination page linked from at least 3 blog posts
+- [x] **Evergreen content policy** — no reader-visible publish dates anywhere on the site (see Evergreen Content Policy below)
+
+---
+
+## Evergreen Content Policy (No Visible Dates)
+
+Our content is evergreen: comparisons, itineraries, destination guides, and "best time to visit" posts stay accurate for years. We deliberately show **no publish date to readers** so an older article never *looks* stale in a search snippet or on the page. There is no SEO penalty for this — Google does not require a visible date, and at our position range a date was never helping us.
+
+**How it's implemented (keep all four consistent — never show a date we don't also put in structured data, and vice versa):**
+
+1. **No visible date** in the article hero — read time only (`app/blog/[slug]/page.tsx`).
+2. **No `datePublished`/`dateModified`** in the Article JSON-LD — so structured data matches the page.
+3. **Sitemap `lastModified` = build time** for all pages (`app/sitemap.ts`), so crawlers treat content as current rather than years old.
+4. **`publishedAt` stays in the data model** (`lib/posts.ts`) but is **internal only** — used for ordering/reference, never rendered. It's fine to keep filling it in.
+
+**Exception:** if a specific post is genuinely time-sensitive (e.g. an event recap), we can selectively surface a date on that one post. Default is dateless.
 
 ---
 
@@ -285,6 +301,20 @@ These capture searchers at the planning stage — the best moment to show accomm
 - Every comparison post → links to both destination guides
 - Destination guides → link to all related blog posts
 - Homepage → links to top 6 blog posts + all 11 destinations
+
+### Per-Article Internal Linking Gate (REQUIRED on every new post)
+
+Interlinking is a **publishing requirement, not an afterthought** — no post ships without it. When building each article (including the 50-post batch), every post must include, at minimum:
+
+- **2–4 contextual internal links** placed naturally in the body (not a link dump).
+- **At least 1 link to the relevant destination page** (`/destinations/[slug]`) whenever a destination is named.
+- **At least 1 link to a sibling blog post** in the same cluster — e.g.:
+  - `3-days-in-[dest]` ↔ `best-time-to-visit-[dest]` ↔ `best-things-to-do-[dest]` ↔ `where-to-stay-[dest]`
+  - Comparison posts link to each destination's guide/itinerary
+  - Road-trip posts link to the destination(s) they arrive at
+- **Reciprocity:** when a new post has an obvious "hub" (a destination page or pillar post), that hub should link back. Track gaps in the Content Tracker's "Internal Links From" column.
+
+Goal state: every destination page is linked from **≥3 blog posts**, and every blog post links out to **≥2 other internal pages**. Re-run the internal linking audit after each publishing batch.
 
 ### External Link Targets
 When the site has more content, pursue:

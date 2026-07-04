@@ -34,6 +34,7 @@ import FortWaltonBeachVsDestinContent from './content/fort-walton-beach-vs-desti
 import DauphinIslandGuideContent from './content/dauphin-island-guide'
 import ThirtyAFloridaGuideContent from './content/30a-florida-guide'
 import GulfCoastRoadTripItineraryContent from './content/gulf-coast-road-trip-itinerary'
+import ThreeDaysInPensacolaBeachContent from './content/3-days-in-pensacola-beach'
 
 interface Props {
   params: { slug: string }
@@ -68,6 +69,7 @@ const CONTENT_MAP: Record<string, React.ComponentType> = {
   'dauphin-island-guide': DauphinIslandGuideContent,
   '30a-florida-guide': ThirtyAFloridaGuideContent,
   'gulf-coast-road-trip-itinerary': GulfCoastRoadTripItineraryContent,
+  '3-days-in-pensacola-beach': ThreeDaysInPensacolaBeachContent,
 }
 
 export async function generateStaticParams() {
@@ -118,7 +120,6 @@ export default function BlogPostPage({ params }: Props) {
     headline: post.title,
     description: post.excerpt,
     image: post.heroImage,
-    datePublished: post.publishedAt,
     publisher: {
       '@type': 'Organization',
       name: 'Gulf Coast Beach Vibes',
@@ -153,12 +154,7 @@ export default function BlogPostPage({ params }: Props) {
             {post.title}
           </h1>
           <p className="text-white/60 text-sm mt-3">
-            {post.readTime} &middot;{' '}
-            {new Date(post.publishedAt).toLocaleDateString('en-US', {
-              month: 'long',
-              day: 'numeric',
-              year: 'numeric',
-            })}
+            {post.readTime}
           </p>
         </div>
       </section>

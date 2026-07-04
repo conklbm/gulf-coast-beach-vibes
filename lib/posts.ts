@@ -280,6 +280,16 @@ export const posts: Post[] = [
     publishedAt: '2025-09-20',
     readTime: '10 min read',
   },
+  {
+    slug: '3-days-in-pensacola-beach',
+    title: '3 Days in Pensacola Beach: A Long Weekend Itinerary That Actually Makes Sense',
+    excerpt:
+      'Three days in Pensacola Beach gives you enough time for Casino Beach, the Gulf Pier, Fort Pickens, Opal Beach, and one good Pensacola-area side trip. This itinerary keeps the trip realistic, flexible, and easy to plan.',
+    category: 'Itinerary',
+    heroImage: '/images/3-days-in-pensacola-beach.webp',
+    publishedAt: '2026-07-04',
+    readTime: '9 min read',
+  },
 ]
 
 export function getPostBySlug(slug: string): Post | undefined {
