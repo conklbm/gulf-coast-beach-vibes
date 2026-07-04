@@ -13,7 +13,7 @@ const eatGuides = [
     title: 'Best Seafood Restaurants in Gulf Shores, AL',
     excerpt:
       "From Lulu's to Gulf Shores Steamer — the best places to eat fresh Gulf seafood in Alabama's beach capital, ranked by a local.",
-    imageSrc: 'https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=800&q=80',
+    imageSrc: '/images/best-seafood-gulf-shores.webp',
     category: 'Gulf Shores',
     meta: 'Seafood',
   },
@@ -22,7 +22,7 @@ const eatGuides = [
     title: 'Best Restaurants in Destin, FL',
     excerpt:
       "Destin has some of the best waterfront dining on the Emerald Coast. Here's where to eat — from dockside raw bars to romantic dinner spots.",
-    imageSrc: 'https://images.unsplash.com/photo-1473116763249-2faaef81ccda?auto=format&fit=crop&w=800&q=80',
+    imageSrc: '/images/best-restaurants-destin.webp',
     category: 'Destin',
     meta: 'Dining guide',
   },

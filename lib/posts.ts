@@ -36,7 +36,7 @@ export const posts: Post[] = [
     excerpt:
       "Traveling with kids? Not all Gulf beaches are created equal. Here's where you'll find calm water, soft sand, good food nearby, and easy parking — so everyone has a great day.",
     category: 'Family Travel',
-    heroImage: '/images/gulf-shores-beach-alabama.jpg',
+    heroImage: '/images/best-gulf-coast-beaches-families.webp',
     publishedAt: '2024-11-01',
     readTime: '7 min read',
   },
@@ -46,7 +46,7 @@ export const posts: Post[] = [
     excerpt:
       "It's the most common question Gulf Coast travelers ask. Both have stunning white sand and warm Gulf water — but they're very different trips. Here's the honest breakdown.",
     category: 'Destination Guides',
-    heroImage: '/images/gulf-shores-beach-alabama.jpg',
+    heroImage: '/images/gulf-shores-vs-destin.webp',
     publishedAt: '2025-01-10',
     readTime: '9 min read',
   },
@@ -56,7 +56,7 @@ export const posts: Post[] = [
     excerpt:
       "Atlanta to the Gulf Coast is one of the best beach drives in the Southeast — under 6 hours, no tolls, and some of the most beautiful white-sand beaches in America waiting at the end.",
     category: 'Road Trips',
-    heroImage: '/images/gulf-shores-beach-alabama.jpg',
+    heroImage: '/images/gulf-coast-from-atlanta.webp',
     publishedAt: '2025-01-20',
     readTime: '8 min read',
   },
@@ -66,7 +66,7 @@ export const posts: Post[] = [
     excerpt:
       "Gulf Shores is good in every season — but some months are dramatically better than others. Here's what to expect every month of the year, plus the two windows most locals would recommend.",
     category: 'Travel Tips',
-    heroImage: '/images/gulf-shores-beach-alabama.jpg',
+    heroImage: '/images/best-time-to-visit-gulf-shores.webp',
     publishedAt: '2025-02-01',
     readTime: '10 min read',
   },
@@ -86,7 +86,7 @@ export const posts: Post[] = [
     excerpt:
       "September crowds are gone, the water is still 75°F, prices drop 30%, and the weather is perfect. October might be the best month to visit the Gulf Coast — and almost no one knows it.",
     category: 'Travel Tips',
-    heroImage: '/images/gulf-shores-beach-alabama.jpg',
+    heroImage: '/images/gulf-coast-in-october.webp',
     publishedAt: '2025-03-01',
     readTime: '7 min read',
   },
@@ -106,7 +106,7 @@ export const posts: Post[] = [
     excerpt:
       "Dogs are welcome on parts of the Gulf Coast year-round — but the rules vary dramatically by location and season. Here's the complete breakdown so you don't get turned away at the gate.",
     category: 'Travel Tips',
-    heroImage: '/images/gulf-shores-beach-alabama.jpg',
+    heroImage: '/images/pet-friendly-gulf-coast.webp',
     publishedAt: '2025-03-20',
     readTime: '6 min read',
   },
@@ -116,7 +116,7 @@ export const posts: Post[] = [
     excerpt:
       "Gulf Shores is closer to Nashville than most people realize — a straight shot down I-65, under 5 hours on a good day. Here's everything you need to plan the perfect Nashville-to-Gulf-Coast trip.",
     category: 'Road Trips',
-    heroImage: '/images/beachers-near-Nashville-TN.jpg',
+    heroImage: '/images/gulf-coast-from-nashville.webp',
     publishedAt: '2025-04-01',
     readTime: '7 min read',
   },
@@ -126,7 +126,7 @@ export const posts: Post[] = [
     excerpt:
       "New Orleans sits 80 miles from the Gulf — but the best beaches are 2.5 hours east in Alabama and the Florida Panhandle. Here's why locals make the drive and exactly how to do it.",
     category: 'Road Trips',
-    heroImage: '/images/gulf-shores-beach-alabama.jpg',
+    heroImage: '/images/gulf-coast-from-new-orleans.webp',
     publishedAt: '2025-04-15',
     readTime: '7 min read',
   },
@@ -156,7 +156,7 @@ export const posts: Post[] = [
     excerpt:
       "Three days is enough to do Gulf Shores right — two beach days, one state park day, great seafood every night. Here's exactly how to spend a long weekend on the Alabama Gulf Coast.",
     category: 'Travel Tips',
-    heroImage: '/images/gulf-shores-beach-alabama.jpg',
+    heroImage: '/images/3-days-gulf-shores.webp',
     publishedAt: '2025-05-10',
     readTime: '8 min read',
   },
@@ -176,7 +176,7 @@ export const posts: Post[] = [
     excerpt:
       "Memphis to Gulf Shores is 6 hours on I-65 — a very doable beach drive with one of the best white-sand Gulf Coast destinations at the end. Here's the best route and everything to plan.",
     category: 'Road Trips',
-    heroImage: '/images/gulf-shores-beach-alabama.jpg',
+    heroImage: '/images/gulf-coast-from-memphis.webp',
     publishedAt: '2025-06-01',
     readTime: '7 min read',
   },
@@ -186,7 +186,7 @@ export const posts: Post[] = [
     excerpt:
       "The Gulf Coast doesn't have to be expensive. The right timing, the right beach, and a few smart moves can cut your costs 30–40% while delivering the same white sand and warm Gulf water.",
     category: 'Travel Tips',
-    heroImage: '/images/gulf-shores-beach-alabama.jpg',
+    heroImage: '/images/gulf-coast-on-a-budget.webp',
     publishedAt: '2025-06-10',
     readTime: '9 min read',
   },
@@ -216,7 +216,7 @@ export const posts: Post[] = [
     excerpt:
       "PCB and Destin are the two biggest names on the Florida Panhandle — same white sand, similar Gulf water, but very different vibes, prices, and experiences. Here's the honest breakdown.",
     category: 'Destination Guides',
-    heroImage: '/images/destin-florida.jpg',
+    heroImage: '/images/panama-city-beach-vs-destin.webp',
     publishedAt: '2025-07-10',
     readTime: '8 min read',
   },
@@ -236,7 +236,7 @@ export const posts: Post[] = [
     excerpt:
       "Fort Walton Beach shares the same barrier island and emerald Gulf water as Destin — at prices 15–25% lower, with far less traffic and a beach that actually has room on it. Here's the complete guide.",
     category: 'Destination Guides',
-    heroImage: '/images/destin-florida.jpg',
+    heroImage: '/images/fort-walton-beach-guide.webp',
     publishedAt: '2025-08-10',
     readTime: '8 min read',
   },
@@ -246,7 +246,7 @@ export const posts: Post[] = [
     excerpt:
       "Same barrier island, same emerald water, same white sand — but Fort Walton Beach is significantly cheaper and less crowded than Destin. Here's the honest comparison to help you decide.",
     category: 'Destination Guides',
-    heroImage: '/images/destin-florida.jpg',
+    heroImage: '/images/fort-walton-beach-vs-destin.webp',
     publishedAt: '2025-08-20',
     readTime: '7 min read',
   },
@@ -276,7 +276,7 @@ export const posts: Post[] = [
     excerpt:
       "200 miles of white sand, emerald water, Civil War forts, barrier islands, and the best beaches in the country — all on one coastal road trip. Here's how to drive the full Gulf Coast corridor from Alabama to the Florida Panhandle.",
     category: 'Road Trips',
-    heroImage: '/images/gulf-shores-beach-alabama.jpg',
+    heroImage: '/images/gulf-coast-road-trip.webp',
     publishedAt: '2025-09-20',
     readTime: '10 min read',
   },

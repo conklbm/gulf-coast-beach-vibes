@@ -13,8 +13,7 @@ const activityGuides = [
     title: 'Best Things to Do in Gulf Shores, AL',
     excerpt:
       "Gulf Shores has way more going on than just the beach. From Gulf State Park hiking to fishing charters, live music, and water parks — here's the full activity guide.",
-    imageSrc:
-      'https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=800&q=80',
+    imageSrc: '/images/best-things-to-do-gulf-shores-activities.webp',
     category: 'Gulf Shores',
     meta: '8 activities',
   },
@@ -33,8 +32,7 @@ const activityGuides = [
     title: 'Best Fishing Charters on the Gulf Coast',
     excerpt:
       'The Gulf of Mexico is one of the best fishing destinations in the world. Half-day bay trips, full-day offshore, and deep-sea charters — here are the best charter companies at each port.',
-    imageSrc:
-      'https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80',
+    imageSrc: '/images/best-fishing-charters.webp',
     category: 'Fishing',
     meta: 'Charter guide',
   },

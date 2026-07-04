@@ -129,8 +129,8 @@ export const destinations: Destination[] = [
     tagline: 'Emerald Coast history and beach bliss',
     description:
       "Fort Walton Beach has everything you need for a great Gulf Coast vacation — great beaches, serious water sports, a walkable downtown with good food, and easy access to both Destin and Navarre. No pretension, just a good time.",
-    heroImage: '/images/destin-florida.jpg',
-    cardImage: '/images/destin-florida.jpg',
+    heroImage: '/images/fort-walton-beach-florida.webp',
+    cardImage: '/images/fort-walton-beach-florida.webp',
     highlights: [
       'Okaloosa Island beaches',
       'Indian Temple Mound Museum',
@@ -165,8 +165,8 @@ export const destinations: Destination[] = [
     tagline: 'Upscale 30A living on the Emerald Coast',
     description:
       "Miramar Beach is the more upscale, residential neighbor to Destin — quieter, more walkable, with luxury rentals right on the beach. It's a great base if you want Destin's water without Destin's crowds.",
-    heroImage: '/images/seaside-florida.jpg',
-    cardImage: '/images/seaside-florida.jpg',
+    heroImage: '/images/miramar-beach-florida.webp',
+    cardImage: '/images/miramar-beach-florida.webp',
     highlights: [
       'Quiet, upscale beach community',
       'Sandestin Golf & Beach Resort',
@@ -201,8 +201,8 @@ export const destinations: Destination[] = [
     tagline: '27 miles of white-sand Gulf beaches',
     description:
       "Panama City Beach has the longest stretch of pure white Gulf sand on our list — 27 miles of it. Whether you're here for the beach, the theme parks, the nightlife, or the incredible seafood, PCB has something for everyone. It's bigger and louder than the others, and that's exactly why people love it.",
-    heroImage: '/images/gulf-shores-beach-alabama.jpg',
-    cardImage: '/images/gulf-shores-beach-alabama.jpg',
+    heroImage: '/images/panama-city-beach-florida.webp',
+    cardImage: '/images/panama-city-beach-florida.webp',
     highlights: [
       '27 miles of Gulf beach',
       'Pier Park shopping & entertainment',

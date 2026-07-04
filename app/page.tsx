@@ -65,7 +65,7 @@ const categories = [
     href:        '/newsletter',
     label:       'Newsletter',
     icon:        '✉️',
-    imageSrc:    'https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=800&q=80',
+    imageSrc:    '/images/newsletter-gulf-coast.webp',
     imageAlt:    'Gulf Coast beach at golden hour',
     description: 'Weekly Gulf Coast tips',
   },

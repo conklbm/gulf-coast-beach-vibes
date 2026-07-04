@@ -23,8 +23,7 @@ const stayGuides = [
     title: 'Best VRBO Vacation Rentals in Gulf Shores',
     excerpt:
       'The best houses and condos on VRBO for Gulf Shores — sorted by beachfront access, family size, and value. Updated for this season.',
-    imageSrc:
-      'https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=800&q=80',
+    imageSrc: '/images/best-vrbo-gulf-shores.webp',
     category: 'Gulf Shores',
     meta: 'Vacation Rentals',
   },
@@ -33,8 +32,7 @@ const stayGuides = [
     title: "Best Hotels in Destin, FL — From Budget to Luxury",
     excerpt:
       "From the Henderson Park Inn to beachfront condos, here's every kind of stay in Destin ranked by location, value, and what kind of trip you're planning.",
-    imageSrc:
-      'https://images.unsplash.com/photo-1473116763249-2faaef81ccda?auto=format&fit=crop&w=800&q=80',
+    imageSrc: '/images/best-hotels-destin.webp',
     category: 'Destin',
     meta: 'Hotels',
   },
