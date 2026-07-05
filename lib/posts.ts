@@ -660,6 +660,46 @@ export const posts: Post[] = [
     publishedAt: '2026-07-04',
     readTime: '9 min read',
   },
+  {
+    slug: 'gulf-coast-in-march',
+    title: 'Gulf Coast in March: Spring Break Crowds and Weather',
+    excerpt:
+      'March can be a good time to visit the Gulf Coast, but it depends on the beach and the kind of trip you want. This guide breaks down spring break crowds, March weather, Gulf water temperatures, beach rules, and the best places to go from Dauphin Island to Panama City Beach.',
+    category: 'Seasonal',
+    heroImage: '/images/gulf-coast-in-march.webp',
+    publishedAt: '2026-07-04',
+    readTime: '8 min read',
+  },
+  {
+    slug: 'gulf-coast-in-may',
+    title: 'Gulf Coast in May: The Sweet Spot Before Summer',
+    excerpt:
+      'May is one of the best months to visit the Gulf Coast, especially before Memorial Day weekend. This guide covers May weather, water temperatures, crowds, beach safety, sea turtle season, events, and where to go from Dauphin Island to Panama City Beach.',
+    category: 'Seasonal',
+    heroImage: '/images/gulf-coast-in-may.webp',
+    publishedAt: '2026-07-04',
+    readTime: '8 min read',
+  },
+  {
+    slug: 'gulf-coast-in-september',
+    title: 'Gulf Coast in September: Still Warm, Half the Crowds',
+    excerpt:
+      'September can be one of the best months to visit the Gulf Coast if you can stay flexible. The water is still warm, crowds usually drop after Labor Day, and the beach still feels like summer, but hurricane season is the big tradeoff.',
+    category: 'Seasonal',
+    heroImage: '/images/gulf-coast-in-september.webp',
+    publishedAt: '2026-07-04',
+    readTime: '8 min read',
+  },
+  {
+    slug: 'gulf-coast-in-december',
+    title: 'Gulf Coast in December: Off-Season Done Right',
+    excerpt:
+      'December is a good time to visit the Gulf Coast if you want quiet beaches, mild weather, holiday lights, seafood, and slower mornings. This guide explains what to expect from Dauphin Island to Panama City Beach, including weather, crowds, events, beach safety, and winter logistics.',
+    category: 'Seasonal',
+    heroImage: '/images/gulf-coast-in-december.webp',
+    publishedAt: '2026-07-04',
+    readTime: '8 min read',
+  },
 ]
 
 export function getPostBySlug(slug: string): Post | undefined {

@@ -72,6 +72,10 @@ import BestTimeToVisitOrangeBeachContent from './content/best-time-to-visit-oran
 import BestTimeToVisitPanamaCityBeachContent from './content/best-time-to-visit-panama-city-beach'
 import BestTimeToVisit30AContent from './content/best-time-to-visit-30a'
 import BestTimeToVisitNavarreBeachContent from './content/best-time-to-visit-navarre-beach'
+import GulfCoastInMarchContent from './content/gulf-coast-in-march'
+import GulfCoastInMayContent from './content/gulf-coast-in-may'
+import GulfCoastInSeptemberContent from './content/gulf-coast-in-september'
+import GulfCoastInDecemberContent from './content/gulf-coast-in-december'
 
 interface Props {
   params: { slug: string }
@@ -144,6 +148,10 @@ const CONTENT_MAP: Record<string, React.ComponentType> = {
   'best-time-to-visit-panama-city-beach': BestTimeToVisitPanamaCityBeachContent,
   'best-time-to-visit-30a': BestTimeToVisit30AContent,
   'best-time-to-visit-navarre-beach': BestTimeToVisitNavarreBeachContent,
+  'gulf-coast-in-march': GulfCoastInMarchContent,
+  'gulf-coast-in-may': GulfCoastInMayContent,
+  'gulf-coast-in-september': GulfCoastInSeptemberContent,
+  'gulf-coast-in-december': GulfCoastInDecemberContent,
 }
 
 export async function generateStaticParams() {
