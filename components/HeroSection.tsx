@@ -53,7 +53,7 @@ export default function HeroSection({
         alt={imageAlt}
         fill
         priority
-        quality={90}
+        quality={75}
         className="object-cover object-center"
         sizes="100vw"
       />

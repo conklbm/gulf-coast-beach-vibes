@@ -76,7 +76,7 @@ export default function HomePage() {
     <>
       {/* ── 1. HERO ─────────────────────────────────────────────── */}
       <HeroSection
-        imageSrc="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1920&q=80"
+        imageSrc="/images/home-hero.jpg"
         imageAlt="Pristine white sand beach on the Gulf Coast with emerald green water"
         eyebrow="Gulf Coast Beach Vibes"
         headline="Your Guide to the Gulf Coast's Most Beautiful Beaches"
