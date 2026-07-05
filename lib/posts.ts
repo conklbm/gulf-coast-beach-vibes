@@ -700,6 +700,76 @@ export const posts: Post[] = [
     publishedAt: '2026-07-04',
     readTime: '8 min read',
   },
+  {
+    slug: 'gulf-coast-from-houston',
+    title: 'Gulf Coast Beach from Houston: Everything You Need to Know',
+    excerpt:
+      'Houston is a long but doable drive from the white-sand beaches of Alabama and the Florida Panhandle. This guide explains the best Gulf Coast beaches to choose, the safest routes, drive times, overnight stops, tolls, parking, and road-trip logistics.',
+    category: 'Road Trips',
+    heroImage: '/images/gulf-coast-from-houston.webp',
+    publishedAt: '2026-07-04',
+    readTime: '9 min read',
+  },
+  {
+    slug: 'gulf-coast-from-dallas',
+    title: 'Gulf Coast Beach from Dallas: Best Route and Beach to Choose',
+    excerpt:
+      'Dallas is a long drive from the white-sand beaches of Alabama and the Florida Panhandle, but the trip is doable with the right route and beach choice. This guide explains drive times, overnight stops, tolls, parking, and which Gulf Coast beach makes the most sense from Dallas.',
+    category: 'Road Trips',
+    heroImage: '/images/gulf-coast-from-dallas.webp',
+    publishedAt: '2026-07-04',
+    readTime: '9 min read',
+  },
+  {
+    slug: 'gulf-coast-from-knoxville',
+    title: 'Gulf Coast Beach from Knoxville',
+    excerpt:
+      "Knoxville is a practical starting point for a Gulf Coast beach road trip, with Alabama and Florida Panhandle beaches roughly within a long day's drive. This guide covers the best route, drive-time ranges, overnight stops, tolls, parking, and time-zone changes.",
+    category: 'Road Trips',
+    heroImage: '/images/gulf-coast-from-knoxville.webp',
+    publishedAt: '2026-07-04',
+    readTime: '8 min read',
+  },
+  {
+    slug: 'gulf-coast-from-chattanooga',
+    title: 'Gulf Coast Beach from Chattanooga',
+    excerpt:
+      'Chattanooga is one of the more practical Tennessee starting points for a Gulf Coast beach road trip. This guide explains the best beaches to choose, drive-time ranges, route options, tolls, parking, time-zone changes, and road-safety checks.',
+    category: 'Road Trips',
+    heroImage: '/images/gulf-coast-from-chattanooga.webp',
+    publishedAt: '2026-07-04',
+    readTime: '8 min read',
+  },
+  {
+    slug: 'gulf-coast-from-jackson-ms',
+    title: 'Gulf Coast Beach from Jackson, MS: 3 Hours to White Sand',
+    excerpt:
+      'Jackson is close enough to make a Gulf Coast beach weekend easy, but the true white-sand stretch from Dauphin Island to Panama City Beach starts closer to four hours away. This guide explains the best beach to choose, the safest route, drive-time ranges, tolls, and parking.',
+    category: 'Road Trips',
+    heroImage: '/images/gulf-coast-from-jackson-ms.webp',
+    publishedAt: '2026-07-04',
+    readTime: '8 min read',
+  },
+  {
+    slug: 'gulf-coast-from-charlotte',
+    title: 'Gulf Coast Beach from Charlotte, NC',
+    excerpt:
+      'Charlotte is a long but doable drive from the white-sand beaches of Alabama and the Florida Panhandle. This guide explains the best beaches to choose, route options, drive-time ranges, tolls, parking, overnight stops, and road-safety checks.',
+    category: 'Road Trips',
+    heroImage: '/images/gulf-coast-from-charlotte.webp',
+    publishedAt: '2026-07-04',
+    readTime: '8 min read',
+  },
+  {
+    slug: 'gulf-coast-from-st-louis',
+    title: 'Gulf Coast Beach from St. Louis',
+    excerpt:
+      'St. Louis is a long drive from the white-sand beaches of Alabama and the Florida Panhandle, but the trip is realistic with the right route and enough time. This guide explains the best beach to choose, drive-time ranges, overnight stops, tolls, parking, and road-safety checks.',
+    category: 'Road Trips',
+    heroImage: '/images/gulf-coast-from-st-louis.webp',
+    publishedAt: '2026-07-04',
+    readTime: '8 min read',
+  },
 ]
 
 export function getPostBySlug(slug: string): Post | undefined {

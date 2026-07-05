@@ -76,6 +76,13 @@ import GulfCoastInMarchContent from './content/gulf-coast-in-march'
 import GulfCoastInMayContent from './content/gulf-coast-in-may'
 import GulfCoastInSeptemberContent from './content/gulf-coast-in-september'
 import GulfCoastInDecemberContent from './content/gulf-coast-in-december'
+import GulfCoastFromHoustonContent from './content/gulf-coast-from-houston'
+import GulfCoastFromDallasContent from './content/gulf-coast-from-dallas'
+import GulfCoastFromKnoxvilleContent from './content/gulf-coast-from-knoxville'
+import GulfCoastFromChattanoogaContent from './content/gulf-coast-from-chattanooga'
+import GulfCoastFromJacksonMsContent from './content/gulf-coast-from-jackson-ms'
+import GulfCoastFromCharlotteContent from './content/gulf-coast-from-charlotte'
+import GulfCoastFromStLouisContent from './content/gulf-coast-from-st-louis'
 
 interface Props {
   params: { slug: string }
@@ -152,6 +159,13 @@ const CONTENT_MAP: Record<string, React.ComponentType> = {
   'gulf-coast-in-may': GulfCoastInMayContent,
   'gulf-coast-in-september': GulfCoastInSeptemberContent,
   'gulf-coast-in-december': GulfCoastInDecemberContent,
+  'gulf-coast-from-houston': GulfCoastFromHoustonContent,
+  'gulf-coast-from-dallas': GulfCoastFromDallasContent,
+  'gulf-coast-from-knoxville': GulfCoastFromKnoxvilleContent,
+  'gulf-coast-from-chattanooga': GulfCoastFromChattanoogaContent,
+  'gulf-coast-from-jackson-ms': GulfCoastFromJacksonMsContent,
+  'gulf-coast-from-charlotte': GulfCoastFromCharlotteContent,
+  'gulf-coast-from-st-louis': GulfCoastFromStLouisContent,
 }
 
 export async function generateStaticParams() {
