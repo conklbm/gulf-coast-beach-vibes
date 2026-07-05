@@ -67,6 +67,11 @@ import WeekendInGulfShoresContent from './content/weekend-in-gulf-shores'
 import OneWeekGulfCoastContent from './content/one-week-gulf-coast'
 import DestinItineraryFamiliesContent from './content/destin-itinerary-families'
 import DauphinIslandWeekendContent from './content/dauphin-island-weekend'
+import BestTimeToVisitPensacolaBeachContent from './content/best-time-to-visit-pensacola-beach'
+import BestTimeToVisitOrangeBeachContent from './content/best-time-to-visit-orange-beach'
+import BestTimeToVisitPanamaCityBeachContent from './content/best-time-to-visit-panama-city-beach'
+import BestTimeToVisit30AContent from './content/best-time-to-visit-30a'
+import BestTimeToVisitNavarreBeachContent from './content/best-time-to-visit-navarre-beach'
 
 interface Props {
   params: { slug: string }
@@ -134,6 +139,11 @@ const CONTENT_MAP: Record<string, React.ComponentType> = {
   'one-week-gulf-coast': OneWeekGulfCoastContent,
   'destin-itinerary-families': DestinItineraryFamiliesContent,
   'dauphin-island-weekend': DauphinIslandWeekendContent,
+  'best-time-to-visit-pensacola-beach': BestTimeToVisitPensacolaBeachContent,
+  'best-time-to-visit-orange-beach': BestTimeToVisitOrangeBeachContent,
+  'best-time-to-visit-panama-city-beach': BestTimeToVisitPanamaCityBeachContent,
+  'best-time-to-visit-30a': BestTimeToVisit30AContent,
+  'best-time-to-visit-navarre-beach': BestTimeToVisitNavarreBeachContent,
 }
 
 export async function generateStaticParams() {
