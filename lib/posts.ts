@@ -520,6 +520,46 @@ export const posts: Post[] = [
     publishedAt: '2026-07-04',
     readTime: '9 min read',
   },
+  {
+    slug: '3-days-in-orange-beach',
+    title: '3 Days in Orange Beach: The Perfect Long Weekend',
+    excerpt:
+      "Three days in Orange Beach gives you enough time for white sand, Gulf State Park, a dolphin cruise, The Wharf, and a few very good waterfront meals. Here's how to spend a long weekend without losing half your trip to backtracking.",
+    category: 'Itinerary',
+    heroImage: '/images/3-days-in-orange-beach.webp',
+    publishedAt: '2026-07-04',
+    readTime: '9 min read',
+  },
+  {
+    slug: '3-days-in-panama-city-beach',
+    title: '3 Days in Panama City Beach: The Perfect Long Weekend',
+    excerpt:
+      "Three days in Panama City Beach gives you enough time for the beach, St. Andrews State Park, Shell Island, Pier Park, and a few classic PCB meals. Here's how to plan a long weekend without spending the whole trip fighting traffic on Front Beach Road.",
+    category: 'Itinerary',
+    heroImage: '/images/3-days-in-panama-city-beach.webp',
+    publishedAt: '2026-07-04',
+    readTime: '9 min read',
+  },
+  {
+    slug: '3-days-in-30a',
+    title: '3 Days on 30A: The Perfect Long Weekend Itinerary',
+    excerpt:
+      "Three days in 30A gives you enough time for the beach, bike rides, dune lakes, state parks, and a few standout meals. Here's how to plan a long weekend without losing half your trip to parking and backtracking.",
+    category: 'Itinerary',
+    heroImage: '/images/3-days-in-30a.webp',
+    publishedAt: '2026-07-04',
+    readTime: '9 min read',
+  },
+  {
+    slug: '3-days-in-navarre-beach',
+    title: '3 Days in Navarre Beach: The Perfect Low-Key Gulf Getaway',
+    excerpt:
+      "Three days in Navarre Beach gives you enough time for the pier, Marine Park, sea turtles, snorkeling reefs, Gulf Islands National Seashore, and quiet beach time. Here's how to plan a slower Gulf Coast weekend without overcomplicating it.",
+    category: 'Itinerary',
+    heroImage: '/images/3-days-in-navarre-beach.webp',
+    publishedAt: '2026-07-04',
+    readTime: '8 min read',
+  },
 ]
 
 export function getPostBySlug(slug: string): Post | undefined {

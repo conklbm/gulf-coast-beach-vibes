@@ -58,6 +58,10 @@ import OrangeBeachGuideContent from './content/orange-beach-guide'
 import BestBeachesPensacolaAreaContent from './content/best-beaches-pensacola-area'
 import BestBeachesDestinAreaContent from './content/best-beaches-destin-area'
 import WhatIs30AContent from './content/what-is-30a'
+import ThreeDaysInOrangeBeachContent from './content/3-days-in-orange-beach'
+import ThreeDaysInPanamaCityBeachContent from './content/3-days-in-panama-city-beach'
+import ThreeDaysIn30AContent from './content/3-days-in-30a'
+import ThreeDaysInNavarreBeachContent from './content/3-days-in-navarre-beach'
 
 interface Props {
   params: { slug: string }
@@ -116,6 +120,10 @@ const CONTENT_MAP: Record<string, React.ComponentType> = {
   'best-beaches-pensacola-area': BestBeachesPensacolaAreaContent,
   'best-beaches-destin-area': BestBeachesDestinAreaContent,
   'what-is-30a': WhatIs30AContent,
+  '3-days-in-orange-beach': ThreeDaysInOrangeBeachContent,
+  '3-days-in-panama-city-beach': ThreeDaysInPanamaCityBeachContent,
+  '3-days-in-30a': ThreeDaysIn30AContent,
+  '3-days-in-navarre-beach': ThreeDaysInNavarreBeachContent,
 }
 
 export async function generateStaticParams() {
