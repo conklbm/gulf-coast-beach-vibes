@@ -62,6 +62,11 @@ import ThreeDaysInOrangeBeachContent from './content/3-days-in-orange-beach'
 import ThreeDaysInPanamaCityBeachContent from './content/3-days-in-panama-city-beach'
 import ThreeDaysIn30AContent from './content/3-days-in-30a'
 import ThreeDaysInNavarreBeachContent from './content/3-days-in-navarre-beach'
+import ThreeDaysInFortWaltonBeachContent from './content/3-days-in-fort-walton-beach'
+import WeekendInGulfShoresContent from './content/weekend-in-gulf-shores'
+import OneWeekGulfCoastContent from './content/one-week-gulf-coast'
+import DestinItineraryFamiliesContent from './content/destin-itinerary-families'
+import DauphinIslandWeekendContent from './content/dauphin-island-weekend'
 
 interface Props {
   params: { slug: string }
@@ -124,6 +129,11 @@ const CONTENT_MAP: Record<string, React.ComponentType> = {
   '3-days-in-panama-city-beach': ThreeDaysInPanamaCityBeachContent,
   '3-days-in-30a': ThreeDaysIn30AContent,
   '3-days-in-navarre-beach': ThreeDaysInNavarreBeachContent,
+  '3-days-in-fort-walton-beach': ThreeDaysInFortWaltonBeachContent,
+  'weekend-in-gulf-shores': WeekendInGulfShoresContent,
+  'one-week-gulf-coast': OneWeekGulfCoastContent,
+  'destin-itinerary-families': DestinItineraryFamiliesContent,
+  'dauphin-island-weekend': DauphinIslandWeekendContent,
 }
 
 export async function generateStaticParams() {

@@ -560,6 +560,56 @@ export const posts: Post[] = [
     publishedAt: '2026-07-04',
     readTime: '8 min read',
   },
+  {
+    slug: '3-days-in-fort-walton-beach',
+    title: '3 Days in Fort Walton Beach',
+    excerpt:
+      "Three days in Fort Walton Beach gives you enough time for Okaloosa Island, The Boardwalk, The Island Pier, Gulfarium, and a few easy mainland stops. Here's how to plan a beach weekend that feels simpler than Destin but still gives you plenty to do.",
+    category: 'Itinerary',
+    heroImage: '/images/3-days-in-fort-walton-beach.webp',
+    publishedAt: '2026-07-04',
+    readTime: '8 min read',
+  },
+  {
+    slug: 'weekend-in-gulf-shores',
+    title: 'A Weekend in Gulf Shores: How to Make the Most of 2 Days',
+    excerpt:
+      "A weekend in Gulf Shores is best spent with beach time at Gulf Place, a Gulf State Park morning, an easy seafood dinner, and one flexible nature, family, or history stop before heading home. Here's how to plan it without overpacking the schedule.",
+    category: 'Itinerary',
+    heroImage: '/images/weekend-in-gulf-shores.webp',
+    publishedAt: '2026-07-04',
+    readTime: '8 min read',
+  },
+  {
+    slug: 'one-week-gulf-coast',
+    title: 'One Week on the Gulf Coast: The Perfect 7-Day Itinerary',
+    excerpt:
+      "This one-week Gulf Coast itinerary takes you from Dauphin Island to Panama City Beach with a realistic mix of beach days, state parks, piers, ferry timing, local food, and slower stops. It's built for travelers who want to see the coast without spending the whole trip packing, parking, and rushing.",
+    category: 'Itinerary',
+    heroImage: '/images/one-week-gulf-coast.webp',
+    publishedAt: '2026-07-04',
+    readTime: '11 min read',
+  },
+  {
+    slug: 'destin-itinerary-families',
+    title: 'Destin with Kids: The Best 4-Day Family Itinerary',
+    excerpt:
+      'Planning Destin with kids is easier when you build the trip around beach mornings, real rest breaks, one big activity at a time, and smart backups for heat, rain, parking, and tired kids. This 4-day family itinerary keeps the trip realistic and useful for parents.',
+    category: 'Itinerary',
+    heroImage: '/images/destin-itinerary-families.webp',
+    publishedAt: '2026-07-04',
+    readTime: '10 min read',
+  },
+  {
+    slug: 'dauphin-island-weekend',
+    title: 'A Weekend on Dauphin Island: How to Do It Right',
+    excerpt:
+      'A weekend on Dauphin Island works best when you keep it simple: arrive with groceries, plan around beach access and bridge work, spend Saturday on the east end, save time for the beach, and use Sunday for birds, history, or one last quiet walk.',
+    category: 'Itinerary',
+    heroImage: '/images/dauphin-island-weekend.webp',
+    publishedAt: '2026-07-04',
+    readTime: '8 min read',
+  },
 ]
 
 export function getPostBySlug(slug: string): Post | undefined {
