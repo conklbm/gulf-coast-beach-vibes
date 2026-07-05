@@ -1,5 +1,5 @@
 import type { Metadata } from 'next'
-import ContentCard from '@/components/ContentCard'
+import BlogIndex from '@/components/BlogIndex'
 import { posts } from '@/lib/posts'
 
 export const metadata: Metadata = {
@@ -33,20 +33,7 @@ export default function BlogPage() {
 
       <section className="py-16 bg-cream">
         <div className="section-container">
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            {posts.map((post) => (
-              <ContentCard
-                key={post.slug}
-                href={`/blog/${post.slug}`}
-                imageSrc={post.heroImage}
-                imageAlt={post.title}
-                category={post.category}
-                title={post.title}
-                excerpt={post.excerpt}
-                meta={post.readTime}
-              />
-            ))}
-          </div>
+          <BlogIndex posts={posts} />
         </div>
       </section>
     </>
