@@ -410,6 +410,76 @@ export const posts: Post[] = [
     publishedAt: '2026-07-04',
     readTime: '8 min read',
   },
+  {
+    slug: 'is-gulf-shores-worth-it',
+    title: 'Is Gulf Shores Worth It? An Honest Take',
+    excerpt:
+      "Gulf Shores is worth it for travelers who want white sand, easy beach access, Gulf State Park, family attractions, and a classic Alabama beach-town setup. Here's where it shines, where it falls short, and who should choose another beach.",
+    category: 'Destination Guides',
+    heroImage: '/images/is-gulf-shores-worth-it.webp',
+    publishedAt: '2026-07-04',
+    readTime: '9 min read',
+  },
+  {
+    slug: 'is-pensacola-beach-worth-it',
+    title: 'Is Pensacola Beach Worth It? An Honest Take',
+    excerpt:
+      "Pensacola Beach is worth it for travelers who want white sand, clear Gulf water, Fort Pickens, and an easy beach-town setup without the size of Destin or Panama City Beach. Here's where it shines, where it falls short, and who will enjoy it most.",
+    category: 'Destination Guides',
+    heroImage: '/images/is-pensacola-beach-worth-it.webp',
+    publishedAt: '2026-07-04',
+    readTime: '9 min read',
+  },
+  {
+    slug: 'is-30a-worth-it',
+    title: 'Is 30A Worth the Hype? An Honest Take',
+    excerpt:
+      "30A is worth it for travelers who want beautiful beaches, walkable beach towns, bike paths, state parks, coastal dune lakes, and a polished Florida Panhandle trip. Here's where it shines, where it gets frustrating, and who should choose another beach.",
+    category: 'Destination Guides',
+    heroImage: '/images/is-30a-worth-it.webp',
+    publishedAt: '2026-07-04',
+    readTime: '8 min read',
+  },
+  {
+    slug: 'is-panama-city-beach-worth-it',
+    title: 'Is Panama City Beach Worth It?',
+    excerpt:
+      "Panama City Beach is worth it for travelers who want white sand, easy public beach access, Pier Park, family attractions, St. Andrews State Park, and Shell Island close by. Here's where PCB shines, where it gets frustrating, and who should choose another beach.",
+    category: 'Destination Guides',
+    heroImage: '/images/is-panama-city-beach-worth-it.webp',
+    publishedAt: '2026-07-04',
+    readTime: '9 min read',
+  },
+  {
+    slug: 'is-navarre-beach-worth-it',
+    title: 'Is Navarre Beach Worth It?',
+    excerpt:
+      "Navarre Beach is worth it for travelers who want a quieter Florida Panhandle beach with white sand, clear Gulf water, a long fishing pier, snorkel reefs, and easy access to Gulf Islands National Seashore. Here's where it shines, where it feels limited, and who should choose another beach.",
+    category: 'Destination Guides',
+    heroImage: '/images/is-navarre-beach-worth-it.webp',
+    publishedAt: '2026-07-04',
+    readTime: '8 min read',
+  },
+  {
+    slug: 'is-destin-crowded',
+    title: 'How Crowded Is Destin? What to Expect by Season',
+    excerpt:
+      "Destin does get crowded, especially in summer, spring break, holiday weekends, and around HarborWalk, Crab Island, U.S. 98, and popular beach access points. Here's when crowds are worst, where they show up, and how to plan a better 2026 trip.",
+    category: 'Destination Guides',
+    heroImage: '/images/is-destin-crowded.webp',
+    publishedAt: '2026-07-04',
+    readTime: '8 min read',
+  },
+  {
+    slug: 'is-pensacola-beach-crowded',
+    title: 'How Crowded Is Pensacola Beach?',
+    excerpt:
+      "Pensacola Beach can get crowded around Casino Beach, the Gulf Pier, summer weekends, holidays, and Blue Angels events. Here's when crowds are worst, where they show up, and how to plan a smoother 2026 beach trip.",
+    category: 'Destination Guides',
+    heroImage: '/images/is-pensacola-beach-crowded.webp',
+    publishedAt: '2026-07-04',
+    readTime: '8 min read',
+  },
 ]
 
 export function getPostBySlug(slug: string): Post | undefined {

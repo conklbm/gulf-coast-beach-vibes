@@ -47,6 +47,13 @@ import MiramarBeachVsDestinContent from './content/miramar-beach-vs-destin'
 import GulfBreezeVsPensacolaBeachContent from './content/gulf-breeze-vs-pensacola-beach'
 import GulfShoresVsMyrtleBeachContent from './content/gulf-shores-vs-myrtle-beach'
 import DestinVsClearwaterContent from './content/destin-vs-clearwater'
+import IsGulfShoresWorthItContent from './content/is-gulf-shores-worth-it'
+import IsPensacolaBeachWorthItContent from './content/is-pensacola-beach-worth-it'
+import Is30AWorthItContent from './content/is-30a-worth-it'
+import IsPanamaCityBeachWorthItContent from './content/is-panama-city-beach-worth-it'
+import IsNavarreBeachWorthItContent from './content/is-navarre-beach-worth-it'
+import IsDestinCrowdedContent from './content/is-destin-crowded'
+import IsPensacolaBeachCrowdedContent from './content/is-pensacola-beach-crowded'
 
 interface Props {
   params: { slug: string }
@@ -94,6 +101,13 @@ const CONTENT_MAP: Record<string, React.ComponentType> = {
   'gulf-breeze-vs-pensacola-beach': GulfBreezeVsPensacolaBeachContent,
   'gulf-shores-vs-myrtle-beach': GulfShoresVsMyrtleBeachContent,
   'destin-vs-clearwater': DestinVsClearwaterContent,
+  'is-gulf-shores-worth-it': IsGulfShoresWorthItContent,
+  'is-pensacola-beach-worth-it': IsPensacolaBeachWorthItContent,
+  'is-30a-worth-it': Is30AWorthItContent,
+  'is-panama-city-beach-worth-it': IsPanamaCityBeachWorthItContent,
+  'is-navarre-beach-worth-it': IsNavarreBeachWorthItContent,
+  'is-destin-crowded': IsDestinCrowdedContent,
+  'is-pensacola-beach-crowded': IsPensacolaBeachCrowdedContent,
 }
 
 export async function generateStaticParams() {
