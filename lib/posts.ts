@@ -350,6 +350,66 @@ export const posts: Post[] = [
     publishedAt: '2026-07-04',
     readTime: '7 min read',
   },
+  {
+    slug: 'dauphin-island-vs-gulf-shores',
+    title: 'Dauphin Island vs. Gulf Shores: Two Very Different Alabama Beaches',
+    excerpt:
+      "Dauphin Island and Gulf Shores are both Alabama beach destinations, but they feel like completely different trips. Here's how to choose based on crowds, food, things to do, parking, and overall vibe.",
+    category: 'Comparison',
+    heroImage: '/images/dauphin-island-vs-gulf-shores.webp',
+    publishedAt: '2026-07-04',
+    readTime: '7 min read',
+  },
+  {
+    slug: '30a-vs-panama-city-beach',
+    title: '30A vs. Panama City Beach: Laid-Back vs. Go-Big',
+    excerpt:
+      '30A and Panama City Beach sit close together on the Florida Panhandle, but they deliver two very different beach trips. This guide breaks down the beaches, parking, lodging, food, activities, and overall vibe so you can choose the right one.',
+    category: 'Comparison',
+    heroImage: '/images/30a-vs-panama-city-beach.webp',
+    publishedAt: '2026-07-04',
+    readTime: '9 min read',
+  },
+  {
+    slug: 'miramar-beach-vs-destin',
+    title: 'Miramar Beach vs. Destin: Are They Really That Different?',
+    excerpt:
+      'Miramar Beach and Destin sit minutes apart, but they work better for different kinds of beach trips. This guide breaks down the beaches, parking, lodging, food, shopping, boat days, and overall feel so you can choose the right Emerald Coast base.',
+    category: 'Comparison',
+    heroImage: '/images/miramar-beach-vs-destin.webp',
+    publishedAt: '2026-07-04',
+    readTime: '8 min read',
+  },
+  {
+    slug: 'gulf-breeze-vs-pensacola-beach',
+    title: 'Gulf Breeze vs. Pensacola Beach: Which Side of the Bay?',
+    excerpt:
+      'Gulf Breeze and Pensacola Beach are close on the map, but they give you two very different kinds of trips. This guide compares beach access, lodging, parking, food, family activities, parks, and overall vacation feel so you can pick the right base.',
+    category: 'Comparison',
+    heroImage: '/images/gulf-breeze-vs-pensacola-beach.webp',
+    publishedAt: '2026-07-04',
+    readTime: '7 min read',
+  },
+  {
+    slug: 'gulf-shores-vs-myrtle-beach',
+    title: 'Gulf Shores vs. Myrtle Beach: Which Is Actually Better?',
+    excerpt:
+      'Gulf Shores and Myrtle Beach are both classic family beach destinations, but they deliver very different trips. This guide compares the beaches, parking, lodging, attractions, food, nature, and overall vacation feel so you can choose the right one.',
+    category: 'Comparison',
+    heroImage: '/images/gulf-shores-vs-myrtle-beach.webp',
+    publishedAt: '2026-07-04',
+    readTime: '8 min read',
+  },
+  {
+    slug: 'destin-vs-clearwater',
+    title: 'Destin vs. Clearwater Beach: Florida Panhandle vs. Tampa Bay',
+    excerpt:
+      'Destin and Clearwater are both famous Florida Gulf Coast beach destinations, but they feel very different once you arrive. This guide compares the beaches, parking, lodging, boat trips, family activities, restaurants, and overall vacation style so you can choose the better fit.',
+    category: 'Comparison',
+    heroImage: '/images/destin-vs-clearwater.webp',
+    publishedAt: '2026-07-04',
+    readTime: '8 min read',
+  },
 ]
 
 export function getPostBySlug(slug: string): Post | undefined {
