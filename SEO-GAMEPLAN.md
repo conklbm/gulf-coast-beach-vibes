@@ -54,7 +54,7 @@ Google rewards sites that thoroughly cover a topic. For us, the topic is **Gulf 
 - [ ] **Google Analytics** or Vercel Analytics tracking conversions
 - [x] Schema markup (Article JSON-LD) on blog posts — publisher + headline + image (dateless, see Evergreen Content Policy)
 - [ ] Schema markup (TouristDestination) on destination pages
-- [ ] Open Graph images for each post (currently defaulting to hero image — should be 1200×630)
+- [x] Open Graph images — branded 1200×630 default card at `app/opengraph-image.jpg` (site name + tagline over Gulf Shores aerial); blog posts override with their own hero image. Twitter `summary_large_image` now has an image too.
 - [ ] Canonical tags confirmed on all pages
 - [ ] Core Web Vitals audit (run Lighthouse on homepage + a blog post)
 - [ ] Internal linking audit — every destination page linked from at least 3 blog posts
