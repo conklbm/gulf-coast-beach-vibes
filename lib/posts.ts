@@ -112,9 +112,9 @@ export const posts: Post[] = [
   },
   {
     slug: 'gulf-coast-from-nashville',
-    title: 'Gulf Coast Beach from Nashville: Your Complete Drive Guide',
+    title: 'Gulf Coast Beach from Nashville: A Straight Shot Down I-65',
     excerpt:
-      "Gulf Shores is closer to Nashville than most people realize — a straight shot down I-65, under 5 hours on a good day. Here's everything you need to plan the perfect Nashville-to-Gulf-Coast trip.",
+      "Gulf Shores is closer to Nashville than most people realize — a straight shot south down I-65. Here's the best route, where to stop, and exactly which Gulf Coast beach to aim for.",
     category: 'Road Trips',
     heroImage: '/images/gulf-coast-from-nashville.webp',
     publishedAt: '2025-04-01',
