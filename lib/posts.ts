@@ -290,6 +290,66 @@ export const posts: Post[] = [
     publishedAt: '2026-07-04',
     readTime: '9 min read',
   },
+  {
+    slug: 'orange-beach-vs-pensacola-beach',
+    title: 'Orange Beach vs. Pensacola Beach: Which Should You Choose?',
+    excerpt:
+      "Orange Beach and Pensacola Beach are less than an hour apart, but they feel like very different trips. Here's how to choose based on beaches, food, crowds, parking, and what you want to do.",
+    category: 'Comparison',
+    heroImage: '/images/orange-beach-vs-pensacola-beach.webp',
+    publishedAt: '2026-07-04',
+    readTime: '6 min read',
+  },
+  {
+    slug: 'pensacola-beach-vs-panama-city-beach',
+    title: 'Pensacola Beach vs. Panama City Beach',
+    excerpt:
+      "Pensacola Beach and Panama City Beach both have white sand and Gulf water, but they feel like very different trips. Here's how to choose based on beaches, crowds, food, nightlife, attractions, and overall vibe.",
+    category: 'Comparison',
+    heroImage: '/images/pensacola-beach-vs-panama-city-beach.webp',
+    publishedAt: '2026-07-04',
+    readTime: '6 min read',
+  },
+  {
+    slug: 'destin-vs-30a',
+    title: 'Destin vs. 30A: Which Part of the Florida Panhandle Is Right for You?',
+    excerpt:
+      "Destin and 30A both have white sand and emerald water, but they offer very different beach trips. Here's how to choose based on crowds, costs, food, activities, and overall vibe.",
+    category: 'Comparison',
+    heroImage: '/images/destin-vs-30a.webp',
+    publishedAt: '2026-07-04',
+    readTime: '7 min read',
+  },
+  {
+    slug: 'navarre-beach-vs-pensacola-beach',
+    title: 'Navarre Beach vs. Pensacola Beach: The Quiet One vs. The Famous One',
+    excerpt:
+      "Navarre Beach and Pensacola Beach are close neighbors on Santa Rosa Island, but they offer very different trips. Here's how to choose based on crowds, food, things to do, parking, and overall vibe.",
+    category: 'Comparison',
+    heroImage: '/images/navarre-beach-vs-pensacola-beach.webp',
+    publishedAt: '2026-07-04',
+    readTime: '6 min read',
+  },
+  {
+    slug: 'navarre-beach-vs-destin',
+    title: 'Navarre Beach vs. Destin: Same Water, Very Different Trip',
+    excerpt:
+      "Navarre Beach and Destin both have white sand and clear Gulf water, but they offer very different trips. Here's how to choose based on crowds, food, activities, parking, and overall vibe.",
+    category: 'Comparison',
+    heroImage: '/images/navarre-beach-vs-destin.webp',
+    publishedAt: '2026-07-04',
+    readTime: '6 min read',
+  },
+  {
+    slug: 'gulf-shores-vs-panama-city-beach',
+    title: 'Gulf Shores vs. Panama City Beach',
+    excerpt:
+      "Gulf Shores and Panama City Beach both have white sand and Gulf water, but they offer very different trips. Here's how to choose based on crowds, costs, food, attractions, and overall vibe.",
+    category: 'Comparison',
+    heroImage: '/images/gulf-shores-vs-panama-city-beach.webp',
+    publishedAt: '2026-07-04',
+    readTime: '7 min read',
+  },
 ]
 
 export function getPostBySlug(slug: string): Post | undefined {
