@@ -54,6 +54,10 @@ import IsPanamaCityBeachWorthItContent from './content/is-panama-city-beach-wort
 import IsNavarreBeachWorthItContent from './content/is-navarre-beach-worth-it'
 import IsDestinCrowdedContent from './content/is-destin-crowded'
 import IsPensacolaBeachCrowdedContent from './content/is-pensacola-beach-crowded'
+import OrangeBeachGuideContent from './content/orange-beach-guide'
+import BestBeachesPensacolaAreaContent from './content/best-beaches-pensacola-area'
+import BestBeachesDestinAreaContent from './content/best-beaches-destin-area'
+import WhatIs30AContent from './content/what-is-30a'
 
 interface Props {
   params: { slug: string }
@@ -108,6 +112,10 @@ const CONTENT_MAP: Record<string, React.ComponentType> = {
   'is-navarre-beach-worth-it': IsNavarreBeachWorthItContent,
   'is-destin-crowded': IsDestinCrowdedContent,
   'is-pensacola-beach-crowded': IsPensacolaBeachCrowdedContent,
+  'orange-beach-guide': OrangeBeachGuideContent,
+  'best-beaches-pensacola-area': BestBeachesPensacolaAreaContent,
+  'best-beaches-destin-area': BestBeachesDestinAreaContent,
+  'what-is-30a': WhatIs30AContent,
 }
 
 export async function generateStaticParams() {

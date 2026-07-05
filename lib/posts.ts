@@ -480,6 +480,46 @@ export const posts: Post[] = [
     publishedAt: '2026-07-04',
     readTime: '8 min read',
   },
+  {
+    slug: 'orange-beach-guide',
+    title: 'Orange Beach, Alabama: The Complete Guide',
+    excerpt:
+      "Orange Beach is one of Alabama's best beach bases for white sand, condo stays, boating, waterfront restaurants, and easy access to Gulf State Park. Here's where to go, what to do, and what to know before you book the trip.",
+    category: 'Destination Guides',
+    heroImage: '/images/orange-beach-guide.webp',
+    publishedAt: '2026-07-04',
+    readTime: '10 min read',
+  },
+  {
+    slug: 'best-beaches-pensacola-area',
+    title: 'Best Beaches Near Pensacola: Ranked',
+    excerpt:
+      "The Pensacola area has more than one kind of beach day, from busy Casino Beach to calm Quietwater Beach, natural Opal Beach, protected Johnson Beach, and quieter Navarre Beach. Here's how to choose the right stretch of sand for your trip.",
+    category: 'Destination Guides',
+    heroImage: '/images/best-beaches-pensacola-area.webp',
+    publishedAt: '2026-07-04',
+    readTime: '9 min read',
+  },
+  {
+    slug: 'best-beaches-destin-area',
+    title: 'Best Beaches Near Destin: All Your Options Ranked',
+    excerpt:
+      "The Destin area has several different beach experiences, from Henderson Beach State Park and James Lee Park to Crystal Beach, Norriego Point, Miramar Beach, and Okaloosa Island. Here's how to choose the right beach for your 2026 trip.",
+    category: 'Destination Guides',
+    heroImage: '/images/best-beaches-destin-area.webp',
+    publishedAt: '2026-07-04',
+    readTime: '9 min read',
+  },
+  {
+    slug: 'what-is-30a',
+    title: "What Is 30A? A Beginner's Guide to Florida's Scenic Highway",
+    excerpt:
+      "30A is a scenic beach highway and vacation area in South Walton, Florida, known for white sand, turquoise Gulf water, beach towns, biking, state parks, and coastal dune lakes. Here's what the name means, where it is, and what to know before planning a trip.",
+    category: 'Destination Guides',
+    heroImage: '/images/what-is-30a.webp',
+    publishedAt: '2026-07-04',
+    readTime: '9 min read',
+  },
 ]
 
 export function getPostBySlug(slug: string): Post | undefined {
