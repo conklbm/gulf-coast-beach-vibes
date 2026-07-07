@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
+import ContactForm from '@/components/ContactForm'
 
 export const metadata: Metadata = {
   title: 'Contact',
@@ -7,24 +8,6 @@ export const metadata: Metadata = {
     'Get in touch with Gulf Coast Beach Vibes — questions, corrections, local tips, or partnership inquiries.',
   alternates: { canonical: '/contact' },
 }
-
-const contactMethods = [
-  {
-    title: 'Email',
-    description: 'Best for corrections, privacy requests, and partnership or advertising inquiries.',
-    action: 'hello@gulfcoastbeachvibes.com',
-    href: 'mailto:hello@gulfcoastbeachvibes.com',
-    icon: '✉️',
-  },
-  {
-    title: 'Facebook',
-    description: 'Best for quick questions and trip advice — we check messages regularly.',
-    action: 'Message us on Facebook',
-    href: 'https://facebook.com/gulfcoastbeachvibes',
-    icon: '💬',
-    external: true,
-  },
-]
 
 export default function ContactPage() {
   return (
@@ -53,26 +36,26 @@ export default function ContactPage() {
         </svg>
       </div>
 
-      {/* Contact methods */}
+      {/* Form + notes */}
       <section className="bg-cream py-16">
         <div className="section-container max-w-3xl">
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 mb-12">
-            {contactMethods.map((method) => (
+          <ContactForm />
+
+          <div className="mt-8 text-center">
+            <p className="text-navy/60 text-sm">
+              Prefer social?{' '}
               <a
-                key={method.title}
-                href={method.href}
-                {...(method.external ? { target: '_blank', rel: 'noopener noreferrer' } : {})}
-                className="card p-6 flex flex-col gap-2 no-underline"
+                href="https://facebook.com/gulfcoastbeachvibes"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-ocean font-semibold hover:underline"
               >
-                <span className="text-3xl" aria-hidden="true">{method.icon}</span>
-                <h2 className="font-display font-bold text-navy text-xl">{method.title}</h2>
-                <p className="text-navy/60 text-sm leading-relaxed">{method.description}</p>
-                <span className="text-ocean font-semibold text-sm mt-1">{method.action}</span>
+                Message us on Facebook
               </a>
-            ))}
+            </p>
           </div>
 
-          <div className="prose prose-lg max-w-none
+          <div className="mt-12 prose prose-lg max-w-none
                           prose-headings:font-display prose-headings:text-navy
                           prose-p:text-navy/70 prose-p:leading-relaxed
                           prose-a:text-ocean prose-a:no-underline hover:prose-a:underline">

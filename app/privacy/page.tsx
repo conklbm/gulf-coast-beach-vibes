@@ -53,9 +53,10 @@ export default function PrivacyPage() {
 
             <h3>Information you give us</h3>
             <p>
-              The only information you provide directly is your <strong>email address</strong>, if you
-              choose to subscribe to our newsletter. Subscribing is optional, and you can unsubscribe at
-              any time using the link in any newsletter email.
+              You provide information directly only if you choose to: your <strong>email
+              address</strong> when subscribing to our newsletter, or your <strong>name, email
+              address, and message</strong> when using our contact form. Both are optional. You can
+              unsubscribe from the newsletter at any time using the link in any email.
             </p>
 
             <h3>Information collected automatically</h3>
@@ -83,6 +84,11 @@ export default function PrivacyPage() {
               <li>
                 <strong>Beehiiv</strong> — our newsletter platform. If you subscribe, your email
                 address is stored with Beehiiv and used only to send you our newsletter.
+              </li>
+              <li>
+                <strong>Web3Forms</strong> — our contact form relay. If you use the contact form,
+                your name, email, and message pass through Web3Forms to reach our inbox; we use them
+                only to respond to you.
               </li>
             </ul>
 
