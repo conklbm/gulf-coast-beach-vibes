@@ -19,6 +19,7 @@ const footerLinks = {
     { href: 'https://facebook.com/gulfcoastbeachvibes', label: 'Facebook Page', external: true },
     { href: '/newsletter', label: 'Get the Insider Tips' },
     { href: '/about', label: 'About' },
+    { href: '/contact', label: 'Contact' },
   ],
 }
 
@@ -107,9 +108,22 @@ export default function Footer() {
             including Booking.com, VRBO, GetYourGuide, and Amazon Associates. We may earn a commission when you book or
             purchase through our links, at no extra cost to you. We only recommend places and products we genuinely believe in.
           </p>
-          <p className="text-white/30 text-xs">
-            © {year} Gulf Coast Beach Vibes. All rights reserved.
-          </p>
+          <div className="flex flex-col sm:flex-row sm:items-center gap-2 sm:gap-6">
+            <p className="text-white/30 text-xs">
+              © {year} Gulf Coast Beach Vibes. All rights reserved.
+            </p>
+            <nav aria-label="Legal" className="flex items-center gap-4">
+              <Link href="/privacy" className="text-white/30 hover:text-ocean-300 text-xs transition-colors">
+                Privacy Policy
+              </Link>
+              <Link href="/terms" className="text-white/30 hover:text-ocean-300 text-xs transition-colors">
+                Terms of Use
+              </Link>
+              <Link href="/contact" className="text-white/30 hover:text-ocean-300 text-xs transition-colors">
+                Contact
+              </Link>
+            </nav>
+          </div>
         </div>
       </div>
     </footer>
