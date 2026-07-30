@@ -920,6 +920,56 @@ export const posts: Post[] = [
     publishedAt: '2026-07-30',
     readTime: '8 min read',
   },
+  {
+    slug: 'gulf-coast-camping',
+    title: 'Camping on the Gulf Coast: Best Campgrounds and Parks',
+    excerpt:
+      'Gulf Coast camping ranges from full-hookup RV resorts to wooded tent sites near barrier-island beaches. This guide compares the best campgrounds from Dauphin Island to Panama City Beach, including beach access, hookups, pet policies, and storm planning.',
+    category: 'Travel Tips',
+    heroImage: '/images/gulf-coast-camping.webp',
+    publishedAt: '2026-07-30',
+    readTime: '9 min read',
+  },
+  {
+    slug: 'gulf-coast-fishing-guide',
+    title: 'Gulf Coast Fishing: Complete Guide for First-Timers',
+    excerpt:
+      'Your first Gulf Coast fishing trip gets much easier once you understand the difference between surf, pier, inshore, and offshore fishing. This guide covers where to go, what you might catch, licensing rules, charter choices, and how to prepare.',
+    category: 'Beach Life',
+    heroImage: '/images/gulf-coast-fishing-guide.webp',
+    publishedAt: '2026-07-30',
+    readTime: '10 min read',
+  },
+  {
+    slug: 'best-gulf-coast-state-parks',
+    title: 'Best Gulf Coast State Parks: From Dauphin Island to PCB',
+    excerpt:
+      'The best Gulf Coast state parks protect white-sand beaches, coastal dune lakes, pine forests, and quiet bays between Alabama and Panama City Beach. This guide explains which parks deserve your time, where to camp, and the reservation rules to know.',
+    category: 'Beach Life',
+    heroImage: '/images/best-gulf-coast-state-parks.webp',
+    publishedAt: '2026-07-30',
+    readTime: '9 min read',
+  },
+  {
+    slug: 'gulf-coast-honeymoon',
+    title: 'Gulf Coast Honeymoon: Most Romantic Beaches and Stays',
+    excerpt:
+      'A Gulf Coast honeymoon can mean a secluded beach house, a walkable coastal town, or a resort close to sunset cruises and seafood dinners. This guide compares the most romantic places to stay from Dauphin Island to Panama City Beach.',
+    category: 'Travel Tips',
+    heroImage: '/images/gulf-coast-honeymoon.webp',
+    publishedAt: '2026-07-30',
+    readTime: '9 min read',
+  },
+  {
+    slug: 'gulf-coast-with-kids',
+    title: 'Gulf Coast with Kids: Everything Families Need to Know',
+    excerpt:
+      'Planning a family trip from Dauphin Island to Panama City Beach starts with choosing the right beach town. This guide covers the best destinations for different ages, family activities, vacation rentals, beach safety, and the details parents need.',
+    category: 'Family Travel',
+    heroImage: '/images/gulf-coast-with-kids.webp',
+    publishedAt: '2026-07-30',
+    readTime: '10 min read',
+  },
 ]
 
 export function getPostBySlug(slug: string): Post | undefined {

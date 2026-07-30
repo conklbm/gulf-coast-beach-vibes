@@ -98,6 +98,11 @@ import BestThingsToDoNavarreBeachContent from './content/best-things-to-do-navar
 import BestThingsToDoFortWaltonBeachContent from './content/best-things-to-do-fort-walton-beach'
 import BestThingsToDo30AContent from './content/best-things-to-do-30a'
 import GulfCoastFromLittleRockContent from './content/gulf-coast-from-little-rock'
+import GulfCoastCampingContent from './content/gulf-coast-camping'
+import GulfCoastFishingGuideContent from './content/gulf-coast-fishing-guide'
+import BestGulfCoastStateParksContent from './content/best-gulf-coast-state-parks'
+import GulfCoastHoneymoonContent from './content/gulf-coast-honeymoon'
+import GulfCoastWithKidsContent from './content/gulf-coast-with-kids'
 
 interface Props {
   params: { slug: string }
@@ -120,6 +125,11 @@ const CONTENT_MAP: Record<string, React.ComponentType> = {
   'best-things-to-do-fort-walton-beach': BestThingsToDoFortWaltonBeachContent,
   'best-things-to-do-30a': BestThingsToDo30AContent,
   'gulf-coast-from-little-rock': GulfCoastFromLittleRockContent,
+  'gulf-coast-camping': GulfCoastCampingContent,
+  'gulf-coast-fishing-guide': GulfCoastFishingGuideContent,
+  'best-gulf-coast-state-parks': BestGulfCoastStateParksContent,
+  'gulf-coast-honeymoon': GulfCoastHoneymoonContent,
+  'gulf-coast-with-kids': GulfCoastWithKidsContent,
   'gulf-coast-beach-packing-list': PackingListContent,
   'best-things-to-do-gulf-shores': BestThingsToDoGulfShoresContent,
   'best-gulf-coast-beaches-for-families': BestGulfCoastBeachesFamiliesContent,
