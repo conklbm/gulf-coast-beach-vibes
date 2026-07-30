@@ -770,6 +770,66 @@ export const posts: Post[] = [
     publishedAt: '2026-07-04',
     readTime: '8 min read',
   },
+  {
+    slug: 'where-to-stay-gulf-shores',
+    title: 'Where to Stay in Gulf Shores: Best Areas and Rentals',
+    excerpt:
+      'Choosing where to stay in Gulf Shores comes down to beach access, walkability, and how much driving you want to do. This guide compares Central Gulf Shores, West Beach, Gulf State Park, Fort Morgan, and the rental details worth checking before you book.',
+    category: 'Places to Stay',
+    heroImage: '/images/where-to-stay-gulf-shores.webp',
+    publishedAt: '2026-07-30',
+    readTime: '9 min read',
+  },
+  {
+    slug: 'where-to-stay-destin',
+    title: 'Where to Stay in Destin: Best Areas, Hotels, and Rentals',
+    excerpt:
+      'The best place to stay in Destin depends on how you plan to spend your days. This guide compares the beach, harbor, Holiday Isle, Crystal Beach, and nearby resort areas, with practical advice for choosing a hotel or vacation rental.',
+    category: 'Places to Stay',
+    heroImage: '/images/where-to-stay-destin.webp',
+    publishedAt: '2026-07-30',
+    readTime: '9 min read',
+  },
+  {
+    slug: 'where-to-stay-pensacola-beach',
+    title: 'Where to Stay in Pensacola Beach',
+    excerpt:
+      "The best place to stay in Pensacola Beach depends on how close you want to be to the Gulf, restaurants, Fort Pickens, or the calm water of Santa Rosa Sound. This guide compares the island's central, west, and east sections, plus hotels, rentals, and camping.",
+    category: 'Places to Stay',
+    heroImage: '/images/where-to-stay-pensacola-beach.webp',
+    publishedAt: '2026-07-30',
+    readTime: '9 min read',
+  },
+  {
+    slug: 'where-to-stay-orange-beach',
+    title: 'Where to Stay in Orange Beach, AL',
+    excerpt:
+      'The right Orange Beach base depends on the water and activities you want nearby. This guide compares the central beachfront, Gulf State Park, Perdido Pass, the back bays, The Wharf, and the Florida state line.',
+    category: 'Places to Stay',
+    heroImage: '/images/where-to-stay-orange-beach.webp',
+    publishedAt: '2026-07-30',
+    readTime: '9 min read',
+  },
+  {
+    slug: 'where-to-stay-30a',
+    title: 'Where to Stay on 30A: A Town-by-Town Guide',
+    excerpt:
+      'Choosing where to stay on 30A comes down to beach access, walkability, amenities, and the kind of town you want outside your door. This town-by-town guide explains the tradeoffs from Dune Allen to Inlet Beach.',
+    category: 'Places to Stay',
+    heroImage: '/images/where-to-stay-30a.webp',
+    publishedAt: '2026-07-30',
+    readTime: '10 min read',
+  },
+  {
+    slug: 'where-to-stay-panama-city-beach',
+    title: 'Where to Stay in Panama City Beach',
+    excerpt:
+      'The best place to stay in Panama City Beach depends on how you plan to spend your days. This guide compares Pier Park, central PCB, Thomas Drive, Grand Lagoon, and the quieter West End, with practical advice for choosing a hotel, condo, or beach house.',
+    category: 'Places to Stay',
+    heroImage: '/images/where-to-stay-panama-city-beach.webp',
+    publishedAt: '2026-07-30',
+    readTime: '9 min read',
+  },
 ]
 
 export function getPostBySlug(slug: string): Post | undefined {

@@ -83,6 +83,12 @@ import GulfCoastFromChattanoogaContent from './content/gulf-coast-from-chattanoo
 import GulfCoastFromJacksonMsContent from './content/gulf-coast-from-jackson-ms'
 import GulfCoastFromCharlotteContent from './content/gulf-coast-from-charlotte'
 import GulfCoastFromStLouisContent from './content/gulf-coast-from-st-louis'
+import WhereToStayGulfShoresContent from './content/where-to-stay-gulf-shores'
+import WhereToStayDestinContent from './content/where-to-stay-destin'
+import WhereToStayPensacolaBeachContent from './content/where-to-stay-pensacola-beach'
+import WhereToStayOrangeBeachContent from './content/where-to-stay-orange-beach'
+import WhereToStay30AContent from './content/where-to-stay-30a'
+import WhereToStayPanamaCityBeachContent from './content/where-to-stay-panama-city-beach'
 
 interface Props {
   params: { slug: string }
@@ -90,6 +96,12 @@ interface Props {
 
 // Map slugs to their content components
 const CONTENT_MAP: Record<string, React.ComponentType> = {
+  'where-to-stay-gulf-shores': WhereToStayGulfShoresContent,
+  'where-to-stay-destin': WhereToStayDestinContent,
+  'where-to-stay-pensacola-beach': WhereToStayPensacolaBeachContent,
+  'where-to-stay-orange-beach': WhereToStayOrangeBeachContent,
+  'where-to-stay-30a': WhereToStay30AContent,
+  'where-to-stay-panama-city-beach': WhereToStayPanamaCityBeachContent,
   'gulf-coast-beach-packing-list': PackingListContent,
   'best-things-to-do-gulf-shores': BestThingsToDoGulfShoresContent,
   'best-gulf-coast-beaches-for-families': BestGulfCoastBeachesFamiliesContent,
