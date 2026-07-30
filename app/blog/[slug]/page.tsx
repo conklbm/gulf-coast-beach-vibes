@@ -94,6 +94,10 @@ import BestThingsToDoOrangeBeachContent from './content/best-things-to-do-orange
 import BestThingsToDoPensacolaBeachContent from './content/best-things-to-do-pensacola-beach'
 import BestThingsToDoPanamaCityBeachContent from './content/best-things-to-do-panama-city-beach'
 import BestThingsToDoDauphinIslandContent from './content/best-things-to-do-dauphin-island'
+import BestThingsToDoNavarreBeachContent from './content/best-things-to-do-navarre-beach'
+import BestThingsToDoFortWaltonBeachContent from './content/best-things-to-do-fort-walton-beach'
+import BestThingsToDo30AContent from './content/best-things-to-do-30a'
+import GulfCoastFromLittleRockContent from './content/gulf-coast-from-little-rock'
 
 interface Props {
   params: { slug: string }
@@ -112,6 +116,10 @@ const CONTENT_MAP: Record<string, React.ComponentType> = {
   'best-things-to-do-pensacola-beach': BestThingsToDoPensacolaBeachContent,
   'best-things-to-do-panama-city-beach': BestThingsToDoPanamaCityBeachContent,
   'best-things-to-do-dauphin-island': BestThingsToDoDauphinIslandContent,
+  'best-things-to-do-navarre-beach': BestThingsToDoNavarreBeachContent,
+  'best-things-to-do-fort-walton-beach': BestThingsToDoFortWaltonBeachContent,
+  'best-things-to-do-30a': BestThingsToDo30AContent,
+  'gulf-coast-from-little-rock': GulfCoastFromLittleRockContent,
   'gulf-coast-beach-packing-list': PackingListContent,
   'best-things-to-do-gulf-shores': BestThingsToDoGulfShoresContent,
   'best-gulf-coast-beaches-for-families': BestGulfCoastBeachesFamiliesContent,

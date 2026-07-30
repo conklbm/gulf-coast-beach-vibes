@@ -880,6 +880,46 @@ export const posts: Post[] = [
     publishedAt: '2026-07-30',
     readTime: '9 min read',
   },
+  {
+    slug: 'best-things-to-do-navarre-beach',
+    title: 'Best Things to Do in Navarre Beach',
+    excerpt:
+      "Navarre Beach packs its best experiences into one quiet stretch of Santa Rosa Island, from a 1,545-foot fishing pier to artificial snorkeling reefs and undeveloped national seashore. Here's where to swim, explore, eat, and get out on the water.",
+    category: 'Things to Do',
+    heroImage: '/images/best-things-to-do-navarre-beach.webp',
+    publishedAt: '2026-07-30',
+    readTime: '8 min read',
+  },
+  {
+    slug: 'best-things-to-do-fort-walton-beach',
+    title: 'Best Things to Do in Fort Walton Beach',
+    excerpt:
+      'Fort Walton Beach pairs the white-sand beaches of Okaloosa Island with fishing, dolphin cruises, family attractions, and a waterfront downtown. This guide covers the experiences worth your time and the practical details that make the trip easier.',
+    category: 'Things to Do',
+    heroImage: '/images/best-things-to-do-fort-walton-beach.webp',
+    publishedAt: '2026-07-30',
+    readTime: '9 min read',
+  },
+  {
+    slug: 'best-things-to-do-30a',
+    title: 'Best Things to Do on 30A',
+    excerpt:
+      "The best experiences on 30A unfold along bike trails, coastal dune lakes, protected beaches, and walkable town centers. Here's where to go, what to book, and how to avoid the corridor's parking headaches.",
+    category: 'Things to Do',
+    heroImage: '/images/best-things-to-do-30a.webp',
+    publishedAt: '2026-07-30',
+    readTime: '9 min read',
+  },
+  {
+    slug: 'gulf-coast-from-little-rock',
+    title: 'Gulf Coast Beach from Little Rock: Best Route, Stops, and Beaches',
+    excerpt:
+      'Gulf Shores is about 500 miles from Little Rock, making it a manageable one-day drive with the right stops. This guide covers the best route, where to break up the trip, and which Alabama or Florida beach fits your vacation.',
+    category: 'Road Trips',
+    heroImage: '/images/gulf-coast-from-little-rock.webp',
+    publishedAt: '2026-07-30',
+    readTime: '8 min read',
+  },
 ]
 
 export function getPostBySlug(slug: string): Post | undefined {
