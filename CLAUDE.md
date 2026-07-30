@@ -106,6 +106,25 @@ No exceptions. When writing a new blog post or destination page:
 - Never hardcode URLs — use slug keys that resolve through `lib/affiliateLinks.ts`
 - Links redirect via `/go/[slug]` → server-side 307 redirect to partner URL
 
+### ⚠️ Outbound links MUST open in a new tab
+Anything that sends a reader off gulfcoastbeachvibes.com opens in a new tab — external URLs *and* `/go/[slug]` affiliate links (those are internal paths but redirect off-site, so they count).
+
+- `<AffiliateLink>` handles this automatically — it checks `startsWith('http') || startsWith('/go/')`. Don't "simplify" that to just the `http` check; `/go/` links are the majority and would silently start stealing the reader's tab.
+- Writing a plain external link in article content? Include both attributes:
+  ```tsx
+  <a href="https://example.com" target="_blank" rel="noopener noreferrer">Label</a>
+  ```
+- Affiliate/paid links use `rel="sponsored noopener"` — **never add `noreferrer` to them**, it strips the Referer header some networks use for commission attribution.
+- Internal `<Link href="/blog/...">` and `/destinations/...` links stay in the same tab.
+
+### ⚠️ Verify every affiliate link resolves before publishing
+```bash
+npm run check:links
+```
+Runs `scripts/check-affiliate-links.mjs` against every URL in the registry. Treats 404/410/5xx as failures; flags 403/429 as **inconclusive** (partners bot-block — open those in a real browser rather than "fixing" a working link).
+
+**This is not hypothetical:** the FishingBooker tp.st short link died and returned `{"error":"not found a link","status":404}` while our `/go/` redirect kept happily returning 307 — so the "Book a Fishing Charter" button was dead across **42 published articles** with nothing broken-looking on our end. Run the checker monthly and before every publishing batch.
+
 ```tsx
 // In a content component:
 <AffiliateLink href="vrbo-gulf-shores" label="Browse Gulf Shores Rentals" provider="vrbo" />

@@ -88,7 +88,8 @@ const affiliateLinks: Record<string, string> = {
   'tripshock-boat-rentals-oba':      'https://tripshock.com/attractions/Gulf-Shores-Orange-Beach/boat-rentals/?aff=themobilerundown',             // ✓ tracked
   'tripshock-parasailing-oba':       'https://tripshock.com/attractions/Gulf-Shores-Orange-Beach/Parasailing/?aff=themobilerundown',              // ✓ tracked
   'tripshock-pensacola-navarre':     'https://tripshock.com/attractions/Pensacola-Beach-Navarre/?aff=themobilerundown',                           // ✓ tracked
-  'tripshock-ocean-springs':         'https://tripshock.com/attractions/Ocean-Springs/?aff=themobilerundown',                                     // ✓ tracked
+  // Ocean-Springs/ 404s on TripShock (no such attractions page) — nearest live MS coast page
+  'tripshock-ocean-springs':         'https://tripshock.com/attractions/Biloxi-Gulfport/?aff=themobilerundown',                                   // ✓ tracked
   'tripshock-biloxi-gulfport':       'https://tripshock.com/attractions/Biloxi-Gulfport/?aff=themobilerundown',                                   // ✓ tracked
 
   // ── Viator / Travel Payouts (✓ tracked via tp.st short links) ────────────
@@ -97,18 +98,26 @@ const affiliateLinks: Record<string, string> = {
   'viator-bienville-bites':          'https://viator.tp.st/RJz6W2G6',   // ✓ tracked — Bienville Bites food tour (Mobile)
   'viator-fairhope-food-tour':       'https://viator.tp.st/otC4wktI',   // ✓ tracked — Taste of Fairhope food tour
 
-  // ── FishingBooker ─────────────────────────────────────────────────────────
-  // TODO: Replace with tp.st link from TravelPayouts. FishingBooker pays 20% commission.
-  // In TP: Tools → Links → paste https://fishingbooker.com/ → Generate
-  'fishingbooker-gulf-coast':        'https://fishingbooker.tp.st/lQGpTKBV',  // ✓ tracked (same as used in destination content)
+  // ── Fishing charters ──────────────────────────────────────────────────────
+  // ⚠️ 2026-07-30: the previous FishingBooker link (https://fishingbooker.tp.st/lQGpTKBV)
+  // returned {"error":"not found a link","status":404} — the tp.st short link was dead,
+  // breaking this slug across 42 articles. Temporarily repointed to TripShock's fishing
+  // category, which is live AND tracked. Every label using this slug is brand-neutral
+  // ("Book a Fishing Charter"), so no article copy needed changing.
+  // TO RESTORE FISHINGBOOKER: regenerate the link in TravelPayouts (Tools → Links →
+  // paste https://fishingbooker.com/ → Generate), verify it resolves, then swap it back here.
+  'fishingbooker-gulf-coast':        'https://tripshock.com/attractions/Gulf-Shores-Orange-Beach/Fishing-Charters/?aff=themobilerundown',  // ✓ tracked (TripShock fallback)
 
   // ── Rentalcars.com / TravelPayouts ────────────────────────────────────────
   // For fly-in visitors and road trip posts. Available in TravelPayouts — join program first.
-  // TODO: Generate tp.st link from TP dashboard after joining Rentalcars program.
-  'rentalcars-pensacola':            'https://www.rentalcars.com/Airport/US/PNS/',  // TODO: add tp.st tracking — PNS airport
-  'rentalcars-destin':               'https://www.rentalcars.com/Airport/US/VPS/',  // TODO: add tp.st tracking — VPS airport
-  'rentalcars-panama-city-beach':    'https://www.rentalcars.com/Airport/US/ECP/',  // TODO: add tp.st tracking — ECP airport
-  'rentalcars-mobile':               'https://www.rentalcars.com/Airport/US/MOB/',  // TODO: add tp.st tracking — MOB airport
+  // ⚠️ 2026-07-30: the /Airport/US/<CODE>/ paths all 404 — that URL format no longer exists.
+  // Pointed at the working homepage so readers land somewhere real instead of an error page.
+  // TODO: join the Rentalcars program in TravelPayouts, generate per-airport tp.st links
+  // (PNS, VPS, ECP, MOB), verify each resolves, then replace these.
+  'rentalcars-pensacola':            'https://www.rentalcars.com/',  // TODO: tp.st deep link — PNS airport
+  'rentalcars-destin':               'https://www.rentalcars.com/',  // TODO: tp.st deep link — VPS airport
+  'rentalcars-panama-city-beach':    'https://www.rentalcars.com/',  // TODO: tp.st deep link — ECP airport
+  'rentalcars-mobile':               'https://www.rentalcars.com/',  // TODO: tp.st deep link — MOB airport
 
   // ── TripAdvisor / Travel Payouts ──────────────────────────────────────────
   'tripadvisor-gulf-coast':          'https://tripadvisor.tp.st/IBfrRntP',  // ✓ tracked

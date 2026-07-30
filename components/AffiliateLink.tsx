@@ -37,12 +37,17 @@ export default function AffiliateLink({
   const colorClass   = providerColors[provider]
   const providerName = providerLabels[provider]
   const resolvedHref = resolveHref(href)
-  const isExternal   = resolvedHref.startsWith('http')
+
+  // /go/ links are internal paths but server-redirect to a partner site, so they
+  // leave gulfcoastbeachvibes.com just like a raw https:// link. Both open in a
+  // new tab. `noreferrer` is deliberately omitted — it strips the Referer header,
+  // which some affiliate networks use for attribution.
+  const leavesSite = resolvedHref.startsWith('http') || resolvedHref.startsWith('/go/')
 
   const linkProps = {
     href:   resolvedHref,
-    target: isExternal ? '_blank' : undefined,
-    rel:    isExternal ? 'noopener noreferrer sponsored' : 'sponsored',
+    target: leavesSite ? '_blank' : undefined,
+    rel:    leavesSite ? 'sponsored noopener' : 'sponsored',
   }
 
   if (variant === 'inline') {
@@ -53,7 +58,7 @@ export default function AffiliateLink({
                    transition-colors"
       >
         {label}
-        <span className="sr-only"> (affiliate link{isExternal ? ', opens in new tab' : ''})</span>
+        <span className="sr-only"> (affiliate link{leavesSite ? ', opens in new tab' : ''})</span>
       </a>
     )
   }
@@ -69,6 +74,7 @@ export default function AffiliateLink({
       {providerName && (
         <span className="opacity-70 text-xs">via {providerName}</span>
       )}
+      <span className="sr-only"> (affiliate link{leavesSite ? ', opens in new tab' : ''})</span>
       <svg className="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
         <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2}
               d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
