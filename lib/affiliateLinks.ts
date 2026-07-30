@@ -98,15 +98,15 @@ const affiliateLinks: Record<string, string> = {
   'viator-bienville-bites':          'https://viator.tp.st/RJz6W2G6',   // ✓ tracked — Bienville Bites food tour (Mobile)
   'viator-fairhope-food-tour':       'https://viator.tp.st/otC4wktI',   // ✓ tracked — Taste of Fairhope food tour
 
-  // ── Fishing charters ──────────────────────────────────────────────────────
-  // ⚠️ 2026-07-30: the previous FishingBooker link (https://fishingbooker.tp.st/lQGpTKBV)
-  // returned {"error":"not found a link","status":404} — the tp.st short link was dead,
-  // breaking this slug across 42 articles. Temporarily repointed to TripShock's fishing
-  // category, which is live AND tracked. Every label using this slug is brand-neutral
-  // ("Book a Fishing Charter"), so no article copy needed changing.
-  // TO RESTORE FISHINGBOOKER: regenerate the link in TravelPayouts (Tools → Links →
-  // paste https://fishingbooker.com/ → Generate), verify it resolves, then swap it back here.
-  'fishingbooker-gulf-coast':        'https://tripshock.com/attractions/Gulf-Shores-Orange-Beach/Fishing-Charters/?aff=themobilerundown',  // ✓ tracked (TripShock fallback)
+  // ── FishingBooker ─────────────────────────────────────────────────────────
+  // Brooks's general FishingBooker affiliate link. The tracking ID is the URL
+  // FRAGMENT (#65205c1e15efd), not a query param — FishingBooker reads it client-side.
+  // Fragments are preserved through our /go/ 307 because the Location header carries
+  // them (RFC 7231 §7.1.2), verified in a browser. Do not strip or "clean" the hash.
+  // History: replaced https://fishingbooker.tp.st/lQGpTKBV on 2026-07-30 after that
+  // tp.st short link died ({"error":"not found a link","status":404}), silently breaking
+  // this slug across 42 published articles.
+  'fishingbooker-gulf-coast':        'https://fishingbooker.com/#65205c1e15efd',  // ✓ tracked (fragment-based affiliate ID)
 
   // ── Rentalcars.com / TravelPayouts ────────────────────────────────────────
   // For fly-in visitors and road trip posts. Available in TravelPayouts — join program first.
