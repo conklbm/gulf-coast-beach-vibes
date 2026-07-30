@@ -25,7 +25,7 @@ export const posts: Post[] = [
     title: 'Best Things to Do in Gulf Shores, AL',
     excerpt:
       "Gulf Shores has a lot more going on than just the beach — here's the local's guide to the best activities, hidden spots, and must-eat restaurants in Alabama's beach capital.",
-    category: 'Gulf Shores',
+    category: 'Things to Do',
     heroImage: '/images/gulf-shores-beach-alabama.jpg',
     publishedAt: '2024-11-15',
     readTime: '8 min read',
@@ -827,6 +827,56 @@ export const posts: Post[] = [
       'The best place to stay in Panama City Beach depends on how you plan to spend your days. This guide compares Pier Park, central PCB, Thomas Drive, Grand Lagoon, and the quieter West End, with practical advice for choosing a hotel, condo, or beach house.',
     category: 'Places to Stay',
     heroImage: '/images/where-to-stay-panama-city-beach.webp',
+    publishedAt: '2026-07-30',
+    readTime: '9 min read',
+  },
+  {
+    slug: 'best-things-to-do-destin',
+    title: 'Best Things to Do in Destin, FL',
+    excerpt:
+      'The best things to do in Destin revolve around the water, from white-sand beaches and Crab Island to fishing charters and dolphin cruises. Here are the experiences worth planning around, plus the practical details that make each one easier.',
+    category: 'Things to Do',
+    heroImage: '/images/best-things-to-do-destin.webp',
+    publishedAt: '2026-07-30',
+    readTime: '9 min read',
+  },
+  {
+    slug: 'best-things-to-do-orange-beach',
+    title: 'Best Things to Do in Orange Beach, AL',
+    excerpt:
+      'Orange Beach combines wide Gulf beaches with dolphin cruises, fishing charters, island-hopping trips, and miles of paved trails through Gulf State Park. Here are the activities worth your time, plus advice on parking, boating, and beach access.',
+    category: 'Things to Do',
+    heroImage: '/images/best-things-to-do-orange-beach.webp',
+    publishedAt: '2026-07-30',
+    readTime: '9 min read',
+  },
+  {
+    slug: 'best-things-to-do-pensacola-beach',
+    title: 'Best Things to Do in Pensacola Beach',
+    excerpt:
+      'Pensacola Beach pairs its white-sand shoreline with Fort Pickens, dolphin cruises, snorkeling reefs, fishing, and lively evenings on Santa Rosa Sound. This guide covers the activities worth your time and the details that make each one easier.',
+    category: 'Things to Do',
+    heroImage: '/images/best-things-to-do-pensacola-beach.webp',
+    publishedAt: '2026-07-30',
+    readTime: '8 min read',
+  },
+  {
+    slug: 'best-things-to-do-panama-city-beach',
+    title: 'Best Things to Do in Panama City Beach',
+    excerpt:
+      'Panama City Beach has 27 miles of shoreline, but some of its best experiences happen beyond your beach chair. Explore St. Andrews State Park, visit Shell Island, spot wild dolphins, walk coastal trails, and keep a few rainy-day backups ready.',
+    category: 'Things to Do',
+    heroImage: '/images/best-things-to-do-panama-city-beach.webp',
+    publishedAt: '2026-07-30',
+    readTime: '9 min read',
+  },
+  {
+    slug: 'best-things-to-do-dauphin-island',
+    title: 'Best Things to Do on Dauphin Island',
+    excerpt:
+      'Dauphin Island pairs quiet Gulf beaches with Fort Gaines, the Alabama Aquarium, birding trails, fishing, and the Mobile Bay Ferry. Here are the experiences worth your time and the practical details that make an island visit easier.',
+    category: 'Things to Do',
+    heroImage: '/images/best-things-to-do-dauphin-island.webp',
     publishedAt: '2026-07-30',
     readTime: '9 min read',
   },

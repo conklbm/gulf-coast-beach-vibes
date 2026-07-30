@@ -89,6 +89,11 @@ import WhereToStayPensacolaBeachContent from './content/where-to-stay-pensacola-
 import WhereToStayOrangeBeachContent from './content/where-to-stay-orange-beach'
 import WhereToStay30AContent from './content/where-to-stay-30a'
 import WhereToStayPanamaCityBeachContent from './content/where-to-stay-panama-city-beach'
+import BestThingsToDoDestinContent from './content/best-things-to-do-destin'
+import BestThingsToDoOrangeBeachContent from './content/best-things-to-do-orange-beach'
+import BestThingsToDoPensacolaBeachContent from './content/best-things-to-do-pensacola-beach'
+import BestThingsToDoPanamaCityBeachContent from './content/best-things-to-do-panama-city-beach'
+import BestThingsToDoDauphinIslandContent from './content/best-things-to-do-dauphin-island'
 
 interface Props {
   params: { slug: string }
@@ -102,6 +107,11 @@ const CONTENT_MAP: Record<string, React.ComponentType> = {
   'where-to-stay-orange-beach': WhereToStayOrangeBeachContent,
   'where-to-stay-30a': WhereToStay30AContent,
   'where-to-stay-panama-city-beach': WhereToStayPanamaCityBeachContent,
+  'best-things-to-do-destin': BestThingsToDoDestinContent,
+  'best-things-to-do-orange-beach': BestThingsToDoOrangeBeachContent,
+  'best-things-to-do-pensacola-beach': BestThingsToDoPensacolaBeachContent,
+  'best-things-to-do-panama-city-beach': BestThingsToDoPanamaCityBeachContent,
+  'best-things-to-do-dauphin-island': BestThingsToDoDauphinIslandContent,
   'gulf-coast-beach-packing-list': PackingListContent,
   'best-things-to-do-gulf-shores': BestThingsToDoGulfShoresContent,
   'best-gulf-coast-beaches-for-families': BestGulfCoastBeachesFamiliesContent,
