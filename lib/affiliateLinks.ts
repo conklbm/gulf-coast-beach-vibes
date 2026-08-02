@@ -44,18 +44,18 @@ const affiliateLinks: Record<string, string> = {
   // TODO: Replace each with a tp.st deep link from your TravelPayouts dashboard.
   // Instructions: TP Dashboard → Tools → Links → paste the vrbo.com URL → Generate.
   // Until then these all route through the tracked general link.
-  'vrbo-gulf-shores':           'https://vrbo.tp.st/rB1ITlqz',  // fallback tracked — swap for destination deep link
-  'vrbo-orange-beach':          'https://vrbo.tp.st/rB1ITlqz',  // fallback tracked — swap for destination deep link
-  'vrbo-destin':                'https://vrbo.tp.st/rB1ITlqz',  // fallback tracked — swap for destination deep link
-  'vrbo-pensacola-beach':       'https://vrbo.tp.st/rB1ITlqz',  // fallback tracked — swap for destination deep link
-  'vrbo-30a':                   'https://vrbo.tp.st/rB1ITlqz',  // fallback tracked — swap for destination deep link
-  'vrbo-panama-city-beach':     'https://vrbo.tp.st/rB1ITlqz',  // fallback tracked — swap for destination deep link
-  'vrbo-fort-walton-beach':     'https://vrbo.tp.st/rB1ITlqz',  // fallback tracked — swap for destination deep link
-  'vrbo-navarre-beach':         'https://vrbo.tp.st/rB1ITlqz',  // fallback tracked — swap for destination deep link
-  'vrbo-gulf-breeze':           'https://vrbo.tp.st/rB1ITlqz',  // fallback tracked — swap for destination deep link
-  'vrbo-miramar-beach':         'https://vrbo.tp.st/rB1ITlqz',  // fallback tracked — swap for destination deep link
-  'vrbo-seaside-30a':           'https://vrbo.tp.st/rB1ITlqz',  // fallback tracked — swap for destination deep link
-  'vrbo-dauphin-island':        'https://vrbo.tp.st/rB1ITlqz',  // fallback tracked — swap for destination deep link
+  'vrbo-gulf-shores':           'https://vrbo.tpx.lv/vDbm8Z1S',  // fallback tracked — swap for destination deep link
+  'vrbo-orange-beach':          'https://vrbo.tpx.lv/vDbm8Z1S',  // fallback tracked — swap for destination deep link
+  'vrbo-destin':                'https://vrbo.tpx.lv/vDbm8Z1S',  // fallback tracked — swap for destination deep link
+  'vrbo-pensacola-beach':       'https://vrbo.tpx.lv/vDbm8Z1S',  // fallback tracked — swap for destination deep link
+  'vrbo-30a':                   'https://vrbo.tpx.lv/vDbm8Z1S',  // fallback tracked — swap for destination deep link
+  'vrbo-panama-city-beach':     'https://vrbo.tpx.lv/vDbm8Z1S',  // fallback tracked — swap for destination deep link
+  'vrbo-fort-walton-beach':     'https://vrbo.tpx.lv/vDbm8Z1S',  // fallback tracked — swap for destination deep link
+  'vrbo-navarre-beach':         'https://vrbo.tpx.lv/vDbm8Z1S',  // fallback tracked — swap for destination deep link
+  'vrbo-gulf-breeze':           'https://vrbo.tpx.lv/vDbm8Z1S',  // fallback tracked — swap for destination deep link
+  'vrbo-miramar-beach':         'https://vrbo.tpx.lv/vDbm8Z1S',  // fallback tracked — swap for destination deep link
+  'vrbo-seaside-30a':           'https://vrbo.tpx.lv/vDbm8Z1S',  // fallback tracked — swap for destination deep link
+  'vrbo-dauphin-island':        'https://vrbo.tpx.lv/vDbm8Z1S',  // fallback tracked — swap for destination deep link
 
   // ── GetYourGuide ─────────────────────────────────────────────────────────
   // TODO: Replace untracked GYG links with tp.st deep links from TravelPayouts dashboard.
@@ -128,7 +128,7 @@ const affiliateLinks: Record<string, string> = {
 
   // ── VRBO / Travel Payouts (✓ tracked) ────────────────────────────────────
   // Use this for general VRBO links; keep destination-specific entries above for deep links
-  'vrbo-travel-payouts':             'https://vrbo.tp.st/rB1ITlqz',  // ✓ tracked
+  'vrbo-travel-payouts':             'https://vrbo.tpx.lv/vDbm8Z1S',  // ✓ tracked
 
   // ── Hotels.com (CJ affiliate) ─────────────────────────────────────────────
   'hotels-com':                      'https://www.anrdoezrs.net/click-7185154-10772148',  // ✓ tracked
