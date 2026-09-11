@@ -5,6 +5,7 @@ import Breadcrumb from '@/components/Breadcrumb'
 import TipCallout from '@/components/TipCallout'
 import AffiliateLink from '@/components/AffiliateLink'
 import RelatedDestinations from '@/components/RelatedDestinations'
+import DestinationPosts from '@/components/DestinationPosts'
 import NewsletterBanner from '@/components/NewsletterBanner'
 import { destinations, getDestinationBySlug } from '@/lib/destinations'
 import { destinationContent, type DestinationContent } from '@/lib/destinationContent'
@@ -21,7 +22,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const destination = getDestinationBySlug(params.slug)
   if (!destination) return {}
 
-  const title = `${destination.name}, ${destination.state} Beach Guide — Things to Do, Stay & Eat`
+  // Deliberately NOT framed as a "guide". Each destination also has a
+  // /blog/<name>-guide post targeting the same head term, and GSC showed the two
+  // competing — the blog post winning (pos 23) while this page sat at 77. This
+  // page is the quick-reference hub; the guide post owns the head term.
+  const title = `${destination.name}, ${destination.state} at a Glance — Beaches, Stays & Eats`
   const description = destination.description
 
   return {
@@ -29,7 +34,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     description,
     alternates: { canonical: `/destinations/${destination.slug}` },
     openGraph: {
-      title: `${destination.name} Travel Guide | Gulf Coast Beach Vibes`,
+      title: `${destination.name} at a Glance | Gulf Coast Beach Vibes`,
       description,
       images: [{ url: destination.heroImage, width: 1200, height: 630, alt: destination.name }],
     },
@@ -111,6 +116,9 @@ export default function DestinationPage({ params }: Props) {
       ) : (
         <StubContent destination={destination} />
       )}
+
+      {/* Articles about this destination — sends hub equity to the cluster */}
+      <DestinationPosts destinationSlug={params.slug} />
 
       {/* Related Destinations */}
       <section className="py-16 bg-cream">
