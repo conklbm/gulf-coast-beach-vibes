@@ -1000,6 +1000,46 @@ export const posts: Post[] = [
     publishedAt: '2026-09-11',
     readTime: '10 min read',
   },
+  {
+    slug: 'gulf-state-park-guide',
+    title: 'Gulf State Park Visitor Guide: Beaches, Pier, Trails & Camping',
+    excerpt:
+      'Two miles of undeveloped shoreline, 28 miles of trail, a fishing pier, and lodging from tent to Hilton. Fees, which entrance to use, and how to avoid the wrong parking lot.',
+    category: 'Things to Do',
+    heroImage: '/images/best-gulf-coast-state-parks.webp',
+    publishedAt: '2026-09-11',
+    readTime: '8 min read',
+  },
+  {
+    slug: 'destin-harborwalk-guide',
+    title: 'Destin HarborWalk: Parking, Restaurants, and What It Is Really Like',
+    excerpt:
+      'HarborWalk Village is a good evening and a bad afternoon. Parking strategy, which restaurants earn the location, sunset timing, and how long to actually budget.',
+    category: 'Things to Do',
+    heroImage: '/images/destin-florida.jpg',
+    publishedAt: '2026-09-11',
+    readTime: '8 min read',
+  },
+  {
+    slug: 'best-seafood-gulf-shores',
+    title: 'Best Seafood Restaurants in Gulf Shores, AL',
+    excerpt:
+      'The boats land here, which is the whole advantage. Where to eat oysters, royal reds, and fresh Gulf fish across Gulf Shores and Orange Beach — and what to order.',
+    category: 'Things to Do',
+    heroImage: '/images/best-seafood-gulf-shores.webp',
+    publishedAt: '2026-09-11',
+    readTime: '8 min read',
+  },
+  {
+    slug: 'best-restaurants-pensacola-beach',
+    title: 'Best Restaurants on Pensacola Beach (On the Island and Nearby)',
+    excerpt:
+      "The island is a mile across, so almost everything good is walkable. Peg Leg Pete's, the Grand Marlin, and the rest — plus when to cross the bridge instead.",
+    category: 'Things to Do',
+    heroImage: '/images/restaurants.jpg',
+    publishedAt: '2026-09-11',
+    readTime: '8 min read',
+  },
 ]
 
 export function getPostBySlug(slug: string): Post | undefined {

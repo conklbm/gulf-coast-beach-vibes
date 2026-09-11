@@ -9,6 +9,7 @@ const nextConfig = {
     // linked, so they redirect rather than 404.
     return [
       { source: '/eat/best-restaurants-destin', destination: '/blog/best-restaurants-destin', permanent: true },
+      { source: '/eat/best-seafood-gulf-shores', destination: '/blog/best-seafood-gulf-shores', permanent: true },
     ]
   },
   async headers() {

@@ -113,7 +113,16 @@ import HendersonBeachStateParkGuideContent from './content/henderson-beach-state
 import CrabIslandDestinGuideContent from './content/crab-island-destin-guide'
 import BestRestaurantsDestinContent from './content/best-restaurants-destin'
 
+import GulfStateParkGuideContent from './content/gulf-state-park-guide'
+import DestinHarborWalkGuideContent from './content/destin-harborwalk-guide'
+import BestSeafoodGulfShoresContent from './content/best-seafood-gulf-shores'
+import BestRestaurantsPensacolaBeachContent from './content/best-restaurants-pensacola-beach'
+
 const CONTENT_MAP: Record<string, React.ComponentType> = {
+  'gulf-state-park-guide': GulfStateParkGuideContent,
+  'destin-harborwalk-guide': DestinHarborWalkGuideContent,
+  'best-seafood-gulf-shores': BestSeafoodGulfShoresContent,
+  'best-restaurants-pensacola-beach': BestRestaurantsPensacolaBeachContent,
   'henderson-beach-state-park-guide': HendersonBeachStateParkGuideContent,
   'crab-island-destin-guide': CrabIslandDestinGuideContent,
   'best-restaurants-destin': BestRestaurantsDestinContent,

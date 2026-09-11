@@ -4,7 +4,6 @@ import NewsletterBanner from '@/components/NewsletterBanner'
 interface Props { params: { slug: string } }
 
 const eatContent: Record<string, { title: string; description: string }> = {
-  'best-seafood-gulf-shores': { title: 'Best Seafood Restaurants in Gulf Shores', description: 'Top seafood spots in Gulf Shores, AL.' },
   'best-breakfast-gulf-coast':{ title: 'Best Breakfast on the Gulf Coast',          description: 'Top breakfast spots across the Gulf Coast.' },
 }
 
