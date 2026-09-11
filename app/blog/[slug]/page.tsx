@@ -125,7 +125,14 @@ import FortPickensDayGuideContent from './content/fort-pickens-day-guide'
 import GraytonBeachStateParkGuideContent from './content/grayton-beach-state-park-guide'
 import ShellIslandPanamaCityBeachGuideContent from './content/shell-island-panama-city-beach-guide'
 
+import FortMorganAlabamaGuideContent from './content/fort-morgan-alabama-guide'
+import PerdidoKeyGuideContent from './content/perdido-key-guide'
+import OkaloosaIslandGuideContent from './content/okaloosa-island-guide'
+
 const CONTENT_MAP: Record<string, React.ComponentType> = {
+  'fort-morgan-alabama-guide': FortMorganAlabamaGuideContent,
+  'perdido-key-guide': PerdidoKeyGuideContent,
+  'okaloosa-island-guide': OkaloosaIslandGuideContent,
   'the-wharf-orange-beach-guide': TheWharfOrangeBeachGuideContent,
   'fort-pickens-day-guide': FortPickensDayGuideContent,
   'grayton-beach-state-park-guide': GraytonBeachStateParkGuideContent,

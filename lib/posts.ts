@@ -1090,6 +1090,36 @@ export const posts: Post[] = [
     publishedAt: '2026-09-11',
     readTime: '8 min read',
   },
+  {
+    slug: 'fort-morgan-alabama-guide',
+    title: 'Fort Morgan, Alabama: Beach, History, and the Ferry',
+    excerpt:
+      "Twenty miles past the condos: a Civil War fort, the quietest sand in Alabama, and the ferry to Dauphin Island. Admission is $8 and there is almost nothing else out there.",
+    category: 'Things to Do',
+    heroImage: '/images/gulf-shores-beach-alabama.jpg',
+    publishedAt: '2026-09-11',
+    readTime: '8 min read',
+  },
+  {
+    slug: 'perdido-key-guide',
+    title: 'Perdido Key Beach Guide: A Day Trip Worth Taking',
+    excerpt:
+      'The emptiest good beaches between Pensacola and Orange Beach. Johnson Beach, Perdido Key State Park, what the $25 pass actually covers, and the walk that loses the crowd.',
+    category: 'Things to Do',
+    heroImage: '/images/best-beaches-pensacola-area.webp',
+    publishedAt: '2026-09-11',
+    readTime: '7 min read',
+  },
+  {
+    slug: 'okaloosa-island-guide',
+    title: 'Okaloosa Island Guide: Beaches, Boardwalk, and the Pier',
+    excerpt:
+      "Destin's water and sand at lower rates with easier parking, plus a boardwalk you can walk onto straight from the beach. The Emerald Coast's best value.",
+    category: 'Things to Do',
+    heroImage: '/images/fort-walton-beach-florida.webp',
+    publishedAt: '2026-09-11',
+    readTime: '8 min read',
+  },
 ]
 
 export function getPostBySlug(slug: string): Post | undefined {
