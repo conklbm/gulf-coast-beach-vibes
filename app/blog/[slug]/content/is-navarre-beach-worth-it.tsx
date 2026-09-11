@@ -111,7 +111,7 @@ export default function IsNavarreBeachWorthItContent() {
         simple. Check surf and flag conditions before swimming or snorkeling, and understand the rules:
         Santa Rosa County prohibits glass, fires, pets on the beach, overnight parking, and leaving
         items out overnight. Don&apos;t overplan food, and check road and access conditions on Highway
-        399 if you plan to drive toward Pensacola Beach or Opal Beach. Gulf Breeze Zoo is a realistic
+        399 if you plan to drive toward Pensacola Beach or Opal Beach. <Link href="/destinations/gulf-breeze">Gulf Breeze</Link> Zoo is a realistic
         family backup if you need a break from the beach.
       </p>
 

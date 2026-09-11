@@ -180,6 +180,14 @@ export default function BestTimeToVisitDestinContent() {
         <li><strong>Avoid if possible:</strong> Peak July weekends (crowded, expensive, Highway 98 traffic)</li>
       </ul>
 
+      <p>
+        Once the month is settled, our{' '}
+        <Link href="/blog/3-days-in-destin">three days in Destin itinerary</Link> and{' '}
+        <Link href="/blog/best-things-to-do-destin">things to do in Destin</Link> guide cover the
+        days themselves, and{' '}
+        <Link href="/blog/where-to-stay-destin">where to stay in Destin</Link> covers the base.
+      </p>
+
       <h2>Ready to Book?</h2>
       <div className="not-prose flex flex-col sm:flex-row gap-3 my-6">
         <AffiliateLink href="vrbo-destin" label="Browse Destin Vacation Rentals" provider="vrbo" />

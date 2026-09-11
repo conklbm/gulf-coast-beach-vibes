@@ -117,6 +117,14 @@ export default function ThreeDaysInPanamaCityBeachContent() {
         and book the water activities that matter.
       </p>
 
+      <p>
+        For more than three days, or a different month, see our{' '}
+        <Link href="/blog/best-time-to-visit-panama-city-beach">PCB month-by-month guide</Link>,{' '}
+        <Link href="/blog/best-things-to-do-panama-city-beach">things to do in Panama City
+        Beach</Link>, and{' '}
+        <Link href="/blog/where-to-stay-panama-city-beach">where to stay in PCB</Link>.
+      </p>
+
       <h2>Where to Stay in Panama City Beach</h2>
       <div className="not-prose flex flex-col sm:flex-row gap-3 my-6">
         <AffiliateLink href="vrbo-panama-city-beach" label="Browse Panama City Beach Rentals" provider="vrbo" />

@@ -1,5 +1,6 @@
 import TipCallout from '@/components/TipCallout'
 import AffiliateLink from '@/components/AffiliateLink'
+import Link from 'next/link'
 
 export default function PackingListContent() {
   return (
@@ -103,7 +104,9 @@ export default function PackingListContent() {
         </li>
         <li>
           <strong>Pets</strong> — most public beaches are no-pet zones from Memorial Day through
-          Labor Day
+          Labor Day. The rules vary a lot by town, so check our{' '}
+          <Link href="/blog/pet-friendly-gulf-coast-beaches">pet-friendly Gulf Coast beaches
+          guide</Link> before you assume.
         </li>
         <li>
           <strong>Drones</strong> — prohibited at Gulf Islands National Seashore and most public
@@ -113,6 +116,13 @@ export default function PackingListContent() {
           <strong>Disposable everything</strong> — the sea turtles thank you
         </li>
       </ul>
+
+      <p>
+        What you pack also depends on when you go — an October trip needs a light layer for the
+        evenings that a July trip never will. Our{' '}
+        <Link href="/blog/best-time-to-visit-gulf-shores">month-by-month guide</Link> covers what to
+        expect season by season.
+      </p>
 
       <h2>The &quot;Nice to Have&quot; List</h2>
       <ul>
@@ -129,7 +139,10 @@ export default function PackingListContent() {
         Parking at Gulf Coast beaches can be a nightmare in peak summer. Most major beaches have
         paid parking lots that fill up by 10 AM on weekends. Arrive early (before 9 AM for a good
         spot), or use apps like ParkMobile where available. Many vacation rental properties are
-        walking distance to beach accesses — factor this into your lodging choice.
+        walking distance to beach accesses — factor this into your lodging choice; our{' '}
+        <Link href="/blog/where-to-stay-gulf-shores">Gulf Shores</Link> and{' '}
+        <Link href="/blog/where-to-stay-destin">Destin</Link> lodging guides both flag which areas
+        put you on the sand without a car.
       </p>
     </>
   )

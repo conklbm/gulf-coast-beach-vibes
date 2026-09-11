@@ -278,6 +278,16 @@ export default function ThreeDaysInPensacolaBeachContent() {
         the island breathe a little, and three days is enough time to do that.
       </p>
 
+      <p>
+        Planning around different dates or a longer stay? Our{' '}
+        <Link href="/blog/best-time-to-visit-pensacola-beach">Pensacola Beach month-by-month
+        guide</Link>,{' '}
+        <Link href="/blog/best-things-to-do-pensacola-beach">things to do on Pensacola
+        Beach</Link>, and{' '}
+        <Link href="/blog/where-to-stay-pensacola-beach">where to stay</Link> guide each go deeper
+        than a three-day plan allows.
+      </p>
+
       <h2>Where to Stay in Pensacola Beach</h2>
       <p>
         Book early for summer weekends and anything close to the Air Show. Gulf-front condos and

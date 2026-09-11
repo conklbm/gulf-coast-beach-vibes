@@ -1,5 +1,6 @@
 import TipCallout from '@/components/TipCallout'
 import AffiliateLink from '@/components/AffiliateLink'
+import Link from 'next/link'
 
 export default function BestTimeGulfShoresContent() {
   return (
@@ -150,7 +151,8 @@ export default function BestTimeGulfShoresContent() {
         temperatures are perfect — warm enough for the beach without being oppressive. Water is
         still comfortably swimmable. Jellyfish, which can be a nuisance in late summer, are mostly
         gone. Prices are at their best post-summer value. And the beach is beautiful in the softer
-        fall light. The <strong>Frank Brown International Songwriters Festival</strong> runs in early
+        fall light. We make the full case in our{' '}
+        <Link href="/blog/gulf-coast-in-october">Gulf Coast in October guide</Link>. The <strong>Frank Brown International Songwriters Festival</strong> runs in early
         November (just barely missing October), but the beach is wonderful all month.
       </p>
 
@@ -206,11 +208,21 @@ export default function BestTimeGulfShoresContent() {
           early June — everything open, good weather, before peak crowds hit
         </li>
       </ul>
+      <p>
+        Once you have picked a month, our{' '}
+        <Link href="/blog/3-days-in-gulf-shores">3-day Gulf Shores itinerary</Link> and{' '}
+        <Link href="/blog/best-things-to-do-gulf-shores">things to do in Gulf Shores</Link> guide
+        cover how to fill the days, and the{' '}
+        <Link href="/destinations/gulf-shores">Gulf Shores destination page</Link> collects the
+        beaches, stays and restaurants in one place.
+      </p>
 
       <h2>Ready to Book?</h2>
       <p>
         Browse vacation rentals and hotels in Gulf Shores across the full calendar — rates change
-        significantly by season, so it&apos;s worth checking a few dates.
+        significantly by season, so it&apos;s worth checking a few dates. Our{' '}
+        <Link href="/blog/where-to-stay-gulf-shores">where to stay in Gulf Shores</Link> guide
+        breaks down which area suits which kind of trip.
       </p>
       <div className="not-prose flex flex-col sm:flex-row gap-3 my-6">
         <AffiliateLink href="vrbo-gulf-shores" label="Browse Gulf Shores Vacation Rentals" provider="vrbo" />

@@ -180,6 +180,15 @@ export default function PetFriendlyContent() {
         outside the swim area, and has excellent vacation rental inventory.
       </TipCallout>
 
+      <p>
+        Traveling with a dog usually means traveling with everyone else too. Our{' '}
+        <Link href="/blog/gulf-coast-with-kids">Gulf Coast with kids</Link> guide covers the rest of
+        the family, and the{' '}
+        <Link href="/destinations/gulf-shores">Gulf Shores</Link> and{' '}
+        <Link href="/destinations/orange-beach">Orange Beach</Link> pages list the beaches and stays
+        in the two towns with the strictest sand rules.
+      </p>
+
       <h2>Find Pet-Friendly Gulf Coast Rentals</h2>
       <p>
         VRBO and Airbnb both have strong pet-friendly filters — use them to find condos and houses

@@ -107,6 +107,15 @@ export default function ThreeDaysIn30AContent() {
         came for.
       </p>
 
+      <p>
+        Three days is enough for a first pass, not for the whole road. If you are still choosing
+        dates, our <Link href="/blog/best-time-to-visit-30a">30A month-by-month guide</Link> covers
+        the seasons, <Link href="/blog/best-things-to-do-30a">things to do on 30A</Link> goes wider
+        than this itinerary, and{' '}
+        <Link href="/blog/where-to-stay-30a">where to stay on 30A</Link> breaks the towns down one
+        by one.
+      </p>
+
       <h2>Where to Stay on 30A</h2>
       <div className="not-prose flex flex-col sm:flex-row gap-3 my-6">
         <AffiliateLink href="vrbo-30a" label="Browse 30A Rentals" provider="vrbo" />

@@ -100,7 +100,7 @@ export default function IsPensacolaBeachWorthItContent() {
 
       <h2>What to Know Before You Book</h2>
       <p>
-        First, decide whether to stay on the island (easiest beach routine) or off it in Gulf Breeze or
+        First, decide whether to stay on the island (easiest beach routine) or off it in <Link href="/destinations/gulf-breeze">Gulf Breeze</Link> or
         Pensacola (cheaper, but a toll and parking each beach day). Check the flags before you get in
         the water: double red flags mean no swimming or wading. Arrive early for Casino Beach in summer,
         check Fort Pickens and Opal Beach conditions before building a day around them, and check event

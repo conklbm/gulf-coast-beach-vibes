@@ -275,6 +275,14 @@ export default function ThirtyAFloridaGuideContent() {
         </li>
       </ul>
 
+      <p>
+        This guide is the overview. For the practical layers, see{' '}
+        <Link href="/blog/best-things-to-do-30a">things to do on 30A</Link>, the{' '}
+        <Link href="/blog/3-days-in-30a">three-day 30A itinerary</Link>, and the{' '}
+        <Link href="/destinations/seaside">Seaside and 30A destination page</Link>, which collects
+        the beaches, stays and restaurants in one place.
+      </p>
+
       <h2>Where to Stay on 30A</h2>
       <div className="not-prose flex flex-col sm:flex-row gap-3 my-6">
         <AffiliateLink href="vrbo-30a" label="Browse 30A Vacation Rentals" provider="vrbo" />
