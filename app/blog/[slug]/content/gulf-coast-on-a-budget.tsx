@@ -42,10 +42,17 @@ export default function GulfCoastOnABudgetContent() {
 
       <TipCallout title="The Best Budget Window" variant="tip">
         Late September through October is arguably the best Gulf Coast value of the year.
-        Water is still swimable (74–78°F), air temps are perfect (76–82°F highs), prices
+        Water is still swimmable (74–78°F), air temps are perfect (76–82°F highs), prices
         are 25–35% off peak, and the beaches are empty compared to summer. If you can only
         choose one budget window, choose this one.
       </TipCallout>
+
+      <p>
+        Prices track the crowd calendar almost exactly, so a month-by-month read of one destination
+        doubles as a pricing chart. Our{' '}
+        <Link href="/blog/best-time-to-visit-gulf-shores">Gulf Shores month-by-month guide</Link>{' '}
+        is the most detailed version and the pattern holds up and down the coast.
+      </p>
 
       <h2>Choose the Right Beach for Your Budget</h2>
       <p>
@@ -72,14 +79,93 @@ export default function GulfCoastOnABudgetContent() {
           <strong><Link href="/destinations/navarre-beach">Navarre Beach, FL</Link></strong> —
           the least crowded and often the least expensive beach on the Panhandle. Genuinely
           excellent Gulf Islands National Seashore beach. Fewer restaurants/activities nearby,
-          but unbeatable value for the beach quality.
+          but unbeatable value for the beach quality — the{' '}
+          <Link href="/blog/navarre-beach-guide">Navarre Beach guide</Link> covers what is and
+          isn&apos;t there.
         </li>
         <li>
           <strong><Link href="/destinations/fort-walton-beach">Fort Walton Beach, FL</Link></strong>
           — same barrier island as Destin, same emerald water, notably cheaper. Great budget
           alternative to Destin.
         </li>
+        <li>
+          <strong><Link href="/destinations/dauphin-island">Dauphin Island, AL</Link></strong> — the
+          cheapest real beach stay on this coast, and the most different. Small, quiet, no condo
+          towers, no chain restaurants to speak of. You trade convenience for a rental house price
+          that undercuts everywhere else. Best for people who actively want fewer amenities, not for
+          a first Gulf trip. See the{' '}
+          <Link href="/blog/dauphin-island-guide">Dauphin Island guide</Link> before you commit.
+        </li>
       </ul>
+
+      <h3>What the Cheaper Base Actually Costs You</h3>
+      <p>
+        The savings are real, but they are not free. Here is the honest trade at each end of the
+        gradient.
+      </p>
+      <p>
+        <strong>Dauphin Island, Navarre, and Fort Walton Beach</strong> save you serious money and give
+        up walkable dining, nightlife, and activity density. Navarre in particular is a gorgeous beach
+        with a short list of restaurants — plan on cooking most nights or driving twenty minutes to
+        Pensacola Beach. That is fine for a family that wanted to cook anyway, and genuinely annoying
+        for a couple who pictured walking to dinner. Dauphin Island takes this furthest: it is the
+        cheapest and the quietest, and you will drive to the mainland for a real grocery run.
+      </p>
+      <p>
+        <strong>Destin, 30A, and Panama City Beach</strong> charge a premium and deliver density —
+        restaurants, shops, outfitters, and things to do when it rains. On a week-long trip with kids,
+        that density has genuine value: a rainy Tuesday in Destin has options, and a rainy Tuesday on
+        Dauphin Island has a puzzle. 30A is the most expensive per night on this coast and the hardest
+        to justify on a budget trip, because the towns themselves are most of what you are paying for.
+      </p>
+      <p>
+        <strong>The best budget compromise</strong> is Gulf Shores, Orange Beach, or Pensacola Beach:
+        cheap enough to matter, developed enough that you are not planning around a single restaurant.
+        If money is the binding constraint, base in one of those three and take a day trip to the
+        expensive beach rather than sleeping there.
+      </p>
+
+      <h2>What to Skip</h2>
+      <p>
+        Cutting the wrong cost ruins a trip; cutting these does not.
+      </p>
+      <ul>
+        <li>
+          <strong>Beach chair and umbrella rentals.</strong> Roughly $40–60 a day, every day. A set you
+          buy outright costs about one day of rental and lasts for years. If you are driving, there is
+          no argument here — see the{' '}
+          <Link href="/blog/gulf-coast-beach-packing-list">packing list</Link>.
+        </li>
+        <li>
+          <strong>Gulf-front, if you are not actually on the beach all day.</strong> A second-row or
+          gulf-view unit a two-minute walk from the sand is dramatically cheaper than gulf-front. The
+          premium is worth it for a family hauling gear with small kids; it is wasted on a couple who
+          spend mornings out and afternoons somewhere else.
+        </li>
+        <li>
+          <strong>Paid aquariums and mini-golf as a default.</strong> Fine as a rainy-day plan. Not
+          worth building a budget around when Gulf State Park, Fort Pickens, the National Naval
+          Aviation Museum (free), and the beach itself are right there.
+        </li>
+        <li>
+          <strong>Peak weeks, if your dates are flexible at all.</strong> Memorial Day, the Fourth of
+          July, and spring break carry a premium of 30–50% over the shoulder weeks on either side for
+          an identical unit. Moving one week is the single largest saving available.
+        </li>
+        <li>
+          <strong>Booking through a third party when the management company sells direct.</strong>
+          Larger condo buildings often quote lower all-in rates on their own site once fees are
+          included. Compare both before booking.
+        </li>
+        <li>
+          <strong>Dolphin cruises at the marina price.</strong> The same boats sell the same trip for
+          noticeably less in the shoulder season, and the dolphins are there either way.
+        </li>
+      </ul>
+      <p>
+        What not to skip: travel insurance in hurricane season, and a unit with a real kitchen. Those
+        two protect the budget rather than shrinking it.
+      </p>
 
       <h2>Accommodation: Where the Real Savings Are</h2>
 

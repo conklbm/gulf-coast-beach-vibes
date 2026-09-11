@@ -64,7 +64,7 @@ export default function BestTimeToVisitDestinContent() {
       <p>
         Early-to-mid May is excellent. Schools haven&apos;t let out yet, which means the beach
         has room to breathe and accommodations are significantly cheaper than June. The water is
-        warming up fast and perfectly swimable. The emerald color starts showing at its best.
+        warming up fast and perfectly swimmable. The emerald color starts showing at its best.
         Memorial Day weekend (late May) brings the first big crowd surge of the season.
       </p>
 
