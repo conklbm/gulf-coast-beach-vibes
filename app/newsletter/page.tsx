@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import NewsletterBanner from '@/components/NewsletterBanner'
 
 export const metadata: Metadata = {
+  alternates: { canonical: '/newsletter' },
   title: 'The Gulf Coast Insider — Local Tips From People Who Live Here',
   description:
     'Join the Gulf Coast Insider for beach intel, local restaurant finds, hidden spots, and travel tips from someone who actually lives on the Gulf Coast.',

@@ -9,6 +9,7 @@ import { destinations } from '@/lib/destinations'
 import { posts } from '@/lib/posts'
 
 export const metadata: Metadata = {
+  alternates: { canonical: '/' },
   title: 'Gulf Coast Beach Vibes — Your Guide to Gulf Coast Beaches',
   description:
     'Your local guide to Gulf Coast beaches from Dauphin Island, AL to Panama City Beach, FL. Find where to stay, eat, and play on the Gulf.',

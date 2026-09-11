@@ -3,6 +3,7 @@ import Link from 'next/link'
 import NewsletterBanner from '@/components/NewsletterBanner'
 
 export const metadata: Metadata = {
+  alternates: { canonical: '/about' },
   title: 'About | Gulf Coast Beach Vibes',
   description:
     'Gulf Coast Beach Vibes is written by a Mobile, AL local who has spent 30 years exploring every beach from Dauphin Island to Panama City Beach.',

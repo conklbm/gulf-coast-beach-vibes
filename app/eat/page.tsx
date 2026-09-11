@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import ContentCard from '@/components/ContentCard'
 
 export const metadata: Metadata = {
+  alternates: { canonical: '/eat' },
   title: 'Best Restaurants on the Gulf Coast',
   description:
     'The best restaurants, seafood shacks, and local eats across the Gulf Coast — from Gulf Shores, AL to Panama City Beach, FL.',

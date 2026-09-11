@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import ContentCard from '@/components/ContentCard'
 
 export const metadata: Metadata = {
+  alternates: { canonical: '/activities' },
   title: 'Best Things to Do on the Gulf Coast',
   description:
     'Activities, tours, and adventures across the Gulf Coast — from fishing charters and water sports to state parks and local experiences.',

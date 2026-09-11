@@ -4,6 +4,7 @@ import DestinationCard from '@/components/DestinationCard'
 import { destinations } from '@/lib/destinations'
 
 export const metadata: Metadata = {
+  alternates: { canonical: '/destinations' },
   title: 'All Gulf Coast Beach Destinations',
   description:
     'Explore 11 Gulf Coast beach destinations from Dauphin Island, AL to Panama City Beach, FL — with local guides for where to stay, eat, and play at each one.',

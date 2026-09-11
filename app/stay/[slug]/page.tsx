@@ -25,6 +25,10 @@ const stayContent: Record<string, { title: string; description: string }> = {
   },
 }
 
+// Slugs with real content. Everything else renders the stub and must stay out
+// of the index until it's actually written.
+const WRITTEN = new Set(['best-places-to-stay-gulf-coast'])
+
 export async function generateStaticParams() {
   return Object.keys(stayContent).map((slug) => ({ slug }))
 }
@@ -35,11 +39,13 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: content.title,
     description: content.description,
+    alternates: { canonical: `/stay/${params.slug}` },
+    ...(WRITTEN.has(params.slug) ? {} : { robots: { index: false, follow: true } }),
   }
 }
 
 export default function StaySlugPage({ params }: Props) {
-  if (params.slug !== 'best-places-to-stay-gulf-coast') {
+  if (!WRITTEN.has(params.slug)) {
     // Stub for guides not yet written
     return (
       <section className="min-h-screen flex items-center justify-center bg-cream pt-16">

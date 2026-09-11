@@ -3,6 +3,7 @@ import BlogIndex from '@/components/BlogIndex'
 import { posts } from '@/lib/posts'
 
 export const metadata: Metadata = {
+  alternates: { canonical: '/blog' },
   title: 'Gulf Coast Travel Blog — Tips, Guides & Local Advice',
   description:
     'Travel tips, packing guides, local secrets, and destination deep-dives for the Gulf Coast — written by someone who actually lives here.',

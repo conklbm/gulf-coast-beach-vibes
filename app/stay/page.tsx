@@ -2,6 +2,7 @@ import type { Metadata } from 'next'
 import ContentCard from '@/components/ContentCard'
 
 export const metadata: Metadata = {
+  alternates: { canonical: '/stay' },
   title: 'Best Places to Stay on the Gulf Coast',
   description:
     'Find the best hotels, vacation rentals, and resorts on the Gulf Coast — from Gulf Shores, AL to Panama City Beach, FL. Curated recommendations with booking links.',

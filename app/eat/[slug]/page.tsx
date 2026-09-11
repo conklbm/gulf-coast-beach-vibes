@@ -9,6 +9,10 @@ const eatContent: Record<string, { title: string; description: string }> = {
   'best-breakfast-gulf-coast':{ title: 'Best Breakfast on the Gulf Coast',          description: 'Top breakfast spots across the Gulf Coast.' },
 }
 
+// Slugs with real content. Everything else renders the stub and must stay out
+// of the index until it's actually written.
+const WRITTEN = new Set<string>([])
+
 export async function generateStaticParams() {
   return Object.keys(eatContent).map((slug) => ({ slug }))
 }
@@ -16,7 +20,12 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const content = eatContent[params.slug]
   if (!content) return {}
-  return { title: content.title, description: content.description }
+  return {
+    title: content.title,
+    description: content.description,
+    alternates: { canonical: `/eat/${params.slug}` },
+    ...(WRITTEN.has(params.slug) ? {} : { robots: { index: false, follow: true } }),
+  }
 }
 
 export default function EatSlugPage({ params }: Props) {

@@ -14,6 +14,10 @@ const activityContent: Record<string, { title: string; description: string }> = 
   'best-fishing-charters-gulf-coast':  { title: 'Best Fishing Charters on the Gulf Coast', description: 'Top charter fishing at every Gulf Coast port.' },
 }
 
+// Slugs with real content. Everything else renders the stub and must stay out
+// of the index until it's actually written.
+const WRITTEN = new Set(['best-things-to-do-gulf-shores'])
+
 export async function generateStaticParams() {
   return Object.keys(activityContent).map((slug) => ({ slug }))
 }
@@ -21,7 +25,12 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const content = activityContent[params.slug]
   if (!content) return {}
-  return { title: content.title, description: content.description }
+  return {
+    title: content.title,
+    description: content.description,
+    alternates: { canonical: `/activities/${params.slug}` },
+    ...(WRITTEN.has(params.slug) ? {} : { robots: { index: false, follow: true } }),
+  }
 }
 
 const gulfShoresActivities = [
@@ -36,7 +45,7 @@ const gulfShoresActivities = [
 ]
 
 export default function ActivitySlugPage({ params }: Props) {
-  if (params.slug !== 'best-things-to-do-gulf-shores') {
+  if (!WRITTEN.has(params.slug)) {
     return (
       <section className="min-h-screen flex items-center justify-center bg-cream pt-16">
         <div className="text-center max-w-lg px-4">
