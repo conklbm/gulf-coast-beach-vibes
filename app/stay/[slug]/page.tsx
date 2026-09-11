@@ -99,19 +99,19 @@ export default function StaySlugPage({ params }: Props) {
                 {
                   name: 'The Lodge at Gulf State Park (Gulf Shores, AL)',
                   description: 'A Hilton-managed resort embedded in Gulf State Park — the best combination of nature and luxury on the Gulf Coast.',
-                  href: 'https://www.booking.com/hotel/us/the-lodge-at-gulf-state-park.html',
+                  href: 'booking-lodge-gulf-state-park',
                   provider: 'booking' as const,
                 },
                 {
                   name: 'Henderson Park Inn (Destin, FL)',
                   description: 'Adults-only boutique inn adjacent to Henderson Beach State Park. The most romantic stay on the Emerald Coast.',
-                  href: 'https://www.booking.com/hotel/us/henderson-park-inn.html',
+                  href: 'booking-henderson-park-inn',
                   provider: 'booking' as const,
                 },
                 {
                   name: 'Hilton Pensacola Beach',
                   description: "Full-service beachfront hotel right at Casino Beach — spectacular Gulf views and a great pool complex.",
-                  href: 'https://www.booking.com/hotel/us/hilton-pensacola-beach.html',
+                  href: 'booking-hilton-pensacola',
                   provider: 'booking' as const,
                 },
               ],
@@ -123,19 +123,19 @@ export default function StaySlugPage({ params }: Props) {
                 {
                   name: 'Gulf Shores, AL Vacation Rentals',
                   description: 'Massive selection of beachfront condos and houses in Alabama\'s beach capital.',
-                  href: 'https://www.vrbo.com/vacation-rentals/usa/alabama/gulf-shores',
+                  href: 'vrbo-gulf-shores',
                   provider: 'vrbo' as const,
                 },
                 {
                   name: 'Destin, FL Vacation Rentals',
                   description: 'Everything from studio condos to 8-bedroom beach houses right on the Emerald Coast.',
-                  href: 'https://www.vrbo.com/vacation-rentals/usa/florida/destin',
+                  href: 'vrbo-destin',
                   provider: 'vrbo' as const,
                 },
                 {
                   name: 'Pensacola Beach, FL Vacation Rentals',
                   description: 'Great condo options all along Santa Rosa Island.',
-                  href: 'https://www.vrbo.com/vacation-rentals/usa/florida/pensacola-beach',
+                  href: 'vrbo-pensacola-beach',
                   provider: 'vrbo' as const,
                 },
               ],
@@ -149,7 +149,6 @@ export default function StaySlugPage({ params }: Props) {
                   <div key={item.name} className="card p-5 flex flex-col">
                     <h3 className="font-display font-semibold text-navy mb-2 text-base">{item.name}</h3>
                     <p className="text-navy/60 text-sm leading-relaxed flex-1 mb-4">{item.description}</p>
-                    {/* TODO: Replace href with tracked affiliate link */}
                     <AffiliateLink href={item.href} label="Check Availability" provider={item.provider} />
                   </div>
                 ))}

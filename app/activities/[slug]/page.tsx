@@ -34,12 +34,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 const gulfShoresActivities = [
-  { name: 'Gulf State Park — Hiking & Biking', description: 'Over 28 miles of trails through coastal pine forest, dune ecosystems, and lakeside paths. Rent a bike at the park shop and spend a full morning exploring. The pier is a highlight at sunrise.', href: 'https://www.getyourguide.com/gulf-shores-l100568/' },
-  { name: 'Deep-Sea Fishing Charter', description: 'Dozens of charter boats operate out of the Gulf Shores/Orange Beach marina area. Red snapper, amberjack, and grouper are the targets. Half-day trips are great for first-timers.', href: 'https://www.getyourguide.com/gulf-shores-l100568/fishing/' },
+  { name: 'Gulf State Park — Hiking & Biking', description: 'Over 28 miles of trails through coastal pine forest, dune ecosystems, and lakeside paths. Rent a bike at the park shop and spend a full morning exploring. The pier is a highlight at sunrise.', href: 'gyg-gulf-shores' },
+  { name: 'Deep-Sea Fishing Charter', description: 'Dozens of charter boats operate out of the Gulf Shores/Orange Beach marina area. Red snapper, amberjack, and grouper are the targets. Half-day trips are great for first-timers.', href: 'gyg-gulf-shores-fishing' },
   { name: 'Waterville USA Water Park', description: "Alabama's biggest water park — slides, a wave pool, go-karts, and mini golf all in one spot. Great when the beach crowd gets thick or the kids need a change of pace.", href: null },
   { name: 'Gulf Shores Public Pier', description: 'One of the longest fishing piers on the Gulf Coast at over 1,500 feet. Fish for free with your pier admission, or walk to the end and watch the pelicans dive. Spectacular at sunrise.', href: null },
   { name: 'Alabama Gulf Coast Zoo', description: 'The "little zoo that could" — survived multiple hurricanes and keeps going. A small but beloved zoo that\'s great for families with young kids.', href: null },
-  { name: 'Dolphin Cruise', description: 'Sunset dolphin tours and eco-cruises run regularly from the Gulf Shores marina. Bottlenose dolphins are year-round residents and easy to spot.', href: 'https://www.getyourguide.com/gulf-shores-l100568/dolphin-tour/' },
+  { name: 'Dolphin Cruise', description: 'Sunset dolphin tours and eco-cruises run regularly from the Gulf Shores marina. Bottlenose dolphins are year-round residents and easy to spot.', href: 'gyg-gulf-shores-dolphin' },
   { name: 'Bon Secour National Wildlife Refuge', description: 'Undeveloped beach and maritime forest accessible via hiking trails. Some of the most pristine and empty coastline in Alabama — pack water and a picnic.', href: null },
   { name: 'The Track Family Fun Center', description: 'Go-karts, bumper boats, mini golf, and arcade games. The kind of place that keeps the whole family happy after a long day at the beach.', href: null },
 ]
@@ -92,7 +92,6 @@ export default function ActivitySlugPage({ params }: Props) {
                 <h3 className="font-display font-bold text-navy text-lg mb-2">{activity.name}</h3>
                 <p className="text-navy/60 text-sm leading-relaxed flex-1 mb-4">{activity.description}</p>
                 {activity.href && (
-                  // TODO: Replace href with tracked GetYourGuide affiliate link
                   <AffiliateLink href={activity.href} label="Book This" provider="getyourguide" />
                 )}
               </div>

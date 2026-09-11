@@ -60,9 +60,8 @@ export default function PackingListContent() {
       </ul>
 
       <div className="not-prose my-6">
-        {/* TODO: Replace with tracked Amazon affiliate link */}
         <AffiliateLink
-          href="https://www.amazon.com/s?k=beach+umbrella+sand+anchor"
+          href="amazon-beach-umbrella"
           label="Shop Beach Umbrellas on Amazon"
           provider="amazon"
         />
