@@ -32,7 +32,7 @@ const eatGuides = [
     title: 'Best Breakfast Spots on the Gulf Coast',
     excerpt:
       "The Gulf Coast does breakfast right — from old-school diners to biscuit joints to oceanview egg sandwiches. Here are the spots worth waking up early for.",
-    imageSrc: 'https://images.unsplash.com/photo-1505228058230-1d7cce43cd57?auto=format&fit=crop&w=800&q=80',
+    imageSrc: '/images/restaurants.jpg',
     category: 'All Destinations',
     meta: 'Breakfast guide',
   },
@@ -67,7 +67,9 @@ export default function EatPage() {
             {eatGuides.map((guide) => (
               <ContentCard
                 key={guide.slug}
-                href={`/eat/${guide.slug}`}
+                // All three food guides now live in /blog so they join the destination
+                // clusters DestinationPosts builds. /eat/<slug> still 308s to them.
+                href={`/blog/${guide.slug}`}
                 imageSrc={guide.imageSrc}
                 imageAlt={guide.title}
                 category={guide.category}

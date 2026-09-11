@@ -1120,6 +1120,56 @@ export const posts: Post[] = [
     publishedAt: '2026-09-11',
     readTime: '8 min read',
   },
+  {
+    slug: 'best-breakfast-gulf-coast',
+    title: 'Best Breakfast on the Gulf Coast: Dauphin Island to Panama City Beach',
+    excerpt:
+      'The meal this coast is quietly best at. Local diners and brunch rooms zone by zone, west to east — plus the two rules that decide whether you eat or wait.',
+    category: 'Things to Do',
+    heroImage: '/images/restaurants.jpg',
+    publishedAt: '2026-09-11',
+    readTime: '8 min read',
+  },
+  {
+    slug: 'quietest-gulf-coast-beaches',
+    title: 'Quietest Gulf Coast Beaches, Dauphin Island to Panama City Beach',
+    excerpt:
+      'Which beaches stay empty in July, and why: protected land, access friction, and timing. Ranked west to east — plus the ten-minute walk that works anywhere.',
+    category: 'Beach Life',
+    heroImage: '/images/best-shell-beach.jpg',
+    publishedAt: '2026-09-11',
+    readTime: '8 min read',
+  },
+  {
+    slug: 'best-30a-beaches-ranked',
+    title: 'Best 30A Beaches Ranked by Public Access and Parking',
+    excerpt:
+      'The sand is identical for 26 miles — what differs is whether you can park. Public accesses ranked, an honesty check on the famous private-beach towns.',
+    category: 'Beach Life',
+    heroImage: '/images/best-things-to-do-30a.webp',
+    publishedAt: '2026-09-11',
+    readTime: '8 min read',
+  },
+  {
+    slug: 'destin-from-jacksonville',
+    title: 'Destin from Jacksonville: Drive Times, Stops, and Which Beach to Book',
+    excerpt:
+      'About 350 miles and 5.5 hours across a time zone. Where to stop, and why all four Emerald Coast options land within half an hour of each other.',
+    category: 'Road Trips',
+    heroImage: '/images/destin-florida.jpg',
+    publishedAt: '2026-09-11',
+    readTime: '7 min read',
+  },
+  {
+    slug: 'best-waterfront-restaurants-fort-walton-beach',
+    title: 'Best Waterfront Restaurants in Fort Walton Beach',
+    excerpt:
+      'More genuine waterfront than Destin at a fraction of the prices. The places actually on the water — and when to cross the bridge instead.',
+    category: 'Things to Do',
+    heroImage: '/images/fort-walton-beach-guide.webp',
+    publishedAt: '2026-09-11',
+    readTime: '6 min read',
+  },
 ]
 
 export function getPostBySlug(slug: string): Post | undefined {

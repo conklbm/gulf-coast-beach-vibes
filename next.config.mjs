@@ -10,6 +10,7 @@ const nextConfig = {
     return [
       { source: '/eat/best-restaurants-destin', destination: '/blog/best-restaurants-destin', permanent: true },
       { source: '/eat/best-seafood-gulf-shores', destination: '/blog/best-seafood-gulf-shores', permanent: true },
+      { source: '/eat/best-breakfast-gulf-coast', destination: '/blog/best-breakfast-gulf-coast', permanent: true },
     ]
   },
   async headers() {

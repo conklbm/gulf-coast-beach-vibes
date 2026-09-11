@@ -129,7 +129,18 @@ import FortMorganAlabamaGuideContent from './content/fort-morgan-alabama-guide'
 import PerdidoKeyGuideContent from './content/perdido-key-guide'
 import OkaloosaIslandGuideContent from './content/okaloosa-island-guide'
 
+import BestBreakfastGulfCoastContent from './content/best-breakfast-gulf-coast'
+import QuietestGulfCoastBeachesContent from './content/quietest-gulf-coast-beaches'
+import Best30ABeachesRankedContent from './content/best-30a-beaches-ranked'
+import DestinFromJacksonvilleContent from './content/destin-from-jacksonville'
+import BestWaterfrontRestaurantsFortWaltonBeachContent from './content/best-waterfront-restaurants-fort-walton-beach'
+
 const CONTENT_MAP: Record<string, React.ComponentType> = {
+  'best-breakfast-gulf-coast': BestBreakfastGulfCoastContent,
+  'quietest-gulf-coast-beaches': QuietestGulfCoastBeachesContent,
+  'best-30a-beaches-ranked': Best30ABeachesRankedContent,
+  'destin-from-jacksonville': DestinFromJacksonvilleContent,
+  'best-waterfront-restaurants-fort-walton-beach': BestWaterfrontRestaurantsFortWaltonBeachContent,
   'fort-morgan-alabama-guide': FortMorganAlabamaGuideContent,
   'perdido-key-guide': PerdidoKeyGuideContent,
   'okaloosa-island-guide': OkaloosaIslandGuideContent,

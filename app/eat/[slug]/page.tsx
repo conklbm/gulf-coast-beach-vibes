@@ -4,7 +4,6 @@ import NewsletterBanner from '@/components/NewsletterBanner'
 interface Props { params: { slug: string } }
 
 const eatContent: Record<string, { title: string; description: string }> = {
-  'best-breakfast-gulf-coast':{ title: 'Best Breakfast on the Gulf Coast',          description: 'Top breakfast spots across the Gulf Coast.' },
 }
 
 // Slugs with real content. Everything else renders the stub and must stay out
