@@ -1040,6 +1040,16 @@ export const posts: Post[] = [
     publishedAt: '2026-09-11',
     readTime: '8 min read',
   },
+  {
+    slug: 'mobile-bay-ferry-guide',
+    title: "Dauphin Island Ferry: Mobile Bay Crossing Times, Fares & Tips",
+    excerpt:
+      'The Mobile Bay Ferry runs Dauphin Island to Fort Morgan in about 40 minutes. Fares, schedule, how early to be in line, and the honest answer on when it beats driving.',
+    category: 'Things to Do',
+    heroImage: '/images/mobile-bay-ferry-guide.webp',
+    publishedAt: '2026-09-11',
+    readTime: '8 min read',
+  },
 ]
 
 export function getPostBySlug(slug: string): Post | undefined {

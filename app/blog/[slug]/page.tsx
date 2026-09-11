@@ -118,7 +118,10 @@ import DestinHarborWalkGuideContent from './content/destin-harborwalk-guide'
 import BestSeafoodGulfShoresContent from './content/best-seafood-gulf-shores'
 import BestRestaurantsPensacolaBeachContent from './content/best-restaurants-pensacola-beach'
 
+import MobileBayFerryGuideContent from './content/mobile-bay-ferry-guide'
+
 const CONTENT_MAP: Record<string, React.ComponentType> = {
+  'mobile-bay-ferry-guide': MobileBayFerryGuideContent,
   'gulf-state-park-guide': GulfStateParkGuideContent,
   'destin-harborwalk-guide': DestinHarborWalkGuideContent,
   'best-seafood-gulf-shores': BestSeafoodGulfShoresContent,
