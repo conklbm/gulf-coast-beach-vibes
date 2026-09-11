@@ -26,11 +26,14 @@ function rank(slug: string): number {
   if (slug.endsWith('-guide')) return 0
   if (slug.startsWith('best-things-to-do')) return 1
   if (slug.startsWith('where-to-stay')) return 2
-  if (slug.startsWith('best-time-to-visit')) return 3
-  if (slug.startsWith('3-days-in') || slug.endsWith('-weekend')) return 4
-  if (slug.startsWith('is-')) return 5
-  if (slug.includes('-vs-')) return 7
-  return 6
+  // Where to eat is core cluster intent alongside stay and do — without this it
+  // loses the cap to thinner posts on big clusters like Destin.
+  if (/^best-(restaurants|seafood|breakfast)/.test(slug)) return 3
+  if (slug.startsWith('best-time-to-visit')) return 4
+  if (slug.startsWith('3-days-in') || slug.endsWith('-weekend')) return 5
+  if (slug.startsWith('is-')) return 6
+  if (slug.includes('-vs-')) return 8
+  return 7
 }
 
 export function getPostsForDestination(destinationSlug: string, limit = 8): Post[] {

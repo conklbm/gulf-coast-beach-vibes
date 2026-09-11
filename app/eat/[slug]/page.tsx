@@ -5,7 +5,6 @@ interface Props { params: { slug: string } }
 
 const eatContent: Record<string, { title: string; description: string }> = {
   'best-seafood-gulf-shores': { title: 'Best Seafood Restaurants in Gulf Shores', description: 'Top seafood spots in Gulf Shores, AL.' },
-  'best-restaurants-destin':  { title: 'Best Restaurants in Destin, FL',           description: 'Top dining in Destin, FL.' },
   'best-breakfast-gulf-coast':{ title: 'Best Breakfast on the Gulf Coast',          description: 'Top breakfast spots across the Gulf Coast.' },
 }
 

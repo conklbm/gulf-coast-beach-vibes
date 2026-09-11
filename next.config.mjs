@@ -3,6 +3,14 @@ import createMDX from '@next/mdx'
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   pageExtensions: ['js', 'jsx', 'mdx', 'ts', 'tsx'],
+  async redirects() {
+    // Food guides moved to /blog so they join the destination clusters that
+    // components/DestinationPosts.tsx builds. The /eat URLs were live and
+    // linked, so they redirect rather than 404.
+    return [
+      { source: '/eat/best-restaurants-destin', destination: '/blog/best-restaurants-destin', permanent: true },
+    ]
+  },
   async headers() {
     return [
       {

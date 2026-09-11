@@ -970,6 +970,36 @@ export const posts: Post[] = [
     publishedAt: '2026-07-30',
     readTime: '10 min read',
   },
+  {
+    slug: 'henderson-beach-state-park-guide',
+    title: 'Henderson Beach State Park: Complete Destin Visitor Guide',
+    excerpt:
+      'Henderson Beach State Park now requires an online day-use reservation — the gate turns walk-ups away. Fees, camping, dog rules, and the one way in that skips the booking entirely.',
+    category: 'Things to Do',
+    heroImage: '/images/best-gulf-coast-state-parks.webp',
+    publishedAt: '2026-09-11',
+    readTime: '9 min read',
+  },
+  {
+    slug: 'crab-island-destin-guide',
+    title: 'Crab Island Destin: How to Do It Right (Rentals, Timing & Rules)',
+    excerpt:
+      'Crab Island is a submerged sandbar you can only reach by boat — and you cannot swim to it. Pontoon rentals, shuttles, tides, the alcohol and glass rules, and when to skip it.',
+    category: 'Things to Do',
+    heroImage: '/images/parasailing-beach-activities.jpg',
+    publishedAt: '2026-09-11',
+    readTime: '9 min read',
+  },
+  {
+    slug: 'best-restaurants-destin',
+    title: 'Best Restaurants in Destin, FL: Local Picks by Neighborhood',
+    excerpt:
+      'Destin eats better once you stop treating HarborWalk as the whole map. Where locals actually repeat, sorted by where you are staying — harbor, Scenic 98, and toward Sandestin.',
+    category: 'Things to Do',
+    heroImage: '/images/best-restaurants-destin.webp',
+    publishedAt: '2026-09-11',
+    readTime: '10 min read',
+  },
 ]
 
 export function getPostBySlug(slug: string): Post | undefined {

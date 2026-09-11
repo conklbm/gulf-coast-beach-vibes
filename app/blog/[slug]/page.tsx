@@ -109,7 +109,14 @@ interface Props {
 }
 
 // Map slugs to their content components
+import HendersonBeachStateParkGuideContent from './content/henderson-beach-state-park-guide'
+import CrabIslandDestinGuideContent from './content/crab-island-destin-guide'
+import BestRestaurantsDestinContent from './content/best-restaurants-destin'
+
 const CONTENT_MAP: Record<string, React.ComponentType> = {
+  'henderson-beach-state-park-guide': HendersonBeachStateParkGuideContent,
+  'crab-island-destin-guide': CrabIslandDestinGuideContent,
+  'best-restaurants-destin': BestRestaurantsDestinContent,
   'where-to-stay-gulf-shores': WhereToStayGulfShoresContent,
   'where-to-stay-destin': WhereToStayDestinContent,
   'where-to-stay-pensacola-beach': WhereToStayPensacolaBeachContent,
