@@ -1050,6 +1050,46 @@ export const posts: Post[] = [
     publishedAt: '2026-09-11',
     readTime: '8 min read',
   },
+  {
+    slug: 'the-wharf-orange-beach-guide',
+    title: 'The Wharf Orange Beach: Complete Visitor Guide',
+    excerpt:
+      'Marina, Ferris wheel, and a 10,000-seat amphitheater on the Intracoastal — not the Gulf. Parking, concert-night strategy, and when The Wharf is the right call.',
+    category: 'Things to Do',
+    heroImage: '/images/the-wharf-orange-beach.webp',
+    publishedAt: '2026-09-11',
+    readTime: '8 min read',
+  },
+  {
+    slug: 'fort-pickens-day-guide',
+    title: 'Fort Pickens and Gulf Islands National Seashore: How to Spend a Day',
+    excerpt:
+      'A 19th-century fort at the end of seven miles of empty dunes. The $25 entry covers a week, the road floods after storms, and it is the emptiest good beach on the island.',
+    category: 'Things to Do',
+    heroImage: '/images/best-beaches-pensacola-area.webp',
+    publishedAt: '2026-09-11',
+    readTime: '8 min read',
+  },
+  {
+    slug: 'grayton-beach-state-park-guide',
+    title: 'Grayton Beach State Park: Beaches, Dune Lakes, and Cabins',
+    excerpt:
+      'The best-value beach access on 30A, plus a coastal dune lake you can paddle. Fees, trails, and cabins that undercut every rental on the road — if you book 11 months out.',
+    category: 'Things to Do',
+    heroImage: '/images/best-gulf-coast-state-parks.webp',
+    publishedAt: '2026-09-11',
+    readTime: '8 min read',
+  },
+  {
+    slug: 'shell-island-panama-city-beach-guide',
+    title: 'Shell Island, Panama City Beach: Water Taxi and Day Trip Guide',
+    excerpt:
+      'Seven miles of undeveloped barrier island, boat access only, nothing sold on it. Shuttle vs. state park ferry, what to carry, and why the drop point matters more than the price.',
+    category: 'Things to Do',
+    heroImage: '/images/panama-city-beach-florida.webp',
+    publishedAt: '2026-09-11',
+    readTime: '8 min read',
+  },
 ]
 
 export function getPostBySlug(slug: string): Post | undefined {

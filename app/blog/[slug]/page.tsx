@@ -120,7 +120,16 @@ import BestRestaurantsPensacolaBeachContent from './content/best-restaurants-pen
 
 import MobileBayFerryGuideContent from './content/mobile-bay-ferry-guide'
 
+import TheWharfOrangeBeachGuideContent from './content/the-wharf-orange-beach-guide'
+import FortPickensDayGuideContent from './content/fort-pickens-day-guide'
+import GraytonBeachStateParkGuideContent from './content/grayton-beach-state-park-guide'
+import ShellIslandPanamaCityBeachGuideContent from './content/shell-island-panama-city-beach-guide'
+
 const CONTENT_MAP: Record<string, React.ComponentType> = {
+  'the-wharf-orange-beach-guide': TheWharfOrangeBeachGuideContent,
+  'fort-pickens-day-guide': FortPickensDayGuideContent,
+  'grayton-beach-state-park-guide': GraytonBeachStateParkGuideContent,
+  'shell-island-panama-city-beach-guide': ShellIslandPanamaCityBeachGuideContent,
   'mobile-bay-ferry-guide': MobileBayFerryGuideContent,
   'gulf-state-park-guide': GulfStateParkGuideContent,
   'destin-harborwalk-guide': DestinHarborWalkGuideContent,
