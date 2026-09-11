@@ -332,9 +332,9 @@ export const posts: Post[] = [
   },
   {
     slug: 'navarre-beach-vs-destin',
-    title: 'Navarre Beach vs. Destin: Same Water, Very Different Trip',
+    title: "Navarre Beach, FL: What It's Like — and How It Compares to Destin",
     excerpt:
-      "Navarre Beach and Destin both have white sand and clear Gulf water, but they offer very different trips. Here's how to choose based on crowds, food, activities, parking, and overall vibe.",
+      "Navarre Beach is the quiet stretch of Santa Rosa Island between Pensacola and Destin. What it's actually like, and how it stacks up against Destin.",
     category: 'Comparison',
     heroImage: '/images/navarre-beach-vs-destin.webp',
     publishedAt: '2026-07-04',
@@ -372,9 +372,9 @@ export const posts: Post[] = [
   },
   {
     slug: 'miramar-beach-vs-destin',
-    title: 'Miramar Beach vs. Destin: Are They Really That Different?',
+    title: "Miramar Beach, FL: What It's Like — and How It Compares to Destin",
     excerpt:
-      'Miramar Beach and Destin sit minutes apart, but they work better for different kinds of beach trips. This guide breaks down the beaches, parking, lodging, food, shopping, boat days, and overall feel so you can choose the right Emerald Coast base.',
+      "Miramar Beach sits just east of Destin in South Walton — same emerald water, calmer base. What it's like, what it costs, and when Destin is the better call.",
     category: 'Comparison',
     heroImage: '/images/miramar-beach-vs-destin.webp',
     publishedAt: '2026-07-04',

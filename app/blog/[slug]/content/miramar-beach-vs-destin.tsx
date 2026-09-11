@@ -157,7 +157,7 @@ export default function MiramarBeachVsDestinContent() {
         pick Destin.
       </p>
 
-      <h2>Where to Stay</h2>
+      <h2>Book Your Emerald Coast Stay</h2>
       <div className="not-prose flex flex-col sm:flex-row gap-3 my-6">
         <AffiliateLink href="vrbo-miramar-beach" label="Browse Miramar Beach Rentals" provider="vrbo" />
         <AffiliateLink href="vrbo-destin" label="Browse Destin Rentals" provider="vrbo" />
