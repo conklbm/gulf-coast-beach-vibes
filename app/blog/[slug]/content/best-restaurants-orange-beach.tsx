@@ -39,7 +39,7 @@ export default function BestRestaurantsOrangeBeachContent() {
         pretending we have eaten our way through the whole menu.
       </p>
 
-      <h2>Our Favorite: The Gulf at Perdido Pass</h2>
+      <h2>Our Favorite: <a href="https://thegulf.com/locations/orange-beach/" target="_blank" rel="noopener noreferrer">The Gulf</a> at Perdido Pass</h2>
       <figure className="not-prose my-6">
         <Image
           src="/images/local/the-gulf-orange-beach-menu-board.webp"
@@ -66,7 +66,7 @@ export default function BestRestaurantsOrangeBeachContent() {
 
       <h2>Waterfront and Sunset Tables</h2>
 
-      <h3>Cobalt, The Restaurant</h3>
+      <h3><a href="https://cobaltrestaurant.net/" target="_blank" rel="noopener noreferrer">Cobalt, The Restaurant</a></h3>
       <p>
         Tucked under the Perdido Pass Bridge next to Caribe Resort, with a view of the bay from every
         table and boat slips if you arrive by water. It is known for coastal seafood, a daily happy
@@ -74,7 +74,7 @@ export default function BestRestaurantsOrangeBeachContent() {
         The Gulf. <strong>Where:</strong> 28099 Perdido Beach Blvd.
       </p>
 
-      <h3>Shipp&apos;s Dockside Grill</h3>
+      <h3><a href="https://www.shippsdockside.com/" target="_blank" rel="noopener noreferrer">Shipp&apos;s Dockside Grill</a></h3>
       <p>
         In the old Fisher&apos;s space at Orange Beach Marina (Fisher&apos;s closed in 2023). It runs
         two setups: a casual counter-service lower deck with dockside seafood and sushi, and a
@@ -84,7 +84,7 @@ export default function BestRestaurantsOrangeBeachContent() {
 
       <h2>Casual Seafood</h2>
 
-      <h3>Wolf Bay Restaurant (Orange Beach)</h3>
+      <h3><a href="https://www.wolfbaylodge.com/wolf-bay-restaurant-orange-beach-al" target="_blank" rel="noopener noreferrer">Wolf Bay Restaurant (Orange Beach)</a></h3>
       <p>
         A family-owned Baldwin County name for more than 50 years, with the original in Foley and a
         second location on the beach road in Orange Beach. Known for fresh Gulf seafood, a big salad
@@ -94,7 +94,7 @@ export default function BestRestaurantsOrangeBeachContent() {
 
       <h2>Date Night and Upscale</h2>
 
-      <h3>Louisiana Lagniappe</h3>
+      <h3><a href="https://www.thelouisianalagniappe.com/" target="_blank" rel="noopener noreferrer">Louisiana Lagniappe</a></h3>
       <p>
         Louisiana-style seafood with a Creole bent, overlooking SanRoc Cay Marina and Cotton Bayou.
         It has been in Orange Beach since 1999, dinner only, and now takes limited reservations on
@@ -102,7 +102,7 @@ export default function BestRestaurantsOrangeBeachContent() {
         Cay.
       </p>
 
-      <h3>Voyagers at Perdido Beach Resort</h3>
+      <h3><a href="https://voyagersrestaurant.com/" target="_blank" rel="noopener noreferrer">Voyagers</a> at Perdido Beach Resort</h3>
       <p>
         The resort&apos;s signature dinner restaurant, Gulf-front, with a seasonal menu built around
         Gulf seafood, dry-aged steaks, and an award-winning wine list. This is the
