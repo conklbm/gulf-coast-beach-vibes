@@ -8,7 +8,13 @@ Source of truth for personal details used in articles. Only use what's written h
 
 ---
 
-## Orange Beach (fill in)
+## Orange Beach
+**Brooks, 2026-10-14 (his own words, lightly edited):**
+- It's an incredible beach, which is why everyone else thinks so too, and it turns into gridlock during the busiest times of the year.
+- If you're a tourist and like touristy things, absolutely eat at the restaurants with the biggest signs out front or a giant fish built into the building.
+- As a Mobile local, Brooks only goes over to the Gulf Shores / Orange Beach area about once a year. His family's preferred time is the fall.
+
+**Still open (fill in when you can):**
 - Where do you actually eat? Favorite 3–5 restaurants, and what you order at each:
 - Best spot for a sunset dinner or drinks:
 - Where locals go vs. tourist traps you'd skip:
