@@ -110,7 +110,8 @@ export default function BestThingsToDoOrangeBeachContent() {
         Wharf Express train, an arcade, escape rooms, an AMC theater, restaurants, and a
         10,000-seat amphitheater. General parking is free, but check the concert schedule — a major
         show turns an easy dinner into a much busier evening. It&apos;s also the island&apos;s best
-        bad-weather bailout.
+        bad-weather bailout. For parking and timing, see our
+        <Link href="/blog/the-wharf-orange-beach-guide">complete guide to The Wharf</Link>.
       </p>
 
       <h2>See the Quieter Side</h2>

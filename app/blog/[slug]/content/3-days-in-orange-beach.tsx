@@ -51,7 +51,7 @@ export default function ThreeDaysInOrangeBeachContent() {
         wheel, live music, and the SPECTRA laser light show (nightly in summer, but confirm the
         calendar). For families it works because you can walk around without committing to one seated
         activity. For adults, check the amphitheater calendar, since a concert can become the anchor of
-        your night.
+        your night. Plan it with our <Link href="/blog/the-wharf-orange-beach-guide">Wharf Orange Beach guide</Link>.
       </p>
 
       <h2>Day 3: Dolphin Cruise, Boat Day, or a Slower Local Morning</h2>

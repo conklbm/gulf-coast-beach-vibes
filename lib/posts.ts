@@ -402,9 +402,9 @@ export const posts: Post[] = [
   },
   {
     slug: 'destin-vs-clearwater',
-    title: 'Destin vs. Clearwater Beach: Florida Panhandle vs. Tampa Bay',
+    title: 'Destin vs Clearwater: Which Beach Is Better?',
     excerpt:
-      'Destin and Clearwater are both famous Florida Gulf Coast beach destinations, but they feel very different once you arrive. This guide compares the beaches, parking, lodging, boat trips, family activities, restaurants, and overall vacation style so you can choose the better fit.',
+      'Destin is the beach-and-boat trip; Clearwater is the walkable resort beach. Compare sand, parking, hotels, and family fun to pick your Gulf getaway.',
     category: 'Comparison',
     heroImage: '/images/destin-vs-clearwater.webp',
     publishedAt: '2026-07-04',

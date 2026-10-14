@@ -66,7 +66,8 @@ export default function OrangeBeachGuideContent() {
         rainy-day option, with restaurants, shops, a Ferris wheel, a movie theater, arcades, and an
         amphitheater that brings in major concerts. For a first Orange Beach trip, use it once: go
         after a beach day, walk around, eat dinner, and ride the Ferris wheel if it&apos;s running.
-        Check the amphitheater calendar, since concert nights change traffic and parking.
+        Check the amphitheater calendar, since concert nights change traffic and parking. Our
+        <Link href="/blog/the-wharf-orange-beach-guide">Wharf visitor guide</Link> covers parking and concert-night strategy.
       </p>
 
       <h2>Plan at Least One Boat Day or Water Activity</h2>
