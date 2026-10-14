@@ -13,6 +13,7 @@ Source of truth for personal details used in articles. Only use what's written h
 - It's an incredible beach, which is why everyone else thinks so too, and it turns into gridlock during the busiest times of the year.
 - If you're a tourist and like touristy things, absolutely eat at the restaurants with the biggest signs out front or a giant fish built into the building.
 - As a Mobile local, Brooks only goes over to the Gulf Shores / Orange Beach area about once a year. His family's preferred time is the fall.
+- **Favorite restaurant: The Gulf** (Orange Beach), picked for its vibes. It's built from shipping containers and sits right at Perdido Pass. Brooks has his own photos of it he can share.
 
 **Still open (fill in when you can):**
 - Where do you actually eat? Favorite 3–5 restaurants, and what you order at each:
