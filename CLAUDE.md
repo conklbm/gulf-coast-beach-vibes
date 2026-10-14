@@ -226,21 +226,11 @@ Key slugs to use in content:
 - Always run `npm run build` locally before pushing — build must pass 100%
 - 46 static pages generated on build (as of current content count)
 
-## Git workflow: always confirm branch strategy
+## Git workflow (Brooks's rule, 2026-10-14)
 
-When starting work in a repository I haven't touched yet this session (a fresh
-codebase, or the first git action after opening a new project):
-- Before doing anything else, ask whether I want to pull the latest `main` (or
-  the repo's default branch) first, rather than assuming the working copy is
-  current.
-
-When it's time to push commits:
-- Always ask whether I want to:
-  1. Push directly to `main`, or
-  2. Create/use a `dev` branch, push there, and open a pull request into `main`.
-- Never push to `main` without this confirmation.
-- If I choose the dev/PR path, ask for a branch name (or suggest one from the
-  work just done) before creating it.
-
-Ask these as explicit questions — don't infer the answer from context or past
-sessions.
+- Always `git pull` before starting work.
+- **Small fixes go straight to `main`** (titles/meta, redirects for dead URLs, internal links, typo/fact fixes). Run `npm run build` first; never push a failing build.
+- **New posts and big changes go to a preview branch with a PR** into `main`. Brooks reviews the Vercel preview and merges.
+- **No deletions, unpublishing, or URL/slug changes without Brooks's explicit OK.**
+- **Verify every deploy is live** (curl production or the preview URL and confirm the change).
+- **Log every SEO change in `SEO-CHANGELOG.md`** (date, commit, URL, change type, what changed, why/GSC query, baseline GSC numbers, recheck date). Add pending rows for PR changes and fill in the commit when merged.
