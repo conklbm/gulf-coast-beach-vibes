@@ -10,6 +10,15 @@ export const metadata: Metadata = {
 
 const eatGuides = [
   {
+    slug: 'best-restaurants-orange-beach',
+    title: 'Best Restaurants in Orange Beach, AL',
+    excerpt:
+      'A Mobile local on where to eat in Orange Beach: our favorite at Perdido Pass, plus well-reviewed seafood, waterfront, and date-night spots.',
+    imageSrc: '/images/local/the-gulf-orange-beach-menu-board.webp',
+    category: 'Orange Beach',
+    meta: 'Dining guide',
+  },
+  {
     slug: 'best-seafood-gulf-shores',
     title: 'Best Seafood Restaurants in Gulf Shores, AL',
     excerpt:

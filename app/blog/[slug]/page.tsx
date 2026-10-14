@@ -121,6 +121,8 @@ import BestRestaurantsPensacolaBeachContent from './content/best-restaurants-pen
 import MobileBayFerryGuideContent from './content/mobile-bay-ferry-guide'
 
 import TheWharfOrangeBeachGuideContent from './content/the-wharf-orange-beach-guide'
+import BestRestaurantsOrangeBeachContent from './content/best-restaurants-orange-beach'
+import GulfCoastNovemberContent from './content/gulf-coast-in-november'
 import FortPickensDayGuideContent from './content/fort-pickens-day-guide'
 import GraytonBeachStateParkGuideContent from './content/grayton-beach-state-park-guide'
 import ShellIslandPanamaCityBeachGuideContent from './content/shell-island-panama-city-beach-guide'
@@ -136,6 +138,8 @@ import DestinFromJacksonvilleContent from './content/destin-from-jacksonville'
 import BestWaterfrontRestaurantsFortWaltonBeachContent from './content/best-waterfront-restaurants-fort-walton-beach'
 
 const CONTENT_MAP: Record<string, React.ComponentType> = {
+  'best-restaurants-orange-beach': BestRestaurantsOrangeBeachContent,
+  'gulf-coast-in-november': GulfCoastNovemberContent,
   'best-breakfast-gulf-coast': BestBreakfastGulfCoastContent,
   'quietest-gulf-coast-beaches': QuietestGulfCoastBeachesContent,
   'best-30a-beaches-ranked': Best30ABeachesRankedContent,
