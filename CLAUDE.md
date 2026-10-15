@@ -226,6 +226,16 @@ Key slugs to use in content:
 - Always run `npm run build` locally before pushing — build must pass 100%
 - 46 static pages generated on build (as of current content count)
 
+## Titles & meta descriptions
+
+- Keep the main keyword near the front of the title.
+- Add a hook (angle, benefit, local voice, year, or number), so a title is never just the bare keyword.
+- Aim for about 60 characters or fewer including the ` | Gulf Coast Beach Vibes` suffix (25 chars) where possible.
+- Every post gets a unique title.
+- Excerpts (= meta description) are 140–155 characters and should make a reader want to click.
+- Never frame researched places as Brooks's personal picks. Only The Gulf (Orange Beach) is his; check `LOCAL-NOTES.md`.
+- The larger lead paragraph (`<p className="text-xl text-navy/80 leading-relaxed font-medium">`) is the site's standard intro style; open every post with one.
+
 ## Git workflow (Brooks's rule, 2026-10-14)
 
 - Always `git pull` before starting work.
