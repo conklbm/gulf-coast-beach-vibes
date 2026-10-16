@@ -88,13 +88,13 @@ export default function GulfCoastNovemberContent() {
       <h2>November Events and Seasonal Notes</h2>
       <ul>
         <li>
-          <strong>Frank Brown International Songwriters Festival (Nov. 5–15, 2026)</strong> —
+          <strong><a href="https://www.frankbrownsongwriters.com/" target="_blank" rel="noopener noreferrer">Frank Brown International Songwriters Festival</a> (Nov. 5–15, 2026)</strong> —
           songwriters playing original music at venues along the Alabama and Florida coast, from
           Gulf Shores and Orange Beach to Perdido Key. Check the official schedule at
           frankbrownsongwriters.com.
         </li>
         <li>
-          <strong>Foo Foo Festival, Pensacola (Oct. 29–Nov. 9, 2026)</strong> — a multi-day arts
+          <strong><a href="https://foofoofest.com/" target="_blank" rel="noopener noreferrer">Foo Foo Festival</a>, Pensacola (Oct. 29–Nov. 9, 2026)</strong> — a multi-day arts
           and culture festival across downtown Pensacola. Confirm events at foofoofest.com.
         </li>
         <li>
@@ -113,8 +113,8 @@ export default function GulfCoastNovemberContent() {
         <li>
           <strong><Link href="/destinations/orange-beach">Orange Beach</Link> and{' '}
           <Link href="/destinations/gulf-shores">Gulf Shores</Link></strong> — fall is our
-          favorite time on the Alabama coast. No summer gridlock, easy restaurant tables, and Gulf
-          State Park is great for biking in cool weather. See our{' '}
+          favorite time on the Alabama coast. No summer gridlock, easy restaurant tables, and <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf
+          State Park</a> is great for biking in cool weather. See our{' '}
           <Link href="/blog/best-restaurants-orange-beach">best restaurants in Orange Beach</Link>{' '}
           guide.
         </li>

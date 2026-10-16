@@ -119,7 +119,7 @@ export default function BestRestaurantsOrangeBeachContent() {
 
       <h2>Near The Wharf vs. the Perdido Pass End</h2>
       <p>
-        Orange Beach dining splits into two zones. The Wharf, on Canal Road beside the Intracoastal,
+        Orange Beach dining splits into two zones. <a href="https://www.alwharf.com/" target="_blank" rel="noopener noreferrer">The Wharf</a>, on Canal Road beside the Intracoastal,
         is a full entertainment district with its own restaurants, a Ferris wheel, and an
         amphitheater, and it makes the most sense as an evening out. Our{' '}
         <Link href="/blog/the-wharf-orange-beach-guide">Wharf Orange Beach guide</Link> covers
