@@ -41,7 +41,7 @@ export default function BestRestaurantsDestinContent() {
         World&apos;s Luckiest Fishing Village thing. Worth doing once. Park once and walk.
       </p>
 
-      <h3>Dewey Destin&apos;s</h3>
+      <h3><a href="https://www.destinseafood.com/" target="_blank" rel="noopener noreferrer">Dewey Destin&apos;s</a></h3>
       <p>
         The one to send people to first. It is a working seafood house with a dock, paper-and-plastic
         service, and fish that came off a boat rather than a truck. Not fancy, not trying to be, and
@@ -49,21 +49,21 @@ export default function BestRestaurantsDestinContent() {
         generations, which shows in what ends up on the plate.
       </p>
 
-      <h3>Boshamps Seafood &amp; Oyster House</h3>
+      <h3><a href="https://www.boshamps.com/" target="_blank" rel="noopener noreferrer">Boshamps</a> Seafood &amp; Oyster House</h3>
       <p>
         Waterfront on the harbor with a proper oyster bar and a deck that earns its reputation at
         sunset. This is the harbor pick when you want the view and the food to both hold up — a step
         up in polish from the dockside places without turning into a special-occasion bill.
       </p>
 
-      <h3>Brotula&apos;s Seafood House &amp; Steamer</h3>
+      <h3><a href="https://www.brotulas.com/" target="_blank" rel="noopener noreferrer">Brotula&apos;s</a> Seafood House &amp; Steamer</h3>
       <p>
         Right on the boardwalk, steamer pots, Gulf seafood done straightforwardly. The best
         combination on HarborWalk of &ldquo;we are standing where the tourists are&rdquo; and
         &ldquo;this is actually good.&rdquo; Expect a wait in season.
       </p>
 
-      <h3>Harbor Docks</h3>
+      <h3><a href="https://www.harbordocks.com/" target="_blank" rel="noopener noreferrer">Harbor Docks</a></h3>
       <p>
         A local institution and the harbor&apos;s odd duck: a seafood restaurant with a genuinely
         serious sushi operation attached, plus breakfast. They run their own seafood market, which is
@@ -78,7 +78,7 @@ export default function BestRestaurantsDestinContent() {
         through.
       </p>
 
-      <h3>The Back Porch</h3>
+      <h3><a href="https://www.theback-porch.com/" target="_blank" rel="noopener noreferrer">The Back Porch</a></h3>
       <p>
         A Destin fixture and the original char-grilled amberjack place. Right on the sand, open to
         the Gulf, and it has been doing the same thing well for decades. This is the
@@ -86,7 +86,7 @@ export default function BestRestaurantsDestinContent() {
         the view; do not go expecting a quiet dinner.
       </p>
 
-      <h3>The Crab Trap</h3>
+      <h3><a href="https://www.thecrabtrap.com/" target="_blank" rel="noopener noreferrer">The Crab Trap</a></h3>
       <p>
         Beachfront, family-shaped, and reliable in the way that matters when you have kids covered in
         sand and nobody wants to change clothes. You can walk off the beach into it. Food is solid

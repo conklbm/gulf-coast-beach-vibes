@@ -39,13 +39,13 @@ export default function ThirtyAVsPanamaCityBeachContent() {
       <p>
         Panama City Beach is the bigger, louder, easier beach trip. PCB has 27 miles of white-sand
         beaches, nearly 100 public beach access points, major hotels and condos, family attractions,
-        water activities, restaurants, nightlife, and Pier Park. It feels more like a classic
+        water activities, restaurants, nightlife, and <a href="https://www.simon.com/mall/pier-park" target="_blank" rel="noopener noreferrer">Pier Park</a>. It feels more like a classic
         vacation strip than a string of small beach towns.
       </p>
       <p>
         In Panama City Beach the logistics are more straightforward. You have more places to stay on
         or near the beach, more public access points, and more obvious things to do when the kids are
-        restless or the weather turns. You can spend the morning at St. Andrews State Park, take a
+        restless or the weather turns. You can spend the morning at <a href="https://www.floridastateparks.org/parks-and-trails/st-andrews-state-park" target="_blank" rel="noopener noreferrer">St. Andrews State Park</a>, take a
         boat to Shell Island, shop at Pier Park, ride the SkyWheel, and still make it back to the
         beach before sunset. The tradeoff is atmosphere: PCB is busier, more commercial, and more
         developed, with more high-rises, bigger crowds, and more traffic.
@@ -67,8 +67,8 @@ export default function ThirtyAVsPanamaCityBeachContent() {
         system before you go. Good 30A beach access options include:
       </p>
       <ul>
-        <li>Grayton Beach State Park</li>
-        <li>Topsail Hill Preserve State Park</li>
+        <li><a href="https://www.floridastateparks.org/parks-and-trails/grayton-beach-state-park" target="_blank" rel="noopener noreferrer">Grayton Beach State Park</a></li>
+        <li><a href="https://www.floridastateparks.org/parks-and-trails/topsail-hill-preserve-state-park" target="_blank" rel="noopener noreferrer">Topsail Hill Preserve</a> State Park</li>
         <li>Ed Walline Regional Beach Access</li>
         <li>Grayton Beach Park and Ride with tram service</li>
         <li>393 Park and Ride with tram service</li>
@@ -128,8 +128,8 @@ export default function ThirtyAVsPanamaCityBeachContent() {
       <p>
         30A feels more polished and reservation-driven, especially around Seaside, Alys Beach,
         Rosemary Beach, and Grayton Beach, but it also has beloved casual institutions. Names to know
-        include The Red Bar in Grayton Beach, Bud &amp; Alley&apos;s and Great Southern Café in
-        Seaside, Seagrove Village MarketCafé, George&apos;s at Alys Beach, and Gallion&apos;s in
+        include The Red Bar in Grayton Beach, <a href="https://www.budandalleys.com/" target="_blank" rel="noopener noreferrer">Bud &amp; Alley&apos;s</a> and Great Southern Café in
+        Seaside, Seagrove Village MarketCafé, <a href="https://www.georgesatalysbeach.com/" target="_blank" rel="noopener noreferrer">George&apos;s at Alys Beach</a>, and Gallion&apos;s in
         Rosemary Beach. For food-focused couples, 30A probably has the edge; for families and larger
         groups, PCB is easier.
       </p>

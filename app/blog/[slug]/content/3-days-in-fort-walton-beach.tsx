@@ -8,7 +8,7 @@ export default function ThreeDaysInFortWaltonBeachContent() {
       <p className="text-xl text-navy/80 leading-relaxed font-medium">
         Fort Walton Beach is a good pick when you want the Emerald Coast beach trip without staying in
         the middle of Destin. The best beach days are on Okaloosa Island: white sand, clear Gulf water,
-        The Boardwalk, The Island Pier, Gulfarium, and easy restaurants close together.
+        The Boardwalk, The Island Pier, <a href="https://gulfarium.com/" target="_blank" rel="noopener noreferrer">Gulfarium</a>, and easy restaurants close together.
       </p>
       <p>
         This itinerary keeps the focus on Okaloosa Island, then uses mainland{' '}
@@ -30,7 +30,7 @@ export default function ThreeDaysInFortWaltonBeachContent() {
         parking, pavilions, restrooms, showers, and Gulf-front food in a park-once setup. John Beasley
         Park is another strong option with more parking than the smaller numbered accesses. Before
         dinner, walk The Island Pier, which stretches more than 1,200 feet into the Gulf. For dinner,
-        stay close: The Crab Trap, Floyd&apos;s Shrimp &amp; Steak House, and Al&apos;s Beach Club are
+        stay close: <a href="https://www.thecrabtrap.com/" target="_blank" rel="noopener noreferrer">The Crab Trap</a>, Floyd&apos;s Shrimp &amp; Steak House, and Al&apos;s Beach Club are
         all on The Boardwalk, and Stewby&apos;s is an easy casual seafood pick.
       </p>
 
@@ -49,7 +49,7 @@ export default function ThreeDaysInFortWaltonBeachContent() {
       </div>
 
       <TipCallout title="Do the Paid Attraction in the Morning" variant="tip">
-        Plan your paid attraction for the morning. Gulfarium, the Emerald Coast Science Center, and the
+        Plan your paid attraction for the morning. Gulfarium, the <a href="https://www.ecscience.org/" target="_blank" rel="noopener noreferrer">Emerald Coast Science Center</a>, and the
         Air Force Armament Museum are all easier before everyone is hot, sandy, tired, and hungry.
       </TipCallout>
 
@@ -57,7 +57,7 @@ export default function ThreeDaysInFortWaltonBeachContent() {
       <p>
         Your third day should depend on your group. For kids or a rainy-day plan, the Emerald Coast
         Science Center is hands-on and central. For local history, Heritage Park and Cultural Center
-        includes the Indian Temple Mound Museum (open Tuesday through Saturday). For aviation and
+        includes the <a href="https://fwb.org/330/Museum---Heritage-Park-Cultural-Center" target="_blank" rel="noopener noreferrer">Indian Temple Mound Museum</a> (open Tuesday through Saturday). For aviation and
         military history, the Air Force Armament Museum near Eglin is free, with aircraft and a large
         outdoor airpark. Liza Jackson Park is an easy sound-side stop with a fishing pier, playground,
         and dog parks. If your timing lines up, the Downtown Saturday Market at Fort Walton Beach

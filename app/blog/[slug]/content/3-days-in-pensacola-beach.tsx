@@ -13,8 +13,8 @@ export default function ThreeDaysInPensacolaBeachContent() {
       </p>
       <p>
         Start with the easy beach day. Use Casino Beach, walk the Gulf Pier, and settle into the
-        island. Then give one full day to Fort Pickens and Gulf Islands National Seashore. Use the
-        final day for Opal Beach, downtown Pensacola, the National Naval Aviation Museum, or a
+        island. Then give one full day to <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a> and <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a>. Use the
+        final day for Opal Beach, downtown Pensacola, the <a href="https://www.navalaviationmuseum.org/" target="_blank" rel="noopener noreferrer">National Naval Aviation Museum</a>, or a
         slower sound-side morning at Quietwater Beach. That gives you the main{' '}
         <Link href="/destinations/pensacola-beach">Pensacola Beach</Link> experience without
         turning the weekend into a checklist.

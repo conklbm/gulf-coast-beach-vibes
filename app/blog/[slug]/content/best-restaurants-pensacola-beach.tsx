@@ -23,7 +23,7 @@ export default function BestRestaurantsPensacolaBeachContent() {
 
       <h2>On the Island</h2>
 
-      <h3>Peg Leg Pete&apos;s</h3>
+      <h3><a href="https://www.peglegpetes.com/" target="_blank" rel="noopener noreferrer">Peg Leg Pete&apos;s</a></h3>
       <p>
         The island institution, and the one people plan trips around — there are genuinely families
         who drive down from Atlanta partly for this. Oysters, fried seafood, a pirate-themed
@@ -35,7 +35,7 @@ export default function BestRestaurantsPensacolaBeachContent() {
         it.
       </p>
 
-      <h3>The Grand Marlin</h3>
+      <h3>The <a href="https://www.thegrandmarlin.com/" target="_blank" rel="noopener noreferrer">Grand Marlin</a></h3>
       <p>
         The upscale room on the island, on the sound side with proper water views and a menu that
         changes with what is landing. Gulf fish, oysters, and a raw bar that takes itself seriously.
@@ -43,21 +43,21 @@ export default function BestRestaurantsPensacolaBeachContent() {
         here where booking ahead genuinely matters.
       </p>
 
-      <h3>Flounder&apos;s Chowder House</h3>
+      <h3><a href="https://www.flounderschowderhouse.com/" target="_blank" rel="noopener noreferrer">Flounder&apos;s</a> Chowder House</h3>
       <p>
         Beachfront, long-running, and more of an environment than a restaurant — sand volleyball,
         live music, a bar that runs late. The food is solid and the setting is the draw. Good with a
         group, good at sunset, not the place for a quiet conversation.
       </p>
 
-      <h3>Crabs — We Got &apos;Em</h3>
+      <h3><a href="https://www.crabswegotem.com/" target="_blank" rel="noopener noreferrer">Crabs — We Got</a> &apos;Em</h3>
       <p>
         Gulf-front, two stories, built for the view. Crab in most available forms, plus the standard
         Gulf seafood lineup. It is squarely a tourist restaurant and does not pretend otherwise, but
         the upstairs deck at sunset earns the visit once.
       </p>
 
-      <h3>Casino Beach Bar &amp; Grille</h3>
+      <h3><a href="https://casinobeachbar.com/" target="_blank" rel="noopener noreferrer">Casino Beach Bar</a> &amp; Grille</h3>
       <p>
         Right at Casino Beach, open-air, and the most useful lunch on the island — you can walk off
         the sand into it. Burgers and casual Gulf food rather than a destination meal. The value is
@@ -100,7 +100,7 @@ export default function BestRestaurantsPensacolaBeachContent() {
 
       <h2>Building the Rest of the Day</h2>
       <p>
-        Dinner pairs naturally with an afternoon at Fort Pickens or a day on the sound side. Our{' '}
+        Dinner pairs naturally with an afternoon at <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a> or a day on the sound side. Our{' '}
         <Link href="/blog/best-things-to-do-pensacola-beach">things to do on Pensacola Beach</Link>{' '}
         guide covers the options, the{' '}
         <Link href="/blog/3-days-in-pensacola-beach">three-day itinerary</Link> builds them into a

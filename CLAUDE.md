@@ -101,6 +101,11 @@ No exceptions. When writing a new blog post or destination page:
 - **Road trip / travel posts** → include Rentalcars links if fly-in audiences apply
 - **Packing/gear content** → include Amazon links
 
+### Link named businesses and resources
+- Link the **first mention per page** of each named business or resource (restaurant, store, attraction, park, marina, tour operator, event) to its **verified official page** (official site, or the official government/park page), opening in a new tab: `target="_blank" rel="noopener noreferrer"`.
+- Verify the URL loads (curl for 200) before linking. Don't guess, avoid Yelp/TripAdvisor unless there's no official site, and don't link a place that has closed — flag it instead.
+- Don't wrap internal `<Link>`s or `<AffiliateLink>`s.
+
 ### How Affiliate Links Work
 - All affiliate links use the `<AffiliateLink>` component
 - Never hardcode URLs — use slug keys that resolve through `lib/affiliateLinks.ts`

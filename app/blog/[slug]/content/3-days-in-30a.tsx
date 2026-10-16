@@ -34,13 +34,13 @@ export default function ThreeDaysIn30AContent() {
 
       <p>
         Keep your first dinner walkable. Great Southern Café in Seaside&apos;s Central Square is an easy
-        pick, the town-center food trucks work with kids or a tired group, and Bud &amp; Alley&apos;s
+        pick, the town-center food trucks work with kids or a tired group, and <a href="https://www.budandalleys.com/" target="_blank" rel="noopener noreferrer">Bud &amp; Alley&apos;s</a>
         is the classic waterfront choice (check current hours).
       </p>
 
       <h2>Day 2: Grayton Beach State Park and the Timpoochee Trail</h2>
       <p>
-        Day two is your best full day, so start early with Grayton Beach State Park as the anchor. It
+        Day two is your best full day, so start early with <a href="https://www.floridastateparks.org/parks-and-trails/grayton-beach-state-park" target="_blank" rel="noopener noreferrer">Grayton Beach State Park</a> as the anchor. It
         gives you several of 30A&apos;s best features in one place: white sand, protected scenery,
         Western Lake, trails, and a quieter beach than the middle of Seaside. It can hit capacity in
         peak season and temporarily close, so get there early. Western Lake is one of the rare coastal
@@ -64,12 +64,12 @@ export default function ThreeDaysIn30AContent() {
       <h2>Day 3: Choose West 30A or East 30A</h2>
       <p>
         Your third day should be a choice, not a race. Choose <strong>west 30A</strong> for nature and
-        breathing room: Topsail Hill Preserve State Park (three miles of beach, dune lakes, a beach
+        breathing room: <a href="https://www.floridastateparks.org/parks-and-trails/topsail-hill-preserve-state-park" target="_blank" rel="noopener noreferrer">Topsail Hill Preserve</a> State Park (three miles of beach, dune lakes, a beach
         tram), plus Dune Allen, Gulf Place, and Blue Mountain with their regional accesses. Or choose{' '}
         <strong>east 30A</strong> for architecture and walkable town centers: Alys Beach and Rosemary
         Beach are striking for walking, eating, and shopping, but they don&apos;t have easy public beach
-        access for day visitors, so head to Inlet Beach if you actually want sand. Deer Lake State Park
-        is a good early-morning east-side stop before it hits capacity. George&apos;s at Alys Beach is
+        access for day visitors, so head to Inlet Beach if you actually want sand. <a href="https://www.floridastateparks.org/parks-and-trails/deer-lake-state-park" target="_blank" rel="noopener noreferrer">Deer Lake State Park</a>
+        is a good early-morning east-side stop before it hits capacity. <a href="https://www.georgesatalysbeach.com/" target="_blank" rel="noopener noreferrer">George&apos;s at Alys Beach</a> is
         a strong east-end meal (first come, first served).
       </p>
 

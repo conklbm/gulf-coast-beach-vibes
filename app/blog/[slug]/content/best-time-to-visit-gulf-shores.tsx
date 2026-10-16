@@ -152,7 +152,7 @@ export default function BestTimeGulfShoresContent() {
         still comfortably swimmable. Jellyfish, which can be a nuisance in late summer, are mostly
         gone. Prices are at their best post-summer value. And the beach is beautiful in the softer
         fall light. We make the full case in our{' '}
-        <Link href="/blog/gulf-coast-in-october">Gulf Coast in October guide</Link>. The <strong>Frank Brown International Songwriters Festival</strong> runs in early
+        <Link href="/blog/gulf-coast-in-october">Gulf Coast in October guide</Link>. The <strong><a href="https://www.frankbrownsongwriters.com/" target="_blank" rel="noopener noreferrer">Frank Brown International Songwriters Festival</a></strong> runs in early
         November (just barely missing October), but the beach is wonderful all month.
       </p>
 

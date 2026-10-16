@@ -8,7 +8,7 @@ export default function BestThingsToDoPensacolaBeachContent() {
       <p className="text-xl text-navy/80 leading-relaxed font-medium">
         Pensacola Beach sits between two very different bodies of water, and that geography shapes
         almost everything worth doing here. The Gulf side has surf and long white-sand beaches;
-        Santa Rosa Sound gives paddlers and young swimmers protected water. Fort Pickens anchors
+        Santa Rosa Sound gives paddlers and young swimmers protected water. <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a> anchors
         the western end, and the marinas send boats out for dolphins and sunset.
       </p>
       <p>
@@ -109,11 +109,11 @@ export default function BestThingsToDoPensacolaBeachContent() {
 
       <h2>Stay for Seafood, Live Music, and the Blue Angels</h2>
       <p>
-        <strong>Peg Leg Pete&apos;s</strong> is the strongest casual seafood dinner on the island —
+        <strong><a href="https://www.peglegpetes.com/" target="_blank" rel="noopener noreferrer">Peg Leg Pete&apos;s</a></strong> is the strongest casual seafood dinner on the island —
         oysters, grouper, and a lively waterfront setting near Lafitte Cove (go early in summer).
-        <strong> Flounder&apos;s</strong> is big, loud, and family-easy by Quietwater;{' '}
-        <strong>The Grand Marlin</strong> fits a slower, more polished evening; and{' '}
-        <strong>Casino Beach Bar &amp; Grille</strong> earns its premium at sunset by the pier. My
+        <strong> <a href="https://www.flounderschowderhouse.com/" target="_blank" rel="noopener noreferrer">Flounder&apos;s</a></strong> is big, loud, and family-easy by Quietwater;{' '}
+        <strong>The <a href="https://www.thegrandmarlin.com/" target="_blank" rel="noopener noreferrer">Grand Marlin</a></strong> fits a slower, more polished evening; and{' '}
+        <strong><a href="https://casinobeachbar.com/" target="_blank" rel="noopener noreferrer">Casino Beach Bar</a> &amp; Grille</strong> earns its premium at sunset by the pier. My
         standing order at any new Gulf Coast restaurant is a shrimp po&apos;boy or shrimp and
         grits — the comparison keeps my rankings honest. Adults can try a Bushwacker, the frozen
         rum drink the Sandshaker has poured since 1977.

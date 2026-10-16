@@ -12,16 +12,16 @@ export default function BestGulfCoastStateParksContent() {
       </p>
       <p>The best of them at a glance:</p>
       <ul>
-        <li><strong>Best overall:</strong> Gulf State Park</li>
-        <li><strong>Best undeveloped beach:</strong> Perdido Key State Park</li>
-        <li><strong>Best paddling and birding:</strong> Big Lagoon State Park</li>
-        <li><strong>Best in Destin:</strong> Henderson Beach State Park</li>
-        <li><strong>Best camping near 30A:</strong> Topsail Hill Preserve</li>
-        <li><strong>Best coastal dune lake:</strong> Grayton Beach State Park</li>
-        <li><strong>Best quick boardwalk stop:</strong> Deer Lake State Park</li>
-        <li><strong>Best history + nature mix:</strong> Camp Helen State Park</li>
-        <li><strong>Best snorkeling / Shell Island access:</strong> St. Andrews State Park</li>
-        <li><strong>Best shaded break:</strong> Eden Gardens State Park</li>
+        <li><strong>Best overall:</strong> <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a></li>
+        <li><strong>Best undeveloped beach:</strong> <a href="https://www.floridastateparks.org/parks-and-trails/perdido-key-state-park" target="_blank" rel="noopener noreferrer">Perdido Key State Park</a></li>
+        <li><strong>Best paddling and birding:</strong> <a href="https://www.floridastateparks.org/parks-and-trails/big-lagoon-state-park" target="_blank" rel="noopener noreferrer">Big Lagoon State Park</a></li>
+        <li><strong>Best in Destin:</strong> <a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson Beach State Park</a></li>
+        <li><strong>Best camping near 30A:</strong> <a href="https://www.floridastateparks.org/parks-and-trails/topsail-hill-preserve-state-park" target="_blank" rel="noopener noreferrer">Topsail Hill Preserve</a></li>
+        <li><strong>Best coastal dune lake:</strong> <a href="https://www.floridastateparks.org/parks-and-trails/grayton-beach-state-park" target="_blank" rel="noopener noreferrer">Grayton Beach State Park</a></li>
+        <li><strong>Best quick boardwalk stop:</strong> <a href="https://www.floridastateparks.org/parks-and-trails/deer-lake-state-park" target="_blank" rel="noopener noreferrer">Deer Lake State Park</a></li>
+        <li><strong>Best history + nature mix:</strong> <a href="https://www.floridastateparks.org/parks-and-trails/camp-helen-state-park" target="_blank" rel="noopener noreferrer">Camp Helen State Park</a></li>
+        <li><strong>Best snorkeling / Shell Island access:</strong> <a href="https://www.floridastateparks.org/parks-and-trails/st-andrews-state-park" target="_blank" rel="noopener noreferrer">St. Andrews State Park</a></li>
+        <li><strong>Best shaded break:</strong> <a href="https://www.floridastateparks.org/parks-and-trails/eden-gardens-state-park" target="_blank" rel="noopener noreferrer">Eden Gardens State Park</a></li>
       </ul>
       <p>
         If you only have time for three, choose Gulf State Park, Grayton Beach, and St. Andrews —
@@ -98,7 +98,7 @@ export default function BestGulfCoastStateParksContent() {
         confirm the last boat back).
       </p>
       <p>
-        One worthwhile detour near Mobile: <strong>Meaher State Park</strong> on the Mobile Bay
+        One worthwhile detour near Mobile: <strong><a href="https://www.alapark.com/parks/meaher-state-park" target="_blank" rel="noopener noreferrer">Meaher State Park</a></strong> on the Mobile Bay
         wetlands — boardwalk, fishing pier, cabins, and 100+ RV sites at the edge of the
         Mobile-Tensaw Delta. I once toured the Delta by boat and lost count of the alligators,
         turtles, and birds; Meaher is the ground-level introduction to that same ecosystem.

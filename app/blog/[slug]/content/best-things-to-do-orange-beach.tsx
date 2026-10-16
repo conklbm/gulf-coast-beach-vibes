@@ -8,14 +8,14 @@ export default function BestThingsToDoOrangeBeachContent() {
       <p className="text-xl text-navy/80 leading-relaxed font-medium">
         Orange Beach opens in two directions: the white-sand Gulf on one side and a web of bays and
         marinas on the other. You can spend the morning on the beach, watch dolphins from a boat
-        after lunch, then finish the day beside the Intracoastal Waterway at The Wharf.
+        after lunch, then finish the day beside the Intracoastal Waterway at <a href="https://www.alwharf.com/" target="_blank" rel="noopener noreferrer">The Wharf</a>.
       </p>
       <p>
         I grew up in Mobile, so <Link href="/destinations/orange-beach">Orange Beach</Link> has
         always felt connected to the wider coastal region rather than an isolated resort town. The
         boating culture is what gives it its character — fishing boats out before sunrise, pontoons
         gathered around the islands near Perdido Pass, dolphin cruises working the protected back
-        bays. Away from the water, Gulf State Park adds 28+ miles of paved trails.
+        bays. Away from the water, <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a> adds 28+ miles of paved trails.
       </p>
 
       <h2>Choose the Right Orange Beach Beach</h2>
@@ -65,7 +65,7 @@ export default function BestThingsToDoOrangeBeachContent() {
 
       <h2>Go Fishing, Parasailing, or Snorkeling</h2>
       <p>
-        Orange Beach has a big working charter fleet out of Zeke&apos;s Landing, Orange Beach
+        Orange Beach has a big working charter fleet out of <a href="https://www.zekeslanding.com/" target="_blank" rel="noopener noreferrer">Zeke&apos;s</a> Landing, Orange Beach
         Marina, Hudson Marina, and The Wharf. Inshore trips chase speckled trout and redfish close
         to land; nearshore trips get you into the Gulf without a long run; full offshore charters
         commit the day to deeper water. Ask how much of the trip is travel time, what&apos;s
@@ -127,12 +127,12 @@ export default function BestThingsToDoOrangeBeachContent() {
 
       <h2>Waterfront Dining and Live Music</h2>
       <p>
-        <strong>Cobalt</strong> has one of the best settings in town, beside Perdido Pass with
+        <strong><a href="https://cobaltrestaurant.net/" target="_blank" rel="noopener noreferrer">Cobalt</a></strong> has one of the best settings in town, beside Perdido Pass with
         boats going by — sunset is prime time, so expect a wait. <strong>Zeke&apos;s</strong>{' '}
         overlooks the marina as charters return with the catch. My personal favorite in the area is{' '}
         <strong>The Gulf</strong>, and my order is almost always shrimp and grits or a shrimp
         po&apos;boy — comparing the same dishes is my informal measure of a kitchen. For live
-        music, the <strong>Flora-Bama</strong> sits across the state line with five stages going
+        music, the <strong><a href="https://www.florabama.com/" target="_blank" rel="noopener noreferrer">Flora-Bama</a></strong> sits across the state line with five stages going
         year-round; daytime is casual and all ages, nights skew adult. I&apos;ve still never made
         the April Mullet Toss, though my friends&apos; stories get more chaotic with each
         retelling.

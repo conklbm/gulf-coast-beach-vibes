@@ -54,7 +54,7 @@ export default function BestThingsToDoFortWaltonBeachContent() {
 
       <h2>Visit Gulfarium Marine Adventure Park</h2>
       <p>
-        Gulfarium has held its beachfront site since 1955 — dolphins, sea lions, seals, penguins,
+        <a href="https://gulfarium.com/" target="_blank" rel="noopener noreferrer">Gulfarium</a> has held its beachfront site since 1955 — dolphins, sea lions, seals, penguins,
         otters, sharks, and sea turtles, with the expanded Dolphin Oasis habitat now open. Check
         the daily presentation schedule <em>before</em> you start walking; it&apos;s easy to be at
         the far end of the park when the show you wanted starts. Separately booked encounters
@@ -94,11 +94,11 @@ export default function BestThingsToDoFortWaltonBeachContent() {
         city&apos;s front porch on the Sound.
       </p>
       <p>
-        <strong>Heritage Park &amp; Cultural Center</strong> explains the city&apos;s name and its
+        <strong><a href="https://fwb.org/330/Museum---Heritage-Park-Cultural-Center" target="_blank" rel="noopener noreferrer">Heritage Park &amp; Cultural Center</a></strong> explains the city&apos;s name and its
         archaeology — the 17-foot Fort Walton Temple Mound, built between roughly 800 and 1400 and
         a National Historic Landmark, plus four museums on one admission (open Tue–Sat). Coastal
         history where geography explains the settlement is exactly my kind of stop. The{' '}
-        <strong>Emerald Coast Science Center</strong> rounds out a family rainy-day bench with
+        <strong><a href="https://www.ecscience.org/" target="_blank" rel="noopener noreferrer">Emerald Coast Science Center</a></strong> rounds out a family rainy-day bench with
         robotics, a hurricane simulator, and live animals.
       </p>
 

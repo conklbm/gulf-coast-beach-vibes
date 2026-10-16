@@ -11,8 +11,8 @@ export default function ThreeDaysInPanamaCityBeachContent() {
         deciding where to spend your time when you only have three days.
       </p>
       <p>
-        For a long weekend, the trick is to group your days by area. Do the central beach and Pier Park
-        side together, give St. Andrews State Park and Shell Island their own day, and save your third
+        For a long weekend, the trick is to group your days by area. Do the central beach and <a href="https://www.simon.com/mall/pier-park" target="_blank" rel="noopener noreferrer">Pier Park</a>
+        side together, give <a href="https://www.floridastateparks.org/parks-and-trails/st-andrews-state-park" target="_blank" rel="noopener noreferrer">St. Andrews State Park</a> and Shell Island their own day, and save your third
         day for the trip you actually want. This itinerary keeps{' '}
         <Link href="/destinations/panama-city-beach">Panama City Beach</Link> realistic: the beach, the
         park, the boat-day option, and the practical stuff (parking, flags, ferry timing). You&apos;ll
@@ -35,7 +35,7 @@ export default function ThreeDaysInPanamaCityBeachContent() {
       </TipCallout>
 
       <p>
-        For your first night, go classic PCB and stay near the beach: Schooners (right on the sand,
+        For your first night, go classic PCB and stay near the beach: <a href="https://www.schooners.com/" target="_blank" rel="noopener noreferrer">Schooners</a> (right on the sand,
         fires a sunset cannon nightly) if you&apos;re on the east/St. Andrews side, Pineapple Willy&apos;s
         (beachfront, no reservations) centrally, or Runaway Island near the Pier Park side.
       </p>
@@ -77,9 +77,9 @@ export default function ThreeDaysInPanamaCityBeachContent() {
       </p>
       <ul>
         <li><strong>Conservation Park</strong> — 2,900+ acres of trails and boardwalks for a quieter morning</li>
-        <li><strong>Camp Helen State Park</strong> — a west-end coastal dune lake stop near the 30A side</li>
-        <li><strong>Shipwreck Island Waterpark</strong> — the family option when kids need a break from sand (seasonal)</li>
-        <li><strong>WonderWorks</strong> — the indoor backup for rain or too much sun on Front Beach Road</li>
+        <li><strong><a href="https://www.floridastateparks.org/parks-and-trails/camp-helen-state-park" target="_blank" rel="noopener noreferrer">Camp Helen State Park</a></strong> — a west-end coastal dune lake stop near the 30A side</li>
+        <li><strong><a href="https://www.shipwreckisland.com/" target="_blank" rel="noopener noreferrer">Shipwreck Island</a> Waterpark</strong> — the family option when kids need a break from sand (seasonal)</li>
+        <li><strong><a href="https://www.wonderworksonline.com/panama-city-beach/" target="_blank" rel="noopener noreferrer">WonderWorks</a></strong> — the indoor backup for rain or too much sun on Front Beach Road</li>
         <li><strong>One last beach morning and Pier Park</strong> — the easiest low-effort final day</li>
       </ul>
 

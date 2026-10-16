@@ -13,8 +13,8 @@ export default function BestTimeToVisitOrangeBeachContent() {
       <p>
         Summer is still the main beach season on <Link href="/destinations/orange-beach">Orange
         Beach</Link>, with warm Gulf water, boating, dolphin cruises, and full family energy, plus heat,
-        storms, and crowds. Winter is a different trip, better for quiet walks, Gulf State Park trails,
-        The Wharf, and fishing than for swimming.
+        storms, and crowds. Winter is a different trip, better for quiet walks, <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a> trails,
+        <a href="https://www.alwharf.com/" target="_blank" rel="noopener noreferrer">The Wharf</a>, and fishing than for swimming.
       </p>
 
       <h2>Quick Answer: The Best Time to Visit</h2>
@@ -57,7 +57,7 @@ export default function BestTimeToVisitOrangeBeachContent() {
       <p>
         About 74°F air, 69°F water. The best month of the year for sitting on the beach without
         melting, if you can accept water that is still bracing on entry. Kids will swim; most adults
-        will wade. The Flora-Bama Mullet Toss lands in late April and packs the Alabama–Florida line for
+        will wade. The <a href="https://www.florabama.com/" target="_blank" rel="noopener noreferrer">Flora-Bama</a> Mullet Toss lands in late April and packs the Alabama–Florida line for
         a weekend — worth planning around in either direction, depending on whether that sounds like fun
         or a nightmare.
       </p>
@@ -106,7 +106,7 @@ export default function BestTimeToVisitOrangeBeachContent() {
       <h3>October — Comfort, Events, and Space</h3>
       <p>
         Upper-70s highs, mid-60s nights, water around 74°F. Warm enough to swim, cool enough to spend
-        all day outside, with fall events filling the calendar. The National Shrimp Festival in early
+        all day outside, with fall events filling the calendar. The <a href="https://www.myshrimpfest.com/" target="_blank" rel="noopener noreferrer">National Shrimp Festival</a> in early
         October, just west in <Link href="/destinations/gulf-shores">Gulf Shores</Link>, is the one
         weekend that draws a genuine crowd — everything else in the month is easy. Best month of the
         year for the Backcountry Trail and for fishing.

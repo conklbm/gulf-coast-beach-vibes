@@ -7,7 +7,7 @@ export default function ThreeDaysInDestinContent() {
     <>
       <p className="text-xl text-navy/80 leading-relaxed font-medium">
         Three days in Destin is enough to see what all the fuss is about — the water, the
-        fishing, Henderson Beach, Harborwalk Village, and the best seafood on the Gulf Coast.
+        fishing, Henderson Beach, <a href="https://www.harborwalkvillage.com/" target="_blank" rel="noopener noreferrer">Harborwalk Village</a>, and the best seafood on the Gulf Coast.
         Here&apos;s how to spend a long weekend without wasting a minute of it.
       </p>
 
@@ -31,7 +31,7 @@ export default function ThreeDaysInDestinContent() {
         </li>
         <li>
           <strong>Get to the beach early</strong> — Destin&apos;s public beach parking fills by
-          9am on summer weekends; Henderson Beach State Park can sell out before 10am
+          9am on summer weekends; <a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson Beach State Park</a> can sell out before 10am
         </li>
       </ul>
 
@@ -60,7 +60,7 @@ export default function ThreeDaysInDestinContent() {
         evening — massive fish, excited crowds, excellent atmosphere.
       </p>
       <p>
-        Dinner options at the Harbor: Boshamps Seafood (excellent grilled fish, views of the
+        Dinner options at the Harbor: <a href="https://www.boshamps.com/" target="_blank" rel="noopener noreferrer">Boshamps</a> Seafood (excellent grilled fish, views of the
         harbor), AJ&apos;s Seafood (lively, great raw bar), or Marina Cafe for a more upscale
         sit-down with Gulf views.
       </p>
@@ -102,7 +102,7 @@ export default function ThreeDaysInDestinContent() {
         what you came for — don&apos;t over-schedule it.
       </p>
 
-      <h3>Evening: The Wharf or Local Dining</h3>
+      <h3>Evening: <a href="https://www.alwharf.com/" target="_blank" rel="noopener noreferrer">The Wharf</a> or Local Dining</h3>
       <p>
         The Wharf in Orange Beach is 20 minutes east — a large waterfront entertainment
         complex with good dinner restaurants, a Ferris wheel, and live music. Alternatively,

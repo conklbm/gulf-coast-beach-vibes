@@ -55,7 +55,7 @@ export default function BestTimeToVisitNavarreBeachContent() {
         less pressure before Memorial Day. <strong>October</strong> is the best fall pick, with better
         air than late summer, warm-enough water early in the month, lighter crowds, and strong fishing
         energy around the Navarre Fishing Rodeo. Both are excellent for the Navarre Beach Pier and the
-        scenic drive through Gulf Islands National Seashore toward{' '}
+        scenic drive through <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a> toward{' '}
         <Link href="/destinations/pensacola-beach">Pensacola Beach</Link>.
       </p>
       <div className="not-prose my-6">

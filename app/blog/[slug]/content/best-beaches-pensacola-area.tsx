@@ -10,7 +10,7 @@ export default function BestBeachesPensacolaAreaContent() {
       </p>
       <p>
         You can stand near the Gulf Pier at Casino Beach with restaurants and people all around, cross
-        to Quietwater Beach for calm Santa Rosa Sound water, or drive west toward Fort Pickens for
+        to Quietwater Beach for calm Santa Rosa Sound water, or drive west toward <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a> for
         history and dunes. The best beach in the{' '}
         <Link href="/destinations/pensacola-beach">Pensacola</Link> area depends on the trip you want.
         First-timers usually do best at Casino Beach, families with small kids may prefer Quietwater,
@@ -44,7 +44,7 @@ export default function BestBeachesPensacolaAreaContent() {
       <h2>Use Park East and Park West to Escape the Central Hub</h2>
       <p>
         Park East and Park West pull you away from the pier and central parking. Park West sits near the
-        entrance to Gulf Islands National Seashore, and the free summer trolley&apos;s West Route
+        entrance to <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a>, and the free summer trolley&apos;s West Route
         connects Casino Beach to Park West. Treat them as practical alternatives rather than secret
         beaches, since they still get busy at peak times. The free summer trolley (late May through
         Labor Day, generally 4 p.m. to midnight) is handy in the evening so you can park once.
@@ -84,7 +84,7 @@ export default function BestBeachesPensacolaAreaContent() {
 
       <h2>Use Perdido Key State Park for a Simple Low-Key Day</h2>
       <p>
-        Perdido Key State Park is a good uncomplicated stop near the west side of the area, with
+        <a href="https://www.floridastateparks.org/parks-and-trails/perdido-key-state-park" target="_blank" rel="noopener noreferrer">Perdido Key State Park</a> is a good uncomplicated stop near the west side of the area, with
         barrier-island scenery, boardwalk dune access, and a low-key state park setting. It&apos;s open
         8 a.m. until sunset, with admission around $3 per vehicle through an honor box. It&apos;s better
         for travelers who want sand, dunes, and a simple plan than for anyone wanting restaurants nearby.

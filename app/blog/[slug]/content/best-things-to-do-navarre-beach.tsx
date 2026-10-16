@@ -51,7 +51,7 @@ export default function BestThingsToDoNavarreBeachContent() {
       <p>
         Fishing is the main event: the pier store rents rods and sells bait, the fishing admission
         covers the saltwater license, and depending on season anglers pull Spanish and king
-        mackerel, cobia, pompano, and redfish. Ask the staff what&apos;s been biting. Windjammers
+        mackerel, cobia, pompano, and redfish. Ask the staff what&apos;s been biting. <a href="https://windjammersnavarrepier.com/" target="_blank" rel="noopener noreferrer">Windjammers</a>
         sits at the entrance for breakfast or a casual Gulf-view meal. Hours change seasonally —
         confirm before an early or late trip.
       </p>
@@ -85,7 +85,7 @@ export default function BestThingsToDoNavarreBeachContent() {
       <p>
         The drive west toward <Link href="/destinations/pensacola-beach">Pensacola Beach</Link> on
         Highway 399 is one of the best coastal drives in Northwest Florida — dunes, white sand, and
-        undeveloped Gulf Islands National Seashore on both sides. I make it for the landscape as
+        undeveloped <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a> on both sides. I make it for the landscape as
         much as the destination; once the buildings fall away, you finally see Santa Rosa Island as
         the narrow barrier it is. Small free parking areas dot the route for quiet, no-facility
         beach stops, and Opal Beach adds restrooms, pavilions, and seasonal lifeguards (entrance
@@ -116,7 +116,7 @@ export default function BestThingsToDoNavarreBeachContent() {
         bridge with beach volleyball, rentals, bars, and live music.{' '}
         <strong>Windjammers</strong> covers the pier-side sunset meal,{' '}
         <strong>Beach House Social</strong> handles date night with broad Gulf views, and on the
-        mainland <strong>Scooter&apos;s Fish House</strong> does straightforward seafood while{' '}
+        mainland <strong><a href="https://www.scootersfishhouse.com/" target="_blank" rel="noopener noreferrer">Scooter&apos;s Fish House</a></strong> does straightforward seafood while{' '}
         <strong>The Slippery Mermaid</strong> saves you when you need sushi after a week of
         baskets. My usual Navarre evening: seafood, a pier walk, and enough time outside to see
         what the sky does — this coast produces some of the best sunsets I&apos;ve seen anywhere.
