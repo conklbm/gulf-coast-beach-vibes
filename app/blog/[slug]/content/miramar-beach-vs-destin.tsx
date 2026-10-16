@@ -90,8 +90,8 @@ export default function MiramarBeachVsDestinContent() {
         Miramar Beach has a different mix, more about shopping, dining, beach time, resort amenities,
         and side trips. Silver Sands Premium Outlets has around 110 stores, Grand Boulevard offers
         polished shopping and dining, and Baytowne Wharf in Sandestin adds a village-style setting on
-        Choctawhatchee Bay. Miramar Beach also puts you closer to 30A for a day exploring Topsail Hill
-        Preserve State Park, Grayton Beach, Seaside, or Rosemary Beach. Choose Destin for action;
+        Choctawhatchee Bay. Miramar Beach also puts you closer to 30A for a day exploring <a href="https://www.floridastateparks.org/parks-and-trails/topsail-hill-preserve-state-park" target="_blank" rel="noopener noreferrer">Topsail Hill
+        Preserve</a> State Park, Grayton Beach, Seaside, or Rosemary Beach. Choose Destin for action;
         choose Miramar Beach for a calmer base with good side trips.
       </p>
       <div className="not-prose flex flex-col sm:flex-row gap-3 my-6">

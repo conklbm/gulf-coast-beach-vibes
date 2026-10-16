@@ -65,8 +65,8 @@ export default function DestinVs30AContent() {
         Silver Sands outlets nearby, arcades, mini golf, and plenty of rainy-day options.
       </p>
       <p>
-        30A is quieter by design. The best things to do are slower: rent bikes, visit Grayton Beach
-        State Park, walk around Seaside, have dinner in Rosemary, explore Alys Beach, paddle near a
+        30A is quieter by design. The best things to do are slower: rent bikes, visit <a href="https://www.floridastateparks.org/parks-and-trails/grayton-beach-state-park" target="_blank" rel="noopener noreferrer">Grayton Beach
+        State Park</a>, walk around Seaside, have dinner in Rosemary, explore Alys Beach, paddle near a
         coastal dune lake, or spend an afternoon at <a href="https://www.floridastateparks.org/parks-and-trails/topsail-hill-preserve-state-park" target="_blank" rel="noopener noreferrer">Topsail Hill Preserve</a> State Park. 30A is less
         about checking off attractions and more about settling into the place.
       </p>

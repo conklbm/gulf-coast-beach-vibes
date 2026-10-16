@@ -61,8 +61,8 @@ export default function DauphinIslandVsGulfShoresContent() {
       </p>
       <p>
         Gulf Shores has far more to do. Gulf State Park is the biggest advantage, with trails,
-        biking, fishing, kayaking, beach access, and the pier. You also have the Alabama Gulf Coast
-        Zoo, <a href="https://www.watervilleusa.com/" target="_blank" rel="noopener noreferrer">Waterville USA</a>, mini golf, beach shops, restaurants, and nearby Orange Beach if you want
+        biking, fishing, kayaking, beach access, and the pier. You also have the <a href="https://alabamagulfcoastzoo.org/" target="_blank" rel="noopener noreferrer">Alabama Gulf Coast
+        Zoo</a>, <a href="https://www.watervilleusa.com/" target="_blank" rel="noopener noreferrer">Waterville USA</a>, mini golf, beach shops, restaurants, and nearby Orange Beach if you want
         <a href="https://www.alwharf.com/" target="_blank" rel="noopener noreferrer">The Wharf</a> or more nightlife.
       </p>
       <div className="not-prose flex flex-col sm:flex-row gap-3 my-6">

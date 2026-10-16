@@ -25,8 +25,8 @@ export default function DestinVsClearwaterContent() {
         personality. The sand is bright, the Gulf can look impossibly green on a good day, and the
         trip often revolves around getting out on the water. Choose it if your ideal vacation includes
         fishing charters, pontoon rentals, dolphin cruises, Crab Island, snorkeling, harbor
-        restaurants, and condo time with a Gulf view. The Destin Harbor Boardwalk and HarborWalk
-        Village anchor the evenings. Crab Island, a submerged sandbar near the Destin Bridge, is the
+        restaurants, and condo time with a Gulf view. The Destin Harbor Boardwalk and <a href="https://www.harborwalkvillage.com/" target="_blank" rel="noopener noreferrer">HarborWalk
+        Village</a> anchor the evenings. Crab Island, a submerged sandbar near the Destin Bridge, is the
         other major draw. The good days are excellent, but the best parts often need planning. If you
         want the honest case for the trip, our take on{' '}
         <Link href="/blog/is-destin-worth-it">whether Destin is worth it</Link> goes deeper.

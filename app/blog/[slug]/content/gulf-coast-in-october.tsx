@@ -129,8 +129,8 @@ export default function GulfCoastOctoberContent() {
         </li>
         <li>
           <strong><Link href="/destinations/navarre-beach">Navarre Beach</Link></strong> — already
-          the least-crowded beach on the Gulf, October makes it even more serene. Gulf Islands
-          National Seashore at its most peaceful.
+          the least-crowded beach on the Gulf, October makes it even more serene. <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands
+          National Seashore</a> at its most peaceful.
         </li>
         <li>
           <strong><Link href="/destinations/seaside">Seaside / 30A</Link></strong> — the 30A

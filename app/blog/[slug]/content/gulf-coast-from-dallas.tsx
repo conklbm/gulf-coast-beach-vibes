@@ -46,8 +46,8 @@ export default function GulfCoastFromDallasContent() {
 
       <h2>Which Beach Should You Choose?</h2>
       <p>
-        Choose <strong>Gulf Shores or Orange Beach</strong> for the best all-around trip with Gulf State
-        Park and easy logistics (the Foley Beach Express bridge is now toll-free). Choose{' '}
+        Choose <strong>Gulf Shores or Orange Beach</strong> for the best all-around trip with <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State
+        Park</a> and easy logistics (the Foley Beach Express bridge is now toll-free). Choose{' '}
         <strong>Dauphin Island</strong> for quiet and nature, <strong>Pensacola Beach</strong> for
         Florida water without the longest drive, and <strong>Navarre Beach</strong> for a calmer Florida
         option. Choose <strong>Destin</strong> if emerald water and fishing matter most,{' '}

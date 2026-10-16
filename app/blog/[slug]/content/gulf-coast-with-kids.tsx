@@ -39,8 +39,8 @@ export default function GulfCoastWithKidsContent() {
         <strong><Link href="/destinations/pensacola-beach">Pensacola Beach</Link> — beach +
         history.</strong> Casino Beach for the easy setup, Quietwater&apos;s calm Sound-side water
         for small kids, <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a> for the adventure day. Strong rainy-day bench in downtown
-        Pensacola: the MESS Hall, the Children&apos;s Museum, and the free National Naval Aviation
-        Museum (adults need REAL ID or a passport for base entry).
+        Pensacola: the MESS Hall, the Children&apos;s Museum, and the free <a href="https://www.navalaviationmuseum.org/" target="_blank" rel="noopener noreferrer">National Naval Aviation
+        Museum</a> (adults need REAL ID or a passport for base entry).
       </p>
       <p>
         <strong><Link href="/destinations/navarre-beach">Navarre</Link> — for families who want
@@ -61,15 +61,15 @@ export default function GulfCoastWithKidsContent() {
       </p>
       <p>
         <strong>30A — bikes and rental-centered weeks.</strong> Ride realistic Timpoochee sections
-        (Grayton–Seaside, Rosemary–Alys) rather than all 19 miles, paddle Western Lake at Grayton
-        Beach State Park, and read beach-access fine print carefully — a beautiful rental near
+        (Grayton–Seaside, Rosemary–Alys) rather than all 19 miles, paddle Western Lake at <a href="https://www.floridastateparks.org/parks-and-trails/grayton-beach-state-park" target="_blank" rel="noopener noreferrer">Grayton
+        Beach State Park</a>, and read beach-access fine print carefully — a beautiful rental near
         Seaside doesn&apos;t automatically include the community pool or nearest private pavilion.
       </p>
       <p>
         <strong><Link href="/destinations/panama-city-beach">Panama City Beach</Link> — the
         attraction capital.</strong> <a href="https://www.shipwreckisland.com/" target="_blank" rel="noopener noreferrer">Shipwreck Island</a> (measure kids against the 36/42/48-inch slide
-        requirements first), <a href="https://www.wonderworksonline.com/panama-city-beach/" target="_blank" rel="noopener noreferrer">WonderWorks</a>, ZooWorld, <a href="https://www.simon.com/mall/pier-park" target="_blank" rel="noopener noreferrer">Pier Park</a>, and the PCB Wheel, with St. Andrews
-        State Park as the nature day. One update for old guidebooks: Gulf World closed permanently
+        requirements first), <a href="https://www.wonderworksonline.com/panama-city-beach/" target="_blank" rel="noopener noreferrer">WonderWorks</a>, ZooWorld, <a href="https://www.simon.com/mall/pier-park" target="_blank" rel="noopener noreferrer">Pier Park</a>, and the PCB Wheel, with <a href="https://www.floridastateparks.org/parks-and-trails/st-andrews-state-park" target="_blank" rel="noopener noreferrer">St. Andrews
+        State Park</a> as the nature day. One update for old guidebooks: Gulf World closed permanently
         in 2025.
       </p>
 

@@ -59,8 +59,8 @@ export default function GulfCoastInDecemberContent() {
         Beach</Link> and <Link href="/destinations/gulf-shores">Gulf Shores</Link> (lighted boat parade,
         <a href="https://www.alwharf.com/" target="_blank" rel="noopener noreferrer">The Wharf</a>), <Link href="/destinations/seaside">30A</Link>, and{' '}
         <Link href="/destinations/panama-city-beach">Panama City Beach</Link> (the strongest New
-        Year&apos;s Eve pick, with its Beach Ball Drop). <strong>State parks and walking:</strong> Gulf
-        State Park, <a href="https://www.floridastateparks.org/parks-and-trails/grayton-beach-state-park" target="_blank" rel="noopener noreferrer">Grayton Beach State Park</a>, <a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson Beach State Park</a>, and <a href="https://www.floridastateparks.org/parks-and-trails/st-andrews-state-park" target="_blank" rel="noopener noreferrer">St. Andrews State Park</a>, with
+        Year&apos;s Eve pick, with its Beach Ball Drop). <strong>State parks and walking:</strong> <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf
+        State Park</a>, <a href="https://www.floridastateparks.org/parks-and-trails/grayton-beach-state-park" target="_blank" rel="noopener noreferrer">Grayton Beach State Park</a>, <a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson Beach State Park</a>, and <a href="https://www.floridastateparks.org/parks-and-trails/st-andrews-state-park" target="_blank" rel="noopener noreferrer">St. Andrews State Park</a>, with
         no July heat to fight.
       </p>
       <div className="not-prose flex flex-col sm:flex-row gap-3 my-6">

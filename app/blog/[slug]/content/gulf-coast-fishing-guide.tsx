@@ -54,8 +54,8 @@ export default function GulfCoastFishingGuideContent() {
       </p>
       <p>
         <strong><Link href="/destinations/pensacola-beach">Pensacola Beach</Link> and Navarre</strong> —
-        protected inshore water in the bay and Sound, the rod-rental-friendly Gulf Pier, Fort
-        Pickens&apos; bay pier, and the long Navarre Beach Pier. Ideal for combining one fishing
+        protected inshore water in the bay and Sound, the rod-rental-friendly Gulf Pier, <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort
+        Pickens</a>&apos; bay pier, and the long Navarre Beach Pier. Ideal for combining one fishing
         morning with a broader beach trip.
       </p>
       <p>
@@ -69,8 +69,8 @@ export default function GulfCoastFishingGuideContent() {
         <strong>30A</strong> — Grayton Beach&apos;s charters launch directly from the sand, one of
         the coast&apos;s most distinctive fishing experiences (ask how boarding works if mobility
         is a concern). <strong><Link href="/destinations/panama-city-beach">Panama City
-        Beach</Link></strong> — charters from Grand Lagoon, two Gulf piers, and St. Andrews State
-        Park&apos;s jetties make it a strong all-around first-timer base.
+        Beach</Link></strong> — charters from Grand Lagoon, two Gulf piers, and <a href="https://www.floridastateparks.org/parks-and-trails/st-andrews-state-park" target="_blank" rel="noopener noreferrer">St. Andrews State
+        Park</a>&apos;s jetties make it a strong all-around first-timer base.
       </p>
 
       <div className="not-prose my-8">

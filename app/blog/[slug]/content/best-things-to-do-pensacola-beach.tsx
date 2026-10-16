@@ -124,8 +124,8 @@ export default function BestThingsToDoPensacolaBeachContent() {
         the July air show over Casino Beach is free and enormous — parking can fill before
         sunrise, and leaving takes hours. Book lodging early if the show is the point of the trip
         (our <Link href="/blog/where-to-stay-pensacola-beach">where to stay in Pensacola Beach</Link>{' '}
-        guide flags the event-week tradeoffs). Select practices are viewable from the National
-        Naval Aviation Museum — free admission, but adults need government-issued ID for base
+        guide flags the event-week tradeoffs). Select practices are viewable from the <a href="https://www.navalaviationmuseum.org/" target="_blank" rel="noopener noreferrer">National
+        Naval Aviation Museum</a> — free admission, but adults need government-issued ID for base
         access. My interest in military sites started young — I camped aboard the USS Alabama as a
         kid — so this area&apos;s mix of fort, naval aviation, and Blue Angels has a personal pull
         beyond the beach.

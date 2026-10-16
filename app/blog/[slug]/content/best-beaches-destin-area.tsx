@@ -37,8 +37,8 @@ export default function BestBeachesDestinAreaContent() {
       <p>
         James Lee Park, toward the east end near the Walton/Okaloosa County line, is one of the most
         practical beaches for families, with pavilions, 41 picnic tables, dune walkovers, a playground,
-        restrooms with changing rooms, showers, and 166 parking spaces. It&apos;s also near The Crab
-        Trap for food nearby. It still gets busy in summer, so arrive early, but it solves the boring
+        restrooms with changing rooms, showers, and 166 parking spaces. It&apos;s also near <a href="https://www.thecrabtrap.com/" target="_blank" rel="noopener noreferrer">The Crab
+        Trap</a> for food nearby. It still gets busy in summer, so arrive early, but it solves the boring
         problems: bathrooms, food, parking, shade, and space to regroup.
       </p>
 

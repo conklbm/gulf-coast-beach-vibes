@@ -29,8 +29,8 @@ export default function BestThingsToDoFortWaltonBeachContent() {
       </p>
       <p>
         <strong>The Boardwalk</strong> is easier for families who want food, shops, and the pier
-        steps from their towels — free parking, showers, volleyball courts, and restaurants (The
-        Crab Trap, Rockin&apos; Tacos, Floyd&apos;s, Al&apos;s Beach Club) directly upstairs from
+        steps from their towels — free parking, showers, volleyball courts, and restaurants (<a href="https://www.thecrabtrap.com/" target="_blank" rel="noopener noreferrer">The
+        Crab Trap</a>, Rockin&apos; Tacos, Floyd&apos;s, Al&apos;s Beach Club) directly upstairs from
         the sand. Summer Wednesdays often bring fireworks. Seven smaller public walkovers line
         Santa Rosa Boulevard, but their parking is minimal — use them only if you&apos;re staying
         within walking distance.

@@ -158,8 +158,8 @@ export default function GulfShoresVsDestinContent() {
         If you want Destin&apos;s water quality at Gulf Shores prices, look at{' '}
         <strong>Fort Walton Beach</strong> — same barrier island as Destin, same emerald water,
         notably cheaper. Or go further west to{' '}
-        <strong>Navarre Beach</strong> — literally the least-crowded stretch of Gulf Islands
-        National Seashore, with the same stunning water and almost no one on it.
+        <strong>Navarre Beach</strong> — literally the least-crowded stretch of <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands
+        National Seashore</a>, with the same stunning water and almost no one on it.
       </TipCallout>
 
       <p>

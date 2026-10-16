@@ -47,8 +47,8 @@ export default function WeekendInGulfShoresContent() {
       <h2>Saturday Afternoon: Beach Time, Zoo, Waterville, or the Pier</h2>
       <p>
         Your afternoon depends on the group. If everyone&apos;s happy at the beach, stay at the beach,
-        which is usually the right answer. If younger kids need a change of scene, the Alabama Gulf
-        Coast Zoo is a good option. In waterpark season, <a href="https://www.watervilleusa.com/" target="_blank" rel="noopener noreferrer">Waterville USA</a> works as a summer family
+        which is usually the right answer. If younger kids need a change of scene, the <a href="https://alabamagulfcoastzoo.org/" target="_blank" rel="noopener noreferrer">Alabama Gulf
+        Coast Zoo</a> is a good option. In waterpark season, <a href="https://www.watervilleusa.com/" target="_blank" rel="noopener noreferrer">Waterville USA</a> works as a summer family
         afternoon. For a lower-effort plan, go back to the pier. Watch the beach flags: double red
         means the Gulf is closed, and swimming then is both illegal in city limits and dangerous.
       </p>

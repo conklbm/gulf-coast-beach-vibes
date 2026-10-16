@@ -51,8 +51,8 @@ export default function GulfCoastInMayContent() {
         <strong>Couples:</strong> <Link href="/destinations/seaside">30A</Link>, Pensacola Beach, Navarre
         Beach, Orange Beach, or Dauphin Island. <strong>Clear water and photos:</strong>{' '}
         <Link href="/destinations/destin">Destin</Link>, 30A, Navarre Beach, and PCB.{' '}
-        <strong>State parks:</strong> <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a>, <a href="https://www.floridastateparks.org/parks-and-trails/grayton-beach-state-park" target="_blank" rel="noopener noreferrer">Grayton Beach State Park</a>, Henderson Beach State
-        Park, and <a href="https://www.floridastateparks.org/parks-and-trails/st-andrews-state-park" target="_blank" rel="noopener noreferrer">St. Andrews State Park</a>, all more comfortable than in July.
+        <strong>State parks:</strong> <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a>, <a href="https://www.floridastateparks.org/parks-and-trails/grayton-beach-state-park" target="_blank" rel="noopener noreferrer">Grayton Beach State Park</a>, <a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson Beach State
+        Park</a>, and <a href="https://www.floridastateparks.org/parks-and-trails/st-andrews-state-park" target="_blank" rel="noopener noreferrer">St. Andrews State Park</a>, all more comfortable than in July.
       </p>
       <div className="not-prose flex flex-col sm:flex-row gap-3 my-6">
         <AffiliateLink href="vrbo-travel-payouts" label="Browse Gulf Coast Rentals" provider="vrbo" />

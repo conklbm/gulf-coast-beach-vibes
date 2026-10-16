@@ -110,9 +110,9 @@ export default function IsGulfShoresWorthItContent() {
       <h2>Who Should Choose Another Beach</h2>
       <p>
         Choose Fort Morgan for quiet, beach houses, and fewer crowds. Choose{' '}
-        <Link href="/destinations/orange-beach">Orange Beach</Link> for more boating, marinas, and The
-        Wharf. Choose <Link href="/destinations/pensacola-beach">Pensacola Beach</Link> for Fort
-        Pickens and <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a>. Choose <Link href="/destinations/destin">Destin</Link>{' '}
+        <Link href="/destinations/orange-beach">Orange Beach</Link> for more boating, marinas, and <a href="https://www.alwharf.com/" target="_blank" rel="noopener noreferrer">The
+        Wharf</a>. Choose <Link href="/destinations/pensacola-beach">Pensacola Beach</Link> for <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort
+        Pickens</a> and <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a>. Choose <Link href="/destinations/destin">Destin</Link>{' '}
         for more shopping, charter boats, and nightlife, or 30A for a more polished, design-forward
         trip. Gulf Shores is best when you want convenience without overthinking the trip.
       </p>

@@ -17,8 +17,8 @@ export default function FortPickensDayGuideContent() {
 
       <h2>Fort Pickens vs. Gulf Islands National Seashore</h2>
       <p>
-        These get used interchangeably and they are not the same thing. <strong>Gulf Islands National
-        Seashore</strong> is the national park unit — a string of protected barrier-island stretches
+        These get used interchangeably and they are not the same thing. <strong><a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National
+        Seashore</a></strong> is the national park unit — a string of protected barrier-island stretches
         running from Mississippi across to Florida. <strong>Fort Pickens</strong> is one area within
         it, at the west end of Santa Rosa Island past Pensacola Beach.
       </p>

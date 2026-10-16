@@ -31,8 +31,8 @@ export default function BestTimeGulfShoresContent() {
       <p>
         Not a swimming trip, but surprisingly appealing for the right traveler. The beach is yours.
         Restaurants are open and un-rushed. Rates are the lowest you&apos;ll find all year —
-        beachfront condos that run $2,500/week in July might be $800–1,000/week in January. Gulf
-        State Park is beautiful for hiking without the heat. Bring a jacket.
+        beachfront condos that run $2,500/week in July might be $800–1,000/week in January. <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf
+        State Park</a> is beautiful for hiking without the heat. Bring a jacket.
       </p>
 
       <h3>March — Spring Break + Shoulder Season</h3>

@@ -30,8 +30,8 @@ export default function BestTimeToVisitDestinContent() {
         <strong>Prices:</strong> Lowest of the year
       </p>
       <p>
-        Not a beach swimming trip. But Destin in winter has its own appeal — empty Henderson
-        Beach State Park, dramatic winter surf on windy days, excellent fishing (cobia run
+        Not a beach swimming trip. But Destin in winter has its own appeal — empty <a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson
+        Beach State Park</a>, dramatic winter surf on windy days, excellent fishing (cobia run
         starts in late winter), and prices you&apos;ll never see in summer. Great for couples
         who want a quiet escape, nature walkers, and serious anglers.
       </p>

@@ -59,8 +59,8 @@ export default function GulfCoastInMarchContent() {
         <Link href="/destinations/seaside">30A</Link>, understanding the water may be cool.{' '}
         <strong>Spring break energy:</strong> Gulf Shores, Pensacola Beach,{' '}
         <Link href="/destinations/destin">Destin</Link>, or Panama City Beach (the most rule-sensitive).{' '}
-        <strong>State parks and nature:</strong> <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a>, Bon Secour, Gulf Islands National
-        Seashore, <a href="https://www.floridastateparks.org/parks-and-trails/grayton-beach-state-park" target="_blank" rel="noopener noreferrer">Grayton Beach State Park</a>, and <a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson Beach State Park</a>, all far more comfortable than
+        <strong>State parks and nature:</strong> <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a>, Bon Secour, <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National
+        Seashore</a>, <a href="https://www.floridastateparks.org/parks-and-trails/grayton-beach-state-park" target="_blank" rel="noopener noreferrer">Grayton Beach State Park</a>, and <a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson Beach State Park</a>, all far more comfortable than
         in July.
       </p>
       <div className="not-prose flex flex-col sm:flex-row gap-3 my-6">

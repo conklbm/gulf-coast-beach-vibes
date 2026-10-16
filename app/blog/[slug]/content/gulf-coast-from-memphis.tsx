@@ -86,9 +86,9 @@ export default function GulfCoastFromMemphisContent() {
       <h3>Pensacola Beach — Worth the Extra Hour</h3>
       <p>
         Add an hour east of Gulf Shores and you reach{' '}
-        <Link href="/destinations/pensacola-beach">Pensacola Beach</Link> — Gulf Islands National
-        Seashore, the whitest quartz sand on the entire Gulf Coast, and the National Naval
-        Aviation Museum (free, genuinely world-class). For a 5–7 day trip, Pensacola Beach
+        <Link href="/destinations/pensacola-beach">Pensacola Beach</Link> — <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National
+        Seashore</a>, the whitest quartz sand on the entire Gulf Coast, and the <a href="https://www.navalaviationmuseum.org/" target="_blank" rel="noopener noreferrer">National Naval
+        Aviation Museum</a> (free, genuinely world-class). For a 5–7 day trip, Pensacola Beach
         offers a richer experience and slightly lower prices than Destin.
       </p>
 

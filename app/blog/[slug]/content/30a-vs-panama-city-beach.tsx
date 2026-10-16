@@ -100,8 +100,8 @@ export default function ThirtyAVsPanamaCityBeachContent() {
       <h2>Things to Do</h2>
       <p>
         Panama City Beach has more built-in entertainment. PCB has St. Andrews State Park, Shell
-        Island trips, dolphin cruises, fishing charters, jet ski rentals, paddleboarding, Shipwreck
-        Island Waterpark, the SkyWheel, Pier Park, arcades, mini golf, restaurants, and nightlife.
+        Island trips, dolphin cruises, fishing charters, jet ski rentals, paddleboarding, <a href="https://www.shipwreckisland.com/" target="_blank" rel="noopener noreferrer">Shipwreck
+        Island</a> Waterpark, the SkyWheel, Pier Park, arcades, mini golf, restaurants, and nightlife.
         Pier Park alone has more than 100 stores plus restaurants, a movie theater, Dave &amp;
         Buster&apos;s, and live entertainment. For families, PCB is hard to beat: if the kids get
         tired of the beach, or it rains, you have options.

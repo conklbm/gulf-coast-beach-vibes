@@ -86,8 +86,8 @@ export default function Is30AWorthItContent() {
         nightlife. Choose <Link href="/destinations/panama-city-beach">Panama City Beach</Link> for
         lower-cost lodging and more attractions. Choose{' '}
         <Link href="/destinations/gulf-shores">Gulf Shores</Link> for a more straightforward family
-        beach town, <Link href="/destinations/orange-beach">Orange Beach</Link> for marinas and The
-        Wharf, or <Link href="/destinations/pensacola-beach">Pensacola Beach</Link> for an easier island
+        beach town, <Link href="/destinations/orange-beach">Orange Beach</Link> for marinas and <a href="https://www.alwharf.com/" target="_blank" rel="noopener noreferrer">The
+        Wharf</a>, or <Link href="/destinations/pensacola-beach">Pensacola Beach</Link> for an easier island
         trip. 30A is best for beauty, design, biking, and atmosphere; it&apos;s weaker for budget,
         nightlife, easy parking, and big family attractions.
       </p>
