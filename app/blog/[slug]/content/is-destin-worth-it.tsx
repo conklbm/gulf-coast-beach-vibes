@@ -60,7 +60,7 @@ export default function IsDestinWorthItContent() {
         amberjack, mahi-mahi, and wahoo are all routinely caught on day trips.
       </p>
       <p>
-        The Destin Fishing Rodeo runs every day of October and is the largest inshore/offshore
+        The <a href="https://www.destinfishingrodeo.org/" target="_blank" rel="noopener noreferrer">Destin Fishing Rodeo</a> runs every day of October and is the largest inshore/offshore
         fishing tournament on the Gulf Coast. If fishing matters to your trip at all, Destin
         delivers.
       </p>

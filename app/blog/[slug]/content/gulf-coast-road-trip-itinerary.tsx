@@ -204,7 +204,7 @@ export default function GulfCoastRoadTripItineraryContent() {
       <h3>Best Season for the Road Trip</h3>
       <ul>
         <li><strong>May (early–mid):</strong> The best window — warm enough to swim, minimal crowds, all beaches and attractions open, prices well below peak</li>
-        <li><strong>October:</strong> Second-best window — water still 74–78°F, Destin Fishing Rodeo running, prices down 25–35%. See our <Link href="/blog/gulf-coast-in-october">October guide</Link>.</li>
+        <li><strong>October:</strong> Second-best window — water still 74–78°F, <a href="https://www.destinfishingrodeo.org/" target="_blank" rel="noopener noreferrer">Destin Fishing Rodeo</a> running, prices down 25–35%. See our <Link href="/blog/gulf-coast-in-october">October guide</Link>.</li>
         <li><strong>Summer:</strong> Peak crowds and prices, but the full beach experience. Book well ahead.</li>
         <li><strong>November–March:</strong> Best prices, but swimming weather is gone for most of the corridor</li>
       </ul>

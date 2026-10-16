@@ -91,7 +91,9 @@ export default function GulfCoastCampingContent() {
         <strong><a href="https://www.floridastateparks.org/parks-and-trails/grayton-beach-state-park" target="_blank" rel="noopener noreferrer">Grayton Beach State Park</a></strong> pairs Western Lake with the Gulf — 59 sites (some
         sewer) plus cabins, paddling on the dune lake, and the Timpoochee Trail for reaching{' '}
         <Link href="/blog/what-is-30a">30A</Link> by bike. Registered campers can still enter when
-        the park caps day visitors — a real advantage on summer weekends.{' '}
+        the park caps day visitors — a real advantage on summer weekends. (As of Oct. 16, 2026, all
+        Grayton overnight accommodations are closed after Hurricane Isaias; check the park page before
+        booking.){' '}
         <strong><a href="https://www.floridastateparks.org/parks-and-trails/topsail-hill-preserve-state-park" target="_blank" rel="noopener noreferrer">Topsail Hill Preserve</a></strong> is the best full-hookup RV setup on 30A: 156
         water/sewer/electric sites, 22 tent sites, and cabins, with three miles of tower-free beach
         reached by tram or bike. Resort hookups on one side, undeveloped shoreline on the other —

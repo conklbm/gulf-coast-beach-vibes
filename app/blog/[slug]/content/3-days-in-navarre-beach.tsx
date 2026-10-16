@@ -26,7 +26,7 @@ export default function ThreeDaysInNavarreBeachContent() {
         and Marine Park. Navarre Beach Pier is the obvious first landmark, stretching 1,545 feet into the
         Gulf about 30 feet above the water. You can walk it for a small fee, fish with admission, or use
         it as your first sunset stop. For dinner, stay close: <a href="https://windjammersnavarrepier.com/" target="_blank" rel="noopener noreferrer">Windjammers</a> on the Pier is the easiest
-        first-night pick, Andy D&apos;s is a casual beachside deck, and Juana&apos;s Pagodas and
+        first-night pick, Andy D&apos;s is a casual beachside deck, and <a href="https://www.juanaspagodas.com/" target="_blank" rel="noopener noreferrer">Juana&apos;s Pagodas</a> and
         Sailors&apos; Grill brings beach-bar energy on the sound side.
       </p>
 

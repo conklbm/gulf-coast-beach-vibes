@@ -124,7 +124,7 @@ export default function FortWaltonBeachVsDestinContent() {
           (sunset cruises, Fishing Rodeo weigh-ins, the full charter fleet), Crab Island
         </li>
         <li>
-          <strong>Fort Walton Beach exclusive:</strong> Air Force Armament Museum (free),
+          <strong>Fort Walton Beach exclusive:</strong> <a href="https://www.afarmamentmuseum.com/" target="_blank" rel="noopener noreferrer">Air Force Armament Museum</a> (free),
           <a href="https://fwb.org/330/Museum---Heritage-Park-Cultural-Center" target="_blank" rel="noopener noreferrer">Indian Temple Mound Museum</a>, Staff&apos;s Restaurant (1931 institution), less crowded
           water activity operators with shorter lines
         </li>

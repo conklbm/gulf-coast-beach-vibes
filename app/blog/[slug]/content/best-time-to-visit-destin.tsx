@@ -143,7 +143,7 @@ export default function BestTimeToVisitDestinContent() {
       </p>
       <p>
         October might be the best month to visit Destin. The{' '}
-        <strong>Destin Fishing Rodeo</strong> runs every single day of October — the largest
+        <strong><a href="https://www.destinfishingrodeo.org/" target="_blank" rel="noopener noreferrer">Destin Fishing Rodeo</a></strong> runs every single day of October — the largest
         inshore/offshore fishing tournament on the Gulf Coast. The weigh-ins at Destin Harbor
         each evening are spectacular even if you&apos;re not fishing: massive fish, excited
         crowds, and a festive atmosphere unlike any other month. Henderson Beach has room to

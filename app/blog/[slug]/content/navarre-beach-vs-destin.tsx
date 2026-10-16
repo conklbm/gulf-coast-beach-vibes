@@ -104,7 +104,7 @@ export default function NavarreBeachVsDestinContent() {
       <h2>Food and Nightlife</h2>
       <p>
         Navarre Beach has a small food scene. You&apos;ll find useful beach-area spots like
-        Juana&apos;s Pagodas, Sailors&apos; Grill, <a href="https://windjammersnavarrepier.com/" target="_blank" rel="noopener noreferrer">Windjammers</a> on the Pier, and Beach House Social,
+        <a href="https://www.juanaspagodas.com/" target="_blank" rel="noopener noreferrer">Juana&apos;s Pagodas</a>, Sailors&apos; Grill, <a href="https://windjammersnavarrepier.com/" target="_blank" rel="noopener noreferrer">Windjammers</a> on the Pier, and Beach House Social,
         but this is not the place to come for a long restaurant list. That can be a good thing.
         Navarre Beach works well when you want casual meals, early nights, and less decision-making.
       </p>

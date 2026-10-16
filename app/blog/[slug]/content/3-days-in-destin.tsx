@@ -159,7 +159,7 @@ export default function ThreeDaysInDestinContent() {
         <li><strong>Gulf-front condo (3 nights, peak summer):</strong> $1,500–2,500 total</li>
         <li><strong>Gulf-front condo (3 nights, October):</strong> $900–1,500 total</li>
         <li><strong>Fishing charter (half-day, per person):</strong> $80–150</li>
-        <li><strong>Henderson Beach State Park:</strong> $6/vehicle</li>
+        <li><strong>Henderson Beach State Park:</strong> $6/vehicle (day-use reservation required since May 15, 2026)</li>
         <li><strong>Dining (dinners, 3 nights for 2):</strong> $150–250</li>
         <li><strong>Water activities (dolphin cruise, kayak rental):</strong> $60–120</li>
       </ul>

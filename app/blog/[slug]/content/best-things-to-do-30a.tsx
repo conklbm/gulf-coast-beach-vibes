@@ -71,7 +71,7 @@ export default function BestThingsToDo30AContent() {
       <p>
         Pick two or three towns that match the day — one for daytime, another for dinner —
         instead of checking off the corridor. <strong>Grayton Beach</strong> has the most relaxed,
-        eccentric character (The Red Bar, Chiringo, galleries), plus the improbable sight of
+        eccentric character (<a href="https://www.theredbar.com/" target="_blank" rel="noopener noreferrer">The Red Bar</a>, Chiringo, galleries), plus the improbable sight of
         fishing charters launching straight off the sand. <strong>Seaside</strong> is arranged
         around Central Square and its amphitheater — the pastel New Urbanist town that played
         Truman&apos;s hometown in <em>The Truman Show</em>, best explored via the self-guided

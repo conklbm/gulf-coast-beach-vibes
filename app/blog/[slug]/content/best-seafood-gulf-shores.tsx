@@ -24,7 +24,7 @@ export default function BestSeafoodGulfShoresContent() {
 
       <h2>The Ones Worth Planning Around</h2>
 
-      <h3>The Gulf</h3>
+      <h3><a href="https://thegulf.com/locations/orange-beach/" target="_blank" rel="noopener noreferrer">The Gulf</a></h3>
       <p>
         Built from shipping containers on the sand at Perdido Pass, open-air, no reservations, and
         one of the best places on the Alabama coast to eat with your feet more or less in the sand.

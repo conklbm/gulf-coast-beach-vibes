@@ -79,7 +79,7 @@ export default function NavarreBeachVsPensacolaBeachContent() {
       <h2>Food and Nightlife</h2>
       <p>
         Navarre Beach has a small food scene. That&apos;s the honest version. You have useful
-        beach-area staples like Juana&apos;s Pagodas, Sailors&apos; Grill, <a href="https://windjammersnavarrepier.com/" target="_blank" rel="noopener noreferrer">Windjammers</a> on the Pier,
+        beach-area staples like <a href="https://www.juanaspagodas.com/" target="_blank" rel="noopener noreferrer">Juana&apos;s Pagodas</a>, Sailors&apos; Grill, <a href="https://windjammersnavarrepier.com/" target="_blank" rel="noopener noreferrer">Windjammers</a> on the Pier,
         and Beach House Social, but you won&apos;t find a deep restaurant lineup. For some travelers,
         that&apos;s fine. Dinner is casual, nights are quiet, and nobody is trying to turn the trip
         into a production.

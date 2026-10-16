@@ -88,8 +88,8 @@ export default function IsGulfShoresWorthItContent() {
 
       <h2>Easy for Food, but Choose Carefully</h2>
       <p>
-        Gulf Shores has plenty of places to eat around Highway 59, Beach Boulevard, and Gulf Place. The
-        Hangout is the obvious landmark near the main beach: loud, busy, and built for visitors, which
+        Gulf Shores has plenty of places to eat around Highway 59, Beach Boulevard, and Gulf Place. <a href="https://thehangout.com/hangout-gulf-shores/" target="_blank" rel="noopener noreferrer">The
+        Hangout</a> is the obvious landmark near the main beach: loud, busy, and built for visitors, which
         some people love and others would rather skip. Gulf State Park&apos;s Woodside Restaurant is a
         calmer option, and Orange Beach sits close enough to drive east for waterfront restaurants and
         marina views. That&apos;s one of the nice things about staying in Gulf Shores: you can use

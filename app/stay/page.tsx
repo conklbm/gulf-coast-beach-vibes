@@ -90,7 +90,7 @@ export default function StayPage() {
               <a
                 href="https://www.booking.com/region/us/gulf-coast.html"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener"
                 className="btn-secondary text-sm"
               >
                 Search Hotels →
@@ -105,7 +105,7 @@ export default function StayPage() {
               <a
                 href="https://www.vrbo.com/vacation-rentals/usa/gulf-coast"
                 target="_blank"
-                rel="noopener noreferrer sponsored"
+                rel="sponsored noopener"
                 className="btn-secondary text-sm"
               >
                 Browse Rentals →

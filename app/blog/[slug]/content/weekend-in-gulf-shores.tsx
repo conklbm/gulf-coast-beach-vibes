@@ -29,7 +29,7 @@ export default function WeekendInGulfShoresContent() {
         worrying about the rest of the weekend. Gulf Place is the best first stop because it
         immediately feels like Gulf Shores: the big public beach, restrooms, rinse showers, a grassy
         Town Green, nearby restaurants, and seasonal paid parking. Use the evening for a beach walk,
-        sunset, and dinner close by. The Hangout is the lively Gulf Place-area choice, Sea-N-Suds is
+        sunset, and dinner close by. <a href="https://thehangout.com/hangout-gulf-shores/" target="_blank" rel="noopener noreferrer">The Hangout</a> is the lively Gulf Place-area choice, Sea-N-Suds is
         classic beachfront, and <a href="https://www.originaloysterhouse.com/" target="_blank" rel="noopener noreferrer">Original Oyster House</a> is nearby. Don&apos;t schedule a paid attraction
         on an arrival night.
       </p>

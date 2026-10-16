@@ -94,7 +94,7 @@ export default function FortWaltonBeachGuideContent() {
       </p>
       <ul>
         <li>
-          <strong>Air Force Armament Museum</strong> — free admission; an impressive collection
+          <strong><a href="https://www.afarmamentmuseum.com/" target="_blank" rel="noopener noreferrer">Air Force Armament Museum</a></strong> — free admission; an impressive collection
           of aircraft and armament from WWII through the present, including a SR-71 Blackbird.
           One of the more unexpectedly compelling free attractions on the Panhandle.
         </li>

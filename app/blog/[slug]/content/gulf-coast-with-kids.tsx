@@ -10,7 +10,7 @@ export default function GulfCoastWithKidsContent() {
         end with children racing across white sand at sunset.
       </p>
       <p>
-        I grew up staying in a Gulf Shores beach house a few doors from where The Hangout stands
+        I grew up staying in a Gulf Shores beach house a few doors from where <a href="https://thehangout.com/hangout-gulf-shores/" target="_blank" rel="noopener noreferrer">The Hangout</a> stands
         today. Back then, a successful beach day meant staying in the water until somebody made me
         come inside. Now I notice the details parents need: which accesses have restrooms, where
         parking disappears early, and which attractions rescue an afternoon when the Gulf turns

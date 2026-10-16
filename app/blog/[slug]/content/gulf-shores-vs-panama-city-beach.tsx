@@ -77,7 +77,7 @@ export default function GulfShoresVsPanamaCityBeachContent() {
 
       <h2>Food and Nightlife</h2>
       <p>
-        Gulf Shores has a strong casual seafood and family-restaurant scene. The Hangout, <a href="https://www.lulusfunfoodmusic.com/" target="_blank" rel="noopener noreferrer">LuLu&apos;s</a>,
+        Gulf Shores has a strong casual seafood and family-restaurant scene. <a href="https://thehangout.com/hangout-gulf-shores/" target="_blank" rel="noopener noreferrer">The Hangout</a>, <a href="https://www.lulusfunfoodmusic.com/" target="_blank" rel="noopener noreferrer">LuLu&apos;s</a>,
         Sea-N-Suds, <a href="https://www.originaloysterhouse.com/" target="_blank" rel="noopener noreferrer">Original Oyster House</a>, and <a href="https://www.bahamabobs.com/" target="_blank" rel="noopener noreferrer">Bahama Bob&apos;s</a> all fit the easy beach-trip rhythm.
         You can eat well without overplanning. Nightlife is more relaxed, with live music and beach
         bars in peak season but without the big vacation-strip feel of PCB.

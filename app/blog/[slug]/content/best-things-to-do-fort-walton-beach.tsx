@@ -104,7 +104,7 @@ export default function BestThingsToDoFortWaltonBeachContent() {
 
       <h2>More Family Stops Away From the Gulf</h2>
       <ul>
-        <li><strong>Air Force Armament Museum</strong> — free, and far bigger than expected: 29+ aircraft including an SR-71 Blackbird, B-52, B-17, and A-10, plus indoor armament galleries. Do the outdoor airpark early — there&apos;s little shade.</li>
+        <li><strong><a href="https://www.afarmamentmuseum.com/" target="_blank" rel="noopener noreferrer">Air Force Armament Museum</a></strong> — free, and far bigger than expected: 29+ aircraft including an SR-71 Blackbird, B-52, B-17, and A-10, plus indoor armament galleries. Do the outdoor airpark early — there&apos;s little shade.</li>
         <li><strong>Wild Willy&apos;s Adventure Zone</strong> — dinosaur-themed mini golf, go-karts, laser tag, ropes course, and arcade near John Beasley Park; decide what your group wants before buying a full package</li>
         <li><strong>Ross Marler Park</strong> — calmer bay swimming, playground, boat ramps, and one of the easiest sunset spots on the island, with the sun dropping over the Sound instead of behind beachfront towers</li>
         <li><strong>Veterans Park</strong> — life-size bronze statues honoring women veterans, with boardwalks through native vegetation to the bay; take the unhurried walk</li>

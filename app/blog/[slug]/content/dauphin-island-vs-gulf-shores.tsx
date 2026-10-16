@@ -85,7 +85,7 @@ export default function DauphinIslandVsGulfShoresContent() {
         nightlife. Dinner is simple. Nights get quiet.
       </p>
       <p>
-        Gulf Shores has a much deeper restaurant scene. The Hangout, <a href="https://www.lulusfunfoodmusic.com/" target="_blank" rel="noopener noreferrer">LuLu&apos;s</a>, Sea-N-Suds,
+        Gulf Shores has a much deeper restaurant scene. <a href="https://thehangout.com/hangout-gulf-shores/" target="_blank" rel="noopener noreferrer">The Hangout</a>, <a href="https://www.lulusfunfoodmusic.com/" target="_blank" rel="noopener noreferrer">LuLu&apos;s</a>, Sea-N-Suds,
         <a href="https://www.originaloysterhouse.com/" target="_blank" rel="noopener noreferrer">Original Oyster House</a>, <a href="https://www.bahamabobs.com/" target="_blank" rel="noopener noreferrer">Bahama Bob&apos;s</a>, and nearby Orange Beach options give you far more
         choices. It&apos;s also stronger after dark, with live music, beach bars, and busy
         restaurants. Dauphin Island is better for early nights; Gulf Shores is better when dinner is

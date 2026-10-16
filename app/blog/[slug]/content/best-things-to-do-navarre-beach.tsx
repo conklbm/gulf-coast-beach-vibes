@@ -112,7 +112,7 @@ export default function BestThingsToDoNavarreBeachContent() {
       <h2>Eat by the Water and Keep the Evening Simple</h2>
       <p>
         Navarre&apos;s evenings stay casual — a waterfront meal, a pier walk, and sunset on the
-        sand. <strong>Juana&apos;s Pagodas</strong> is the liveliest spot, on the Sound near the
+        sand. <strong><a href="https://www.juanaspagodas.com/" target="_blank" rel="noopener noreferrer">Juana&apos;s Pagodas</a></strong> is the liveliest spot, on the Sound near the
         bridge with beach volleyball, rentals, bars, and live music.{' '}
         <strong>Windjammers</strong> covers the pier-side sunset meal,{' '}
         <strong>Beach House Social</strong> handles date night with broad Gulf views, and on the

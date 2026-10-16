@@ -74,7 +74,8 @@ export default function BestGulfCoastStateParksContent() {
         <Link href="/blog/what-is-30a">30A&apos;s</Link> coastal dune lakes — paddle 100-acre
         Western Lake, then cross to the broad Gulf beach; when an outfall opens, dark lake water
         crosses the white sand into the green Gulf, and that contrast is the whole show. 59
-        campsites plus 30 piney duplex cabins. Both parks hit capacity in summer — arrive at
+        campsites plus 30 piney duplex cabins (all overnight stays closed after Hurricane Isaias as of
+        Oct. 16, 2026; check the park page). Both parks hit capacity in summer — arrive at
         opening with a backup access in mind.
       </p>
       <p>
@@ -89,8 +90,9 @@ export default function BestGulfCoastStateParksContent() {
         <strong>Camp Helen State Park</strong> sits where Lake Powell — Florida&apos;s largest
         coastal dune lake — meets the Gulf at the west edge of{' '}
         <Link href="/destinations/panama-city-beach">Panama City Beach</Link>: trails, historic
-        resort buildings, birding, and a quiet beach. Day-use only, and kayak rentals were
-        suspended in 2026, so call before planning a paddle.{' '}
+        resort buildings, birding, and a quiet beach. Day-use only, kayak rentals were
+        discontinued in May 2026, and the beach trail was closed as of Oct. 14, 2026, so call before
+        planning a paddle or beach walk.{' '}
         <strong>St. Andrews State Park</strong> is the active one — 1,200+ acres between Gulf, bay,
         and lagoon with 1.5 miles of beach, the protected jetty swimming area that doubles as the
         area&apos;s most approachable snorkeling, fishing from beach, jetty, and pier, a

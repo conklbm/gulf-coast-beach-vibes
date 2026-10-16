@@ -95,7 +95,7 @@ export default function DestinVsPensacolaContent() {
         <li>
           <strong>Fishing</strong> — the &quot;World&apos;s Luckiest Fishing Village&quot; earns
           the name. The Destin charter fleet is the largest private fishing fleet in the U.S., and
-          the Destin Fishing Rodeo (all of October) is the biggest offshore tournament on the Gulf
+          the <a href="https://www.destinfishingrodeo.org/" target="_blank" rel="noopener noreferrer">Destin Fishing Rodeo</a> (all of October) is the biggest offshore tournament on the Gulf
           Coast
         </li>
         <li>

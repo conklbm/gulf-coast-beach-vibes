@@ -58,7 +58,7 @@ export default function ThreeDaysInGulfShoresContent() {
       </p>
       <ul>
         <li>
-          <strong>The Hangout</strong> — the iconic main-strip beach bar; loud, fun, great Gulf
+          <strong><a href="https://thehangout.com/hangout-gulf-shores/" target="_blank" rel="noopener noreferrer">The Hangout</a></strong> — the iconic main-strip beach bar; loud, fun, great Gulf
           seafood, always a crowd. Go once for the experience.
         </li>
         <li>

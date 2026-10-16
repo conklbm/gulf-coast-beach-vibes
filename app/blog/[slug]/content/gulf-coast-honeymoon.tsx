@@ -60,7 +60,7 @@ export default function GulfCoastHoneymoonContent() {
         <Link href="/destinations/orange-beach">Orange Beach</Link> is stronger for boating:
         dolphin cruises, sailing trips, and sunset excursions leave from the marinas around Terry
         Cove, <a href="https://www.alwharf.com/" target="_blank" rel="noopener noreferrer">The Wharf</a>, and Perdido Pass, and the Backcountry Trail gives you a completely
-        different morning on two wheels. For dinner, The Gulf — my favorite restaurant in the
+        different morning on two wheels. For dinner, <a href="https://thegulf.com/locations/orange-beach/" target="_blank" rel="noopener noreferrer">The Gulf</a> — my favorite restaurant in the
         area — feels relaxed enough for sandals and special enough for a honeymoon meal. (My
         standing order of shrimp and grits at every new coastal restaurant is a habit my spouse has
         learned to expect.)

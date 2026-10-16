@@ -101,7 +101,7 @@ export default function OrangeBeachGuideContent() {
       <h2>Where to Eat in Orange Beach</h2>
       <p>
         The best meals fall into a few zones. For waterfront atmosphere, look around Perdido Pass, where
-        <a href="https://cobaltrestaurant.net/" target="_blank" rel="noopener noreferrer">Cobalt</a> (under the Perdido Pass Bridge) and The Gulf make sense for seafood with a view. For live
+        <a href="https://cobaltrestaurant.net/" target="_blank" rel="noopener noreferrer">Cobalt</a> (under the Perdido Pass Bridge) and <a href="https://thegulf.com/locations/orange-beach/" target="_blank" rel="noopener noreferrer">The Gulf</a> make sense for seafood with a view. For live
         music and Gulf Coast character, <a href="https://www.florabama.com/" target="_blank" rel="noopener noreferrer">Flora-Bama</a> at the Alabama-Florida line is the famous name, loud
         and iconic. The Wharf is useful for dinner paired with walking, shopping, or a concert. You can
         also drive west into Gulf Shores for more restaurants.

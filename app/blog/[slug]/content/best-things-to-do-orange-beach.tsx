@@ -130,7 +130,7 @@ export default function BestThingsToDoOrangeBeachContent() {
         <strong><a href="https://cobaltrestaurant.net/" target="_blank" rel="noopener noreferrer">Cobalt</a></strong> has one of the best settings in town, beside Perdido Pass with
         boats going by — sunset is prime time, so expect a wait. <strong>Zeke&apos;s</strong>{' '}
         overlooks the marina as charters return with the catch. My personal favorite in the area is{' '}
-        <strong>The Gulf</strong>, and my order is almost always shrimp and grits or a shrimp
+        <strong><a href="https://thegulf.com/locations/orange-beach/" target="_blank" rel="noopener noreferrer">The Gulf</a></strong>, and my order is almost always shrimp and grits or a shrimp
         po&apos;boy — comparing the same dishes is my informal measure of a kitchen. For live
         music, the <strong><a href="https://www.florabama.com/" target="_blank" rel="noopener noreferrer">Flora-Bama</a></strong> sits across the state line with five stages going
         year-round; daytime is casual and all ages, nights skew adult. I&apos;ve still never made

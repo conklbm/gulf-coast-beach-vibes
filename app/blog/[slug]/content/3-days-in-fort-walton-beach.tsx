@@ -50,7 +50,7 @@ export default function ThreeDaysInFortWaltonBeachContent() {
 
       <TipCallout title="Do the Paid Attraction in the Morning" variant="tip">
         Plan your paid attraction for the morning. Gulfarium, the <a href="https://www.ecscience.org/" target="_blank" rel="noopener noreferrer">Emerald Coast Science Center</a>, and the
-        Air Force Armament Museum are all easier before everyone is hot, sandy, tired, and hungry.
+        <a href="https://www.afarmamentmuseum.com/" target="_blank" rel="noopener noreferrer">Air Force Armament Museum</a> are all easier before everyone is hot, sandy, tired, and hungry.
       </TipCallout>
 
       <h2>Day 3: Choose Your Mainland Fort Walton Beach Plan</h2>

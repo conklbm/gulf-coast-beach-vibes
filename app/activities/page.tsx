@@ -91,7 +91,7 @@ export default function ActivitiesPage() {
             <a
               href="https://www.getyourguide.com/gulf-coast/"
               target="_blank"
-              rel="noopener noreferrer sponsored"
+              rel="sponsored noopener"
               className="btn-primary"
             >
               Browse on GetYourGuide

@@ -101,7 +101,7 @@ export default function BestRestaurantsDestinContent() {
         the two areas differ.
       </p>
 
-      <h3>Seagar&apos;s Prime Steaks &amp; Seafood</h3>
+      <h3><a href="https://www.seagars.com/" target="_blank" rel="noopener noreferrer">Seagar&apos;s</a> Prime Steaks &amp; Seafood</h3>
       <p>
         The proper special-occasion room on this stretch — a steakhouse inside the Hilton at
         Sandestin, jackets-optional but the real thing. This is the anniversary dinner, not the

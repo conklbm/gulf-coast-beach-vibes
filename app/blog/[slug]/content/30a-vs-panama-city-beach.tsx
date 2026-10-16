@@ -128,7 +128,7 @@ export default function ThirtyAVsPanamaCityBeachContent() {
       <p>
         30A feels more polished and reservation-driven, especially around Seaside, Alys Beach,
         Rosemary Beach, and Grayton Beach, but it also has beloved casual institutions. Names to know
-        include The Red Bar in Grayton Beach, <a href="https://www.budandalleys.com/" target="_blank" rel="noopener noreferrer">Bud &amp; Alley&apos;s</a> and Great Southern Café in
+        include <a href="https://www.theredbar.com/" target="_blank" rel="noopener noreferrer">The Red Bar</a> in Grayton Beach, <a href="https://www.budandalleys.com/" target="_blank" rel="noopener noreferrer">Bud &amp; Alley&apos;s</a> and Great Southern Café in
         Seaside, Seagrove Village MarketCafé, <a href="https://www.georgesatalysbeach.com/" target="_blank" rel="noopener noreferrer">George&apos;s at Alys Beach</a>, and Gallion&apos;s in
         Rosemary Beach. For food-focused couples, 30A probably has the edge; for families and larger
         groups, PCB is easier.

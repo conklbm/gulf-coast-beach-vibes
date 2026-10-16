@@ -197,8 +197,8 @@ export default function BestTimeGulfShoresContent() {
           trips
         </li>
         <li>
-          <strong>Fishermen:</strong> October–November for the best offshore bite (Destin Fishing
-          Rodeo runs all of October)
+          <strong>Fishermen:</strong> October–November for the best offshore bite (<a href="https://www.destinfishingrodeo.org/" target="_blank" rel="noopener noreferrer">Destin Fishing
+          Rodeo</a> runs all of October)
         </li>
         <li>
           <strong>Birders:</strong> Mid-April at Dauphin Island — world-class spring migration

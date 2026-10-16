@@ -51,7 +51,7 @@ export default function GulfShoresVsOrangeBeachContent() {
       <h3>Gulf Shores</h3>
       <p>
         Gulf Shores has that classic beach town energy — lively, family-friendly, a little
-        rowdy around the main strip on summer weekends. The Hangout is the anchor of the social
+        rowdy around the main strip on summer weekends. <a href="https://thehangout.com/hangout-gulf-shores/" target="_blank" rel="noopener noreferrer">The Hangout</a> is the anchor of the social
         scene: an enormous beach bar with live music, foam parties, and Gulf seafood that somehow
         always has a line. The crowd is a mix of Alabama, Tennessee, and Georgia families who&apos;ve
         been coming here for decades alongside college students and younger groups.
@@ -108,7 +108,7 @@ export default function GulfShoresVsOrangeBeachContent() {
         </li>
         <li>
           <strong>Hangout Music Festival (May)</strong> — one of the best beach music festivals
-          in the country
+          in the country (it is <a href="https://www.wvtm13.com/article/hangout-music-festival-2026-gulf-shores/69666667" target="_blank" rel="noopener noreferrer">off for 2026</a> and expected back in May 2027)
         </li>
       </ul>
 

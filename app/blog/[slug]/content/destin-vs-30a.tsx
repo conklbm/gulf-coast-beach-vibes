@@ -90,7 +90,7 @@ export default function DestinVs30AContent() {
       </p>
       <p>
         30A has the better special-occasion dining feel. Restaurants like <a href="https://www.budandalleys.com/" target="_blank" rel="noopener noreferrer">Bud &amp; Alley&apos;s</a>,
-        Great Southern Café, The Red Bar, George&apos;s, and La Crema fit the slower, more polished
+        Great Southern Café, <a href="https://www.theredbar.com/" target="_blank" rel="noopener noreferrer">The Red Bar</a>, George&apos;s, and La Crema fit the slower, more polished
         mood of the area. Dinner feels like part of the trip. The downside is planning: good 30A
         dinners can require reservations, patience, and a higher budget. Destin is better for easy
         and lively. 30A is better for memorable and atmospheric.

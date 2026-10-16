@@ -24,7 +24,7 @@ export default function IsDestinCrowdedContent() {
         into a relatively small area. The busiest normal period is summer, when families are out of
         school and condos, charters, and restaurants all fill up. Holiday weekends are the biggest
         pressure points, and Destin also gets a fall event surge with the Destin Seafood Festival in
-        late September and the month-long Destin Fishing Rodeo in October.
+        late September and the month-long <a href="https://www.destinfishingrodeo.org/" target="_blank" rel="noopener noreferrer">Destin Fishing Rodeo</a> in October.
       </p>
 
       <h2>Where Destin Feels Busiest</h2>

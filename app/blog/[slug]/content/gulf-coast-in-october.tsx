@@ -96,7 +96,7 @@ export default function GulfCoastOctoberContent() {
       </p>
       <ul>
         <li>
-          <strong>Destin Fishing Rodeo (all of October)</strong> — the largest inshore/offshore
+          <strong><a href="https://www.destinfishingrodeo.org/" target="_blank" rel="noopener noreferrer">Destin Fishing Rodeo</a> (all of October)</strong> — the largest inshore/offshore
           fishing tournament on the Gulf Coast, running every day of October at the Destin Harbor.
           Even non-anglers enjoy watching the weigh-ins at the harbor docks each evening — massive
           fish, excited crowds, great atmosphere.

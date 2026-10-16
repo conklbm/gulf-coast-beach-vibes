@@ -176,7 +176,7 @@ export default function ThirtyAFloridaGuideContent() {
           Pickles Deli, and rotating vendors
         </li>
         <li>
-          <strong>The Red Bar (Grayton Beach)</strong> — a Gulf Coast institution; funky
+          <strong><a href="https://www.theredbar.com/" target="_blank" rel="noopener noreferrer">The Red Bar</a> (Grayton Beach)</strong> — a Gulf Coast institution; funky
           decor, live music, French-Creole influenced menu; lines are long in season but
           worth it
         </li>

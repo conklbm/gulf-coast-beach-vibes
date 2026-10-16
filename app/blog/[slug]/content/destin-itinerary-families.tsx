@@ -72,8 +72,8 @@ export default function DestinItineraryFamiliesContent() {
       <p>
         By day 4, everyone has already had a lot, so use it as a flexible finish: slow breakfast, short
         beach walk or pool time, one easy outing, and one final casual meal. Good options include The
-        Track (go-karts, mini golf, arcade), Destin Commons for a reset before the drive, the free Air
-        Force Armament Museum, or one last short beach morning. The last beach memory shouldn&apos;t be
+        Track (go-karts, mini golf, arcade), Destin Commons for a reset before the drive, the free <a href="https://www.afarmamentmuseum.com/" target="_blank" rel="noopener noreferrer">Air
+        Force Armament Museum</a>, or one last short beach morning. The last beach memory shouldn&apos;t be
         everyone fighting over wet towels in the parking lot.
       </p>
 

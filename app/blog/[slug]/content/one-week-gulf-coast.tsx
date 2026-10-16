@@ -98,7 +98,7 @@ export default function OneWeekGulfCoastContent() {
         Grayton, Topsail, Henderson, St. Andrews). Don&apos;t leave beach gear overnight anywhere on
         this route, and don&apos;t assume your dog can go on the sand, since rules vary by county and
         access. Keep weather backups in mind: the Alabama Aquarium, Fort Gaines, the Coastal Arts
-        Center, <a href="https://gulfarium.com/" target="_blank" rel="noopener noreferrer">Gulfarium</a>, the Air Force Armament Museum, and the <a href="https://www.navalaviationmuseum.org/" target="_blank" rel="noopener noreferrer">National Naval Aviation Museum</a>.
+        Center, <a href="https://gulfarium.com/" target="_blank" rel="noopener noreferrer">Gulfarium</a>, the <a href="https://www.afarmamentmuseum.com/" target="_blank" rel="noopener noreferrer">Air Force Armament Museum</a>, and the <a href="https://www.navalaviationmuseum.org/" target="_blank" rel="noopener noreferrer">National Naval Aviation Museum</a>.
       </p>
 
       <h2>One-Week Gulf Coast Itinerary at a Glance</h2>

@@ -56,7 +56,7 @@ export default function ThreeDaysIn30AContent() {
         <AffiliateLink href="viator-gulf-coast" label="Book 30A Tours & Activities" provider="generic" />
       </div>
       <p>
-        For dinner, Grayton Beach is the right call for the older, funkier side of 30A. The Red Bar is
+        For dinner, Grayton Beach is the right call for the older, funkier side of 30A. <a href="https://www.theredbar.com/" target="_blank" rel="noopener noreferrer">The Red Bar</a> is
         the classic Grayton name, known for its lively feel and live music (check current hours). For
         something more polished, head back toward Seaside or WaterColor and eat early.
       </p>

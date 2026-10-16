@@ -97,7 +97,7 @@ export default function GulfShoresVsMyrtleBeachContent() {
       <p>
         Gulf Shores food is built around Gulf seafood and casual beach dining: shrimp, oysters,
         po&apos;boys, seafood boils, and beach bars where sandy kids are not a problem. Names include
-        The Hangout, <a href="https://www.gulfshoressteamer.com/" target="_blank" rel="noopener noreferrer">Gulf Shores Steamer</a>, Tacky Jacks, <a href="https://www.lulusfunfoodmusic.com/" target="_blank" rel="noopener noreferrer">LuLu&apos;s</a>, and The <a href="https://www.originaloysterhouse.com/" target="_blank" rel="noopener noreferrer">Original Oyster House</a>.
+        <a href="https://thehangout.com/hangout-gulf-shores/" target="_blank" rel="noopener noreferrer">The Hangout</a>, <a href="https://www.gulfshoressteamer.com/" target="_blank" rel="noopener noreferrer">Gulf Shores Steamer</a>, Tacky Jacks, <a href="https://www.lulusfunfoodmusic.com/" target="_blank" rel="noopener noreferrer">LuLu&apos;s</a>, and The <a href="https://www.originaloysterhouse.com/" target="_blank" rel="noopener noreferrer">Original Oyster House</a>.
         Lodging is condo-and-rental heavy, making it a strong condo-week destination.
       </p>
       <p>

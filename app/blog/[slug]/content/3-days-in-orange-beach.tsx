@@ -35,7 +35,7 @@ export default function ThreeDaysInOrangeBeachContent() {
 
       <p>
         For the first night, keep dinner waterfront and close. <a href="https://cobaltrestaurant.net/" target="_blank" rel="noopener noreferrer">Cobalt</a>, near Perdido Pass under the
-        bridge, is the classic first-night pick for seafood and views (go early). The Gulf, built from
+        bridge, is the classic first-night pick for seafood and views (go early). <a href="https://thegulf.com/locations/orange-beach/" target="_blank" rel="noopener noreferrer">The Gulf</a>, built from
         shipping containers right on the water, is the casual alternative for fish tacos and Gulf air.
       </p>
 

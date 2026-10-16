@@ -78,8 +78,8 @@ export default function BestThingsToDoDestinContent() {
         it and call the cook-your-catch restaurant before showing up with fish.
       </p>
       <p>
-        October is the month to see Destin&apos;s fishing culture from land: the Destin Fishing
-        Rodeo runs all month with public weigh-ins behind AJ&apos;s. Pair it with our{' '}
+        October is the month to see Destin&apos;s fishing culture from land: the <a href="https://www.destinfishingrodeo.org/" target="_blank" rel="noopener noreferrer">Destin Fishing
+        Rodeo</a> runs all month with public weigh-ins behind AJ&apos;s. Pair it with our{' '}
         <Link href="/blog/best-time-to-visit-destin">best time to visit Destin</Link> guide —
         fall&apos;s cooler mornings and thinner crowds are already my favorite season.
       </p>
@@ -127,7 +127,7 @@ export default function BestThingsToDoDestinContent() {
         <li><strong><a href="https://gulfarium.com/" target="_blank" rel="noopener noreferrer">Gulfarium Marine Adventure Park</a></strong> — dolphin and sea lion presentations on Okaloosa Island, near <Link href="/destinations/fort-walton-beach">Fort Walton Beach</Link>; better for clouds than severe storms</li>
         <li><strong><a href="https://www.bigkahunas.com/" target="_blank" rel="noopener noreferrer">Big Kahuna&apos;s</a></strong> — seasonal water park with slides, lazy river, and mini golf</li>
         <li><strong>The Track</strong> — go-karts and arcade, easy to fit into a partial day</li>
-        <li><strong><a href="https://www.ecscience.org/" target="_blank" rel="noopener noreferrer">Emerald Coast Science Center</a></strong> and the free <strong>Air Force Armament Museum</strong> — solid indoor backups for washed-out mornings</li>
+        <li><strong><a href="https://www.ecscience.org/" target="_blank" rel="noopener noreferrer">Emerald Coast Science Center</a></strong> and the free <strong><a href="https://www.afarmamentmuseum.com/" target="_blank" rel="noopener noreferrer">Air Force Armament Museum</a></strong> — solid indoor backups for washed-out mornings</li>
       </ul>
       <p>
         Before heading back to the sand, check the flag color — double red means the water is

@@ -12,7 +12,7 @@ export default function WhereToStayGulfShoresContent() {
       </p>
       <p>
         The map pin tells you far more than the Gulf Shores mailing address. A listing could sit
-        beside Gulf Place and The Hangout, several miles west along Little Lagoon, inside Gulf State
+        beside Gulf Place and <a href="https://thehangout.com/hangout-gulf-shores/" target="_blank" rel="noopener noreferrer">The Hangout</a>, several miles west along Little Lagoon, inside Gulf State
         Park, or deep into the Fort Morgan peninsula. I learned the central beach area before it
         looked the way it does today — as a kid, I stayed in a beach house a few doors from the
         present-day Hangout. The buildings have changed, but the basic decision hasn&apos;t: stay

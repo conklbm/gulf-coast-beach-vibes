@@ -159,7 +159,7 @@ export default function BestThingsToDoGulfShoresContent() {
       </p>
       <ul>
         <li>
-          <strong>The Hangout</strong> — the iconic beach bar on the main strip; live music,
+          <strong><a href="https://thehangout.com/hangout-gulf-shores/" target="_blank" rel="noopener noreferrer">The Hangout</a></strong> — the iconic beach bar on the main strip; live music,
           foam parties on weekends, and solid Gulf seafood. Tourist-y but fun.
         </li>
         <li>
@@ -184,7 +184,8 @@ export default function BestThingsToDoGulfShoresContent() {
       <ul>
         <li>
           <strong>Hangout Music Festival (May)</strong> — three-day music festival on the beach
-          with national headliners; one of the best beach music festivals in the country
+          with national headliners; one of the best beach music festivals in the country. It is
+          <a href="https://www.wvtm13.com/article/hangout-music-festival-2026-gulf-shores/69666667" target="_blank" rel="noopener noreferrer">off for 2026</a> and expected back in May 2027
         </li>
         <li>
           <strong><a href="https://www.myshrimpfest.com/" target="_blank" rel="noopener noreferrer">National Shrimp Festival</a> (October)</strong> — four days of Gulf shrimp, live
