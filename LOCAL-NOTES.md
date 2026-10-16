@@ -35,3 +35,7 @@ Source of truth for personal details used in articles. Only use what's written h
 ### Destin / Miramar / Okaloosa Island
 ### 30A (Seaside, Rosemary, Grayton, etc.)
 ### Panama City Beach
+
+## Confirmed by Brooks (2026-10-16)
+- At The Gulf (Orange Beach), his order is almost always the shrimp and grits.
+- He grew up staying in a Gulf Shores beach house a few doors from where The Hangout stands.
