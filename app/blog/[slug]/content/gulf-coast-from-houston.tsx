@@ -51,7 +51,7 @@ export default function GulfCoastFromHoustonContent() {
         Choose <strong>Dauphin Island</strong> for the shortest quiet, nature-heavy trip. Choose{' '}
         <strong>Gulf Shores or Orange Beach</strong> for the best all-around family trip with Gulf State
         Park and easy logistics (and note the Foley Beach Express bridge is now toll-free). Choose{' '}
-        <strong>Pensacola Beach</strong> for Florida water and Fort Pickens without the longest drive, or{' '}
+        <strong>Pensacola Beach</strong> for Florida water and <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a> without the longest drive, or{' '}
         <strong>Navarre Beach</strong> for a calmer version. Choose <strong>Destin</strong> if emerald
         water and fishing are the priority, <strong>30A</strong> if the beach towns are the point, and{' '}
         <strong>Panama City Beach</strong> if you want the most activity and will drive the farthest.
@@ -74,7 +74,7 @@ export default function GulfCoastFromHoustonContent() {
       <h2>The Bottom Line</h2>
       <p>
         For most Houston travelers, Gulf Shores or Orange Beach is the best first Gulf Coast beach road
-        trip: long but practical, with white sand, Gulf State Park, restaurants, and a simpler arrival
+        trip: long but practical, with white sand, <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a>, restaurants, and a simpler arrival
         than the far-eastern options. Don&apos;t treat this as a quick beach hop. Check road conditions,
         plan your stops, know your tolls, and choose the beach that matches the amount of driving
         you&apos;re actually willing to do.

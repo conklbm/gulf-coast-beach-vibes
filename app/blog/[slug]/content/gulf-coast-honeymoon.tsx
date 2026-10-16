@@ -46,7 +46,7 @@ export default function GulfCoastHoneymoonContent() {
       <p>
         <strong>Fort Morgan</strong> delivers the same seclusion without the island: development
         thins the farther west you drive, and a detached Gulf-front house is as private as this
-        coast gets. Take the Mobile Bay Ferry between Fort Morgan and Dauphin Island at least
+        coast gets. Take the <a href="https://mobilebayferry.com/" target="_blank" rel="noopener noreferrer">Mobile Bay Ferry</a> between Fort Morgan and Dauphin Island at least
         once — crossing the mouth of the bay makes the paired forts&apos; defensive purpose
         instantly clear. The tradeoff is distance: a quiet rental near the fort can be 20–25 miles
         from central Gulf Shores, perfect for cooking together and reading on the deck, less so if
@@ -59,7 +59,7 @@ export default function GulfCoastHoneymoonContent() {
         compromise — Gulf and lagoon rentals with town close by.{' '}
         <Link href="/destinations/orange-beach">Orange Beach</Link> is stronger for boating:
         dolphin cruises, sailing trips, and sunset excursions leave from the marinas around Terry
-        Cove, The Wharf, and Perdido Pass, and the Backcountry Trail gives you a completely
+        Cove, <a href="https://www.alwharf.com/" target="_blank" rel="noopener noreferrer">The Wharf</a>, and Perdido Pass, and the Backcountry Trail gives you a completely
         different morning on two wheels. For dinner, The Gulf — my favorite restaurant in the
         area — feels relaxed enough for sandals and special enough for a honeymoon meal. (My
         standing order of shrimp and grits at every new coastal restaurant is a habit my spouse has
@@ -69,7 +69,7 @@ export default function GulfCoastHoneymoonContent() {
         <Link href="/destinations/destin">Destin</Link> is the base for couples who want the water
         to provide the main event — a private sail, a small dolphin cruise, or a fishing charter
         from the harbor. Holiday Isle puts you between the Gulf, East Pass, and the harbor;
-        Henderson Park Inn is the adults-only beachfront option beside Henderson Beach State Park
+        Henderson Park Inn is the adults-only beachfront option beside <a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson Beach State Park</a>
         (which now requires advance day-use reservations — book 60 days out).
       </p>
 
@@ -77,7 +77,7 @@ export default function GulfCoastHoneymoonContent() {
       <p>
         <Link href="/destinations/pensacola-beach">Pensacola Beach</Link> balances island scenery
         with history: stay near Casino Beach to walk to dinner, or move east for quieter condos.
-        Fort Pickens is the experience that sets it apart — fort, batteries, and undeveloped
+        <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a> is the experience that sets it apart — fort, batteries, and undeveloped
         shoreline for a morning, main-beach dinner by night.{' '}
         <Link href="/destinations/navarre-beach">Navarre</Link> is the quieter alternative — ideal
         for three slow nights, restrictive for a long stay.
@@ -89,13 +89,13 @@ export default function GulfCoastHoneymoonContent() {
         you near Central Square and Western Lake, and Grayton adds eccentric charm and
         beach-launched charters. One warning: 30A demands the most careful lodging research —
         confirm the exact beach access and which community amenities actually come with the rental.
-        For a nature-focused stay, Grayton Beach State Park and Topsail Hill have cabins near the
+        For a nature-focused stay, <a href="https://www.floridastateparks.org/parks-and-trails/grayton-beach-state-park" target="_blank" rel="noopener noreferrer">Grayton Beach State Park</a> and Topsail Hill have cabins near the
         dune lakes.
       </p>
       <p>
         <strong>Panama City Beach&apos;s West End</strong> rounds out the list — cottages, low-key
         communities like Carillon Beach, and the bigger resort town a short drive away. Boaters
-        should look east to Grand Lagoon for St. Andrews State Park and Shell Island runs.
+        should look east to Grand Lagoon for <a href="https://www.floridastateparks.org/parks-and-trails/st-andrews-state-park" target="_blank" rel="noopener noreferrer">St. Andrews State Park</a> and Shell Island runs.
       </p>
 
       <div className="not-prose my-8 flex flex-col sm:flex-row gap-3">

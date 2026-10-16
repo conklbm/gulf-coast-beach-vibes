@@ -71,7 +71,7 @@ export default function GulfCoastFromBirminghamContent() {
       <p>
         <Link href="/destinations/gulf-shores">Gulf Shores</Link> is where Birmingham has been
         going to the beach for generations. It&apos;s the end of I-65 — literally, you just
-        follow the signs and you&apos;re there. The beach has great amenities, Gulf State Park
+        follow the signs and you&apos;re there. The beach has great amenities, <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a>
         is excellent for families and outdoors types, and the restaurant scene is solid.
       </p>
       <p>
@@ -84,7 +84,7 @@ export default function GulfCoastFromBirminghamContent() {
       <p>
         A 10-minute drive east of Gulf Shores,{' '}
         <Link href="/destinations/orange-beach">Orange Beach</Link> has more upscale condos,
-        a better marina, and The Wharf entertainment complex. Slightly pricier than Gulf Shores
+        a better marina, and <a href="https://www.alwharf.com/" target="_blank" rel="noopener noreferrer">The Wharf</a> entertainment complex. Slightly pricier than Gulf Shores
         but same beach quality. Great if you want a bit more polish.
       </p>
 
@@ -92,8 +92,8 @@ export default function GulfCoastFromBirminghamContent() {
       <p>
         Add 45 minutes east past Mobile and you reach{' '}
         <Link href="/destinations/pensacola-beach">Pensacola Beach</Link> on Santa Rosa Island.
-        Gulf Islands National Seashore here is stunning — protected federal land with miles of
-        untouched white quartz shoreline. Also home to the National Naval Aviation Museum (free
+        <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a> here is stunning — protected federal land with miles of
+        untouched white quartz shoreline. Also home to the <a href="https://www.navalaviationmuseum.org/" target="_blank" rel="noopener noreferrer">National Naval Aviation Museum</a> (free
         admission), one of the best aviation museums in the world.
       </p>
       <p>

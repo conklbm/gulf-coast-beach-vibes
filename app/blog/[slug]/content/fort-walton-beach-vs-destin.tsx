@@ -22,7 +22,7 @@ export default function FortWaltonBeachVsDestinContent() {
         <li>
           <strong>Choose Destin if:</strong> you want the most dining and activity options
           within walking distance, you want the full resort experience, or you specifically
-          want Henderson Beach State Park as your home beach
+          want <a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson Beach State Park</a> as your home beach
         </li>
       </ul>
 
@@ -106,7 +106,7 @@ export default function FortWaltonBeachVsDestinContent() {
       <h2>Dining and Activities: Destin Wins</h2>
       <p>
         Destin&apos;s resort density comes with a real advantage: more things to do and more places
-        to eat, concentrated in a walkable area. Harborwalk Village alone — with its sunset
+        to eat, concentrated in a walkable area. <a href="https://www.harborwalkvillage.com/" target="_blank" rel="noopener noreferrer">Harborwalk Village</a> alone — with its sunset
         cruises, fishing charter fleet, waterfront restaurants, and live music — is a legitimate
         destination in its own right. Destin has more fine dining, more chain restaurants,
         more water activity operators, and more options for every meal.
@@ -125,7 +125,7 @@ export default function FortWaltonBeachVsDestinContent() {
         </li>
         <li>
           <strong>Fort Walton Beach exclusive:</strong> Air Force Armament Museum (free),
-          Indian Temple Mound Museum, Staff&apos;s Restaurant (1931 institution), less crowded
+          <a href="https://fwb.org/330/Museum---Heritage-Park-Cultural-Center" target="_blank" rel="noopener noreferrer">Indian Temple Mound Museum</a>, Staff&apos;s Restaurant (1931 institution), less crowded
           water activity operators with shorter lines
         </li>
         <li>

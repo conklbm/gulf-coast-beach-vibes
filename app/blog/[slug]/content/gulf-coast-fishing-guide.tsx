@@ -95,7 +95,7 @@ export default function GulfCoastFishingGuideContent() {
         Rules change often — check the official state agency right before fishing.{' '}
         <strong>Alabama</strong> generally requires a saltwater license (under-16 and resident 65+
         exempt); charter passengers are covered by the boat&apos;s license; reef fish need the Reef
-        Fish Endorsement; Gulf State Park Pier needs license + pier permit.{' '}
+        Fish Endorsement; <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a> Pier needs license + pier permit.{' '}
         <strong>Florida</strong> requires a saltwater license even for catch-and-release;
         nonresidents need one to fish independently from beach, pier, kayak, or private boat
         (the free shoreline license is residents-only); charter passengers are covered; private

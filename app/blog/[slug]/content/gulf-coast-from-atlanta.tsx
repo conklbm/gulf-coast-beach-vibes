@@ -76,7 +76,7 @@ export default function GulfCoastFromAtlantaContent() {
           <strong>Long weekend (2–3 nights):</strong>{' '}
           <Link href="/destinations/gulf-shores">Gulf Shores</Link> or{' '}
           <Link href="/destinations/orange-beach">Orange Beach</Link>. The shorter drive means more
-          time at the beach. Gulf State Park alone justifies the trip.
+          time at the beach. <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a> alone justifies the trip.
         </li>
         <li>
           <strong>Full week:</strong> Push to{' '}
@@ -97,7 +97,7 @@ export default function GulfCoastFromAtlantaContent() {
 
       <TipCallout title="Hidden Gem Pick" variant="tip">
         Consider <Link href="/destinations/navarre-beach">Navarre Beach</Link> — halfway between
-        Pensacola and Destin, with Gulf Islands National Seashore beach that&apos;s a fraction of
+        Pensacola and Destin, with <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a> beach that&apos;s a fraction of
         the crowd. About 6 hours from Atlanta and genuinely stunning. Almost nobody from Atlanta
         talks about it.
       </TipCallout>

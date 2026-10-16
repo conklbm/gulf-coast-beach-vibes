@@ -21,8 +21,8 @@ export default function GulfCoastFromKnoxvilleContent() {
       <h2>How Far Is the Gulf Coast from Knoxville?</h2>
       <p>Approximate drive times under normal conditions (roughly 490–545 miles):</p>
       <ul>
-        <li><strong><Link href="/destinations/pensacola-beach">Pensacola Beach</Link></strong> — ~8–9+ hrs (Florida water, Fort Pickens)</li>
-        <li><strong><Link href="/destinations/panama-city-beach">Panama City Beach</Link></strong> — ~8–9.5+ hrs (activities, Pier Park)</li>
+        <li><strong><Link href="/destinations/pensacola-beach">Pensacola Beach</Link></strong> — ~8–9+ hrs (Florida water, <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a>)</li>
+        <li><strong><Link href="/destinations/panama-city-beach">Panama City Beach</Link></strong> — ~8–9.5+ hrs (activities, <a href="https://www.simon.com/mall/pier-park" target="_blank" rel="noopener noreferrer">Pier Park</a>)</li>
         <li><strong><Link href="/destinations/destin">Destin</Link></strong> — ~8.5–10+ hrs (emerald water, fishing)</li>
         <li><strong><Link href="/destinations/seaside">30A</Link></strong> — ~9–10+ hrs (beach towns)</li>
         <li><strong>Gulf Shores / Orange Beach</strong> — ~8–9.5+ hrs (best all-around)</li>

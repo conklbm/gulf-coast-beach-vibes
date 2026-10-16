@@ -20,9 +20,9 @@ export default function GulfCoastCampingContent() {
 
       <h2>How to Choose a Gulf Coast Campground</h2>
       <p>
-        Start with how you&apos;ll reach the beach. Henderson Beach, Grayton Beach, Fort Pickens,
+        Start with how you&apos;ll reach the beach. Henderson Beach, Grayton Beach, <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a>,
         and St. Andrews put you inside parks with convenient Gulf access. Topsail Hill&apos;s
-        undeveloped beach is a 0.8-mile tram, bike, or walk away; Gulf State Park&apos;s
+        undeveloped beach is a 0.8-mile tram, bike, or walk away; <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a>&apos;s
         traditional campground sits about 1.5 miles from the sand; and Big Lagoon borders protected
         lagoon water — better for paddling than a chairs-to-surf morning.
       </p>
@@ -55,7 +55,7 @@ export default function GulfCoastCampingContent() {
         <strong>Dauphin Island Campground</strong> has the quietest island setting on this list —
         ~150 sites (75 with sewer) on the wooded east end of{' '}
         <Link href="/destinations/dauphin-island">Dauphin Island</Link>, next to the Audubon Bird
-        Sanctuary, Fort Gaines, the Alabama Aquarium, and the Mobile Bay Ferry. It also advertises
+        Sanctuary, Fort Gaines, the <a href="https://www.disl.edu/aquarium/" target="_blank" rel="noopener noreferrer">Alabama Aquarium</a>, and the <a href="https://mobilebayferry.com/" target="_blank" rel="noopener noreferrer">Mobile Bay Ferry</a>. It also advertises
         pet-friendly beach access — the strongest public option here for campers with a dog. Two
         quirks: reservations are phone-only with a nonrefundable two-night minimum, and if
         you&apos;re towing, call the ferry first — vehicles over 21 feet need advance confirmation.
@@ -63,7 +63,7 @@ export default function GulfCoastCampingContent() {
 
       <h2>Best Campgrounds near Pensacola and Perdido Key</h2>
       <p>
-        <strong>Fort Pickens Campground</strong> (Gulf Islands National Seashore, near{' '}
+        <strong>Fort Pickens Campground</strong> (<a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a>, near{' '}
         <Link href="/destinations/pensacola-beach">Pensacola Beach</Link>) is the strongest
         barrier-island experience in the region — 137 family sites with water and electric plus 40
         non-electric, surrounded by dunes, batteries, and protected shoreline, with a paved bike
@@ -73,14 +73,14 @@ export default function GulfCoastCampingContent() {
         barred from all seashore beaches. Reservations open six months out on Recreation.gov.
       </p>
       <p>
-        <strong>Big Lagoon State Park</strong> is the paddler&apos;s pick — 75 water/electric sites
+        <strong><a href="https://www.floridastateparks.org/parks-and-trails/big-lagoon-state-park" target="_blank" rel="noopener noreferrer">Big Lagoon State Park</a></strong> is the paddler&apos;s pick — 75 water/electric sites
         beside protected lagoon and Intracoastal water, with Johnson Beach and Perdido Key&apos;s
         Gulf side a short drive away. Quieter than the beachfront parks, and easier boating.
       </p>
 
       <h2>Best Campgrounds near Destin and 30A</h2>
       <p>
-        <strong>Henderson Beach State Park</strong> is the most convenient public campground in{' '}
+        <strong><a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson Beach State Park</a></strong> is the most convenient public campground in{' '}
         <Link href="/destinations/destin">Destin</Link> — 60 water/electric sites behind the dunes
         with boardwalks to a mile of protected shoreline, close to restaurants and the harbor. Note
         the 2026 rule: <em>day visitors</em> need advance entry reservations (camping is booked
@@ -88,11 +88,11 @@ export default function GulfCoastCampingContent() {
         summer booking hard — take any site that fits your rig.
       </p>
       <p>
-        <strong>Grayton Beach State Park</strong> pairs Western Lake with the Gulf — 59 sites (some
+        <strong><a href="https://www.floridastateparks.org/parks-and-trails/grayton-beach-state-park" target="_blank" rel="noopener noreferrer">Grayton Beach State Park</a></strong> pairs Western Lake with the Gulf — 59 sites (some
         sewer) plus cabins, paddling on the dune lake, and the Timpoochee Trail for reaching{' '}
         <Link href="/blog/what-is-30a">30A</Link> by bike. Registered campers can still enter when
         the park caps day visitors — a real advantage on summer weekends.{' '}
-        <strong>Topsail Hill Preserve</strong> is the best full-hookup RV setup on 30A: 156
+        <strong><a href="https://www.floridastateparks.org/parks-and-trails/topsail-hill-preserve-state-park" target="_blank" rel="noopener noreferrer">Topsail Hill Preserve</a></strong> is the best full-hookup RV setup on 30A: 156
         water/sewer/electric sites, 22 tent sites, and cabins, with three miles of tower-free beach
         reached by tram or bike. Resort hookups on one side, undeveloped shoreline on the other —
         that balance is Topsail&apos;s whole appeal.
@@ -100,13 +100,13 @@ export default function GulfCoastCampingContent() {
 
       <h2>Best Campground in Panama City Beach</h2>
       <p>
-        <strong>St. Andrews State Park</strong> is the clear public choice in{' '}
+        <strong><a href="https://www.floridastateparks.org/parks-and-trails/st-andrews-state-park" target="_blank" rel="noopener noreferrer">St. Andrews State Park</a></strong> is the clear public choice in{' '}
         <Link href="/destinations/panama-city-beach">Panama City Beach</Link> — a peninsula between
         the Gulf and Grand Lagoon with beaches, jetties, boat launches, snorkeling, and Shell
         Island trips. The campground is being rebuilt in phases after hurricane damage; the West
         Loop and part of the East Loop take reservations with full water/electric/sewer — use the
         live reservation map rather than old site counts. (And don&apos;t be fooled by the name:
-        Camp Helen State Park is day-use only, no campground.)
+        <a href="https://www.floridastateparks.org/parks-and-trails/camp-helen-state-park" target="_blank" rel="noopener noreferrer">Camp Helen State Park</a> is day-use only, no campground.)
       </p>
 
       <div className="not-prose my-8 flex flex-col sm:flex-row gap-3">

@@ -6,7 +6,7 @@ export default function DestinHarborWalkGuideContent() {
   return (
     <>
       <p className="text-xl text-navy/80 leading-relaxed font-medium">
-        HarborWalk Village is the boardwalk everyone means when they say &ldquo;go down to the
+        <a href="https://www.harborwalkvillage.com/" target="_blank" rel="noopener noreferrer">HarborWalk Village</a> is the boardwalk everyone means when they say &ldquo;go down to the
         harbor&rdquo; in Destin — a strip of restaurants, shops, and charter docks wrapped around the
         working harbor, with boats coming through the pass behind it. It is worth an evening. It is
         not worth a day.
@@ -93,9 +93,9 @@ export default function DestinHarborWalkGuideContent() {
         costs a premium and the boardwalk spots closest to the entrance are the most tourist-shaped.
       </p>
       <p>
-        The two worth planning around are Brotula&apos;s on the boardwalk itself and Boshamps a short
+        The two worth planning around are <a href="https://www.brotulas.com/" target="_blank" rel="noopener noreferrer">Brotula&apos;s</a> on the boardwalk itself and <a href="https://www.boshamps.com/" target="_blank" rel="noopener noreferrer">Boshamps</a> a short
         way along the harbor — both give you the water without the food being an afterthought. For
-        the harbor&apos;s best actual seafood, Dewey Destin&apos;s and Harbor Docks are slightly off
+        the harbor&apos;s best actual seafood, <a href="https://www.destinseafood.com/" target="_blank" rel="noopener noreferrer">Dewey Destin&apos;s</a> and <a href="https://www.harbordocks.com/" target="_blank" rel="noopener noreferrer">Harbor Docks</a> are slightly off
         the village proper and better for it.
       </p>
       <p>

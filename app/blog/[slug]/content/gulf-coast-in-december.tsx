@@ -57,10 +57,10 @@ export default function GulfCoastInDecemberContent() {
         <strong>Holiday atmosphere:</strong> <Link href="/destinations/pensacola-beach">Pensacola
         Beach</Link> (Winterfest plus downtown), <Link href="/destinations/orange-beach">Orange
         Beach</Link> and <Link href="/destinations/gulf-shores">Gulf Shores</Link> (lighted boat parade,
-        The Wharf), <Link href="/destinations/seaside">30A</Link>, and{' '}
+        <a href="https://www.alwharf.com/" target="_blank" rel="noopener noreferrer">The Wharf</a>), <Link href="/destinations/seaside">30A</Link>, and{' '}
         <Link href="/destinations/panama-city-beach">Panama City Beach</Link> (the strongest New
         Year&apos;s Eve pick, with its Beach Ball Drop). <strong>State parks and walking:</strong> Gulf
-        State Park, Grayton Beach State Park, Henderson Beach State Park, and St. Andrews State Park, with
+        State Park, <a href="https://www.floridastateparks.org/parks-and-trails/grayton-beach-state-park" target="_blank" rel="noopener noreferrer">Grayton Beach State Park</a>, <a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson Beach State Park</a>, and <a href="https://www.floridastateparks.org/parks-and-trails/st-andrews-state-park" target="_blank" rel="noopener noreferrer">St. Andrews State Park</a>, with
         no July heat to fight.
       </p>
       <div className="not-prose flex flex-col sm:flex-row gap-3 my-6">
@@ -70,8 +70,8 @@ export default function GulfCoastInDecemberContent() {
 
       <h2>Gulf Islands National Seashore in December</h2>
       <p>
-        December is a good month for Gulf Islands National Seashore if the weather is clear. Cooler air
-        makes Fort Pickens, Opal Beach, and Johnson Beach easier for walking and photos, and the
+        December is a good month for <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a> if the weather is clear. Cooler air
+        makes <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a>, Opal Beach, and Johnson Beach easier for walking and photos, and the
         undeveloped barrier-island scenery feels especially good in winter. The tradeoff is water and
         wind: it&apos;s not a swimming month, and exposed areas can feel chilly. The Florida fee areas
         require entrance fees and the park is cashless, so check current conditions before you drive out.

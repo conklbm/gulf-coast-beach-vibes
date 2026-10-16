@@ -22,7 +22,7 @@ export default function GulfCoastFromStLouisContent() {
       <ul>
         <li><strong>Dauphin Island</strong> — ~11.5–12.5+ hrs (closest, quietest)</li>
         <li><strong>Gulf Shores / Orange Beach</strong> — ~11–13+ hrs (best all-around)</li>
-        <li><strong><Link href="/destinations/pensacola-beach">Pensacola Beach</Link></strong> — ~11–13+ hrs (Florida water, Fort Pickens)</li>
+        <li><strong><Link href="/destinations/pensacola-beach">Pensacola Beach</Link></strong> — ~11–13+ hrs (Florida water, <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a>)</li>
         <li><strong><Link href="/destinations/destin">Destin</Link></strong> — ~12–13.5+ hrs (emerald water, fishing)</li>
         <li><strong><Link href="/destinations/seaside">30A</Link></strong> — ~12–13.5+ hrs (beach towns)</li>
         <li><strong><Link href="/destinations/panama-city-beach">Panama City Beach</Link></strong> — ~12–13.5+ hrs (activities, longest)</li>

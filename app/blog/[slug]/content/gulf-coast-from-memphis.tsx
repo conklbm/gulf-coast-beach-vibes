@@ -76,7 +76,7 @@ export default function GulfCoastFromMemphisContent() {
         <Link href="/destinations/gulf-shores">Gulf Shores</Link> and{' '}
         <Link href="/destinations/orange-beach">Orange Beach</Link> are the destination. They sit
         right at the end of I-65 — no additional navigation required. White sand, warm clear Gulf
-        water, Gulf State Park, great seafood restaurants, and plenty of activities for all ages.
+        water, <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a>, great seafood restaurants, and plenty of activities for all ages.
       </p>
       <p>
         A 4-night trip (Friday evening to Tuesday morning) gives you three full beach days, which

@@ -22,7 +22,7 @@ export default function GulfCoastFromDallasContent() {
       <ul>
         <li><strong>Gulf Shores / Orange Beach</strong> — ~10–11 hrs (best all-around)</li>
         <li><strong><Link href="/destinations/dauphin-island">Dauphin Island</Link></strong> — ~10.5–11+ hrs (quiet, nature)</li>
-        <li><strong><Link href="/destinations/pensacola-beach">Pensacola Beach</Link></strong> — ~10–10.5+ hrs (Florida water, Fort Pickens)</li>
+        <li><strong><Link href="/destinations/pensacola-beach">Pensacola Beach</Link></strong> — ~10–10.5+ hrs (Florida water, <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a>)</li>
         <li><strong><Link href="/destinations/destin">Destin</Link></strong> — ~11–12 hrs (emerald water, fishing)</li>
         <li><strong><Link href="/destinations/navarre-beach">Navarre Beach</Link> / <Link href="/destinations/seaside">30A</Link></strong> — ~11–12.5+ hrs</li>
         <li><strong><Link href="/destinations/panama-city-beach">Panama City Beach</Link></strong> — ~12–13+ hrs (longest)</li>

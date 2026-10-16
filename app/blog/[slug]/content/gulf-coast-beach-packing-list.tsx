@@ -109,7 +109,7 @@ export default function PackingListContent() {
           guide</Link> before you assume.
         </li>
         <li>
-          <strong>Drones</strong> — prohibited at Gulf Islands National Seashore and most public
+          <strong>Drones</strong> — prohibited at <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a> and most public
           beaches
         </li>
         <li>

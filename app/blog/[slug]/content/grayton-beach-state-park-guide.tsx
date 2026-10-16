@@ -6,7 +6,7 @@ export default function GraytonBeachStateParkGuideContent() {
   return (
     <>
       <p className="text-xl text-navy/80 leading-relaxed font-medium">
-        Grayton Beach State Park is 2,200 acres on <Link href="/destinations/seaside">30A</Link>,
+        <a href="https://www.floridastateparks.org/parks-and-trails/grayton-beach-state-park" target="_blank" rel="noopener noreferrer">Grayton Beach State Park</a> is 2,200 acres on <Link href="/destinations/seaside">30A</Link>,
         sitting between Destin and Panama City Beach, and it protects something you cannot see in
         many places on Earth: a coastal dune lake. Western Lake sits right behind the dunes, fresh
         water on one side of a sand ridge and the Gulf on the other, occasionally breaking through to

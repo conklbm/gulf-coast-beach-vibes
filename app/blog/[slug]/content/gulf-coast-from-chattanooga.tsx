@@ -46,7 +46,7 @@ export default function GulfCoastFromChattanoogaContent() {
       <p>
         Choose <strong>Gulf Shores or Orange Beach</strong> for the best all-around trip (the Foley Beach
         Express bridge is now toll-free). Choose <strong>Pensacola Beach</strong> for Florida water and
-        Fort Pickens, <strong>Navarre Beach</strong> for a quieter Florida option,{' '}
+        <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a>, <strong>Navarre Beach</strong> for a quieter Florida option,{' '}
         <strong>Destin</strong> for emerald water and fishing, <strong>30A</strong> for beach towns, and{' '}
         <strong>Panama City Beach</strong> for the most activity (more practical from Chattanooga than
         many expect). <strong>Dauphin Island</strong> is the quietest choice.

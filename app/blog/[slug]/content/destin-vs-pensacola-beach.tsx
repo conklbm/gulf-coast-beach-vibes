@@ -17,7 +17,7 @@ export default function DestinVsPensacolaContent() {
         <strong>Choose Destin</strong> if you want the most vivid emerald-green water on the Gulf
         Coast, world-class fishing, excellent dining, and a full resort experience.{' '}
         <strong>Choose Pensacola Beach</strong> if you want the same beautiful water at a lower
-        price point, with more natural character, Gulf Islands National Seashore access, and a
+        price point, with more natural character, <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a> access, and a
         less-crowded atmosphere.
       </p>
 
@@ -36,7 +36,7 @@ export default function DestinVsPensacolaContent() {
       </p>
       <p>
         Destin&apos;s main beaches — along Scenic Gulf Drive and Okaloosa Island — are more
-        developed, with resort condos lining the beach. Henderson Beach State Park offers the best
+        developed, with resort condos lining the beach. <a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson Beach State Park</a> offers the best
         natural beach experience in the Destin area: 208 acres of old-growth dunes and protected
         shoreline.
       </p>
@@ -58,7 +58,7 @@ export default function DestinVsPensacolaContent() {
       <h2>Crowds and Atmosphere</h2>
       <p>
         Destin is busier. Significantly busier in summer. It draws a large volume of resort
-        vacationers, has more hotels and condo towers, and the Harborwalk Village and The Wharf
+        vacationers, has more hotels and condo towers, and the <a href="https://www.harborwalkvillage.com/" target="_blank" rel="noopener noreferrer">Harborwalk Village</a> and <a href="https://www.alwharf.com/" target="_blank" rel="noopener noreferrer">The Wharf</a>
         create traffic concentration points that make July weekends genuinely crowded.
       </p>
       <p>
@@ -70,7 +70,7 @@ export default function DestinVsPensacolaContent() {
       </p>
       <p>
         Historic Pensacola City — just 15 minutes from the beach — adds genuine depth that Destin
-        lacks. The National Naval Aviation Museum (free admission) is one of the best aviation
+        lacks. The <a href="https://www.navalaviationmuseum.org/" target="_blank" rel="noopener noreferrer">National Naval Aviation Museum</a> (free admission) is one of the best aviation
         museums in the world. Pensacola&apos;s historic downtown has excellent restaurants and a
         real local arts scene.
       </p>
@@ -115,7 +115,7 @@ export default function DestinVsPensacolaContent() {
       <ul>
         <li>
           <strong>Gulf Islands National Seashore</strong> — miles of undeveloped federal beach land
-          in both directions from the main beach; Fort Pickens (free entry with America the
+          in both directions from the main beach; <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a> (free entry with America the
           Beautiful pass) has some of the best snorkeling on the Gulf Coast around its jetties
         </li>
         <li>

@@ -88,7 +88,7 @@ export default function GulfCoastFromLittleRockContent() {
         shortest, quietest option, my favorite local beach for a slower trip — and the strongest
         pick for dog owners, since leashed dogs are allowed on most town beaches.{' '}
         <strong><Link href="/destinations/pensacola-beach">Pensacola Beach</Link></strong> adds
-        barely any driving for Florida scenery, free beach parking, and Fort Pickens.{' '}
+        barely any driving for Florida scenery, free beach parking, and <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a>.{' '}
         <strong>Navarre and Destin</strong> ask for a longer day; Panama City Beach is a much
         bigger commitment — choose it for a specific rental or event, not proximity.
       </p>

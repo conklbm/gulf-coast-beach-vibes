@@ -23,7 +23,7 @@ export default function FortWaltonBeachGuideContent() {
       <p>
         What that means practically: beach rental condos run 15–25% cheaper. Highway 98 traffic
         is meaningfully lighter. The beach has room on it. You can find parking. And when you
-        want a day trip to Destin&apos;s restaurants or Henderson Beach State Park, it&apos;s a 15-minute
+        want a day trip to Destin&apos;s restaurants or <a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson Beach State Park</a>, it&apos;s a 15-minute
         drive. Fort Walton Beach gives you the location advantages of the Destin corridor without
         the peak-season premium.
       </p>
@@ -50,7 +50,7 @@ export default function FortWaltonBeachGuideContent() {
 
       <TipCallout title="The Destin Day Trip Advantage" variant="tip">
         Staying in Fort Walton Beach puts you 15 minutes from Henderson Beach State Park,
-        Harborwalk Village, and all of Destin&apos;s restaurants and activities — without paying
+        <a href="https://www.harborwalkvillage.com/" target="_blank" rel="noopener noreferrer">Harborwalk Village</a>, and all of Destin&apos;s restaurants and activities — without paying
         Destin rental rates. Many experienced panhandle travelers base here specifically to
         use Destin as a day trip destination rather than a home base.
       </TipCallout>
@@ -99,7 +99,7 @@ export default function FortWaltonBeachGuideContent() {
           One of the more unexpectedly compelling free attractions on the Panhandle.
         </li>
         <li>
-          <strong>Indian Temple Mound Museum</strong> — a 12-foot ceremonial mound built by
+          <strong><a href="https://fwb.org/330/Museum---Heritage-Park-Cultural-Center" target="_blank" rel="noopener noreferrer">Indian Temple Mound Museum</a></strong> — a 12-foot ceremonial mound built by
           indigenous people roughly 1,400 years ago, preserved in the middle of the city and
           open for tours. The museum covers 12,000 years of Gulf Coast history.
         </li>
@@ -122,7 +122,7 @@ export default function FortWaltonBeachGuideContent() {
         </li>
         <li>
           <strong>Navarre Beach</strong> — 20 minutes west; even quieter and less developed
-          than Fort Walton Beach, with the Gulf Islands National Seashore and a remarkable
+          than Fort Walton Beach, with the <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a> and a remarkable
           fishing pier
         </li>
         <li>
@@ -152,11 +152,11 @@ export default function FortWaltonBeachGuideContent() {
           the seafood platter is the order; the kind of place that doesn&apos;t exist in Destin anymore
         </li>
         <li>
-          <strong>Harbor Docks</strong> — waterfront dining, excellent fresh fish, the local&apos;s
+          <strong><a href="https://www.harbordocks.com/" target="_blank" rel="noopener noreferrer">Harbor Docks</a></strong> — waterfront dining, excellent fresh fish, the local&apos;s
           version of the Destin seafood experience
         </li>
         <li>
-          <strong>Stewby&apos;s Seafood Shanty</strong> — casual, local favorite, the kind of
+          <strong><a href="https://www.stewbys.com/" target="_blank" rel="noopener noreferrer">Stewby&apos;s Seafood Shanty</a></strong> — casual, local favorite, the kind of
           fried seafood shack that defines Gulf Coast beach food without the tourist markup
         </li>
       </ul>

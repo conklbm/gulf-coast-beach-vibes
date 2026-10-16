@@ -6,7 +6,7 @@ export default function FortPickensDayGuideContent() {
   return (
     <>
       <p className="text-xl text-navy/80 leading-relaxed font-medium">
-        Fort Pickens is the best day on <Link href="/destinations/pensacola-beach">Pensacola
+        <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a> is the best day on <Link href="/destinations/pensacola-beach">Pensacola
         Beach</Link> that does not involve a restaurant. A masonry fort from the 1830s at the western
         tip of Santa Rosa Island, wrapped in miles of federally protected shoreline with nothing built
         on it — no condos, no shops, no crowd once you walk a hundred yards.
