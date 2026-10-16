@@ -24,13 +24,13 @@ export default function GulfShoresVsMyrtleBeachContent() {
         beach is the main draw: bright white sand, blue-green Gulf water, dunes, and a more relaxed
         feel than bigger resort cities. It still gets crowded in summer, but the overall scale is
         manageable. You can build a trip around simple routines: beach in the morning, condo pool after
-        lunch, seafood for dinner, a bike ride through Gulf State Park, maybe Waterville USA or the
-        Alabama Gulf Coast Zoo for the kids.
+        lunch, seafood for dinner, a bike ride through <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a>, maybe <a href="https://www.watervilleusa.com/" target="_blank" rel="noopener noreferrer">Waterville USA</a> or the
+        <a href="https://alabamagulfcoastzoo.org/" target="_blank" rel="noopener noreferrer">Alabama Gulf Coast Zoo</a> for the kids.
       </p>
       <p>
         The biggest advantage is Gulf State Park, a nature anchor with more than 3.5 miles of beach,
         roughly 6,000 acres, trails, lakes, lodging, and pier access. Add Fort Morgan on the western
-        end of the peninsula and Bon Secour National Wildlife Refuge nearby, and the trip feels more
+        end of the peninsula and <a href="https://www.fws.gov/refuge/bon-secour" target="_blank" rel="noopener noreferrer">Bon Secour National Wildlife Refuge</a> nearby, and the trip feels more
         beach-first than attraction-first. If you want more of a game plan, our{' '}
         <Link href="/blog/best-time-to-visit-gulf-shores">month-by-month guide to visiting Gulf
         Shores</Link> breaks down the best windows.
@@ -97,7 +97,7 @@ export default function GulfShoresVsMyrtleBeachContent() {
       <p>
         Gulf Shores food is built around Gulf seafood and casual beach dining: shrimp, oysters,
         po&apos;boys, seafood boils, and beach bars where sandy kids are not a problem. Names include
-        The Hangout, Gulf Shores Steamer, Tacky Jacks, LuLu&apos;s, and The Original Oyster House.
+        The Hangout, <a href="https://www.gulfshoressteamer.com/" target="_blank" rel="noopener noreferrer">Gulf Shores Steamer</a>, Tacky Jacks, <a href="https://www.lulusfunfoodmusic.com/" target="_blank" rel="noopener noreferrer">LuLu&apos;s</a>, and The <a href="https://www.originaloysterhouse.com/" target="_blank" rel="noopener noreferrer">Original Oyster House</a>.
         Lodging is condo-and-rental heavy, making it a strong condo-week destination.
       </p>
       <p>

@@ -11,9 +11,9 @@ export default function GulfShoresVsPanamaCityBeachContent() {
       </p>
       <p>
         That&apos;s the real difference. <Link href="/destinations/gulf-shores">Gulf Shores</Link>
-        {' '}gives you white sand, Gulf State Park, casual seafood, Fort Morgan, beach houses, condos,
+        {' '}gives you white sand, <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a>, casual seafood, Fort Morgan, beach houses, condos,
         and a slower Alabama coast rhythm. <Link href="/destinations/panama-city-beach">Panama City
-        Beach</Link> gives you a bigger Florida beach scene with 27 miles of shoreline, Pier Park, St.
+        Beach</Link> gives you a bigger Florida beach scene with 27 miles of shoreline, <a href="https://www.simon.com/mall/pier-park" target="_blank" rel="noopener noreferrer">Pier Park</a>, St.
         Andrews State Park, Shell Island trips, shopping, nightlife, and more built-in entertainment.
       </p>
       <p>
@@ -54,14 +54,14 @@ export default function GulfShoresVsPanamaCityBeachContent() {
         Gulf Shores is strongest when you want nature and family-friendly activities without turning
         the trip into a theme-park schedule. Gulf State Park is the standout: bike, walk trails, fish,
         paddle, or visit the pier. Fort Morgan sits west of town and adds history and open views, and
-        Bon Secour National Wildlife Refuge offers an even quieter side of the Alabama coast. Families
-        also have the Alabama Gulf Coast Zoo, Waterville USA, and nearby Orange Beach with The Wharf.
+        <a href="https://www.fws.gov/refuge/bon-secour" target="_blank" rel="noopener noreferrer">Bon Secour National Wildlife Refuge</a> offers an even quieter side of the Alabama coast. Families
+        also have the <a href="https://alabamagulfcoastzoo.org/" target="_blank" rel="noopener noreferrer">Alabama Gulf Coast Zoo</a>, <a href="https://www.watervilleusa.com/" target="_blank" rel="noopener noreferrer">Waterville USA</a>, and nearby Orange Beach with <a href="https://www.alwharf.com/" target="_blank" rel="noopener noreferrer">The Wharf</a>.
       </p>
       <p>
         Panama City Beach wins on activity volume. Pier Park is the main hub, with shopping,
         restaurants, movies, the PCB Wheel, and indoor attractions that matter on rainy afternoons.
-        PCB also has St. Andrews State Park, Shell Island trips, piers, water activities, and
-        Shipwreck Island Waterpark. If your group gets bored easily, Panama City Beach is the safer
+        PCB also has <a href="https://www.floridastateparks.org/parks-and-trails/st-andrews-state-park" target="_blank" rel="noopener noreferrer">St. Andrews State Park</a>, Shell Island trips, piers, water activities, and
+        <a href="https://www.shipwreckisland.com/" target="_blank" rel="noopener noreferrer">Shipwreck Island</a> Waterpark. If your group gets bored easily, Panama City Beach is the safer
         bet.
       </p>
       <div className="not-prose flex flex-col sm:flex-row gap-3 my-6">
@@ -77,15 +77,15 @@ export default function GulfShoresVsPanamaCityBeachContent() {
 
       <h2>Food and Nightlife</h2>
       <p>
-        Gulf Shores has a strong casual seafood and family-restaurant scene. The Hangout, LuLu&apos;s,
-        Sea-N-Suds, Original Oyster House, and Bahama Bob&apos;s all fit the easy beach-trip rhythm.
+        Gulf Shores has a strong casual seafood and family-restaurant scene. The Hangout, <a href="https://www.lulusfunfoodmusic.com/" target="_blank" rel="noopener noreferrer">LuLu&apos;s</a>,
+        Sea-N-Suds, <a href="https://www.originaloysterhouse.com/" target="_blank" rel="noopener noreferrer">Original Oyster House</a>, and <a href="https://www.bahamabobs.com/" target="_blank" rel="noopener noreferrer">Bahama Bob&apos;s</a> all fit the easy beach-trip rhythm.
         You can eat well without overplanning. Nightlife is more relaxed, with live music and beach
         bars in peak season but without the big vacation-strip feel of PCB.
       </p>
       <p>
         Panama City Beach has more volume. Pier Park, Front Beach Road, Thomas Drive, and the Grand
         Lagoon area give you more restaurant clusters and more evening energy. Pineapple Willy&apos;s,
-        Schooners, Sharky&apos;s, and Capt. Anderson&apos;s give visitors a wide range. PCB is better
+        <a href="https://www.schooners.com/" target="_blank" rel="noopener noreferrer">Schooners</a>, Sharky&apos;s, and Capt. Anderson&apos;s give visitors a wide range. PCB is better
         if dinner and nightlife are part of the vacation; Gulf Shores is better for seafood, an easy
         evening, and less running around.
       </p>

@@ -21,8 +21,8 @@ export default function NavarreBeachGuideContent() {
         Most travelers stop at one of those. Navarre gets the people who are paying attention.
       </p>
       <p>
-        The beach itself is part of Gulf Islands National Seashore — the same protected federal
-        land that runs through Pensacola Beach and Fort Pickens. That designation means no
+        The beach itself is part of <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a> — the same protected federal
+        land that runs through Pensacola Beach and <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a>. That designation means no
         high-rise condo towers looming over the sand, no beachfront strip mall development,
         and dunes that actually look like dunes. The water is the same turquoise-to-emerald
         color that makes the Florida Panhandle famous. The crowds are a fraction of what

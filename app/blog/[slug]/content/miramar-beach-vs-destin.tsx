@@ -36,7 +36,7 @@ export default function MiramarBeachVsDestinContent() {
         imagine the classic Emerald Coast vacation: fishing boats, harbor restaurants, dolphin
         cruises, Crab Island, parasailing, pontoon rentals, and seafood. Destin still trades on its
         &ldquo;World&apos;s Luckiest Fishing Village&rdquo; identity, and the harbor is a major part of
-        the experience. It also has Big Kahuna&apos;s, Destin Commons, Henderson Beach State Park, and
+        the experience. It also has <a href="https://www.bigkahunas.com/" target="_blank" rel="noopener noreferrer">Big Kahuna&apos;s</a>, Destin Commons, <a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson Beach State Park</a>, and
         several public beach parks. The tradeoff is pace: Destin is more developed, more crowded, and
         more commercial than Miramar Beach.
       </p>
@@ -102,7 +102,7 @@ export default function MiramarBeachVsDestinContent() {
       <h2>Food, Shopping, and Nightlife</h2>
       <p>
         Destin has the stronger seafood-and-harbor identity. Names to know include McGuire&apos;s
-        Irish Pub, The Back Porch, Boshamps, Dewey Destin&apos;s, and Brotula&apos;s Seafood House
+        Irish Pub, <a href="https://www.theback-porch.com/" target="_blank" rel="noopener noreferrer">The Back Porch</a>, <a href="https://www.boshamps.com/" target="_blank" rel="noopener noreferrer">Boshamps</a>, <a href="https://www.destinseafood.com/" target="_blank" rel="noopener noreferrer">Dewey Destin&apos;s</a>, and <a href="https://www.brotulas.com/" target="_blank" rel="noopener noreferrer">Brotula&apos;s</a> Seafood House
         &amp; Steamer, with plenty of casual, crowd-friendly places and more nightlife energy near the
         harbor.
       </p>

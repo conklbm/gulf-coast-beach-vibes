@@ -15,8 +15,8 @@ export default function PetFriendlyContent() {
       <h2>The Short Answer</h2>
       <p>
         The most consistently dog-friendly Gulf Coast options are{' '}
-        <strong>Navarre Beach</strong>, <strong>Fort Pickens / Gulf Islands National Seashore</strong>,
-        and <strong>St. Andrews State Park (Panama City Beach)</strong>. All three allow leashed
+        <strong>Navarre Beach</strong>, <strong><a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a> / <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a></strong>,
+        and <strong><a href="https://www.floridastateparks.org/parks-and-trails/st-andrews-state-park" target="_blank" rel="noopener noreferrer">St. Andrews State Park</a> (Panama City Beach)</strong>. All three allow leashed
         dogs year-round with minimal restrictions. Most of the popular public beaches in Gulf
         Shores, Orange Beach, and Destin restrict dogs from April/May through October.
       </p>
@@ -46,7 +46,7 @@ export default function PetFriendlyContent() {
         exercise during the restricted season.
       </p>
 
-      <h3>Gulf State Park, Alabama</h3>
+      <h3><a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a>, Alabama</h3>
       <p>
         Dogs are <strong>not</strong> allowed on the Gulf State Park beach at any time of year.
         However, dogs are allowed on all paved and natural trails within the park, at the
@@ -88,7 +88,7 @@ export default function PetFriendlyContent() {
       <p>
         Walton County and Okaloosa County have seasonal restrictions similar to Alabama beaches —
         dogs generally prohibited on the main public beaches from April/May through October during
-        daytime hours. Henderson Beach State Park in Destin does <strong>not</strong> allow dogs
+        daytime hours. <a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson Beach State Park</a> in Destin does <strong>not</strong> allow dogs
         on the beach at any time.
       </p>
       <p>

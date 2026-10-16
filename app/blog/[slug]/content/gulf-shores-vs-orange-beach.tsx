@@ -14,7 +14,7 @@ export default function GulfShoresVsOrangeBeachContent() {
       <h2>The Short Answer</h2>
       <p>
         <strong><Link href="/destinations/gulf-shores">Choose Gulf Shores</Link></strong> if you
-        want a classic beach town feel, Gulf State Park access, slightly lower prices, and a more
+        want a classic beach town feel, <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a> access, slightly lower prices, and a more
         family-and-locals vibe.{' '}
         <strong><Link href="/destinations/orange-beach">Choose Orange Beach</Link></strong> if
         you want more upscale condos, a bigger marina, world-class deep-sea fishing, and The
@@ -59,7 +59,7 @@ export default function GulfShoresVsOrangeBeachContent() {
 
       <h3>Orange Beach</h3>
       <p>
-        Orange Beach skews slightly more upscale. The Wharf — a large waterfront entertainment
+        Orange Beach skews slightly more upscale. <a href="https://www.alwharf.com/" target="_blank" rel="noopener noreferrer">The Wharf</a> — a large waterfront entertainment
         complex with restaurants, a Ferris wheel, an amphitheater, and a marina — is the anchor
         attraction. The condos here tend to be newer, taller, and a bit pricier. The marina is
         serious and beautiful. The crowd is more resort-vacation family, less spring-break energy.
@@ -95,15 +95,15 @@ export default function GulfShoresVsOrangeBeachContent() {
           comparable for a nature experience.
         </li>
         <li>
-          <strong>Waterville USA</strong> — a solid water park and amusement complex; great
+          <strong><a href="https://www.watervilleusa.com/" target="_blank" rel="noopener noreferrer">Waterville USA</a></strong> — a solid water park and amusement complex; great
           half-day option for families with kids
         </li>
         <li>
-          <strong>Alabama Gulf Coast Zoo</strong> — surprisingly good small zoo; the
+          <strong><a href="https://alabamagulfcoastzoo.org/" target="_blank" rel="noopener noreferrer">Alabama Gulf Coast Zoo</a></strong> — surprisingly good small zoo; the
           &quot;Little Zoo That Could&quot; has survived three hurricanes and keeps improving
         </li>
         <li>
-          <strong>Historic Fort Morgan</strong> — Civil War fort at the peninsula tip with
+          <strong><a href="https://ahc.alabama.gov/properties/ftmorgan/ftmorgan.aspx" target="_blank" rel="noopener noreferrer">Historic Fort Morgan</a></strong> — Civil War fort at the peninsula tip with
           stunning views of Mobile Bay; worth the 30-minute drive west
         </li>
         <li>
@@ -138,7 +138,7 @@ export default function GulfShoresVsOrangeBeachContent() {
 
       <TipCallout title="Eat at Both" variant="tip">
         You don&apos;t have to choose restaurants — it&apos;s a 10-minute drive between the two.
-        The Hangout and LuLu&apos;s are Gulf Shores staples; The Wharf and the marina restaurants
+        The Hangout and <a href="https://www.lulusfunfoodmusic.com/" target="_blank" rel="noopener noreferrer">LuLu&apos;s</a> are Gulf Shores staples; The Wharf and the marina restaurants
         are Orange Beach highlights. Do a dinner at each and cover both towns without any
         commitment to one side.
       </TipCallout>

@@ -14,7 +14,7 @@ export default function OrangeBeachVsPensacolaBeachContent() {
         beach vacation. Think Gulf-front condos, dolphin cruises, waterfront restaurants, boat days,
         and family-friendly activities packed close together.{' '}
         <Link href="/destinations/pensacola-beach">Pensacola Beach</Link> feels more varied, with a
-        livelier island core, historic Fort Pickens, Gulf Islands National Seashore, and downtown
+        livelier island core, historic <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a>, <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a>, and downtown
         Pensacola just across the bridge.
       </p>
       <p>
@@ -65,7 +65,7 @@ export default function OrangeBeachVsPensacolaBeachContent() {
         dinner.
       </p>
       <p>
-        Gulf State Park is another major plus. You get trails, bike paths, a fishing pier, lake
+        <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a> is another major plus. You get trails, bike paths, a fishing pier, lake
         areas, and access to the Hugh S. Branyon Backcountry Trail. It&apos;s a good break from
         sitting on the sand all day.
       </p>
@@ -89,14 +89,14 @@ export default function OrangeBeachVsPensacolaBeachContent() {
 
       <h2>Food and Nightlife</h2>
       <p>
-        Orange Beach is excellent for waterfront seafood. Cobalt, CoastAL, GTs On The Bay, The Gulf,
+        Orange Beach is excellent for waterfront seafood. <a href="https://cobaltrestaurant.net/" target="_blank" rel="noopener noreferrer">Cobalt</a>, CoastAL, GTs On The Bay, The Gulf,
         and other nearby spots make it easy to plan dinner around the water. The vibe is casual,
         polished, and very vacation-friendly. It&apos;s also easier for groups. If you have kids,
         grandparents, or people with different energy levels, Orange Beach gives you plenty of
         low-stress dinner options without leaving the area.
       </p>
       <p>
-        Pensacola Beach has classic beach spots too. Peg Leg Pete&apos;s and Flounder&apos;s are two
+        Pensacola Beach has classic beach spots too. <a href="https://www.peglegpetes.com/" target="_blank" rel="noopener noreferrer">Peg Leg Pete&apos;s</a> and <a href="https://www.flounderschowderhouse.com/" target="_blank" rel="noopener noreferrer">Flounder&apos;s</a> are two
         of the big names, and the Boardwalk area gives you easy casual options near the water.
         Pensacola Beach&apos;s advantage is downtown Pensacola. If you want a better date-night
         dinner, breweries, cocktail bars, or something that feels less like a beach strip, you can
@@ -130,7 +130,7 @@ export default function OrangeBeachVsPensacolaBeachContent() {
         <li>You want a Gulf-front condo and an easy beach routine</li>
         <li>You&apos;re traveling with kids, grandparents, or a larger group</li>
         <li>Boating, dolphin cruises, and waterfront dining are high priorities</li>
-        <li>You want The Wharf, Gulf State Park, and restaurants nearby</li>
+        <li>You want <a href="https://www.alwharf.com/" target="_blank" rel="noopener noreferrer">The Wharf</a>, Gulf State Park, and restaurants nearby</li>
         <li>You prefer convenience over exploring</li>
       </ul>
 

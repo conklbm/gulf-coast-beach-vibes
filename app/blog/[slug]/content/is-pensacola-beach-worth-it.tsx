@@ -12,7 +12,7 @@ export default function IsPensacolaBeachWorthItContent() {
       <p>
         You cross the bridge, pay the small toll, and the island makes sense fast. Casino Beach gives
         you the central hub, the Gulf Pier gives you a landmark, Quietwater Beach gives you a calmer
-        sound-side stop, and Fort Pickens gives you history and national seashore scenery without
+        sound-side stop, and <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a> gives you history and national seashore scenery without
         leaving the island. It&apos;s not the biggest or flashiest beach destination, but if you want
         white sand, Gulf water, a walkable central beach area, and a few good side trips,{' '}
         <Link href="/destinations/pensacola-beach">Pensacola Beach</Link> makes a lot of sense.
@@ -111,7 +111,7 @@ export default function IsPensacolaBeachWorthItContent() {
       <h2>So, Is Pensacola Beach Worth It?</h2>
       <p>
         Pensacola Beach is worth it for the right traveler. Go if you want white sand, emerald Gulf
-        water, an easy central beach hub, Fort Pickens, Gulf Islands National Seashore, a sound-side
+        water, an easy central beach hub, Fort Pickens, <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a>, a sound-side
         Boardwalk, and a beach town that feels simple without feeling empty. Skip it if you want big
         nightlife, nonstop shopping, or high-rise resort density. The best version is simple: stay near
         the island if you can, start at Casino Beach, use the trolley in summer, save time for Fort

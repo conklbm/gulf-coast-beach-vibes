@@ -18,7 +18,7 @@ export default function PensacolaBeachVsPanamaCityBeachContent() {
       <p>
         <Link href="/destinations/panama-city-beach">Panama City Beach</Link> turns the volume up.
         The beach is longer, the condo rows are bigger, and the after-sand options come fast: Pier
-        Park, St. Andrews State Park, Shell Island tours, arcades, beach bars, seafood spots, and
+        Park, <a href="https://www.floridastateparks.org/parks-and-trails/st-andrews-state-park" target="_blank" rel="noopener noreferrer">St. Andrews State Park</a>, Shell Island tours, arcades, beach bars, seafood spots, and
         enough kid-friendly distractions to rescue a rainy afternoon.
       </p>
       <p>
@@ -48,7 +48,7 @@ export default function PensacolaBeachVsPanamaCityBeachContent() {
         Beach.
       </p>
       <p>
-        Drive toward Fort Pickens, and Pensacola Beach changes fast. The buildings thin out, the
+        Drive toward <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a>, and Pensacola Beach changes fast. The buildings thin out, the
         dunes take over, and the shoreline feels more open and natural, especially near Gulf Islands
         National Seashore. That contrast is the best part of Pensacola Beach: you can have a lively
         beach day, then find a quieter stretch without changing destinations.
@@ -66,11 +66,11 @@ export default function PensacolaBeachVsPanamaCityBeachContent() {
       <p>
         Pensacola Beach is strongest when you want more than a beach chair. Fort Pickens is the
         standout. You can tour the old fort, walk around historic batteries, visit the park store,
-        camp nearby, and still spend part of the day on the beach. Gulf Islands National Seashore
+        camp nearby, and still spend part of the day on the beach. <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a>
         adds protected shoreline, dunes, birding, and a less developed side of the island.
       </p>
       <p>
-        Panama City Beach wins on pure entertainment. Pier Park is the main hub, with restaurants,
+        Panama City Beach wins on pure entertainment. <a href="https://www.simon.com/mall/pier-park" target="_blank" rel="noopener noreferrer">Pier Park</a> is the main hub, with restaurants,
         shops, the SkyWheel, movies, arcades, and family attractions close to the beach. It&apos;s
         the kind of place that helps when the kids are done with the sand but the day is not over.
         PCB also has St. Andrews State Park, which is a major plus. You can swim, snorkel, fish,
@@ -90,8 +90,8 @@ export default function PensacolaBeachVsPanamaCityBeachContent() {
 
       <h2>Food and Nightlife</h2>
       <p>
-        Pensacola Beach has classic beach restaurants like Peg Leg Pete&apos;s, Flounder&apos;s,
-        Casino Beach Bar &amp; Grille, and casual Boardwalk spots. It&apos;s easy to eat near the
+        Pensacola Beach has classic beach restaurants like <a href="https://www.peglegpetes.com/" target="_blank" rel="noopener noreferrer">Peg Leg Pete&apos;s</a>, <a href="https://www.flounderschowderhouse.com/" target="_blank" rel="noopener noreferrer">Flounder&apos;s</a>,
+        <a href="https://casinobeachbar.com/" target="_blank" rel="noopener noreferrer">Casino Beach Bar</a> &amp; Grille, and casual Boardwalk spots. It&apos;s easy to eat near the
         water without turning dinner into a whole production. The real advantage is downtown
         Pensacola. If you want a better dinner, breweries, cocktail bars, live music, or a rainy-day
         plan, you can cross the bridge and change the mood completely.

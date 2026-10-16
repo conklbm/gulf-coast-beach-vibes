@@ -14,7 +14,7 @@ export default function NavarreBeachVsPensacolaBeachContent() {
         trip, but they serve different moods. <Link href="/destinations/navarre-beach">Navarre
         Beach</Link> gives you white sand, clear water, the long fishing pier, slower days, and fewer
         distractions. <Link href="/destinations/pensacola-beach">Pensacola Beach</Link> gives you the
-        same Gulf beauty with more restaurants, beach bars, Fort Pickens, the Boardwalk, and downtown
+        same Gulf beauty with more restaurants, beach bars, <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a>, the Boardwalk, and downtown
         Pensacola nearby.
       </p>
       <p>
@@ -31,7 +31,7 @@ export default function NavarreBeachVsPensacolaBeachContent() {
       <p>
         Choose Pensacola Beach if you want more restaurants, more energy, and more variety. It&apos;s
         better for long weekends, groups with different interests, history lovers, and anyone who
-        wants Fort Pickens, Gulf Islands National Seashore, and downtown Pensacola close by.
+        wants Fort Pickens, <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a>, and downtown Pensacola close by.
       </p>
       <p>Navarre Beach is calmer. Pensacola Beach is more complete.</p>
 
@@ -79,14 +79,14 @@ export default function NavarreBeachVsPensacolaBeachContent() {
       <h2>Food and Nightlife</h2>
       <p>
         Navarre Beach has a small food scene. That&apos;s the honest version. You have useful
-        beach-area staples like Juana&apos;s Pagodas, Sailors&apos; Grill, Windjammers on the Pier,
+        beach-area staples like Juana&apos;s Pagodas, Sailors&apos; Grill, <a href="https://windjammersnavarrepier.com/" target="_blank" rel="noopener noreferrer">Windjammers</a> on the Pier,
         and Beach House Social, but you won&apos;t find a deep restaurant lineup. For some travelers,
         that&apos;s fine. Dinner is casual, nights are quiet, and nobody is trying to turn the trip
         into a production.
       </p>
       <p>
-        Pensacola Beach has a much stronger food and nightlife scene. Peg Leg Pete&apos;s,
-        Flounder&apos;s, Casino Beach Bar &amp; Grille, and the Boardwalk area give you more choices
+        Pensacola Beach has a much stronger food and nightlife scene. <a href="https://www.peglegpetes.com/" target="_blank" rel="noopener noreferrer">Peg Leg Pete&apos;s</a>,
+        <a href="https://www.flounderschowderhouse.com/" target="_blank" rel="noopener noreferrer">Flounder&apos;s</a>, <a href="https://casinobeachbar.com/" target="_blank" rel="noopener noreferrer">Casino Beach Bar</a> &amp; Grille, and the Boardwalk area give you more choices
         without leaving the island. If you want better dinner options, breweries, live music, or a
         rainy-day plan, downtown Pensacola is close enough to matter. Navarre is better for early
         nights; Pensacola Beach is better for people who still want something to do after dinner.

@@ -6,7 +6,7 @@ export default function GulfStateParkGuideContent() {
   return (
     <>
       <p className="text-xl text-navy/80 leading-relaxed font-medium">
-        Gulf State Park is the reason Alabama&apos;s beach towns feel different from the Florida
+        <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a> is the reason Alabama&apos;s beach towns feel different from the Florida
         Panhandle. Two miles of undeveloped shoreline, roughly 28 miles of paved trail through nine
         distinct ecosystems, a fishing pier that runs out into the Gulf, and lodging that ranges from
         a tent site to a Hilton — all inside one park, sitting directly between{' '}
@@ -112,7 +112,7 @@ export default function GulfStateParkGuideContent() {
         <li><strong>The campground</strong> — large, well-run, with nightly, weekly, and monthly rates. Snowbirds fill it all winter.</li>
         <li><strong>Lakeside Cabins</strong> — on the freshwater lakes rather than the Gulf, quiet and wooded.</li>
         <li><strong>Eagle Cottages</strong> — the upscale cottage option, small and books far ahead.</li>
-        <li><strong>The Lodge at Gulf State Park</strong> — a Hilton directly on the Gulf, and the only way to be inside the park with hotel service.</li>
+        <li><strong><a href="https://lodgeatgulfstatepark.com/" target="_blank" rel="noopener noreferrer">The Lodge at Gulf State Park</a></strong> — a Hilton directly on the Gulf, and the only way to be inside the park with hotel service.</li>
       </ul>
       <p>
         Staying in the park means free pier access and no daily parking fee, which adds up over a

@@ -70,7 +70,7 @@ export default function QuietestGulfCoastBeachesContent() {
 
       <h2>6. Navarre Beach</h2>
       <p>
-        Bounded on both sides by Gulf Islands National Seashore, which means it physically cannot
+        Bounded on both sides by <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a>, which means it physically cannot
         sprawl — a mile of development between miles of protected nothing. The most accessible quiet
         beach on this list, and the one you can actually stay on. Our{' '}
         <Link href="/blog/navarre-beach-guide">Navarre Beach guide</Link> has the detail.
@@ -106,11 +106,11 @@ export default function QuietestGulfCoastBeachesContent() {
       </p>
       <p>
         A reasonable compromise: base somewhere with amenities and day-trip to the quiet ones. Stay in
-        Gulf Shores and drive out to Fort Morgan; stay on Pensacola Beach and drive to Fort Pickens.
+        Gulf Shores and drive out to Fort Morgan; stay on Pensacola Beach and drive to <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a>.
         You get both.
       </p>
       <p>
-        If you want quiet with facilities, the state parks are the answer — Gulf State Park and
+        If you want quiet with facilities, the state parks are the answer — <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a> and
         Grayton both give you empty-ish sand plus restrooms and parking.
       </p>
 

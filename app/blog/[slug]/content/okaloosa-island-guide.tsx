@@ -130,7 +130,7 @@ export default function OkaloosaIslandGuideContent() {
       <h2>A Day That Works</h2>
       <ul>
         <li><strong>Morning:</strong> beach, walking away from the main access</li>
-        <li><strong>Midday:</strong> Gulfarium or lunch at the Boardwalk if the heat is up</li>
+        <li><strong>Midday:</strong> <a href="https://gulfarium.com/" target="_blank" rel="noopener noreferrer">Gulfarium</a> or lunch at the Boardwalk if the heat is up</li>
         <li><strong>Afternoon:</strong> the pier, or 15 minutes east to{' '}
           <Link href="/blog/crab-island-destin-guide">Crab Island</Link> or{' '}
           <Link href="/blog/henderson-beach-state-park-guide">Henderson Beach</Link></li>

@@ -45,8 +45,8 @@ export default function Is30AWorthItContent() {
       <h2>The Best Part Is the Mix of Beach Towns and Nature</h2>
       <p>
         The best version of 30A uses both the towns and the natural areas. The state parks are a major
-        part of the experience: Grayton Beach State Park gives you beach access, trails, and coastal
-        dune lake scenery with fewer crowds than the busiest town centers; Topsail Hill Preserve State
+        part of the experience: <a href="https://www.floridastateparks.org/parks-and-trails/grayton-beach-state-park" target="_blank" rel="noopener noreferrer">Grayton Beach State Park</a> gives you beach access, trails, and coastal
+        dune lake scenery with fewer crowds than the busiest town centers; <a href="https://www.floridastateparks.org/parks-and-trails/topsail-hill-preserve-state-park" target="_blank" rel="noopener noreferrer">Topsail Hill Preserve</a> State
         Park is more nature-forward; and Deer Lake is smaller and quieter. 30A&apos;s rare coastal dune
         lakes give the area a landscape you don&apos;t get in every beach destination.
       </p>

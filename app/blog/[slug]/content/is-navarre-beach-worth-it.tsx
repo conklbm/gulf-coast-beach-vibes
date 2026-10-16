@@ -99,8 +99,8 @@ export default function IsNavarreBeachWorthItContent() {
       <p>
         Choose <Link href="/destinations/destin">Destin</Link> for shopping, charter boats, and
         nightlife; <Link href="/destinations/panama-city-beach">Panama City Beach</Link> for waterparks
-        and Pier Park; <Link href="/destinations/pensacola-beach">Pensacola Beach</Link> for a slightly
-        more active island trip with Fort Pickens; 30A for design-forward beach towns; and{' '}
+        and <a href="https://www.simon.com/mall/pier-park" target="_blank" rel="noopener noreferrer">Pier Park</a>; <Link href="/destinations/pensacola-beach">Pensacola Beach</Link> for a slightly
+        more active island trip with <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a>; 30A for design-forward beach towns; and{' '}
         <Link href="/destinations/gulf-shores">Gulf Shores</Link> for a classic family beach town.
         Navarre Beach is best when quiet is the point, and weaker when quiet feels like a problem.
       </p>
@@ -119,7 +119,7 @@ export default function IsNavarreBeachWorthItContent() {
       <p>
         Navarre Beach is worth it if you want a quieter, simpler Florida Panhandle beach trip. Go for
         the white sand, clear Gulf water, long fishing pier, marine park, snorkel reefs, sea turtle
-        center, and access to Gulf Islands National Seashore. Skip it if you want nightlife, shopping,
+        center, and access to <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a>. Skip it if you want nightlife, shopping,
         packed restaurants, dogs on the beach, or a polished 30A-style town-hopping trip. The best
         version is simple: stay near the beach, walk the pier, check the flags, visit the marine park,
         and add Opal Beach if conditions are good.

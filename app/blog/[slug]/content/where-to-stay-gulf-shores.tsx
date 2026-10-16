@@ -23,7 +23,7 @@ export default function WhereToStayGulfShoresContent() {
       <ul>
         <li>Stay near <strong>Gulf Place</strong> for a first trip, a short visit, or limited driving</li>
         <li>Choose <strong>West Beach</strong> for the best balance of convenience and quieter surroundings</li>
-        <li>Stay near or inside <strong>Gulf State Park</strong> for trails, cycling, and protected coastal scenery</li>
+        <li>Stay near or inside <strong><a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a></strong> for trails, cycling, and protected coastal scenery</li>
         <li>Choose <strong>Fort Morgan</strong> for a secluded beach week or a large family house</li>
         <li>Look <strong>north of the beach</strong> when you want a traditional hotel and plan to drive</li>
       </ul>
@@ -92,7 +92,7 @@ export default function WhereToStayGulfShoresContent() {
       </p>
       <p>Inside the park itself, the lodging options are genuinely different from a condo week:</p>
       <ul>
-        <li><strong>The Lodge at Gulf State Park</strong> — a full-service Gulf-front hotel</li>
+        <li><strong><a href="https://lodgeatgulfstatepark.com/" target="_blank" rel="noopener noreferrer">The Lodge at Gulf State Park</a></strong> — a full-service Gulf-front hotel</li>
         <li><strong>Lakeside cabins and Eagle Cottages</strong> — furnished, tucked along Lake Shelby and among longleaf pines</li>
         <li><strong>The main campground and RV resort</strong> — about 1.5 miles from the beach</li>
       </ul>
@@ -115,7 +115,7 @@ export default function WhereToStayGulfShoresContent() {
         driving, and combine errands into one run to town.
       </p>
       <p>
-        The Mobile Bay Ferry departs near the fort and crosses to{' '}
+        The <a href="https://mobilebayferry.com/" target="_blank" rel="noopener noreferrer">Mobile Bay Ferry</a> departs near the fort and crosses to{' '}
         <Link href="/destinations/dauphin-island">Dauphin Island</Link> in about 40 minutes — a trip
         worth taking just for the view across the mouth of Mobile Bay, which makes the defensive
         purpose of Fort Morgan and Fort Gaines immediately clear.

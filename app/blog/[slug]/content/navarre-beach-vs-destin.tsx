@@ -12,7 +12,7 @@ export default function NavarreBeachVsDestinContent() {
       </p>
       <p>
         <Link href="/destinations/destin">Destin</Link> is the opposite. It has the famous emerald
-        water, plus fishing charters, dolphin cruises, Crab Island, HarborWalk Village, restaurants,
+        water, plus fishing charters, dolphin cruises, Crab Island, <a href="https://www.harborwalkvillage.com/" target="_blank" rel="noopener noreferrer">HarborWalk Village</a>, restaurants,
         shopping, nightlife, and enough activity to fill a whole week without much effort.
       </p>
       <p>
@@ -26,7 +26,7 @@ export default function NavarreBeachVsDestinContent() {
         between <Link href="/destinations/pensacola-beach">Pensacola Beach</Link> to the west and{' '}
         <Link href="/destinations/fort-walton-beach">Fort Walton Beach</Link> to the east. You reach
         it by crossing the Navarre Beach Causeway from the mainland town of Navarre. It is bounded on
-        both sides by Gulf Islands National Seashore, which is the single most important fact about
+        both sides by <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a>, which is the single most important fact about
         the place: federally protected land means it physically cannot sprawl. No high-rise wall, no
         condo canyon, no strip of chain restaurants running for miles.
       </p>
@@ -87,7 +87,7 @@ export default function NavarreBeachVsDestinContent() {
         the harbor makes it easy to book dolphin cruises, sunset cruises, snorkeling trips,
         parasailing, Jet Ski rentals, and boat days. Crab Island, a shallow sandbar near the Destin
         Bridge where boats gather in clear water, is one of the biggest reasons people choose Destin.
-        Destin also has HarborWalk Village, Henderson Beach State Park, Destin Commons, arcades, and
+        Destin also has HarborWalk Village, <a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson Beach State Park</a>, Destin Commons, arcades, and
         plenty of rainy-day options.
       </p>
       <div className="not-prose flex flex-col sm:flex-row gap-3 my-6">
@@ -104,14 +104,14 @@ export default function NavarreBeachVsDestinContent() {
       <h2>Food and Nightlife</h2>
       <p>
         Navarre Beach has a small food scene. You&apos;ll find useful beach-area spots like
-        Juana&apos;s Pagodas, Sailors&apos; Grill, Windjammers on the Pier, and Beach House Social,
+        Juana&apos;s Pagodas, Sailors&apos; Grill, <a href="https://windjammersnavarrepier.com/" target="_blank" rel="noopener noreferrer">Windjammers</a> on the Pier, and Beach House Social,
         but this is not the place to come for a long restaurant list. That can be a good thing.
         Navarre Beach works well when you want casual meals, early nights, and less decision-making.
       </p>
       <p>
         Destin is much stronger for food and nightlife. The harbor area has waterfront restaurants,
-        seafood spots, bars, live music, and that busy evening vacation feel. Places like Boshamps,
-        Brotula&apos;s, AJ&apos;s, The Back Porch, and McGuire&apos;s give visitors plenty of familiar
+        seafood spots, bars, live music, and that busy evening vacation feel. Places like <a href="https://www.boshamps.com/" target="_blank" rel="noopener noreferrer">Boshamps</a>,
+        <a href="https://www.brotulas.com/" target="_blank" rel="noopener noreferrer">Brotula&apos;s</a>, AJ&apos;s, <a href="https://www.theback-porch.com/" target="_blank" rel="noopener noreferrer">The Back Porch</a>, and McGuire&apos;s give visitors plenty of familiar
         choices. Navarre Beach is better for quiet nights; Destin is better when dinner is part of the
         entertainment.
       </p>

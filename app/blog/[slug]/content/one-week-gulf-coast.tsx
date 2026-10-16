@@ -38,11 +38,11 @@ export default function OneWeekGulfCoastContent() {
       <h2>Days 1–2: Start Slow on the Alabama Coast</h2>
       <p>
         <strong>Day 1 (Dauphin Island):</strong> Begin where it forces you to slow down. Visit the
-        Audubon Bird Sanctuary, the Alabama Aquarium at the Dauphin Island Sea Lab, or Fort Gaines,
+        Audubon Bird Sanctuary, the <a href="https://www.disl.edu/aquarium/" target="_blank" rel="noopener noreferrer">Alabama Aquarium</a> at the Dauphin Island Sea Lab, or Fort Gaines,
         walk the beach, and watch sunset. Don&apos;t race to Gulf Shores the same afternoon.
       </p>
       <p>
-        <strong>Day 2 (Ferry, Fort Morgan, Gulf Shores):</strong> Take the Mobile Bay Ferry to Fort
+        <strong>Day 2 (Ferry, Fort Morgan, Gulf Shores):</strong> Take the <a href="https://mobilebayferry.com/" target="_blank" rel="noopener noreferrer">Mobile Bay Ferry</a> to Fort
         Morgan if the schedule and weather cooperate (check it first, and drive around if it
         doesn&apos;t), tour Fort Morgan, then arrive at Gulf Place for sunset and an easy Gulf Shores
         dinner.
@@ -50,14 +50,14 @@ export default function OneWeekGulfCoastContent() {
 
       <h2>Days 3–4: Use Gulf Shores, Orange Beach, and Pensacola Beach Properly</h2>
       <p>
-        <strong>Day 3:</strong> Make Gulf State Park your morning anchor, then choose the afternoon:
+        <strong>Day 3:</strong> Make <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a> your morning anchor, then choose the afternoon:
         stay in Gulf Shores for central beach time, or head toward Orange Beach for the Perdido Pass
-        area, the Coastal Arts Center, and The Wharf in the evening. Don&apos;t overdo it; protect the
+        area, the Coastal Arts Center, and <a href="https://www.alwharf.com/" target="_blank" rel="noopener noreferrer">The Wharf</a> in the evening. Don&apos;t overdo it; protect the
         middle of the day.
       </p>
       <p>
         <strong>Day 4:</strong> Move into the Florida Panhandle. Do Pensacola Beach first, then use
-        Fort Pickens and Gulf Islands National Seashore as your main nature-and-history stop (check
+        <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a> and <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a> as your main nature-and-history stop (check
         National Park Service conditions). In summer, the trolley helps with evening movement. Sleep in
         Pensacola Beach or Navarre.
       </p>
@@ -75,7 +75,7 @@ export default function OneWeekGulfCoastContent() {
       </p>
       <p>
         <strong>Day 6:</strong> This is the biggest decision. Choose <strong>Destin</strong> for harbor
-        energy, boat tours, and Crab Island (reserve Henderson Beach State Park if that&apos;s your
+        energy, boat tours, and Crab Island (reserve <a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson Beach State Park</a> if that&apos;s your
         beach plan), or <strong>30A</strong> for scenic beach towns, bike paths, and state parks. Pick
         one side and one main stop rather than trying to see all of it. For a first sampler, I&apos;d
         lean 30A unless the group specifically wants boats.
@@ -83,10 +83,10 @@ export default function OneWeekGulfCoastContent() {
 
       <h2>Day 7: End With Panama City Beach</h2>
       <p>
-        Panama City Beach gives the trip a bigger final chapter. Make St. Andrews State Park the anchor,
+        Panama City Beach gives the trip a bigger final chapter. Make <a href="https://www.floridastateparks.org/parks-and-trails/st-andrews-state-park" target="_blank" rel="noopener noreferrer">St. Andrews State Park</a> the anchor,
         going early, with Shell Island as a highlight if the ferry, weather, and group energy line up
         (pack water, food, and shade, since there are no facilities). If that&apos;s too much, walk
-        Russell-Fields Pier, spend time near the Pier Park beach area, and take one final beach walk
+        Russell-Fields Pier, spend time near the <a href="https://www.simon.com/mall/pier-park" target="_blank" rel="noopener noreferrer">Pier Park</a> beach area, and take one final beach walk
         before leaving.
       </p>
 
@@ -98,7 +98,7 @@ export default function OneWeekGulfCoastContent() {
         Grayton, Topsail, Henderson, St. Andrews). Don&apos;t leave beach gear overnight anywhere on
         this route, and don&apos;t assume your dog can go on the sand, since rules vary by county and
         access. Keep weather backups in mind: the Alabama Aquarium, Fort Gaines, the Coastal Arts
-        Center, Gulfarium, the Air Force Armament Museum, and the National Naval Aviation Museum.
+        Center, <a href="https://gulfarium.com/" target="_blank" rel="noopener noreferrer">Gulfarium</a>, the Air Force Armament Museum, and the <a href="https://www.navalaviationmuseum.org/" target="_blank" rel="noopener noreferrer">National Naval Aviation Museum</a>.
       </p>
 
       <h2>One-Week Gulf Coast Itinerary at a Glance</h2>
