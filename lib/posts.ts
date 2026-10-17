@@ -1170,6 +1170,26 @@ export const posts: Post[] = [
     publishedAt: '2026-09-11',
     readTime: '6 min read',
   },
+  {
+    slug: 'best-restaurants-orange-beach',
+    title: 'Best Orange Beach Restaurants: A Local\'s Guide',
+    excerpt:
+      'Where to eat in Orange Beach, AL, from a Mobile local: our favorite spot at Perdido Pass, plus well-reviewed seafood, waterfront, and date-night tables.',
+    category: 'Things to Do',
+    heroImage: '/images/local/the-gulf-orange-beach-menu-board.webp',
+    publishedAt: '2026-10-14',
+    readTime: '7 min read',
+  },
+  {
+    slug: 'gulf-coast-in-november',
+    title: 'Gulf Coast in November 2026: Is It Worth It?',
+    excerpt:
+      'Highs near 70°F, Gulf water in the upper 60s, and empty beaches outside Thanksgiving week. What November really feels like from Gulf Shores to Destin.',
+    category: 'Travel Tips',
+    heroImage: '/images/local/ob-fall-sunset-beach-2.webp',
+    publishedAt: '2026-10-14',
+    readTime: '7 min read',
+  },
 ]
 
 export function getPostBySlug(slug: string): Post | undefined {
