@@ -249,3 +249,5 @@ Key slugs to use in content:
 - **No deletions, unpublishing, or URL/slug changes without Brooks's explicit OK.**
 - **Verify every deploy is live** (curl production or the preview URL and confirm the change).
 - **Log every SEO change in `SEO-CHANGELOG.md`** (date, commit, URL, change type, what changed, why/GSC query, baseline GSC numbers, recheck date). Add pending rows for PR changes and fill in the commit when merged.
+- **Git auth (2026-10-17):** push with the repo-scoped fine-grained token in `GCBV_GITHUB_TOKEN` via the local credential helper. Never print the token or put it in the remote URL. Don't use the old box-wide `gh` login.
+- **Hard rule:** never delete or transfer the repo, Vercel project, domain, env settings or branch protection. Fix a bad deploy by rolling back.
