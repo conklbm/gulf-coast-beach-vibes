@@ -1172,7 +1172,7 @@ export const posts: Post[] = [
   },
   {
     slug: 'watching-starship-launch-south-padre-island',
-    title: 'Watching a Starship Launch from South Padre Island: 2026 Guide',
+    title: 'South Padre Island Starship Launch Viewing Guide',
     excerpt:
       'Where to watch a SpaceX Starship launch from South Padre Island, how Starbase beach closures and text alerts work, and how to find the next launch date.',
     category: 'Travel Tips',
