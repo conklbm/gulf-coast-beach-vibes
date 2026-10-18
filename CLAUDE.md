@@ -251,3 +251,4 @@ Key slugs to use in content:
 - **Log every SEO change in `SEO-CHANGELOG.md`** (date, commit, URL, change type, what changed, why/GSC query, baseline GSC numbers, recheck date). Add pending rows for PR changes and fill in the commit when merged.
 - **Git auth (2026-10-17):** push with the repo-scoped fine-grained token in `GCBV_GITHUB_TOKEN` via the local credential helper. Never print the token or put it in the remote URL. Don't use the old box-wide `gh` login.
 - **Hard rule:** never delete or transfer the repo, Vercel project, domain, env settings or branch protection. Fix a bad deploy by rolling back.
+- **Pre-merge review (Brooks, 2026-10-17), scaled to size:** content/copy edits get a quick check: build passes, changed pages load, links work. Code, config, dependency or settings changes get a layered review before pushing: (1) does it do what was intended, (2) bugs, security, exposed secrets, (3) style. Fix issues before pushing.
