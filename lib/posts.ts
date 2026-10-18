@@ -1170,6 +1170,16 @@ export const posts: Post[] = [
     publishedAt: '2026-09-11',
     readTime: '6 min read',
   },
+  {
+    slug: 'watching-starship-launch-south-padre-island',
+    title: 'Watching a Starship Launch from South Padre Island: 2026 Guide',
+    excerpt:
+      'Where to watch a SpaceX Starship launch from South Padre Island, how Starbase beach closures and text alerts work, and how to find the next launch date.',
+    category: 'Travel Tips',
+    heroImage: '/images/south-padre-island-beach.webp',
+    publishedAt: '2026-10-18',
+    readTime: '7 min read',
+  },
 ]
 
 export function getPostBySlug(slug: string): Post | undefined {

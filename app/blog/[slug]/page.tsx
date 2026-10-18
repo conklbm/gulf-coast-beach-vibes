@@ -135,7 +135,9 @@ import Best30ABeachesRankedContent from './content/best-30a-beaches-ranked'
 import DestinFromJacksonvilleContent from './content/destin-from-jacksonville'
 import BestWaterfrontRestaurantsFortWaltonBeachContent from './content/best-waterfront-restaurants-fort-walton-beach'
 
+import WatchingStarshipLaunchSouthPadreIslandContent from './content/watching-starship-launch-south-padre-island'
 const CONTENT_MAP: Record<string, React.ComponentType> = {
+  'watching-starship-launch-south-padre-island': WatchingStarshipLaunchSouthPadreIslandContent,
   'best-breakfast-gulf-coast': BestBreakfastGulfCoastContent,
   'quietest-gulf-coast-beaches': QuietestGulfCoastBeachesContent,
   'best-30a-beaches-ranked': Best30ABeachesRankedContent,

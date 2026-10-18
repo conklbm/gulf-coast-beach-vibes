@@ -25,6 +25,7 @@ const affiliateLinks: Record<string, string> = {
   'booking-destin':             'https://tp.media/click?shmarker=293410&promo_id=2962&source_type=link&type=click&campaign_id=84&trs=177474', // fallback tracked — swap for tp.st deep link
   'booking-pensacola-beach':    'https://tp.media/click?shmarker=293410&promo_id=2962&source_type=link&type=click&campaign_id=84&trs=177474', // fallback tracked — swap for tp.st deep link
   'booking-orange-beach':       'https://tp.media/click?shmarker=293410&promo_id=2962&source_type=link&type=click&campaign_id=84&trs=177474', // fallback tracked — swap for tp.st deep link
+  'booking-south-padre-island': 'https://tp.media/click?shmarker=293410&promo_id=2962&source_type=link&type=click&campaign_id=84&trs=177474', // fallback tracked — swap for tp.st deep link
   'booking-panama-city-beach':  'https://tp.media/click?shmarker=293410&promo_id=2962&source_type=link&type=click&campaign_id=84&trs=177474', // fallback tracked — swap for tp.st deep link
   'booking-fort-walton-beach':  'https://tp.media/click?shmarker=293410&promo_id=2962&source_type=link&type=click&campaign_id=84&trs=177474', // fallback tracked — swap for tp.st deep link
   'booking-navarre-beach':      'https://tp.media/click?shmarker=293410&promo_id=2962&source_type=link&type=click&campaign_id=84&trs=177474', // fallback tracked — swap for tp.st deep link
@@ -46,6 +47,7 @@ const affiliateLinks: Record<string, string> = {
   // Until then these all route through the tracked general link.
   'vrbo-gulf-shores':           'https://vrbo.tpx.lv/vDbm8Z1S',  // fallback tracked — swap for destination deep link
   'vrbo-orange-beach':          'https://vrbo.tpx.lv/vDbm8Z1S',  // fallback tracked — swap for destination deep link
+  'vrbo-south-padre-island':    'https://vrbo.tpx.lv/vDbm8Z1S',  // fallback tracked — swap for destination deep link
   'vrbo-destin':                'https://vrbo.tpx.lv/vDbm8Z1S',  // fallback tracked — swap for destination deep link
   'vrbo-pensacola-beach':       'https://vrbo.tpx.lv/vDbm8Z1S',  // fallback tracked — swap for destination deep link
   'vrbo-30a':                   'https://vrbo.tpx.lv/vDbm8Z1S',  // fallback tracked — swap for destination deep link
