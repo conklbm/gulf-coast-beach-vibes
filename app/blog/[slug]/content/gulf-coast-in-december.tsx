@@ -50,6 +50,118 @@ export default function GulfCoastInDecemberContent() {
         can still have rough surf and double-red closures, and wind can make a mild day feel colder.
       </p>
 
+      <h2>Christmas on the Gulf Coast: 2026 Events</h2>
+      <p>
+        Christmas on the coast looks different: lighted boats instead of snow, tree lightings by the
+        water, and a beach walk on Christmas morning. These are 2026 events posted by the organizers or
+        official tourism and city sites as of October 2026. Dates can change, so confirm on each event
+        page before you plan around one.
+      </p>
+
+      <h3>Gulf Shores, Orange Beach &amp; Dauphin Island</h3>
+      <ul>
+        <li>
+          <strong>Annual Coastal Christmas Market</strong> (Nov. 21–22) at the Orange Beach Event Center
+          at The Wharf, per 
+          <a href="https://www.gulfshores.com/event-categories/holiday/coastal-christmas/" target="_blank" rel="noopener noreferrer">
+            Alabama&apos;s Beaches&apos; Coastal Christmas calendar
+          </a>
+          .
+        </li>
+        <li>
+          <strong>Christmas Tree Lighting at The Wharf</strong> (Tuesday, Dec. 1), listed on{' '}
+          <a href="https://alwharf.com/events" target="_blank" rel="noopener noreferrer">The Wharf&apos;s events</a>.
+        </li>
+        <li>
+          <strong>
+            <a href="https://www.gulfshores.com/events-calendar/christmas/lights-of-dauphin-island/" target="_blank" rel="noopener noreferrer">
+              Lights of Dauphin Island
+            </a>
+          </strong> 
+          (Saturday, Dec. 5, 6 p.m., weather permitting): the 
+          <a href="https://dauphinislandchamber.com/" target="_blank" rel="noopener noreferrer">Dauphin Island Chamber of Commerce</a> lights
+          a plaza of community-decorated trees at Water Tower Plaza, with Santa and hot chocolate.
+        </li>
+        <li>
+          <strong>
+            <a href="https://www.gulfshores.com/events-calendar/annual-events-and-festivals/the-annual-christmas-lighted-boat-parade/" target="_blank" rel="noopener noreferrer">
+              Christmas Lighted Boat Parade
+            </a>
+          </strong> 
+          (estimated Saturday, Dec. 12, at dusk): lit boats cruise the Intracoastal Waterway from Gulf
+          Shores toward Orange Beach. The tourism office suggests 
+          <a href="https://lulusfunfoodmusic.com/" target="_blank" rel="noopener noreferrer">LuLu&apos;s</a> and The Wharf as public viewing
+          spots. The date is marked as an estimate until it&apos;s confirmed.
+        </li>
+        <li>
+          <strong>Very Merry Tree Walk</strong> at Downtown 
+          <a href="https://visitowa.com/" target="_blank" rel="noopener noreferrer">OWA</a> in Foley (decorated trees, voting Nov. 21–Dec. 23).
+        </li>
+        <li>
+          <strong>
+            <a href="https://bellingrath.org/discover/magic-christmas-in-lights/" target="_blank" rel="noopener noreferrer">
+              Magic Christmas in Lights at Bellingrath Gardens
+            </a>
+          </strong> 
+          (Nov. 20, 2026–Jan. 9, 2027, 5–9 p.m.; closed Nov. 25, Nov. 26, Dec. 25 and Jan. 1) in
+          Theodore, near Mobile. It&apos;s the big Christmas lights trip from Dauphin Island or the
+          Alabama beaches. Tickets are non-refundable and evening pricing applies.
+        </li>
+      </ul>
+
+      <h3>Destin &amp; Sandestin</h3>
+      <ul>
+        <li>
+          <strong>
+            <a href="https://www.cityofdestin.com/Calendar.aspx?EID=6829" target="_blank" rel="noopener noreferrer">
+              City of Destin Christmas Tree Lighting
+            </a>
+          </strong> 
+          (Thursday, Dec. 3, 6–8 p.m., Destin Community Center).
+        </li>
+        <li>
+          <strong>
+            <a href="https://www.cityofdestin.com/Calendar.aspx?EID=7331" target="_blank" rel="noopener noreferrer">
+              City of Destin Christmas Parade
+            </a>
+          </strong> 
+          (Saturday, Dec. 12, 10 a.m.).
+        </li>
+        <li>
+          <strong>Sparkling Wine &amp; Holiday Lights</strong> (Saturday, Nov. 21, 4–6 p.m., ticketed)
+          at the 
+          <a href="https://www.baytownewharf.com/" target="_blank" rel="noopener noreferrer">Village of Baytowne Wharf</a> in Sandestin,
+          ending with the village&apos;s choreographed Nights of Lights show. Details are on the 
+          <a href="https://sandestinwinefestival.com/sparkling-wine/" target="_blank" rel="noopener noreferrer">event page</a>.
+        </li>
+      </ul>
+
+      <h3>Pensacola &amp; Panama City Beach</h3>
+      <ul>
+        <li>
+          <strong>
+            <a href="https://www.pensacolawinterfest.org/" target="_blank" rel="noopener noreferrer">Pensacola Winterfest</a>
+          </strong> 
+          in downtown Pensacola opens Friday, Nov. 27 with the free Elf Parade. Ticketed trolley tours
+          and Santa photos run on select nights through Christmas Eve.
+        </li>
+        <li>
+          <strong>
+            <a href="https://www.visitpanamacitybeach.com/events/holiday-events/beach-home-for-the-holidays/" target="_blank" rel="noopener noreferrer">
+              Beach Home for the Holidays
+            </a>
+          </strong> 
+          (Nov. 27–28) at Aaron Bessant Park in Panama City Beach kicks off the season with a tree
+          lighting, Santa, concerts and fireworks.
+        </li>
+      </ul>
+
+      <TipCallout title="Christmas Day Dining" variant="info">
+        Many restaurants close or run short hours on Christmas Eve and Christmas Day. Alabama&apos;s
+        Beaches keeps a list of restaurants open over Christmas on its Coastal Christmas page; elsewhere,
+        call ahead or book a rental with a full kitchen.
+      </TipCallout>
+
       <h2>Best Gulf Coast Beaches in December by Trip Type</h2>
       <p>
         <strong>Quiet:</strong> <Link href="/destinations/dauphin-island">Dauphin Island</Link> or{' '}

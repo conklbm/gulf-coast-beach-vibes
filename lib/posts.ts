@@ -1062,9 +1062,9 @@ export const posts: Post[] = [
   },
   {
     slug: 'fort-pickens-day-guide',
-    title: 'Fort Pickens and Gulf Islands National Seashore: How to Spend a Day',
+    title: 'Gulf Islands National Seashore: A Fort Pickens Day Guide',
     excerpt:
-      'A 19th-century fort at the end of seven miles of empty dunes. The $25 entry covers a week, the road floods after storms, and it is the emptiest good beach on the island.',
+      'Plan a day in Gulf Islands National Seashore at Fort Pickens: a 19th-century fort, seven miles of quiet dunes, a $25 week pass, and road-closure tips.',
     category: 'Things to Do',
     heroImage: '/images/best-beaches-pensacola-area.webp',
     publishedAt: '2026-09-11',
