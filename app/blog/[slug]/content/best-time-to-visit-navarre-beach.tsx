@@ -58,6 +58,9 @@ export default function BestTimeToVisitNavarreBeachContent() {
         scenic drive through <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a> toward{' '}
         <Link href="/destinations/pensacola-beach">Pensacola Beach</Link>.
       </p>
+      <p>
+        For what it&apos;s worth, fall is my family&apos;s favorite time to visit Navarre.
+      </p>
       <div className="not-prose my-6">
         <AffiliateLink href="tripshock-pensacola-navarre" label="Book Navarre-Area Activities" provider="generic" />
       </div>

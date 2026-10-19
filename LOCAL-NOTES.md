@@ -45,3 +45,4 @@ Source of truth for personal details used in articles. Only use what's written h
 - He's been to Navarre and loves it; calls it "a relaxed, chilled-out beach."
 - Recommends driving the Gulf Islands National Seashore road (Hwy 399) between Navarre and Pensacola Beach; they've driven it multiple times.
 - The first-person line in things-to-do-in-navarre ("I make it for the landscape as much as the destination") is confirmed; keep it.
+- Fall is the family's favorite time to visit Navarre (relayed 2026-10-19 with his Navarre fall-trip album).

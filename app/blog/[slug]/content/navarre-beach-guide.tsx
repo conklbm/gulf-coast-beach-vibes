@@ -15,6 +15,7 @@ export default function NavarreBeachGuideContent() {
         I&apos;ve been to Navarre, and I love it. It&apos;s a relaxed, chilled-out beach. If you
         stay here, drive the Gulf Islands National Seashore road (Highway 399) between Navarre and
         Pensacola Beach. We&apos;ve driven it multiple times, and it&apos;s the drive I recommend.
+        Fall is my family&apos;s favorite time to visit.
       </p>
 
       <h2>Why Navarre Beach Is Still a Secret</h2>
