@@ -1,3 +1,4 @@
+import Image from 'next/image'
 import TipCallout from '@/components/TipCallout'
 import AffiliateLink from '@/components/AffiliateLink'
 import Link from 'next/link'
@@ -211,6 +212,19 @@ export default function NavarreBeachGuideContent() {
           beach trip logistics.
         </li>
       </ul>
+
+      <figure className="not-prose my-6">
+        <Image
+          src="/images/local/navarre-fall-family-selfie.webp"
+          alt="Our family on a sunny fall day in Navarre, Florida"
+          width={1200}
+          height={900}
+          className="rounded-2xl w-full h-auto"
+        />
+        <figcaption className="text-sm text-navy/60 mt-2">
+          Our family in Navarre in the fall. Brooks&apos;s own photo.
+        </figcaption>
+      </figure>
 
       <h2>Navarre Beach vs. the Neighbors</h2>
       <ul>

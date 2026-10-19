@@ -1,3 +1,4 @@
+import Image from 'next/image'
 import TipCallout from '@/components/TipCallout'
 import AffiliateLink from '@/components/AffiliateLink'
 import Link from 'next/link'
@@ -40,6 +41,19 @@ export default function BestThingsToDoNavarreBeachContent() {
         availability.
       </TipCallout>
 
+
+      <figure className="not-prose my-6">
+        <Image
+          src="/images/local/navarre-fall-balcony-2.webp"
+          alt="Looking out a sliding door to a Gulf-view balcony in Navarre on a fall afternoon"
+          width={1200}
+          height={1834}
+          className="rounded-2xl w-full h-auto"
+        />
+        <figcaption className="text-sm text-navy/60 mt-2">
+          A slow afternoon with a Gulf view in Navarre. Brooks&apos;s own photo.
+        </figcaption>
+      </figure>
       <h2>Walk or Fish the Navarre Beach Pier</h2>
       <p>
         The pier stretches 1,545 feet into the Gulf and rises 30 feet above the water — well beyond

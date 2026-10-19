@@ -1,3 +1,4 @@
+import Image from 'next/image'
 import TipCallout from '@/components/TipCallout'
 import AffiliateLink from '@/components/AffiliateLink'
 import Link from 'next/link'
@@ -59,6 +60,19 @@ export default function IsNavarreBeachWorthItContent() {
         Walk the pier early or near sunset. Midday can be hot, bright, and less pleasant, especially in
         summer.
       </TipCallout>
+
+      <figure className="not-prose my-6">
+        <Image
+          src="/images/local/navarre-fall-family-beach-2.webp"
+          alt="White sand and emerald Gulf water on a clear fall day in Navarre, Florida"
+          width={1200}
+          height={1600}
+          className="rounded-2xl w-full h-auto"
+        />
+        <figcaption className="text-sm text-navy/60 mt-2">
+          A clear fall day on our Navarre trip. Brooks&apos;s own photo.
+        </figcaption>
+      </figure>
 
       <h2>The Marine Park and Reefs Make the Beach More Interesting</h2>
       <p>

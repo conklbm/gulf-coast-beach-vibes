@@ -46,3 +46,4 @@ Source of truth for personal details used in articles. Only use what's written h
 - Recommends driving the Gulf Islands National Seashore road (Hwy 399) between Navarre and Pensacola Beach; they've driven it multiple times.
 - The first-person line in things-to-do-in-navarre ("I make it for the landscape as much as the destination") is confirmed; keep it.
 - Fall is the family's favorite time to visit Navarre (relayed 2026-10-19 with his Navarre fall-trip album).
+- Family photos (selfies and family shots) are OK to use on the site: "I'm good with family photos. I think it adds personality to the site." (2026-10-19). Navarre fall-trip album saved in public/images/local/navarre-fall-*.

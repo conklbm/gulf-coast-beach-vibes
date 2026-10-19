@@ -1,3 +1,4 @@
+import Image from 'next/image'
 import TipCallout from '@/components/TipCallout'
 import AffiliateLink from '@/components/AffiliateLink'
 import Link from 'next/link'
@@ -33,6 +34,19 @@ export default function BestTimeToVisitNavarreBeachContent() {
         morning can still wear you down in summer.
       </TipCallout>
 
+      <figure className="not-prose my-6">
+        <Image
+          src="/images/local/navarre-fall-family-beach-1.webp"
+          alt="Our family on a bright fall day in Navarre, with white sand and emerald Gulf water behind"
+          width={1200}
+          height={1600}
+          className="rounded-2xl w-full h-auto"
+        />
+        <figcaption className="text-sm text-navy/60 mt-2">
+          Fall in Navarre, our favorite time to visit. Brooks&apos;s own photo.
+        </figcaption>
+      </figure>
+
       <h2>Month-by-Month at a Glance</h2>
       <ul>
         <li><strong>January</strong> — quiet, cool; better for pier walks than swimming</li>
@@ -61,6 +75,7 @@ export default function BestTimeToVisitNavarreBeachContent() {
       <p>
         For what it&apos;s worth, fall is my family&apos;s favorite time to visit Navarre.
       </p>
+
       <div className="not-prose my-6">
         <AffiliateLink href="tripshock-pensacola-navarre" label="Book Navarre-Area Activities" provider="generic" />
       </div>
