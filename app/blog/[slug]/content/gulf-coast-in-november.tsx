@@ -85,6 +85,63 @@ export default function GulfCoastNovemberContent() {
         expect prices and traffic closer to a spring weekend and book early for those dates.
       </p>
 
+      <h2>Thanksgiving Week on the Gulf Coast</h2>
+      <p>
+        Thanksgiving falls on Thursday, Nov. 26, 2026. It&apos;s the one busy week of the month: families
+        rent whole condos, restaurants book up for the holiday meal, and the weekend after Thanksgiving
+        is when the coast switches over to Christmas. If you want a restaurant dinner on Thursday,
+        reserve ahead and confirm the hours. Otherwise, a rental with a full kitchen is the easy way to
+        cook the turkey yourself and still walk the beach afterward.
+      </p>
+
+      <h3>Destin &amp; Sandestin</h3>
+      <p>
+        The Destin area is still recovering from Hurricane Isaias. As of Oct. 14, the 
+        <a href="https://www.destinfwb.com/" target="_blank" rel="noopener noreferrer">Destin-Fort Walton Beach visitors bureau</a> said power
+        and essential services were widely restored but some service disruptions remained, so check
+        with your rental and any restaurant before you go. The weekend before Thanksgiving, the 
+        <a href="https://www.baytownewharf.com/" target="_blank" rel="noopener noreferrer">Village of Baytowne Wharf</a> in Sandestin holds
+        its ticketed Sparkling Wine &amp; Holiday Lights evening (Saturday, Nov. 21, 4–6 p.m.), which ends
+        with the village&apos;s Nights of Lights show.
+      </p>
+
+      <h3>Gulf Shores &amp; Orange Beach</h3>
+      <p>
+        The Annual Coastal Christmas Market runs Nov. 21–22 at the Orange Beach Event Center at The
+        Wharf, per 
+        <a href="https://www.gulfshores.com/event-categories/holiday/coastal-christmas/" target="_blank" rel="noopener noreferrer">
+          Alabama&apos;s Beaches
+        </a>
+        . On the Saturday after Thanksgiving (Nov. 28), 
+        <a href="https://alwharf.com/events" target="_blank" rel="noopener noreferrer">The Wharf</a> lists a Small Business Saturday shopping
+        day. If you&apos;re planning a lights night, note that 
+        <a href="https://bellingrath.org/discover/magic-christmas-in-lights/" target="_blank" rel="noopener noreferrer">
+          Bellingrath Gardens&apos; Magic Christmas in Lights
+        </a> 
+        opens Nov. 20 but is closed Nov. 25 and Thanksgiving Day.
+      </p>
+
+      <h3>Pensacola &amp; Panama City Beach</h3>
+      <p>
+        <a href="https://www.pensacolawinterfest.org/" target="_blank" rel="noopener noreferrer">Pensacola Winterfest</a> opens the day after
+        Thanksgiving (Friday, Nov. 27) with its free daytime Elf Parade downtown and ticketed evening
+        trolley tours. In Panama City Beach, 
+        <a href="https://www.visitpanamacitybeach.com/events/holiday-events/beach-home-for-the-holidays/" target="_blank" rel="noopener noreferrer">
+          Beach Home for the Holidays
+        </a> 
+        (Nov. 27–28) at Aaron Bessant Park brings a tree lighting, Santa, concerts and fireworks. Visit
+        Panama City Beach also keeps a 
+        <a href="https://www.visitpanamacitybeach.com/events/holiday-events/thanksgiving/" target="_blank" rel="noopener noreferrer">
+          Thanksgiving dinners and events guide
+        </a>
+        .
+      </p>
+
+      <TipCallout title="Book Thanksgiving Week Early" variant="tip">
+        Thanksgiving week is the one November stretch where condos and dinner reservations sell out.
+        Book the rental first, then the restaurant, and expect heavier traffic on the drive in and out.
+      </TipCallout>
+
       <h2>November Events and Seasonal Notes</h2>
       <ul>
         <li>
