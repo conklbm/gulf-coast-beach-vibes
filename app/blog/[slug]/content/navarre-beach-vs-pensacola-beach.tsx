@@ -74,6 +74,8 @@ export default function NavarreBeachVsPensacolaBeachContent() {
       <TipCallout title="You Can Combine Both" variant="tip">
         If you&apos;re torn between the two, stay in Pensacola Beach and drive to Navarre Beach for a
         quieter morning. They&apos;re close enough to combine, especially if you avoid peak traffic.
+        For the drive itself, I recommend the Gulf Islands National Seashore road (Highway 399)
+        between the two; we&apos;ve driven it multiple times.
       </TipCallout>
 
       <h2>Food and Nightlife</h2>

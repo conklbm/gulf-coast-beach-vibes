@@ -19,6 +19,11 @@ export default function IsNavarreBeachWorthItContent() {
         want a slower base where the main event is sand, water, fishing, and quiet mornings, Navarre
         makes a lot of sense.
       </p>
+      <p>
+        My take: I&apos;ve been to Navarre, and I love it. It&apos;s a relaxed, chilled-out beach.
+        And don&apos;t skip the Gulf Islands National Seashore road (Highway 399) between Navarre and
+        Pensacola Beach; we&apos;ve driven it multiple times.
+      </p>
 
       <h2>What Makes Navarre Beach Worth Visiting</h2>
       <p>

@@ -87,7 +87,8 @@ export default function BestThingsToDoNavarreBeachContent() {
         Highway 399 is one of the best coastal drives in Northwest Florida — dunes, white sand, and
         undeveloped <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a> on both sides. I make it for the landscape as
         much as the destination; once the buildings fall away, you finally see Santa Rosa Island as
-        the narrow barrier it is. Small free parking areas dot the route for quiet, no-facility
+        the narrow barrier it is. We&apos;ve driven it between Navarre and Pensacola Beach
+        multiple times, and it&apos;s the drive I recommend. Small free parking areas dot the route for quiet, no-facility
         beach stops, and Opal Beach adds restrooms, pavilions, and seasonal lifeguards (entrance
         fee; bring everything — no concessions). Check seashore alerts first: the road can close
         after storms, and pets are prohibited throughout this section. Our{' '}

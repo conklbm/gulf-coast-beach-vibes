@@ -11,6 +11,11 @@ export default function NavarreBeachGuideContent() {
         that feel like the Gulf Coast used to be before everyone found out about it. This is
         genuinely one of the best beaches in Florida that most people have never heard of.
       </p>
+      <p>
+        I&apos;ve been to Navarre, and I love it. It&apos;s a relaxed, chilled-out beach. If you
+        stay here, drive the Gulf Islands National Seashore road (Highway 399) between Navarre and
+        Pensacola Beach. We&apos;ve driven it multiple times, and it&apos;s the drive I recommend.
+      </p>
 
       <h2>Why Navarre Beach Is Still a Secret</h2>
       <p>

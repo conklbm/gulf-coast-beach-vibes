@@ -32,6 +32,7 @@ Source of truth for personal details used in articles. Only use what's written h
 ### Fort Morgan
 ### Perdido Key / Pensacola Beach
 ### Navarre
+**Brooks, 2026-10-19:** He's been to Navarre and loves it. "A relaxed, chilled-out beach." Recommends driving the Gulf Islands National Seashore road (Hwy 399) between Navarre and Pensacola Beach; they've driven it multiple times.
 ### Destin / Miramar / Okaloosa Island
 ### 30A (Seaside, Rosemary, Grayton, etc.)
 ### Panama City Beach
@@ -39,3 +40,8 @@ Source of truth for personal details used in articles. Only use what's written h
 ## Confirmed by Brooks (2026-10-16)
 - At The Gulf (Orange Beach), his order is almost always the shrimp and grits.
 - He grew up staying in a Gulf Shores beach house a few doors from where The Hangout stands.
+
+## Confirmed by Brooks (2026-10-19)
+- He's been to Navarre and loves it; calls it "a relaxed, chilled-out beach."
+- Recommends driving the Gulf Islands National Seashore road (Hwy 399) between Navarre and Pensacola Beach; they've driven it multiple times.
+- The first-person line in things-to-do-in-navarre ("I make it for the landscape as much as the destination") is confirmed; keep it.
