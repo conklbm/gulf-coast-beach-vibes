@@ -11,7 +11,7 @@ export default function BestBeachesDestinAreaContent() {
       </p>
       <p>
         The best beach in the <Link href="/destinations/destin">Destin</Link> area depends on the day
-        you want. Henderson Beach State Park is the best overall choice, but 2026 visitors need a
+        you want. <a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson Beach State Park</a> is the best overall choice, but 2026 visitors need a
         day-use reservation. James Lee Park is one of the easiest family beach days, Crystal Beach gives
         you the classic Destin shoreline, Norriego Point is best for harbor views,{' '}
         <Link href="/destinations/miramar-beach">Miramar Beach</Link> is a strong east-side option, and
@@ -37,8 +37,8 @@ export default function BestBeachesDestinAreaContent() {
       <p>
         James Lee Park, toward the east end near the Walton/Okaloosa County line, is one of the most
         practical beaches for families, with pavilions, 41 picnic tables, dune walkovers, a playground,
-        restrooms with changing rooms, showers, and 166 parking spaces. It&apos;s also near The Crab
-        Trap for food nearby. It still gets busy in summer, so arrive early, but it solves the boring
+        restrooms with changing rooms, showers, and 166 parking spaces. It&apos;s also near <a href="https://www.thecrabtrap.com/" target="_blank" rel="noopener noreferrer">The Crab
+        Trap</a> for food nearby. It still gets busy in summer, so arrive early, but it solves the boring
         problems: bathrooms, food, parking, shade, and space to regroup.
       </p>
 

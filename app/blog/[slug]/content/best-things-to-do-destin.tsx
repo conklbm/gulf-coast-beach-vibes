@@ -20,7 +20,7 @@ export default function BestThingsToDoDestinContent() {
 
       <h2>Spend the Morning at Henderson Beach State Park</h2>
       <p>
-        Henderson Beach State Park is the strongest all-around beach in Destin — more than a mile of
+        <a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson Beach State Park</a> is the strongest all-around beach in Destin — more than a mile of
         Gulf shoreline with tall dunes separating the sand from the traffic. You get restrooms,
         outdoor showers, picnic areas, a short nature trail, beach wheelchairs, and boardwalks over
         the dunes. The beach is best early: cooler sand, calmer Gulf, softer light.
@@ -78,8 +78,8 @@ export default function BestThingsToDoDestinContent() {
         it and call the cook-your-catch restaurant before showing up with fish.
       </p>
       <p>
-        October is the month to see Destin&apos;s fishing culture from land: the Destin Fishing
-        Rodeo runs all month with public weigh-ins behind AJ&apos;s. Pair it with our{' '}
+        October is the month to see Destin&apos;s fishing culture from land: the <a href="https://www.destinfishingrodeo.org/" target="_blank" rel="noopener noreferrer">Destin Fishing
+        Rodeo</a> runs all month with public weigh-ins behind AJ&apos;s. Pair it with our{' '}
         <Link href="/blog/best-time-to-visit-destin">best time to visit Destin</Link> guide —
         fall&apos;s cooler mornings and thinner crowds are already my favorite season.
       </p>
@@ -108,14 +108,14 @@ export default function BestThingsToDoDestinContent() {
       <p>
         The harbor is most interesting when the fleet returns. Go late afternoon, watch crews
         unload, and stay for dinner as the dock lights come on. The city-owned Harbor Boardwalk
-        runs nearly a quarter mile along the working waterfront; HarborWalk Village is the
+        runs nearly a quarter mile along the working waterfront; <a href="https://www.harborwalkvillage.com/" target="_blank" rel="noopener noreferrer">HarborWalk Village</a> is the
         privately run entertainment district at its western end. Parking is paid and a short walk —
         allow extra time before a dinner or cruise reservation.
       </p>
       <p>
-        For seafood with a real local connection: <strong>Harbor Docks</strong> (connected to its
-        own wholesale market), <strong>Boshamps</strong> (harbor-view sit-down dinner), and{' '}
-        <strong>Dewey Destin&apos;s</strong> (the original Calhoun Avenue location has the most
+        For seafood with a real local connection: <strong><a href="https://www.harbordocks.com/" target="_blank" rel="noopener noreferrer">Harbor Docks</a></strong> (connected to its
+        own wholesale market), <strong><a href="https://www.boshamps.com/" target="_blank" rel="noopener noreferrer">Boshamps</a></strong> (harbor-view sit-down dinner), and{' '}
+        <strong><a href="https://www.destinseafood.com/" target="_blank" rel="noopener noreferrer">Dewey Destin&apos;s</a></strong> (the original Calhoun Avenue location has the most
         old-Destin character). I order shrimp and grits or a shrimp po&apos;boy at every new Gulf
         Coast restaurant — comparing the same dishes tells you a lot about a kitchen — and Destin
         keeps my rankings busy. The small Destin History &amp; Fishing Museum, a few minutes
@@ -124,10 +124,10 @@ export default function BestThingsToDoDestinContent() {
 
       <h2>Keep Family and Rainy-Day Options in Reserve</h2>
       <ul>
-        <li><strong>Gulfarium Marine Adventure Park</strong> — dolphin and sea lion presentations on Okaloosa Island, near <Link href="/destinations/fort-walton-beach">Fort Walton Beach</Link>; better for clouds than severe storms</li>
-        <li><strong>Big Kahuna&apos;s</strong> — seasonal water park with slides, lazy river, and mini golf</li>
+        <li><strong><a href="https://gulfarium.com/" target="_blank" rel="noopener noreferrer">Gulfarium Marine Adventure Park</a></strong> — dolphin and sea lion presentations on Okaloosa Island, near <Link href="/destinations/fort-walton-beach">Fort Walton Beach</Link>; better for clouds than severe storms</li>
+        <li><strong><a href="https://www.bigkahunas.com/" target="_blank" rel="noopener noreferrer">Big Kahuna&apos;s</a></strong> — seasonal water park with slides, lazy river, and mini golf</li>
         <li><strong>The Track</strong> — go-karts and arcade, easy to fit into a partial day</li>
-        <li><strong>Emerald Coast Science Center</strong> and the free <strong>Air Force Armament Museum</strong> — solid indoor backups for washed-out mornings</li>
+        <li><strong><a href="https://www.ecscience.org/" target="_blank" rel="noopener noreferrer">Emerald Coast Science Center</a></strong> and the free <strong><a href="https://www.afarmamentmuseum.com/" target="_blank" rel="noopener noreferrer">Air Force Armament Museum</a></strong> — solid indoor backups for washed-out mornings</li>
       </ul>
       <p>
         Before heading back to the sand, check the flag color — double red means the water is

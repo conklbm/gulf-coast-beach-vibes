@@ -61,21 +61,21 @@ export default function BestThingsToDo30AContent() {
         people beyond the town centers.
       </p>
       <ul>
-        <li><strong>Grayton Beach State Park</strong> — the best dune-lake-plus-Gulf combination: paddle Western Lake through pine forest and salt marsh, then walk the broad white beach. Go early, start your paddle into the wind, and note the state park and downtown Grayton have different entrances.</li>
-        <li><strong>Topsail Hill Preserve</strong> — three miles of beach, tall dunes, and three dune lakes on the west end; the beach sits a mile from the entrance (paved path or tram). The Morris Lake Trail crosses soft sand and is much harder than its mileage suggests.</li>
-        <li><strong>Deer Lake State Park</strong> — my favorite short walk on 30A: a raised boardwalk over the dunes that makes the pine-to-dunes-to-Gulf transition feel dramatic in twenty minutes.</li>
-        <li><strong>Eden Gardens State Park</strong> — moss-draped oaks, lawns, and the historic Wesley House on Tucker Bayou; the shaded change of pace when everyone needs a break from the brightness.</li>
+        <li><strong><a href="https://www.floridastateparks.org/parks-and-trails/grayton-beach-state-park" target="_blank" rel="noopener noreferrer">Grayton Beach State Park</a></strong> — the best dune-lake-plus-Gulf combination: paddle Western Lake through pine forest and salt marsh, then walk the broad white beach. Go early, start your paddle into the wind, and note the state park and downtown Grayton have different entrances.</li>
+        <li><strong><a href="https://www.floridastateparks.org/parks-and-trails/topsail-hill-preserve-state-park" target="_blank" rel="noopener noreferrer">Topsail Hill Preserve</a></strong> — three miles of beach, tall dunes, and three dune lakes on the west end; the beach sits a mile from the entrance (paved path or tram). The Morris Lake Trail crosses soft sand and is much harder than its mileage suggests.</li>
+        <li><strong><a href="https://www.floridastateparks.org/parks-and-trails/deer-lake-state-park" target="_blank" rel="noopener noreferrer">Deer Lake State Park</a></strong> — my favorite short walk on 30A: a raised boardwalk over the dunes that makes the pine-to-dunes-to-Gulf transition feel dramatic in twenty minutes.</li>
+        <li><strong><a href="https://www.floridastateparks.org/parks-and-trails/eden-gardens-state-park" target="_blank" rel="noopener noreferrer">Eden Gardens State Park</a></strong> — moss-draped oaks, lawns, and the historic Wesley House on Tucker Bayou; the shaded change of pace when everyone needs a break from the brightness.</li>
       </ul>
 
       <h2>Walk Through the Towns</h2>
       <p>
         Pick two or three towns that match the day — one for daytime, another for dinner —
         instead of checking off the corridor. <strong>Grayton Beach</strong> has the most relaxed,
-        eccentric character (The Red Bar, Chiringo, galleries), plus the improbable sight of
+        eccentric character (<a href="https://www.theredbar.com/" target="_blank" rel="noopener noreferrer">The Red Bar</a>, Chiringo, galleries), plus the improbable sight of
         fishing charters launching straight off the sand. <strong>Seaside</strong> is arranged
         around Central Square and its amphitheater — the pastel New Urbanist town that played
         Truman&apos;s hometown in <em>The Truman Show</em>, best explored via the self-guided
-        architecture tour, with Bud &amp; Alley&apos;s for a sunset dinner.{' '}
+        architecture tour, with <a href="https://www.budandalleys.com/" target="_blank" rel="noopener noreferrer">Bud &amp; Alley&apos;s</a> for a sunset dinner.{' '}
         <strong>Alys Beach</strong> is an architectural walk — white stucco, courtyards, and
         shadows — and <strong>Rosemary Beach</strong> earns its late-afternoon slot when Barrett
         Square fills for dinner. Town centers welcome visitors; community pools and beach clubs
@@ -113,7 +113,7 @@ export default function BestThingsToDo30AContent() {
         the South Walton Fire District permit, chairs, fire, and cleanup (book early for summer
         weekends; DIY fires without a permit draw substantial fines). For family evenings, check
         the Seaside amphitheater calendar and The Big Chill at WaterSound — movies, markets, and
-        concerts on the lawn. Seasonal highlights: the 30A Songwriters Festival in January and
+        concerts on the lawn. Seasonal highlights: the <a href="https://www.30asongwritersfestival.com/" target="_blank" rel="noopener noreferrer">30A Songwriters Festival</a> in January and
         Digital Graffiti lighting up Alys Beach&apos;s white walls. Fall is my favorite season
         here — cooler mornings, warm afternoons, thinner crowds — see{' '}
         <Link href="/blog/best-time-to-visit-30a">the best time to visit 30A</Link> for the

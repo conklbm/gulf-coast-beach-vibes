@@ -26,10 +26,10 @@ export default function WhereToStayDestinContent() {
 
       <h2>Stay in Central Destin for the Easiest First Trip</h2>
       <p>
-        Central Destin runs roughly from the harbor east toward Henderson Beach State Park, with
+        Central Destin runs roughly from the harbor east toward <a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson Beach State Park</a>, with
         Gulf-front condo buildings, hotels, restaurants, and family attractions along both sides of
         U.S. 98. The biggest advantage is flexibility: beach in the morning, back to the room
-        during the hottest part of the day, harbor for dinner. Big Kahuna&apos;s, The Track, and
+        during the hottest part of the day, harbor for dinner. <a href="https://www.bigkahunas.com/" target="_blank" rel="noopener noreferrer">Big Kahuna&apos;s</a>, The Track, and
         Destin Commons are all a short drive.
       </p>
       <p>
@@ -72,7 +72,7 @@ export default function WhereToStayDestinContent() {
       <p>
         The harbor is the most convenient base for fishing charters, dolphin cruises, Crab Island
         excursions, and evening entertainment. The Harbor Boardwalk connects charter docks, tour
-        operators, and restaurants, with HarborWalk Village at the western end beside East Pass.
+        operators, and restaurants, with <a href="https://www.harborwalkvillage.com/" target="_blank" rel="noopener noreferrer">HarborWalk Village</a> at the western end beside East Pass.
         Being able to walk to an early charter has real value when the alternative is summer
         traffic, paid parking, and a pre-dawn search for the right dock.
       </p>
@@ -119,7 +119,7 @@ export default function WhereToStayDestinContent() {
       <p>
         Okaloosa Island, west of Destin toward{' '}
         <Link href="/destinations/fort-walton-beach">Fort Walton Beach</Link>, offers Gulf-front
-        hotels, broad public beaches, the Gulfarium, and The Boardwalk — a compact, family-friendly
+        hotels, broad public beaches, the <a href="https://gulfarium.com/" target="_blank" rel="noopener noreferrer">Gulfarium</a>, and The Boardwalk — a compact, family-friendly
         alternative. The compromise is the Destin Bridge: every trip to the harbor or central Destin
         crosses it, and summer weekend traffic builds. Our{' '}
         <Link href="/blog/fort-walton-beach-vs-destin">Fort Walton Beach vs. Destin comparison</Link>{' '}

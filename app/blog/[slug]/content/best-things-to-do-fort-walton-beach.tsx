@@ -29,8 +29,8 @@ export default function BestThingsToDoFortWaltonBeachContent() {
       </p>
       <p>
         <strong>The Boardwalk</strong> is easier for families who want food, shops, and the pier
-        steps from their towels — free parking, showers, volleyball courts, and restaurants (The
-        Crab Trap, Rockin&apos; Tacos, Floyd&apos;s, Al&apos;s Beach Club) directly upstairs from
+        steps from their towels — free parking, showers, volleyball courts, and restaurants (<a href="https://www.thecrabtrap.com/" target="_blank" rel="noopener noreferrer">The
+        Crab Trap</a>, Rockin&apos; Tacos, Floyd&apos;s, Al&apos;s Beach Club) directly upstairs from
         the sand. Summer Wednesdays often bring fireworks. Seven smaller public walkovers line
         Santa Rosa Boulevard, but their parking is minimal — use them only if you&apos;re staying
         within walking distance.
@@ -54,7 +54,7 @@ export default function BestThingsToDoFortWaltonBeachContent() {
 
       <h2>Visit Gulfarium Marine Adventure Park</h2>
       <p>
-        Gulfarium has held its beachfront site since 1955 — dolphins, sea lions, seals, penguins,
+        <a href="https://gulfarium.com/" target="_blank" rel="noopener noreferrer">Gulfarium</a> has held its beachfront site since 1955 — dolphins, sea lions, seals, penguins,
         otters, sharks, and sea turtles, with the expanded Dolphin Oasis habitat now open. Check
         the daily presentation schedule <em>before</em> you start walking; it&apos;s easy to be at
         the far end of the park when the show you wanted starts. Separately booked encounters
@@ -94,17 +94,17 @@ export default function BestThingsToDoFortWaltonBeachContent() {
         city&apos;s front porch on the Sound.
       </p>
       <p>
-        <strong>Heritage Park &amp; Cultural Center</strong> explains the city&apos;s name and its
+        <strong><a href="https://fwb.org/330/Museum---Heritage-Park-Cultural-Center" target="_blank" rel="noopener noreferrer">Heritage Park &amp; Cultural Center</a></strong> explains the city&apos;s name and its
         archaeology — the 17-foot Fort Walton Temple Mound, built between roughly 800 and 1400 and
         a National Historic Landmark, plus four museums on one admission (open Tue–Sat). Coastal
         history where geography explains the settlement is exactly my kind of stop. The{' '}
-        <strong>Emerald Coast Science Center</strong> rounds out a family rainy-day bench with
+        <strong><a href="https://www.ecscience.org/" target="_blank" rel="noopener noreferrer">Emerald Coast Science Center</a></strong> rounds out a family rainy-day bench with
         robotics, a hurricane simulator, and live animals.
       </p>
 
       <h2>More Family Stops Away From the Gulf</h2>
       <ul>
-        <li><strong>Air Force Armament Museum</strong> — free, and far bigger than expected: 29+ aircraft including an SR-71 Blackbird, B-52, B-17, and A-10, plus indoor armament galleries. Do the outdoor airpark early — there&apos;s little shade.</li>
+        <li><strong><a href="https://www.afarmamentmuseum.com/" target="_blank" rel="noopener noreferrer">Air Force Armament Museum</a></strong> — free, and far bigger than expected: 29+ aircraft including an SR-71 Blackbird, B-52, B-17, and A-10, plus indoor armament galleries. Do the outdoor airpark early — there&apos;s little shade.</li>
         <li><strong>Wild Willy&apos;s Adventure Zone</strong> — dinosaur-themed mini golf, go-karts, laser tag, ropes course, and arcade near John Beasley Park; decide what your group wants before buying a full package</li>
         <li><strong>Ross Marler Park</strong> — calmer bay swimming, playground, boat ramps, and one of the easiest sunset spots on the island, with the sun dropping over the Sound instead of behind beachfront towers</li>
         <li><strong>Veterans Park</strong> — life-size bronze statues honoring women veterans, with boardwalks through native vegetation to the bay; take the unhurried walk</li>

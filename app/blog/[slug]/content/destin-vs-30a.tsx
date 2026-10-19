@@ -61,13 +61,13 @@ export default function DestinVs30AContent() {
         part of the city&apos;s identity, and the harbor makes it easy to book boat trips, dolphin
         cruises, sunset cruises, parasailing, and Crab Island excursions. Crab Island is one of
         Destin&apos;s biggest draws, a shallow sandbar hangout near the Destin Bridge where people
-        anchor boats and float in clear water. Destin also has HarborWalk Village, Destin Commons,
+        anchor boats and float in clear water. Destin also has <a href="https://www.harborwalkvillage.com/" target="_blank" rel="noopener noreferrer">HarborWalk Village</a>, Destin Commons,
         Silver Sands outlets nearby, arcades, mini golf, and plenty of rainy-day options.
       </p>
       <p>
-        30A is quieter by design. The best things to do are slower: rent bikes, visit Grayton Beach
-        State Park, walk around Seaside, have dinner in Rosemary, explore Alys Beach, paddle near a
-        coastal dune lake, or spend an afternoon at Topsail Hill Preserve State Park. 30A is less
+        30A is quieter by design. The best things to do are slower: rent bikes, visit <a href="https://www.floridastateparks.org/parks-and-trails/grayton-beach-state-park" target="_blank" rel="noopener noreferrer">Grayton Beach
+        State Park</a>, walk around Seaside, have dinner in Rosemary, explore Alys Beach, paddle near a
+        coastal dune lake, or spend an afternoon at <a href="https://www.floridastateparks.org/parks-and-trails/topsail-hill-preserve-state-park" target="_blank" rel="noopener noreferrer">Topsail Hill Preserve</a> State Park. 30A is less
         about checking off attractions and more about settling into the place.
       </p>
       <div className="not-prose flex flex-col sm:flex-row gap-3 my-6">
@@ -84,13 +84,13 @@ export default function DestinVs30AContent() {
       <h2>Food and Nightlife</h2>
       <p>
         Destin has more casual seafood, more family restaurants, and more nightlife. The harbor area
-        is the main hub, with places like Boshamps, Brotula&apos;s, AJ&apos;s, and HarborWalk spots
-        all close to the water, plus longtime favorites like The Back Porch and McGuire&apos;s.
+        is the main hub, with places like <a href="https://www.boshamps.com/" target="_blank" rel="noopener noreferrer">Boshamps</a>, <a href="https://www.brotulas.com/" target="_blank" rel="noopener noreferrer">Brotula&apos;s</a>, AJ&apos;s, and HarborWalk spots
+        all close to the water, plus longtime favorites like <a href="https://www.theback-porch.com/" target="_blank" rel="noopener noreferrer">The Back Porch</a> and McGuire&apos;s.
         Destin is easier for groups because the choices are obvious.
       </p>
       <p>
-        30A has the better special-occasion dining feel. Restaurants like Bud &amp; Alley&apos;s,
-        Great Southern Café, The Red Bar, George&apos;s, and La Crema fit the slower, more polished
+        30A has the better special-occasion dining feel. Restaurants like <a href="https://www.budandalleys.com/" target="_blank" rel="noopener noreferrer">Bud &amp; Alley&apos;s</a>,
+        Great Southern Café, <a href="https://www.theredbar.com/" target="_blank" rel="noopener noreferrer">The Red Bar</a>, George&apos;s, and La Crema fit the slower, more polished
         mood of the area. Dinner feels like part of the trip. The downside is planning: good 30A
         dinners can require reservations, patience, and a higher budget. Destin is better for easy
         and lively. 30A is better for memorable and atmospheric.

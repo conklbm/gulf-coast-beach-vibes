@@ -30,7 +30,7 @@ export default function GulfCoastRoadTripItineraryContent() {
       </ul>
 
       <TipCallout title="The Ferry Is the Move" variant="tip">
-        If you&apos;re including Dauphin Island, take the Mobile Bay Ferry from Fort Gaines
+        If you&apos;re including Dauphin Island, take the <a href="https://mobilebayferry.com/" target="_blank" rel="noopener noreferrer">Mobile Bay Ferry</a> from Fort Gaines
         (Dauphin Island) to Fort Morgan rather than driving back through Mobile. The 40-minute
         crossing cuts 2 hours of driving out of the itinerary and gives you a spectacular
         bay crossing view of both forts. Check ferry schedules and make reservations in advance
@@ -51,20 +51,20 @@ export default function GulfCoastRoadTripItineraryContent() {
         <li>
           <strong>Day 2: Ferry to Fort Morgan → Gulf Shores / Orange Beach</strong> — morning
           ferry crossing, brief Fort Morgan stop, arrive Gulf Shores by noon. Afternoon at the
-          beach or Gulf State Park. Seafood dinner in Gulf Shores. Overnight Gulf Shores or
+          beach or <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a>. Seafood dinner in Gulf Shores. Overnight Gulf Shores or
           Orange Beach.
         </li>
         <li>
           <strong>Day 3: Pensacola Beach / Navarre Beach</strong> — drive east on Highway 98
-          through Perdido Key into Pensacola Beach. Morning at Fort Pickens (Gulf Islands
+          through Perdido Key into Pensacola Beach. Morning at <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a> (Gulf Islands
           National Seashore) or the Naval Aviation Museum (free, exceptional). Afternoon on
           Pensacola Beach. Optional: continue to Navarre Beach for sunset at the pier.
           Overnight Pensacola Beach or Navarre.
         </li>
         <li>
           <strong>Day 4: Fort Walton Beach → Destin</strong> — morning on Okaloosa Island
-          (Fort Walton Beach). Afternoon at Henderson Beach State Park in Destin — the best
-          single beach on the Panhandle. Evening at Harborwalk Village (dinner, sunset,
+          (Fort Walton Beach). Afternoon at <a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson Beach State Park</a> in Destin — the best
+          single beach on the Panhandle. Evening at <a href="https://www.harborwalkvillage.com/" target="_blank" rel="noopener noreferrer">Harborwalk Village</a> (dinner, sunset,
           live music). Overnight Destin or Fort Walton Beach.
         </li>
         <li>
@@ -90,7 +90,7 @@ export default function GulfCoastRoadTripItineraryContent() {
           Harborwalk Village. Overnight Destin or Fort Walton Beach.
         </li>
         <li>
-          <strong>Day 3: 30A</strong> — full day on 30A: Grayton Beach State Park in the
+          <strong>Day 3: 30A</strong> — full day on 30A: <a href="https://www.floridastateparks.org/parks-and-trails/grayton-beach-state-park" target="_blank" rel="noopener noreferrer">Grayton Beach State Park</a> in the
           morning, Seaside for lunch, dune lake kayaking in the afternoon. Head home or
           continue to PCB.
         </li>
@@ -138,8 +138,8 @@ export default function GulfCoastRoadTripItineraryContent() {
 
       <h3>Pensacola Beach</h3>
       <p>
-        Gateway to Gulf Islands National Seashore — the largest protected Gulf Coast beach
-        system in the US. Fort Pickens is worth 2–3 hours. The National Naval Aviation Museum
+        Gateway to <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a> — the largest protected Gulf Coast beach
+        system in the US. Fort Pickens is worth 2–3 hours. The <a href="https://www.navalaviationmuseum.org/" target="_blank" rel="noopener noreferrer">National Naval Aviation Museum</a>
         in Pensacola (free, genuinely one of the best aviation museums in the world) is worth
         a half day. The beach itself is classic Panhandle — white sand, emerald water, well
         developed with a solid dining scene. Read our comparison:{' '}
@@ -176,7 +176,7 @@ export default function GulfCoastRoadTripItineraryContent() {
       <p>
         The eastern anchor — a major resort destination with its own character. Shell Island
         (accessible by boat, undeveloped barrier island beach) is the PCB highlight. The
-        beach is excellent; the Pier Park area has the most commercial development of any
+        beach is excellent; the <a href="https://www.simon.com/mall/pier-park" target="_blank" rel="noopener noreferrer">Pier Park</a> area has the most commercial development of any
         stop on the route. Read: <Link href="/blog/panama-city-beach-vs-destin">PCB vs. Destin</Link>.
       </p>
 
@@ -204,7 +204,7 @@ export default function GulfCoastRoadTripItineraryContent() {
       <h3>Best Season for the Road Trip</h3>
       <ul>
         <li><strong>May (early–mid):</strong> The best window — warm enough to swim, minimal crowds, all beaches and attractions open, prices well below peak</li>
-        <li><strong>October:</strong> Second-best window — water still 74–78°F, Destin Fishing Rodeo running, prices down 25–35%. See our <Link href="/blog/gulf-coast-in-october">October guide</Link>.</li>
+        <li><strong>October:</strong> Second-best window — water still 74–78°F, <a href="https://www.destinfishingrodeo.org/" target="_blank" rel="noopener noreferrer">Destin Fishing Rodeo</a> running, prices down 25–35%. See our <Link href="/blog/gulf-coast-in-october">October guide</Link>.</li>
         <li><strong>Summer:</strong> Peak crowds and prices, but the full beach experience. Book well ahead.</li>
         <li><strong>November–March:</strong> Best prices, but swimming weather is gone for most of the corridor</li>
       </ul>

@@ -7,7 +7,7 @@ export default function ThreeDaysInDestinContent() {
     <>
       <p className="text-xl text-navy/80 leading-relaxed font-medium">
         Three days in Destin is enough to see what all the fuss is about — the water, the
-        fishing, Henderson Beach, Harborwalk Village, and the best seafood on the Gulf Coast.
+        fishing, Henderson Beach, <a href="https://www.harborwalkvillage.com/" target="_blank" rel="noopener noreferrer">Harborwalk Village</a>, and the best seafood on the Gulf Coast.
         Here&apos;s how to spend a long weekend without wasting a minute of it.
       </p>
 
@@ -31,7 +31,7 @@ export default function ThreeDaysInDestinContent() {
         </li>
         <li>
           <strong>Get to the beach early</strong> — Destin&apos;s public beach parking fills by
-          9am on summer weekends; Henderson Beach State Park can sell out before 10am
+          9am on summer weekends; <a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson Beach State Park</a> can sell out before 10am
         </li>
       </ul>
 
@@ -60,7 +60,7 @@ export default function ThreeDaysInDestinContent() {
         evening — massive fish, excited crowds, excellent atmosphere.
       </p>
       <p>
-        Dinner options at the Harbor: Boshamps Seafood (excellent grilled fish, views of the
+        Dinner options at the Harbor: <a href="https://www.boshamps.com/" target="_blank" rel="noopener noreferrer">Boshamps</a> Seafood (excellent grilled fish, views of the
         harbor), AJ&apos;s Seafood (lively, great raw bar), or Marina Cafe for a more upscale
         sit-down with Gulf views.
       </p>
@@ -102,7 +102,7 @@ export default function ThreeDaysInDestinContent() {
         what you came for — don&apos;t over-schedule it.
       </p>
 
-      <h3>Evening: The Wharf or Local Dining</h3>
+      <h3>Evening: <a href="https://www.alwharf.com/" target="_blank" rel="noopener noreferrer">The Wharf</a> or Local Dining</h3>
       <p>
         The Wharf in Orange Beach is 20 minutes east — a large waterfront entertainment
         complex with good dinner restaurants, a Ferris wheel, and live music. Alternatively,
@@ -159,7 +159,7 @@ export default function ThreeDaysInDestinContent() {
         <li><strong>Gulf-front condo (3 nights, peak summer):</strong> $1,500–2,500 total</li>
         <li><strong>Gulf-front condo (3 nights, October):</strong> $900–1,500 total</li>
         <li><strong>Fishing charter (half-day, per person):</strong> $80–150</li>
-        <li><strong>Henderson Beach State Park:</strong> $6/vehicle</li>
+        <li><strong>Henderson Beach State Park:</strong> $6/vehicle (day-use reservation required since May 15, 2026)</li>
         <li><strong>Dining (dinners, 3 nights for 2):</strong> $150–250</li>
         <li><strong>Water activities (dolphin cruise, kayak rental):</strong> $60–120</li>
       </ul>

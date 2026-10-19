@@ -45,7 +45,7 @@ export default function BestThingsToDoDauphinIslandContent() {
         flagship. Allow at least 90 minutes; open 9–5 with admission, closed some holidays.
       </p>
       <p>
-        I&apos;ve always loved the Mobile Bay Ferry between Dauphin Island and Fort Morgan — seeing
+        I&apos;ve always loved the <a href="https://mobilebayferry.com/" target="_blank" rel="noopener noreferrer">Mobile Bay Ferry</a> between Dauphin Island and Fort Morgan — seeing
         Fort Gaines on one side of the bay entrance and Fort Morgan on the other makes their
         defensive purpose immediately clear from the water. The crossing takes about 40 minutes,
         carries vehicles, bikes, pedestrians, and leashed pets, and runs first come, first served —
@@ -56,7 +56,7 @@ export default function BestThingsToDoDauphinIslandContent() {
 
       <h2>Visit the Alabama Aquarium</h2>
       <p>
-        The Alabama Aquarium at the Dauphin Island Sea Lab (formerly the Estuarium) is the
+        The <a href="https://www.disl.edu/aquarium/" target="_blank" rel="noopener noreferrer">Alabama Aquarium</a> at the Dauphin Island Sea Lab (formerly the Estuarium) is the
         island&apos;s best indoor attraction, explaining how the Mobile-Tensaw Delta, Mobile Bay,
         the barrier islands, and the northern Gulf connect. The outdoor stingray touch tank has an
         afternoon feeding most days. Plan about two hours — it&apos;s the right call during light

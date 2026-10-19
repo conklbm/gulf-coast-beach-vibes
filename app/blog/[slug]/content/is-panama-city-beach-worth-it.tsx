@@ -13,7 +13,7 @@ export default function IsPanamaCityBeachWorthItContent() {
         The beach is beautiful, the sand is white, and the Gulf can look bright turquoise. But{' '}
         <Link href="/destinations/panama-city-beach">Panama City Beach</Link> is also one of the busier,
         more developed beach towns on the Panhandle. It gives you condos, public beach access, Pier
-        Park, waterparks, restaurants, boat trips, St. Andrews State Park, Shell Island, and enough
+        Park, waterparks, restaurants, boat trips, <a href="https://www.floridastateparks.org/parks-and-trails/st-andrews-state-park" target="_blank" rel="noopener noreferrer">St. Andrews State Park</a>, Shell Island, and enough
         rainy-day options to save a family trip. It&apos;s not a quiet, polished, 30A-style vacation, but
         for families, road trippers, and first-time Panhandle visitors who want beach time plus easy
         things to do, PCB makes a lot of sense.
@@ -24,7 +24,7 @@ export default function IsPanamaCityBeachWorthItContent() {
         PCB gives you the practical version of a Florida beach vacation. You get the sand and water
         first, but the bigger reason it works is convenience. There are nearly 100 public beach access
         points, and compared with communities where access feels hidden or private, PCB is easier to
-        figure out. You can go from a beach chair to Pier Park, a seafood dinner, a waterpark, or a
+        figure out. You can go from a beach chair to <a href="https://www.simon.com/mall/pier-park" target="_blank" rel="noopener noreferrer">Pier Park</a>, a seafood dinner, a waterpark, or a
         sunset cruise without turning the day into a road trip. PCB is especially strong for families,
         first-time visitors, budget-conscious travelers comparing it with 30A, and groups who want
         condos, restaurants, and attractions nearby.
@@ -75,8 +75,8 @@ export default function IsPanamaCityBeachWorthItContent() {
       <h2>PCB Is Strong for Families</h2>
       <p>
         Panama City Beach may be one of the easiest family beach trips on this part of the Gulf Coast,
-        not because it&apos;s calm, but because the backup plans are obvious. Shipwreck Island Waterpark
-        is a major summer option, and WonderWorks, Ripley&apos;s, Gulf World, mini golf, arcades, and
+        not because it&apos;s calm, but because the backup plans are obvious. <a href="https://www.shipwreckisland.com/" target="_blank" rel="noopener noreferrer">Shipwreck Island</a> Waterpark
+        is a major summer option, and <a href="https://www.wonderworksonline.com/panama-city-beach/" target="_blank" rel="noopener noreferrer">WonderWorks</a>, Ripley&apos;s, Gulf World, mini golf, arcades, and
         movies add more. When beach flags change, rain moves in, or kids get tired of sand, PCB gives you
         places to go. You don&apos;t need to do all of them; the point is that PCB gives you choices.
       </p>
@@ -103,7 +103,7 @@ export default function IsPanamaCityBeachWorthItContent() {
       <p>
         Choose <Link href="/destinations/seaside">30A</Link> for prettier planned communities and boutique
         restaurants, <Link href="/destinations/pensacola-beach">Pensacola Beach</Link> for a smaller-feeling
-        island trip with Fort Pickens, <Link href="/destinations/gulf-shores">Gulf Shores</Link> for a
+        island trip with <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a>, <Link href="/destinations/gulf-shores">Gulf Shores</Link> for a
         classic family beach town, or <Link href="/destinations/orange-beach">Orange Beach</Link> for
         marinas and waterfront dining. PCB is strongest when you want activity; it&apos;s weaker when you
         want calm.

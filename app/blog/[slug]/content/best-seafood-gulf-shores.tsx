@@ -24,7 +24,7 @@ export default function BestSeafoodGulfShoresContent() {
 
       <h2>The Ones Worth Planning Around</h2>
 
-      <h3>The Gulf</h3>
+      <h3><a href="https://thegulf.com/locations/orange-beach/" target="_blank" rel="noopener noreferrer">The Gulf</a></h3>
       <p>
         Built from shipping containers on the sand at Perdido Pass, open-air, no reservations, and
         one of the best places on the Alabama coast to eat with your feet more or less in the sand.
@@ -33,7 +33,7 @@ export default function BestSeafoodGulfShoresContent() {
         difference here is that the kitchen holds up anyway.
       </p>
 
-      <h3>Original Oyster House</h3>
+      <h3><a href="https://www.originaloysterhouse.com/" target="_blank" rel="noopener noreferrer">Original Oyster House</a></h3>
       <p>
         On the bayou at the foot of the bridge, and a Gulf Shores fixture for decades. Oysters are
         the reason to come — raw, chargrilled, or baked — and the bayou-side deck is a genuinely nice
@@ -41,7 +41,7 @@ export default function BestSeafoodGulfShoresContent() {
         what you want on the second night of a family trip.
       </p>
 
-      <h3>DeSoto&apos;s Seafood Kitchen</h3>
+      <h3><a href="https://www.desotosseafoodkitchen.com/" target="_blank" rel="noopener noreferrer">DeSoto&apos;s</a> Seafood Kitchen</h3>
       <p>
         Less famous with visitors and more consistently praised by people who live here. It has
         taken the local People&apos;s Choice award for best lunch and best dinner repeatedly, and it
@@ -49,14 +49,14 @@ export default function BestSeafoodGulfShoresContent() {
         for. This is where to go when you want good seafood without the boardwalk premium.
       </p>
 
-      <h3>Doc&apos;s Seafood Shack &amp; Oyster Bar</h3>
+      <h3><a href="https://www.docsseafoodshack.com/" target="_blank" rel="noopener noreferrer">Doc&apos;s Seafood Shack</a> &amp; Oyster Bar</h3>
       <p>
         Unpretentious, fried, and fast. Fried shrimp and oyster baskets, cold beer, no ceremony. It
         is the antidote to a week of waterfront dining rooms and it is usually cheaper than anywhere
         with a view.
       </p>
 
-      <h3>LuLu&apos;s</h3>
+      <h3><a href="https://www.lulusfunfoodmusic.com/" target="_blank" rel="noopener noreferrer">LuLu&apos;s</a></h3>
       <p>
         On the Intracoastal in Gulf Shores, and more of an outing than a restaurant — live music, a
         ropes course, a beach for kids to run on. The food is decent and beside the point. Come here
@@ -64,14 +64,14 @@ export default function BestSeafoodGulfShoresContent() {
         best plate in town. Worth knowing before you book: it is loud, on purpose.
       </p>
 
-      <h3>Bahama Bob&apos;s</h3>
+      <h3><a href="https://www.bahamabobs.com/" target="_blank" rel="noopener noreferrer">Bahama Bob&apos;s</a></h3>
       <p>
         Small, right on the beach, and the kind of place that looks like nothing from the parking
         lot. Grilled fish and a Gulf view without the resort markup. Limited seating and no room to
         hide when it is busy.
       </p>
 
-      <h3>Tacky Jack&apos;s</h3>
+      <h3><a href="https://www.tackyjacks.com/" target="_blank" rel="noopener noreferrer">Tacky Jack&apos;s</a></h3>
       <p>
         Waterfront, casual, and best at breakfast — which is an odd thing to say about a place known
         for its name, but the morning view over the water is the version most locals recommend.
@@ -110,7 +110,7 @@ export default function BestSeafoodGulfShoresContent() {
         <li><strong>Eat early or late</strong> in summer. The 6 to 8 p.m. window is the worst hour anywhere on this coast.</li>
         <li><strong>Most of these do not take reservations.</strong> Going at an odd hour beats trying to outsmart the list.</li>
         <li><strong>Shoulder season closes days.</strong> January and February are not summer hours.</li>
-        <li><strong>Festival weekends change everything</strong> — the National Shrimp Festival in early October fills every table in town.</li>
+        <li><strong>Festival weekends change everything</strong> — the <a href="https://www.myshrimpfest.com/" target="_blank" rel="noopener noreferrer">National Shrimp Festival</a> in early October fills every table in town.</li>
       </ul>
 
       <h2>Building the Rest of the Day</h2>

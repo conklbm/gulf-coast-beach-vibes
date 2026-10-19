@@ -101,6 +101,11 @@ No exceptions. When writing a new blog post or destination page:
 - **Road trip / travel posts** → include Rentalcars links if fly-in audiences apply
 - **Packing/gear content** → include Amazon links
 
+### Link named businesses and resources
+- Link the **first mention per page** of each named business or resource (restaurant, store, attraction, park, marina, tour operator, event) to its **verified official page** (official site, or the official government/park page), opening in a new tab: `target="_blank" rel="noopener noreferrer"`.
+- Verify the URL loads (curl for 200) before linking. Don't guess, avoid Yelp/TripAdvisor unless there's no official site, and don't link a place that has closed — flag it instead.
+- Don't wrap internal `<Link>`s or `<AffiliateLink>`s.
+
 ### How Affiliate Links Work
 - All affiliate links use the `<AffiliateLink>` component
 - Never hardcode URLs — use slug keys that resolve through `lib/affiliateLinks.ts`
@@ -226,21 +231,24 @@ Key slugs to use in content:
 - Always run `npm run build` locally before pushing — build must pass 100%
 - 46 static pages generated on build (as of current content count)
 
-## Git workflow: always confirm branch strategy
+## Titles & meta descriptions
 
-When starting work in a repository I haven't touched yet this session (a fresh
-codebase, or the first git action after opening a new project):
-- Before doing anything else, ask whether I want to pull the latest `main` (or
-  the repo's default branch) first, rather than assuming the working copy is
-  current.
+- Keep the main keyword near the front of the title.
+- Add a hook (angle, benefit, local voice, year, or number), so a title is never just the bare keyword.
+- Aim for about 60 characters or fewer including the ` | Gulf Coast Beach Vibes` suffix (25 chars) where possible.
+- Every post gets a unique title.
+- Excerpts (= meta description) are 140–155 characters and should make a reader want to click.
+- Never frame researched places as Brooks's personal picks. Only The Gulf (Orange Beach) is his; check `LOCAL-NOTES.md`.
+- The larger lead paragraph (`<p className="text-xl text-navy/80 leading-relaxed font-medium">`) is the site's standard intro style; open every post with one.
 
-When it's time to push commits:
-- Always ask whether I want to:
-  1. Push directly to `main`, or
-  2. Create/use a `dev` branch, push there, and open a pull request into `main`.
-- Never push to `main` without this confirmation.
-- If I choose the dev/PR path, ask for a branch name (or suggest one from the
-  work just done) before creating it.
+## Git workflow (Brooks's rule, 2026-10-14)
 
-Ask these as explicit questions — don't infer the answer from context or past
-sessions.
+- Always `git pull` before starting work.
+- **Small fixes go straight to `main`** (titles/meta, redirects for dead URLs, internal links, typo/fact fixes). Run `npm run build` first; never push a failing build.
+- **New posts and big changes go to a preview branch with a PR** into `main`. Brooks reviews the Vercel preview and merges.
+- **No deletions, unpublishing, or URL/slug changes without Brooks's explicit OK.**
+- **Verify every deploy is live** (curl production or the preview URL and confirm the change).
+- **Log every SEO change in `SEO-CHANGELOG.md`** (date, commit, URL, change type, what changed, why/GSC query, baseline GSC numbers, recheck date). Add pending rows for PR changes and fill in the commit when merged.
+- **Git auth (2026-10-17):** push with the repo-scoped fine-grained token in `GCBV_GITHUB_TOKEN` via the local credential helper. Never print the token or put it in the remote URL. Don't use the old box-wide `gh` login.
+- **Hard rule:** never delete or transfer the repo, Vercel project, domain, env settings or branch protection. Fix a bad deploy by rolling back.
+- **Pre-merge review (Brooks, 2026-10-17), scaled to size:** content/copy edits get a quick check: build passes, changed pages load, links work. Code, config, dependency or settings changes get a layered review before pushing: (1) does it do what was intended, (2) bugs, security, exposed secrets, (3) style. Fix issues before pushing.

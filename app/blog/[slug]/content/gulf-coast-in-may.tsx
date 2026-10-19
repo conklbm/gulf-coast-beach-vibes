@@ -51,8 +51,8 @@ export default function GulfCoastInMayContent() {
         <strong>Couples:</strong> <Link href="/destinations/seaside">30A</Link>, Pensacola Beach, Navarre
         Beach, Orange Beach, or Dauphin Island. <strong>Clear water and photos:</strong>{' '}
         <Link href="/destinations/destin">Destin</Link>, 30A, Navarre Beach, and PCB.{' '}
-        <strong>State parks:</strong> Gulf State Park, Grayton Beach State Park, Henderson Beach State
-        Park, and St. Andrews State Park, all more comfortable than in July.
+        <strong>State parks:</strong> <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a>, <a href="https://www.floridastateparks.org/parks-and-trails/grayton-beach-state-park" target="_blank" rel="noopener noreferrer">Grayton Beach State Park</a>, <a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson Beach State
+        Park</a>, and <a href="https://www.floridastateparks.org/parks-and-trails/st-andrews-state-park" target="_blank" rel="noopener noreferrer">St. Andrews State Park</a>, all more comfortable than in July.
       </p>
       <div className="not-prose flex flex-col sm:flex-row gap-3 my-6">
         <AffiliateLink href="vrbo-travel-payouts" label="Browse Gulf Coast Rentals" provider="vrbo" />
@@ -74,7 +74,7 @@ export default function GulfCoastInMayContent() {
         enough for most swimmers, lower humidity than deep summer, and fully awake beach towns. Early and
         mid-May are the sweet spot; late May is still good but starts acting like summer. Choose Dauphin
         Island or Navarre Beach for quiet, Gulf Shores or Orange Beach for a classic family beach town,
-        Pensacola Beach for energy and Fort Pickens, 30A for a polished coastal feel, Destin for fishing
+        Pensacola Beach for energy and <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a>, 30A for a polished coastal feel, Destin for fishing
         and clear water, and Panama City Beach for a more active trip. Go before Memorial Day if you can.
       </p>
 

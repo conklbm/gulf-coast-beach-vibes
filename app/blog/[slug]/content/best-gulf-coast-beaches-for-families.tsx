@@ -53,8 +53,8 @@ export default function BestGulfCoastBeachesFamiliesContent() {
         typically calm and warm — shallow enough for kids to play well offshore.
       </p>
       <p>
-        The area around the beach has everything a family needs: Waterville USA water park is
-        2 miles away, the Alabama Gulf Coast Zoo is nearby, and there are grocery stores and
+        The area around the beach has everything a family needs: <a href="https://www.watervilleusa.com/" target="_blank" rel="noopener noreferrer">Waterville USA</a> water park is
+        2 miles away, the <a href="https://alabamagulfcoastzoo.org/" target="_blank" rel="noopener noreferrer">Alabama Gulf Coast Zoo</a> is nearby, and there are grocery stores and
         pharmacies for forgotten essentials. It&apos;s the most service-rich family beach on the
         Alabama coast.
       </p>
@@ -69,7 +69,7 @@ export default function BestGulfCoastBeachesFamiliesContent() {
         runs frequently and drops you right at the beach access.
       </TipCallout>
 
-      <h3>2. Gulf State Park Beach — Gulf Shores, AL</h3>
+      <h3>2. <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a> Beach — Gulf Shores, AL</h3>
       <p>
         A 10-minute drive east of the main strip, Gulf State Park&apos;s beach offers the same
         white sand and warm water with significantly more space and a much more natural setting.
@@ -87,7 +87,7 @@ export default function BestGulfCoastBeachesFamiliesContent() {
         less amenity-dense than the main beach, but a richer overall experience.
       </p>
 
-      <h3>3. Henderson Beach State Park — Destin, FL</h3>
+      <h3>3. <a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson Beach State Park</a> — Destin, FL</h3>
       <p>
         Destin&apos;s best family option isn&apos;t the crowded resort condos on Scenic Gulf Drive
         — it&apos;s Henderson Beach State Park, 208 acres of protected old-growth coastal scrub
@@ -115,7 +115,7 @@ export default function BestGulfCoastBeachesFamiliesContent() {
         slightly more blue-green water color versus Destin&apos;s emerald.
       </p>
       <p>
-        Drive east on Fort Pickens Road and you&apos;ll find Gulf Islands National Seashore land
+        Drive east on Fort Pickens Road and you&apos;ll find <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a> land
         — undeveloped, protected, and beautiful. This stretch has pit toilets but no amenities,
         so it&apos;s better for families with older kids who don&apos;t need close restroom access.
       </p>
@@ -150,7 +150,7 @@ export default function BestGulfCoastBeachesFamiliesContent() {
         love this.
       </TipCallout>
 
-      <h3>6. St. Andrews State Park — Panama City Beach, FL</h3>
+      <h3>6. <a href="https://www.floridastateparks.org/parks-and-trails/st-andrews-state-park" target="_blank" rel="noopener noreferrer">St. Andrews State Park</a> — Panama City Beach, FL</h3>
       <p>
         At the eastern end of Panama City Beach, St. Andrews State Park is one of the gems of
         Florida&apos;s state park system and a genuinely exceptional family beach. The park has
@@ -190,7 +190,7 @@ export default function BestGulfCoastBeachesFamiliesContent() {
         </li>
         <li>
           <strong>Water shoes</strong> — for rocky jetty areas or if you&apos;re visiting
-          Fort Pickens or St. Andrews
+          <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a> or St. Andrews
         </li>
         <li>
           <strong>Snorkel set</strong> — even basic $20 snorkel sets work well in the clear

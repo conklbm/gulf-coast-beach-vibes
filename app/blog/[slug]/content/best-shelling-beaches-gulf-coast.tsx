@@ -27,7 +27,7 @@ export default function BestShellingContent() {
       </p>
 
       <TipCallout title="Live Shell Rule" variant="warning">
-        On all Gulf Islands National Seashore beaches and most Florida state parks, it is illegal
+        On all <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a> beaches and most Florida state parks, it is illegal
         to collect live shells — shells with living animals inside. Sand dollars must be dead and
         bleached white (not gray-brown) to be legal to take. Always check local regulations before
         collecting.
@@ -86,13 +86,13 @@ export default function BestShellingContent() {
 
       <h3>4. Perdido Key, Florida/Alabama Border</h3>
       <p>
-        The state park at the western end of Perdido Key — Perdido Key State Park — has some of
+        The state park at the western end of Perdido Key — <a href="https://www.floridastateparks.org/parks-and-trails/perdido-key-state-park" target="_blank" rel="noopener noreferrer">Perdido Key State Park</a> — has some of
         the least-disturbed beach on the Gulf Coast. No development to speak of, good shell
         accumulation in the wrack line after storms, and almost no competition from other shellers.
         It&apos;s a 30-minute drive from either Orange Beach or Pensacola.
       </p>
 
-      <h3>5. St. Andrews State Park, Panama City Beach</h3>
+      <h3>5. <a href="https://www.floridastateparks.org/parks-and-trails/st-andrews-state-park" target="_blank" rel="noopener noreferrer">St. Andrews State Park</a>, Panama City Beach</h3>
       <p>
         The jetty area at St. Andrews State Park produces good finds, and the sand spit facing the
         pass concentrates shells that get swept in by tidal currents. Easier access than Shell

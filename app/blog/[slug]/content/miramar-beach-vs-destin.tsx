@@ -36,7 +36,7 @@ export default function MiramarBeachVsDestinContent() {
         imagine the classic Emerald Coast vacation: fishing boats, harbor restaurants, dolphin
         cruises, Crab Island, parasailing, pontoon rentals, and seafood. Destin still trades on its
         &ldquo;World&apos;s Luckiest Fishing Village&rdquo; identity, and the harbor is a major part of
-        the experience. It also has Big Kahuna&apos;s, Destin Commons, Henderson Beach State Park, and
+        the experience. It also has <a href="https://www.bigkahunas.com/" target="_blank" rel="noopener noreferrer">Big Kahuna&apos;s</a>, Destin Commons, <a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson Beach State Park</a>, and
         several public beach parks. The tradeoff is pace: Destin is more developed, more crowded, and
         more commercial than Miramar Beach.
       </p>
@@ -90,8 +90,8 @@ export default function MiramarBeachVsDestinContent() {
         Miramar Beach has a different mix, more about shopping, dining, beach time, resort amenities,
         and side trips. Silver Sands Premium Outlets has around 110 stores, Grand Boulevard offers
         polished shopping and dining, and Baytowne Wharf in Sandestin adds a village-style setting on
-        Choctawhatchee Bay. Miramar Beach also puts you closer to 30A for a day exploring Topsail Hill
-        Preserve State Park, Grayton Beach, Seaside, or Rosemary Beach. Choose Destin for action;
+        Choctawhatchee Bay. Miramar Beach also puts you closer to 30A for a day exploring <a href="https://www.floridastateparks.org/parks-and-trails/topsail-hill-preserve-state-park" target="_blank" rel="noopener noreferrer">Topsail Hill
+        Preserve</a> State Park, Grayton Beach, Seaside, or Rosemary Beach. Choose Destin for action;
         choose Miramar Beach for a calmer base with good side trips.
       </p>
       <div className="not-prose flex flex-col sm:flex-row gap-3 my-6">
@@ -102,7 +102,7 @@ export default function MiramarBeachVsDestinContent() {
       <h2>Food, Shopping, and Nightlife</h2>
       <p>
         Destin has the stronger seafood-and-harbor identity. Names to know include McGuire&apos;s
-        Irish Pub, The Back Porch, Boshamps, Dewey Destin&apos;s, and Brotula&apos;s Seafood House
+        Irish Pub, <a href="https://www.theback-porch.com/" target="_blank" rel="noopener noreferrer">The Back Porch</a>, <a href="https://www.boshamps.com/" target="_blank" rel="noopener noreferrer">Boshamps</a>, <a href="https://www.destinseafood.com/" target="_blank" rel="noopener noreferrer">Dewey Destin&apos;s</a>, and <a href="https://www.brotulas.com/" target="_blank" rel="noopener noreferrer">Brotula&apos;s</a> Seafood House
         &amp; Steamer, with plenty of casual, crowd-friendly places and more nightlife energy near the
         harbor.
       </p>

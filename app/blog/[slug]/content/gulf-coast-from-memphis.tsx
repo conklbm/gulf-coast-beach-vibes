@@ -76,7 +76,7 @@ export default function GulfCoastFromMemphisContent() {
         <Link href="/destinations/gulf-shores">Gulf Shores</Link> and{' '}
         <Link href="/destinations/orange-beach">Orange Beach</Link> are the destination. They sit
         right at the end of I-65 — no additional navigation required. White sand, warm clear Gulf
-        water, Gulf State Park, great seafood restaurants, and plenty of activities for all ages.
+        water, <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a>, great seafood restaurants, and plenty of activities for all ages.
       </p>
       <p>
         A 4-night trip (Friday evening to Tuesday morning) gives you three full beach days, which
@@ -86,9 +86,9 @@ export default function GulfCoastFromMemphisContent() {
       <h3>Pensacola Beach — Worth the Extra Hour</h3>
       <p>
         Add an hour east of Gulf Shores and you reach{' '}
-        <Link href="/destinations/pensacola-beach">Pensacola Beach</Link> — Gulf Islands National
-        Seashore, the whitest quartz sand on the entire Gulf Coast, and the National Naval
-        Aviation Museum (free, genuinely world-class). For a 5–7 day trip, Pensacola Beach
+        <Link href="/destinations/pensacola-beach">Pensacola Beach</Link> — <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National
+        Seashore</a>, the whitest quartz sand on the entire Gulf Coast, and the <a href="https://www.navalaviationmuseum.org/" target="_blank" rel="noopener noreferrer">National Naval
+        Aviation Museum</a> (free, genuinely world-class). For a 5–7 day trip, Pensacola Beach
         offers a richer experience and slightly lower prices than Destin.
       </p>
 

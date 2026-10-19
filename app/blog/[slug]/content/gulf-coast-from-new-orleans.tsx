@@ -79,8 +79,8 @@ export default function GulfCoastFromNewOrleansContent() {
         <Link href="/destinations/gulf-shores">Gulf Shores</Link> and{' '}
         <Link href="/destinations/orange-beach">Orange Beach</Link> are the destination. They
         sit right at the end of I-65 — no extra driving required. Gulf Shores has the classic
-        beach town feel with Gulf State Park, good restaurants, and well-developed amenities.
-        Orange Beach is slightly more upscale with the marina, The Wharf entertainment complex,
+        beach town feel with <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a>, good restaurants, and well-developed amenities.
+        Orange Beach is slightly more upscale with the marina, <a href="https://www.alwharf.com/" target="_blank" rel="noopener noreferrer">The Wharf</a> entertainment complex,
         and excellent seafood.
       </p>
       <p>
@@ -92,8 +92,8 @@ export default function GulfCoastFromNewOrleansContent() {
       <p>
         Add another hour east and you&apos;re at{' '}
         <Link href="/destinations/pensacola-beach">Pensacola Beach</Link> on Santa Rosa Island —
-        home to Gulf Islands National Seashore, the whitest quartz sand on the coast, and the
-        National Naval Aviation Museum (free admission, genuinely world-class). If
+        home to <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a>, the whitest quartz sand on the coast, and the
+        <a href="https://www.navalaviationmuseum.org/" target="_blank" rel="noopener noreferrer">National Naval Aviation Museum</a> (free admission, genuinely world-class). If
         you&apos;re planning a 4–5 day trip, Pensacola Beach offers more to do and slightly
         lower prices than Destin.
       </p>

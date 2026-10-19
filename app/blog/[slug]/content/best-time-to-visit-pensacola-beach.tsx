@@ -14,7 +14,7 @@ export default function BestTimeToVisitPensacolaBeachContent() {
       <p>
         Summer is still the classic season on <Link href="/destinations/pensacola-beach">Pensacola
         Beach</Link>, with warm water, the free island trolley, family trips, and the biggest crowds.
-        Winter is a different kind of trip, better for beach walks, Fort Pickens, downtown Pensacola,
+        Winter is a different kind of trip, better for beach walks, <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a>, downtown Pensacola,
         and quiet stays than for swimming.
       </p>
 
@@ -34,7 +34,7 @@ export default function BestTimeToVisitPensacolaBeachContent() {
 
       <h2>Month-by-Month at a Glance</h2>
       <ul>
-        <li><strong>January</strong> (~63°F air / 57°F water) — quiet walks, Fort Pickens, downtown Pensacola</li>
+        <li><strong>January</strong> (~63°F air / 57°F water) — quiet walks, <Link href="/blog/fort-pickens-day-guide">Fort Pickens</Link>, downtown Pensacola</li>
         <li><strong>February</strong> (~66°F / 59°F) — Mardi Gras (Krewe of Wrecks), mild walks, quiet stays</li>
         <li><strong>March</strong> (~72°F / 65°F) — spring weather, pier walks, early Blue Angels practice season</li>
         <li><strong>April</strong> (~78°F / 72°F) — comfortable beach days, Bands on the Beach begins</li>

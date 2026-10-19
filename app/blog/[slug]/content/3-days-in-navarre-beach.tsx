@@ -17,7 +17,7 @@ export default function ThreeDaysInNavarreBeachContent() {
         <Link href="/destinations/navarre-beach">Navarre Beach</Link> is a narrow island with the Gulf
         on one side and Santa Rosa Sound on the other, and the pier, Marine Park, restaurants, and Sea
         Turtle Conservation Center are all close together. Spend day one around the pier, day two in the
-        Marine Park, and day three inside Gulf Islands National Seashore.
+        Marine Park, and day three inside <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a>.
       </p>
 
       <h2>Day 1: Arrive, Get on the Sand, and Walk the Pier</h2>
@@ -25,8 +25,8 @@ export default function ThreeDaysInNavarreBeachContent() {
         Your first day should be easy. Check in, grab groceries, and head toward the water near the pier
         and Marine Park. Navarre Beach Pier is the obvious first landmark, stretching 1,545 feet into the
         Gulf about 30 feet above the water. You can walk it for a small fee, fish with admission, or use
-        it as your first sunset stop. For dinner, stay close: Windjammers on the Pier is the easiest
-        first-night pick, Andy D&apos;s is a casual beachside deck, and Juana&apos;s Pagodas and
+        it as your first sunset stop. For dinner, stay close: <a href="https://windjammersnavarrepier.com/" target="_blank" rel="noopener noreferrer">Windjammers</a> on the Pier is the easiest
+        first-night pick, Andy D&apos;s is a casual beachside deck, and <a href="https://www.juanaspagodas.com/" target="_blank" rel="noopener noreferrer">Juana&apos;s Pagodas</a> and
         Sailors&apos; Grill brings beach-bar energy on the sound side.
       </p>
 
@@ -61,7 +61,9 @@ export default function ThreeDaysInNavarreBeachContent() {
         coast: dunes, water, open sky, and long undeveloped stretches. Opal Beach has parking,
         restrooms, showers, pavilions, summer lifeguards, and an entrance fee (typically open 8 a.m. to
         sunset, cashless, with no concessions). There are also no-fee lots along 399 for a simpler stop.
-        Bring everything you need.
+        Bring everything you need. Our{' '}
+        <Link href="/blog/fort-pickens-day-guide">Gulf Islands National Seashore and Fort Pickens guide</Link> covers
+        passes and the other seashore areas.
       </p>
 
       <TipCallout title="Save the Seashore for Clear Weather" variant="tip">
@@ -73,7 +75,7 @@ export default function ThreeDaysInNavarreBeachContent() {
       <p>
         Plan for one pier meal, one casual beach-bar meal, and one mainland seafood meal. Windjammers on
         the Pier for a first night or pier sunset, Juana&apos;s Pagodas and Sailors&apos; Grill (a
-        Navarre fixture since 1989) for a livelier casual night, Dewey Destin&apos;s Navarre for a simple
+        Navarre fixture since 1989) for a livelier casual night, <a href="https://www.destinseafood.com/" target="_blank" rel="noopener noreferrer">Dewey Destin&apos;s</a> Navarre for a simple
         mainland seafood dinner, and Andy D&apos;s for casual beachside food and breakfast.
       </p>
 

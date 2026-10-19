@@ -6,7 +6,7 @@ export default function HendersonBeachStateParkGuideContent() {
   return (
     <>
       <p className="text-xl text-navy/80 leading-relaxed font-medium">
-        Henderson Beach State Park is the best beach day in Destin that does not involve a boardwalk,
+        <a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson Beach State Park</a> is the best beach day in Destin that does not involve a boardwalk,
         a t-shirt shop, or a wait for a table. It is 208 acres of protected dunes, sea oats, and
         sugar-white sand right off Emerald Coast Parkway — and as of mid-2026, you cannot just drive
         up and pay at the gate anymore.

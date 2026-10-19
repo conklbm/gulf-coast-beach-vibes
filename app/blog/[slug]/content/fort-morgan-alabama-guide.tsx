@@ -64,7 +64,7 @@ export default function FortMorganAlabamaGuideContent() {
         to walk for twenty minutes and see six people, you want this.
       </p>
       <p>
-        Bon Secour National Wildlife Refuge occupies a good stretch of the peninsula, protecting dune
+        <a href="https://www.fws.gov/refuge/bon-secour" target="_blank" rel="noopener noreferrer">Bon Secour National Wildlife Refuge</a> occupies a good stretch of the peninsula, protecting dune
         and maritime forest habitat — there are hiking trails, and it is a serious birding spot during
         migration.
       </p>

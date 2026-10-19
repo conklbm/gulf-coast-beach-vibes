@@ -24,12 +24,12 @@ export default function IsDestinCrowdedContent() {
         into a relatively small area. The busiest normal period is summer, when families are out of
         school and condos, charters, and restaurants all fill up. Holiday weekends are the biggest
         pressure points, and Destin also gets a fall event surge with the Destin Seafood Festival in
-        late September and the month-long Destin Fishing Rodeo in October.
+        late September and the month-long <a href="https://www.destinfishingrodeo.org/" target="_blank" rel="noopener noreferrer">Destin Fishing Rodeo</a> in October.
       </p>
 
       <h2>Where Destin Feels Busiest</h2>
       <p>
-        The crowds show up differently depending on where you are. HarborWalk Village is one of the
+        The crowds show up differently depending on where you are. <a href="https://www.harborwalkvillage.com/" target="_blank" rel="noopener noreferrer">HarborWalk Village</a> is one of the
         clearest crowd zones, tied to restaurants, nightlife, fireworks, and boat tours. Crab Island, a
         submerged sandbar near the Destin Bridge, is a crowd magnet, and on a peak summer weekend
         it&apos;s a boating scene, not a quiet nature stop. Public beach access points can feel tight,
@@ -53,7 +53,7 @@ export default function IsDestinCrowdedContent() {
 
       <h2>Henderson Beach State Park Can Help, but Plan Ahead</h2>
       <p>
-        Henderson Beach State Park is one of the best ways to make Destin feel less chaotic, with
+        <a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson Beach State Park</a> is one of the best ways to make Destin feel less chaotic, with
         protected beach, dunes, boardwalks, and a nature trail. It&apos;s open 8 a.m. until sundown,
         365 days a year, but for 2026 day-use entry reservations are now required, with admission around
         $6 per vehicle. It&apos;s often suggested as a calmer alternative, but it&apos;s still popular,

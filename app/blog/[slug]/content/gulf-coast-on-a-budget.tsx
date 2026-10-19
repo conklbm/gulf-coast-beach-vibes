@@ -73,7 +73,7 @@ export default function GulfCoastOnABudgetContent() {
         <li>
           <strong><Link href="/destinations/pensacola-beach">Pensacola Beach, FL</Link></strong>
           — the best value on the Florida Panhandle; typically 15–25% cheaper than Destin
-          with comparable beach quality and Gulf Islands National Seashore access.
+          with comparable beach quality and <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a> access.
         </li>
         <li>
           <strong><Link href="/destinations/navarre-beach">Navarre Beach, FL</Link></strong> —
@@ -144,7 +144,7 @@ export default function GulfCoastOnABudgetContent() {
         </li>
         <li>
           <strong>Paid aquariums and mini-golf as a default.</strong> Fine as a rainy-day plan. Not
-          worth building a budget around when Gulf State Park, Fort Pickens, the National Naval
+          worth building a budget around when <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a>, <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a>, the National Naval
           Aviation Museum (free), and the beach itself are right there.
         </li>
         <li>
@@ -223,7 +223,7 @@ export default function GulfCoastOnABudgetContent() {
           into the Gulf, no fishing license required
         </li>
         <li>
-          <strong>National Naval Aviation Museum (Pensacola)</strong> — completely free;
+          <strong><a href="https://www.navalaviationmuseum.org/" target="_blank" rel="noopener noreferrer">National Naval Aviation Museum</a> (Pensacola)</strong> — completely free;
           genuinely one of the best aviation museums in the world
         </li>
         <li>

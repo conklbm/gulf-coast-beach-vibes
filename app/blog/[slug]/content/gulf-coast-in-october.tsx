@@ -71,7 +71,7 @@ export default function GulfCoastOctoberContent() {
           favorites
         </li>
         <li>
-          <strong>State parks:</strong> All open year-round (Henderson Beach, Gulf State Park, St.
+          <strong>State parks:</strong> All open year-round (Henderson Beach, <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a>, St.
           Andrews, Grayton Beach, etc.)
         </li>
         <li>
@@ -96,21 +96,21 @@ export default function GulfCoastOctoberContent() {
       </p>
       <ul>
         <li>
-          <strong>Destin Fishing Rodeo (all of October)</strong> — the largest inshore/offshore
+          <strong><a href="https://www.destinfishingrodeo.org/" target="_blank" rel="noopener noreferrer">Destin Fishing Rodeo</a> (all of October)</strong> — the largest inshore/offshore
           fishing tournament on the Gulf Coast, running every day of October at the Destin Harbor.
           Even non-anglers enjoy watching the weigh-ins at the harbor docks each evening — massive
           fish, excited crowds, great atmosphere.
         </li>
         <li>
-          <strong>Pensacola Interstate Fair</strong> — the Florida Panhandle&apos;s biggest fair
+          <strong><a href="https://www.pensacolafair.com/" target="_blank" rel="noopener noreferrer">Pensacola Interstate Fair</a></strong> — the Florida Panhandle&apos;s biggest fair
           runs in late October with rides, concerts, food, and regional entertainment.
         </li>
         <li>
-          <strong>Foo Foo Festival (Pensacola)</strong> — a celebration of arts, culture, and
+          <strong><a href="https://foofoofest.com/" target="_blank" rel="noopener noreferrer">Foo Foo Festival</a> (Pensacola)</strong> — a celebration of arts, culture, and
           food across downtown Pensacola in late October / early November.
         </li>
         <li>
-          <strong>Frank Brown International Songwriters Festival (Gulf Shores/PCB)</strong> —
+          <strong><a href="https://www.frankbrownsongwriters.com/" target="_blank" rel="noopener noreferrer">Frank Brown International Songwriters Festival</a> (Gulf Shores/PCB)</strong> —
           technically runs in early November but the last days of October capture some of the
           energy. One of the best music events in the Southeast for original songwriting talent.
         </li>
@@ -129,8 +129,8 @@ export default function GulfCoastOctoberContent() {
         </li>
         <li>
           <strong><Link href="/destinations/navarre-beach">Navarre Beach</Link></strong> — already
-          the least-crowded beach on the Gulf, October makes it even more serene. Gulf Islands
-          National Seashore at its most peaceful.
+          the least-crowded beach on the Gulf, October makes it even more serene. <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands
+          National Seashore</a> at its most peaceful.
         </li>
         <li>
           <strong><Link href="/destinations/seaside">Seaside / 30A</Link></strong> — the 30A

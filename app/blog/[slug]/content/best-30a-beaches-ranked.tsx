@@ -82,7 +82,7 @@ export default function Best30ABeachesRankedContent() {
       <TipCallout title="The Real 30A Strategy" variant="tip">
         Do not drive around hunting for a space. Either <strong>stay somewhere with beach access
         included</strong> — which is what you are paying for in a 30A rental — or <strong>go to
-        Grayton Beach State Park</strong> and pay the state park fee for a guaranteed spot. Those are
+        <a href="https://www.floridastateparks.org/parks-and-trails/grayton-beach-state-park" target="_blank" rel="noopener noreferrer">Grayton Beach State Park</a></strong> and pay the state park fee for a guaranteed spot. Those are
         the two approaches that work. Circling the regional accesses at 10 a.m. in July is the one
         that does not.
       </TipCallout>

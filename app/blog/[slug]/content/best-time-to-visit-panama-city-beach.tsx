@@ -14,8 +14,8 @@ export default function BestTimeToVisitPanamaCityBeachContent() {
       <p>
         Summer is the classic season on <Link href="/destinations/panama-city-beach">Panama City
         Beach</Link>, with warm water, family vacations, fireworks, concerts, and Shell Island plans,
-        plus heat, storms, and parking pressure. Winter is quieter, better for St. Andrews State Park,
-        Camp Helen, Pier Park, and fishing than for swimming.
+        plus heat, storms, and parking pressure. Winter is quieter, better for <a href="https://www.floridastateparks.org/parks-and-trails/st-andrews-state-park" target="_blank" rel="noopener noreferrer">St. Andrews State Park</a>,
+        Camp Helen, <a href="https://www.simon.com/mall/pier-park" target="_blank" rel="noopener noreferrer">Pier Park</a>, and fishing than for swimming.
       </p>
 
       <h2>Quick Answer: The Best Time to Visit</h2>

@@ -94,18 +94,18 @@ export default function GulfCoastFromNashvilleContent() {
         For most Nashville visitors, <Link href="/destinations/gulf-shores">Gulf Shores</Link> and{' '}
         <Link href="/destinations/orange-beach">Orange Beach</Link> offer the best combination of
         drive time, beach quality, and value. The beach is excellent — white quartz sand, warm
-        Gulf water, world-class Gulf State Park — and you save a full hour of driving each way
+        Gulf water, world-class <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a> — and you save a full hour of driving each way
         compared to Destin.
       </p>
       <p>
         Orange Beach specifically has a slightly more polished feel than Gulf Shores (nicer condos,
-        The Wharf entertainment complex) while still being more affordable than Destin. Worth
+        <a href="https://www.alwharf.com/" target="_blank" rel="noopener noreferrer">The Wharf</a> entertainment complex) while still being more affordable than Destin. Worth
         considering as a middle-ground pick.
       </p>
 
       <h3>Pensacola Beach — History + Beach</h3>
       <p>
-        Add 45 minutes to the drive and you get Gulf Islands National Seashore, genuinely stunning
+        Add 45 minutes to the drive and you get <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a>, genuinely stunning
         white quartz sand, and access to Pensacola&apos;s outstanding Naval Aviation Museum and
         historic downtown. A great choice if your trip is more than just beach time — or if
         you&apos;ve already done Gulf Shores and want something different.

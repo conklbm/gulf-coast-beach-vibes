@@ -13,7 +13,7 @@ export default function DauphinIslandWeekendContent() {
         A good <Link href="/destinations/dauphin-island">Dauphin Island</Link> weekend is slower,
         simpler, and more practical than a <Link href="/destinations/gulf-shores">Gulf Shores</Link> or{' '}
         <Link href="/destinations/orange-beach">Orange Beach</Link> trip. You come here for quiet beach
-        time, birds, old trees, Fort Gaines, the Alabama Aquarium, Mobile Bay views, and a ferry ride if
+        time, birds, old trees, Fort Gaines, the <a href="https://www.disl.edu/aquarium/" target="_blank" rel="noopener noreferrer">Alabama Aquarium</a>, Mobile Bay views, and a ferry ride if
         the timing works. The trick is arriving with groceries, checking beach access before you go, and
         resisting the urge to turn every hour into an activity.
       </p>
@@ -30,7 +30,7 @@ export default function DauphinIslandWeekendContent() {
         small logistics matter more. For 2026: bridge work is underway and can cause delays, so check
         traffic before crossing. Town beach parking uses ParkMobile Zone 95202 and lets you pay once for
         town-owned beaches the same day. Middle Beach has had improvement-related closures, so check
-        current access. West End Beach has no lifeguards, and the Mobile Bay Ferry schedule shifts by
+        current access. West End Beach has no lifeguards, and the <a href="https://mobilebayferry.com/" target="_blank" rel="noopener noreferrer">Mobile Bay Ferry</a> schedule shifts by
         season and weather.
       </p>
 

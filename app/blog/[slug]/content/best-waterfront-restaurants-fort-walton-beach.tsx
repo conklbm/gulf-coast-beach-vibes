@@ -44,7 +44,7 @@ export default function BestWaterfrontRestaurantsFortWaltonBeachContent() {
 
       <h2>On Okaloosa Island</h2>
 
-      <h3>The Gulf</h3>
+      <h3><a href="https://thegulf.com/locations/okaloosa-island/" target="_blank" rel="noopener noreferrer">The Gulf</a></h3>
       <p>
         Built from refurbished shipping containers with reclaimed materials throughout, sitting on the
         bay side of <Link href="/blog/okaloosa-island-guide">Okaloosa Island</Link>. The menu is short

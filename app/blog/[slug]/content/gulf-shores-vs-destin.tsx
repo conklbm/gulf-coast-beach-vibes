@@ -53,12 +53,12 @@ export default function GulfShoresVsDestinContent() {
       <p>
         Destin is larger, more developed, and more crowded — particularly in summer. It draws a
         mix of resort-style vacationers, serious anglers, and well-heeled families. The Harborwalk
-        Village and The Wharf are major entertainment hubs. There&apos;s a lot going on, and the
+        Village and <a href="https://www.alwharf.com/" target="_blank" rel="noopener noreferrer">The Wharf</a> are major entertainment hubs. There&apos;s a lot going on, and the
         vibe skews upscale.
       </p>
       <p>
         Gulf Shores is more classic beach town — think family-friendly, a little more relaxed,
-        with less of the resort-complex energy. Gulf State Park gives it a natural, outdoorsy
+        with less of the resort-complex energy. <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a> gives it a natural, outdoorsy
         character that Destin lacks. The crowd is younger families and locals from Alabama,
         Tennessee, and Georgia who&apos;ve been coming here for generations.
       </p>
@@ -87,21 +87,21 @@ export default function GulfShoresVsDestinContent() {
           natural beach, a fishing pier, and camping. Destin has nothing comparable.
         </li>
         <li>
-          <strong>Bon Secour National Wildlife Refuge</strong> — undeveloped barrier island
+          <strong><a href="https://www.fws.gov/refuge/bon-secour" target="_blank" rel="noopener noreferrer">Bon Secour National Wildlife Refuge</a></strong> — undeveloped barrier island
           hiking with rare species and solitude
         </li>
         <li>
-          <strong>Alabama Gulf Coast Zoo</strong> — surprisingly excellent for families
+          <strong><a href="https://alabamagulfcoastzoo.org/" target="_blank" rel="noopener noreferrer">Alabama Gulf Coast Zoo</a></strong> — surprisingly excellent for families
         </li>
         <li>
-          <strong>Historic Fort Morgan</strong> — Civil War fort at the tip of the peninsula with
+          <strong><a href="https://ahc.alabama.gov/properties/ftmorgan/ftmorgan.aspx" target="_blank" rel="noopener noreferrer">Historic Fort Morgan</a></strong> — Civil War fort at the tip of the peninsula with
           views of Mobile Bay
         </li>
       </ul>
       <h3>Destin Advantages</h3>
       <ul>
         <li>
-          <strong>Henderson Beach State Park</strong> — exceptional protected beach with old-growth
+          <strong><a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson Beach State Park</a></strong> — exceptional protected beach with old-growth
           dunes
         </li>
         <li>
@@ -109,7 +109,7 @@ export default function GulfShoresVsDestinContent() {
           this is genuinely the sportfishing capital of the Gulf
         </li>
         <li>
-          <strong>Harborwalk Village</strong> — waterfront dining, sunset cruises, dolphin tours,
+          <strong><a href="https://www.harborwalkvillage.com/" target="_blank" rel="noopener noreferrer">Harborwalk Village</a></strong> — waterfront dining, sunset cruises, dolphin tours,
           all concentrated in one walkable area
         </li>
         <li>
@@ -158,8 +158,8 @@ export default function GulfShoresVsDestinContent() {
         If you want Destin&apos;s water quality at Gulf Shores prices, look at{' '}
         <strong>Fort Walton Beach</strong> — same barrier island as Destin, same emerald water,
         notably cheaper. Or go further west to{' '}
-        <strong>Navarre Beach</strong> — literally the least-crowded stretch of Gulf Islands
-        National Seashore, with the same stunning water and almost no one on it.
+        <strong>Navarre Beach</strong> — literally the least-crowded stretch of <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands
+        National Seashore</a>, with the same stunning water and almost no one on it.
       </TipCallout>
 
       <p>

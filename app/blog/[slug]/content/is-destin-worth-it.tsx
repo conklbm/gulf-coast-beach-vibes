@@ -16,7 +16,7 @@ export default function IsDestinWorthItContent() {
         Destin is worth it if you go for the right reasons at the right time. The water color
         is genuinely extraordinary — you will not find that shade of emerald-green anywhere else
         on the Gulf Coast, and possibly anywhere else in the continental US. The fishing is
-        world-class. The restaurant scene is excellent. Henderson Beach State Park is one of the
+        world-class. The restaurant scene is excellent. <a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson Beach State Park</a> is one of the
         best state parks in Florida.
       </p>
       <p>
@@ -60,12 +60,12 @@ export default function IsDestinWorthItContent() {
         amberjack, mahi-mahi, and wahoo are all routinely caught on day trips.
       </p>
       <p>
-        The Destin Fishing Rodeo runs every day of October and is the largest inshore/offshore
+        The <a href="https://www.destinfishingrodeo.org/" target="_blank" rel="noopener noreferrer">Destin Fishing Rodeo</a> runs every day of October and is the largest inshore/offshore
         fishing tournament on the Gulf Coast. If fishing matters to your trip at all, Destin
         delivers.
       </p>
 
-      <h3>Harborwalk Village</h3>
+      <h3><a href="https://www.harborwalkvillage.com/" target="_blank" rel="noopener noreferrer">Harborwalk Village</a></h3>
       <p>
         The waterfront complex at Destin Harbor has sunset cruises, dolphin tours, waterfront
         restaurants, shopping, and live entertainment all in a walkable area. In the evening,

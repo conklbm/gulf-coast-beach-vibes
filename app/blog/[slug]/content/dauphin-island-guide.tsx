@@ -169,7 +169,7 @@ export default function DauphinIslandGuideContent() {
         </li>
         <li>
           <strong>Fort Morgan Ferry (from the east):</strong> If you&apos;re coming from Gulf Shores
-          or Orange Beach, the Mobile Bay Ferry runs between Fort Morgan (Baldwin County) and
+          or Orange Beach, the <a href="https://mobilebayferry.com/" target="_blank" rel="noopener noreferrer">Mobile Bay Ferry</a> runs between Fort Morgan (Baldwin County) and
           Fort Gaines (Dauphin Island). The crossing takes about 40 minutes and runs daily
           (seasonal schedule — check ferry website for current times and fares). This is the
           scenic option and saves a long drive around the bay.

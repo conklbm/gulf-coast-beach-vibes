@@ -34,7 +34,7 @@ export default function BestTimeToVisit30AContent() {
 
       <h2>Month-by-Month at a Glance</h2>
       <ul>
-        <li><strong>January</strong> — quiet, cool; 30A Songwriters Festival can fill a weekend</li>
+        <li><strong>January</strong> — quiet, cool; <a href="https://www.30asongwritersfestival.com/" target="_blank" rel="noopener noreferrer">30A Songwriters Festival</a> can fill a weekend</li>
         <li><strong>February</strong> — quiet with event energy (30A Wine Festival, Seaside School races)</li>
         <li><strong>March</strong> — spring break starts the busy season; lifeguard coverage begins March 1</li>
         <li><strong>April</strong> — one of the best weather months (late April is cleaner than early)</li>
@@ -54,7 +54,7 @@ export default function BestTimeToVisit30AContent() {
         restaurants, and a better crowd situation before peak summer (travel before Memorial Day for the
         cleanest version). <strong>October</strong> gives you the best fall version: warm water, better
         comfort, strong sunsets, and a calmer pace once summer is gone. Both are ideal for the state
-        parks (Grayton Beach, Topsail Hill Preserve, Deer Lake) and biking the Timpoochee Trail.
+        parks (Grayton Beach, <a href="https://www.floridastateparks.org/parks-and-trails/topsail-hill-preserve-state-park" target="_blank" rel="noopener noreferrer">Topsail Hill Preserve</a>, Deer Lake) and biking the Timpoochee Trail.
       </p>
       <div className="not-prose my-6">
         <AffiliateLink href="viator-gulf-coast" label="Book 30A Tours & Activities" provider="generic" />

@@ -53,7 +53,7 @@ export default function IsGulfShoresWorthItContent() {
         Gulf Place is where most first-time visitors should start, near the beach, restaurants,
         restrooms, and parking. The tradeoff is that everyone else knows this too. Paid beach parking
         runs March 1 through November 30 from 7 a.m. to 2 a.m., with city lots using ParkMobile and
-        Gulf State Park lots on a separate system. Use Gulf Place for the central scene, arrive early
+        <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a> lots on a separate system. Use Gulf Place for the central scene, arrive early
         in summer, and expect paid parking during most of the visitor season.
       </p>
 
@@ -77,8 +77,8 @@ export default function IsGulfShoresWorthItContent() {
       <p>
         Gulf Shores is one of the better family beach choices on the Gulf Coast because the backup
         plans are easy. Beach trips with kids rarely run on a perfect schedule, and Gulf Shores has
-        answers: Waterville USA for a waterpark day, The Track for go-karts and mini golf, and the
-        Alabama Gulf Coast Zoo for a break from sand. Fort Morgan may give you more space, but Gulf
+        answers: <a href="https://www.watervilleusa.com/" target="_blank" rel="noopener noreferrer">Waterville USA</a> for a waterpark day, The Track for go-karts and mini golf, and the
+        <a href="https://alabamagulfcoastzoo.org/" target="_blank" rel="noopener noreferrer">Alabama Gulf Coast Zoo</a> for a break from sand. Fort Morgan may give you more space, but Gulf
         Shores gives you easier family infrastructure. You don&apos;t need to do all of it. The value
         is having it nearby when the trip needs a reset.
       </p>
@@ -88,8 +88,8 @@ export default function IsGulfShoresWorthItContent() {
 
       <h2>Easy for Food, but Choose Carefully</h2>
       <p>
-        Gulf Shores has plenty of places to eat around Highway 59, Beach Boulevard, and Gulf Place. The
-        Hangout is the obvious landmark near the main beach: loud, busy, and built for visitors, which
+        Gulf Shores has plenty of places to eat around Highway 59, Beach Boulevard, and Gulf Place. <a href="https://thehangout.com/hangout-gulf-shores/" target="_blank" rel="noopener noreferrer">The
+        Hangout</a> is the obvious landmark near the main beach: loud, busy, and built for visitors, which
         some people love and others would rather skip. Gulf State Park&apos;s Woodside Restaurant is a
         calmer option, and Orange Beach sits close enough to drive east for waterfront restaurants and
         marina views. That&apos;s one of the nice things about staying in Gulf Shores: you can use
@@ -110,9 +110,9 @@ export default function IsGulfShoresWorthItContent() {
       <h2>Who Should Choose Another Beach</h2>
       <p>
         Choose Fort Morgan for quiet, beach houses, and fewer crowds. Choose{' '}
-        <Link href="/destinations/orange-beach">Orange Beach</Link> for more boating, marinas, and The
-        Wharf. Choose <Link href="/destinations/pensacola-beach">Pensacola Beach</Link> for Fort
-        Pickens and Gulf Islands National Seashore. Choose <Link href="/destinations/destin">Destin</Link>{' '}
+        <Link href="/destinations/orange-beach">Orange Beach</Link> for more boating, marinas, and <a href="https://www.alwharf.com/" target="_blank" rel="noopener noreferrer">The
+        Wharf</a>. Choose <Link href="/destinations/pensacola-beach">Pensacola Beach</Link> for <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort
+        Pickens</a> and <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a>. Choose <Link href="/destinations/destin">Destin</Link>{' '}
         for more shopping, charter boats, and nightlife, or 30A for a more polished, design-forward
         trip. Gulf Shores is best when you want convenience without overthinking the trip.
       </p>

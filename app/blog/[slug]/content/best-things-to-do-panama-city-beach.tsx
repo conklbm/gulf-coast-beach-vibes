@@ -9,7 +9,7 @@ export default function BestThingsToDoPanamaCityBeachContent() {
         Panama City Beach stretches along 27 miles of shoreline, from the quiet dunes near Lake
         Powell to the boats and marinas of Grand Lagoon. Snorkel beside the jetties at St. Andrews
         in the morning, boat to undeveloped Shell Island in the afternoon, then ride the
-        observation wheel at Pier Park after dark.
+        observation wheel at <a href="https://www.simon.com/mall/pier-park" target="_blank" rel="noopener noreferrer">Pier Park</a> after dark.
       </p>
       <p>
         I understood <Link href="/destinations/panama-city-beach">PCB</Link> much better once I
@@ -56,7 +56,7 @@ export default function BestThingsToDoPanamaCityBeachContent() {
       <h2>Take a Boat to Shell Island</h2>
       <p>
         Shell Island is seven miles of undeveloped barrier island between the Gulf and St. Andrews
-        Bay — no roads, no bars, no rental chairs. The seasonal shuttle from St. Andrews State Park
+        Bay — no roads, no bars, no rental chairs. The seasonal shuttle from <a href="https://www.floridastateparks.org/parks-and-trails/st-andrews-state-park" target="_blank" rel="noopener noreferrer">St. Andrews State Park</a>
         is the simplest ride over; dolphin cruises and snorkeling excursions also stop there, and a
         pontoon rental from Grand Lagoon gives you the day on your own terms (operators set
         navigation limits and brief you before departure).
@@ -106,24 +106,24 @@ export default function BestThingsToDoPanamaCityBeachContent() {
         a large open-air commercial center (not a wooden boardwalk, despite the name) that works
         best from late afternoon on. The <strong>PCB Wheel&apos;s</strong> enclosed,
         climate-controlled gondolas are the main after-dark attraction; sunset slots sell out on
-        summer weekends. <strong>Topgolf</strong> (opened 2025) covers rain, cold, and
-        teenager-fatigue with 70+ covered bays, and <strong>Pirates Voyage</strong> fills a
+        summer weekends. <strong><a href="https://topgolf.com/us/panama-city-beach/" target="_blank" rel="noopener noreferrer">Topgolf</a></strong> (opened 2025) covers rain, cold, and
+        teenager-fatigue with 70+ covered bays, and <strong><a href="https://piratesvoyage.com/panama-city-beach/" target="_blank" rel="noopener noreferrer">Pirates Voyage</a></strong> fills a
         dedicated family evening with acrobatics and a full meal.
       </p>
       <p>
         For dinner with local roots, head east toward Grand Lagoon: <strong>Capt.
         Anderson&apos;s</strong> is the long-running seafood institution,{' '}
-        <strong>Schooners</strong> does casual beach-bar right near St. Andrews, and{' '}
-        <strong>Dusty&apos;s Oyster Bar</strong> handles oysters and cold drinks closer to Pier
+        <strong><a href="https://www.schooners.com/" target="_blank" rel="noopener noreferrer">Schooners</a></strong> does casual beach-bar right near St. Andrews, and{' '}
+        <strong><a href="https://www.dustysoysterbar.com/" target="_blank" rel="noopener noreferrer">Dusty&apos;s Oyster Bar</a></strong> handles oysters and cold drinks closer to Pier
         Park.
       </p>
 
       <h2>Trade the Beach for Trails or a Rainy-Day Backup</h2>
       <ul>
         <li><strong>Conservation Park</strong> — 2,900 acres of wetlands and pine forest with 24+ miles of trails from a 0.6-mile walk to an 11-mile loop; free, with wetland boardwalks best early before the heat. Bring water, repellent, and a downloaded map; leashed dogs welcome.</li>
-        <li><strong>Camp Helen State Park</strong> — 180 acres between the Gulf and Lake Powell at the western edge; the half-mile walk to the beach keeps it calm. (Kayak rentals there were discontinued in 2026 — check with the park before planning a paddle.)</li>
-        <li><strong>Shipwreck Island Waterpark</strong> — the strongest full family day in season; almost entirely outdoors, so check operating days in spring and fall</li>
-        <li><strong>WonderWorks, Ripley&apos;s, ZooWorld</strong> — the indoor-attraction bench for washed-out afternoons. One name to strike from old lists: Gulf World Marine Park closed permanently in 2025.</li>
+        <li><strong><a href="https://www.floridastateparks.org/parks-and-trails/camp-helen-state-park" target="_blank" rel="noopener noreferrer">Camp Helen State Park</a></strong> — 180 acres between the Gulf and Lake Powell at the western edge; the half-mile walk to the beach keeps it calm. (Kayak rentals there were discontinued in May 2026, and the beach trail was closed as of Oct. 14, 2026 — check with the park before you go.)</li>
+        <li><strong><a href="https://www.shipwreckisland.com/" target="_blank" rel="noopener noreferrer">Shipwreck Island</a> Waterpark</strong> — the strongest full family day in season; almost entirely outdoors, so check operating days in spring and fall</li>
+        <li><strong><a href="https://www.wonderworksonline.com/panama-city-beach/" target="_blank" rel="noopener noreferrer">WonderWorks</a>, Ripley&apos;s, ZooWorld</strong> — the indoor-attraction bench for washed-out afternoons. One name to strike from old lists: Gulf World Marine Park closed permanently in 2025.</li>
       </ul>
 
       <h2>The Bottom Line</h2>

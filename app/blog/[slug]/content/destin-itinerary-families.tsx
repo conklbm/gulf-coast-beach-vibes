@@ -33,14 +33,14 @@ export default function DestinItineraryFamiliesContent() {
       <p>
         Your first day should be the soft landing. Don&apos;t book a boat trip or promise a late
         HarborWalk night before you know how travel day feels. Check in, get groceries, do a short
-        beach walk near your lodging, and eat dinner close to where you are: Dewey Destin&apos;s for
-        casual seafood, The Back Porch for a beach-adjacent meal, or simple takeout if the day felt
+        beach walk near your lodging, and eat dinner close to where you are: <a href="https://www.destinseafood.com/" target="_blank" rel="noopener noreferrer">Dewey Destin&apos;s</a> for
+        casual seafood, <a href="https://www.theback-porch.com/" target="_blank" rel="noopener noreferrer">The Back Porch</a> for a beach-adjacent meal, or simple takeout if the day felt
         long.
       </p>
 
       <h2>Day 2: Planned Beach Morning and Easy Evening</h2>
       <p>
-        Day 2 is your main beach day; do it early and on purpose. Henderson Beach State Park is one of
+        Day 2 is your main beach day; do it early and on purpose. <a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson Beach State Park</a> is one of
         the best family beach choices, with white sand, a more protected feel, restrooms, showers,
         picnic areas, and a nature trail, but as of 2026 it needs a day-use reservation, so treat it as
         a planned morning. James Lee Park is a strong backup with a larger beach area, changing rooms,
@@ -49,7 +49,7 @@ export default function DestinItineraryFamiliesContent() {
       </p>
       <p>
         For the evening, choose Destin Commons for an easier reset with younger kids (food, splash pad,
-        play areas, air conditioning), or HarborWalk Village for bigger vacation energy with older kids
+        play areas, air conditioning), or <a href="https://www.harborwalkvillage.com/" target="_blank" rel="noopener noreferrer">HarborWalk Village</a> for bigger vacation energy with older kids
         and teens (boats, restaurants, sunset harbor views, but paid parking and crowds).
       </p>
 
@@ -60,8 +60,8 @@ export default function DestinItineraryFamiliesContent() {
       <ul>
         <li><strong>Dolphin cruise or boat trip</strong> — the best fit for many families, since someone else handles the boat and the time is structured</li>
         <li><strong>Crab Island with older kids or teens</strong> — a shallow water gathering area near the Destin Bridge, reached by boat, with no restrooms (a captained trip is worth it)</li>
-        <li><strong>Gulfarium Marine Adventure Park</strong> — a predictable, weather-proof choice in nearby <Link href="/destinations/fort-walton-beach">Fort Walton Beach</Link> for younger kids</li>
-        <li><strong>Big Kahuna&apos;s Water Park</strong> — a strong summer plan for elementary-age kids through teens (use it as a main activity, not an add-on)</li>
+        <li><strong><a href="https://gulfarium.com/" target="_blank" rel="noopener noreferrer">Gulfarium Marine Adventure Park</a></strong> — a predictable, weather-proof choice in nearby <Link href="/destinations/fort-walton-beach">Fort Walton Beach</Link> for younger kids</li>
+        <li><strong><a href="https://www.bigkahunas.com/" target="_blank" rel="noopener noreferrer">Big Kahuna&apos;s</a> Water Park</strong> — a strong summer plan for elementary-age kids through teens (use it as a main activity, not an add-on)</li>
       </ul>
       <div className="not-prose flex flex-col sm:flex-row gap-3 my-6">
         <AffiliateLink href="fishingbooker-gulf-coast" label="Book a Dolphin Cruise or Charter" provider="generic" />
@@ -72,8 +72,8 @@ export default function DestinItineraryFamiliesContent() {
       <p>
         By day 4, everyone has already had a lot, so use it as a flexible finish: slow breakfast, short
         beach walk or pool time, one easy outing, and one final casual meal. Good options include The
-        Track (go-karts, mini golf, arcade), Destin Commons for a reset before the drive, the free Air
-        Force Armament Museum, or one last short beach morning. The last beach memory shouldn&apos;t be
+        Track (go-karts, mini golf, arcade), Destin Commons for a reset before the drive, the free <a href="https://www.afarmamentmuseum.com/" target="_blank" rel="noopener noreferrer">Air
+        Force Armament Museum</a>, or one last short beach morning. The last beach memory shouldn&apos;t be
         everyone fighting over wet towels in the parking lot.
       </p>
 

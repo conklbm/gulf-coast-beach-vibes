@@ -15,10 +15,10 @@ export default function PanamaCityBeachVsDestinContent() {
       <p>
         <strong><Link href="/destinations/destin">Choose Destin</Link></strong> if you want
         the most vivid emerald-green water on the Gulf Coast, world-class fishing, upscale
-        dining, and the Harborwalk Village experience.{' '}
+        dining, and the <a href="https://www.harborwalkvillage.com/" target="_blank" rel="noopener noreferrer">Harborwalk Village</a> experience.{' '}
         <strong><Link href="/destinations/panama-city-beach">Choose Panama City Beach</Link></strong>{' '}
         if you want more beach for your money, a bigger and livelier scene, more entertainment
-        options beyond the beach itself, and access to St. Andrews State Park and Shell Island.
+        options beyond the beach itself, and access to <a href="https://www.floridastateparks.org/parks-and-trails/st-andrews-state-park" target="_blank" rel="noopener noreferrer">St. Andrews State Park</a> and Shell Island.
       </p>
 
       <h2>The Beaches</h2>
@@ -29,7 +29,7 @@ export default function PanamaCityBeachVsDestinContent() {
         Panama City Beach has <strong>27 miles of Gulf shoreline</strong> — by far the longest
         stretch of white-sand beach on our list. More beach means more room to spread out, more
         public access points, and more variety in beach experience from one end to the other.
-        The western end near Pier Park is lively and developed; the eastern end near St. Andrews
+        The western end near <a href="https://www.simon.com/mall/pier-park" target="_blank" rel="noopener noreferrer">Pier Park</a> is lively and developed; the eastern end near St. Andrews
         State Park is protected and pristine.
       </p>
       <p>
@@ -66,7 +66,7 @@ export default function PanamaCityBeachVsDestinContent() {
 
       <h3>Destin</h3>
       <p>
-        Destin skews more upscale and more resort-focused. The Harborwalk Village and The Wharf
+        Destin skews more upscale and more resort-focused. The Harborwalk Village and <a href="https://www.alwharf.com/" target="_blank" rel="noopener noreferrer">The Wharf</a>
         create sophisticated waterfront entertainment hubs. The dining scene is better and more
         varied. The fishing culture is serious and deeply rooted. The vibe is vacation-polished
         rather than carnival-strip.

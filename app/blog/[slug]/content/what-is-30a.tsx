@@ -59,7 +59,7 @@ export default function WhatIs30AContent() {
         30A is known for beauty and atmosphere. The white sand and turquoise water bring people in, but
         the reason people obsess over it has more to do with the total setting: small beach communities,
         the Timpoochee Trail, restaurants and coffee shops, boutiques and town centers, rental cottages,
-        coastal dune lakes, and state parks like Grayton Beach, Topsail Hill Preserve, and Deer Lake. The
+        coastal dune lakes, and state parks like Grayton Beach, <a href="https://www.floridastateparks.org/parks-and-trails/topsail-hill-preserve-state-park" target="_blank" rel="noopener noreferrer">Topsail Hill Preserve</a>, and Deer Lake. The
         beach is the base; the towns are the personality.
       </p>
 

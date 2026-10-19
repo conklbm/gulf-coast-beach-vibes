@@ -12,7 +12,7 @@ export default function IsPensacolaBeachCrowdedContent() {
       <p>
         But <Link href="/destinations/pensacola-beach">Pensacola Beach</Link> is not crowded the same
         way everywhere. A summer Saturday afternoon near Casino Beach feels very different from an early
-        morning at Park West or a Fort Pickens day when you plan ahead. It can feel crowded if you stay
+        morning at Park West or a <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a> day when you plan ahead. It can feel crowded if you stay
         in the central hub and arrive late during peak season, and much easier if you know where crowds
         collect, use the summer trolley, avoid major event dates, and spend part of the trip away from
         Casino Beach.
@@ -66,8 +66,8 @@ export default function IsPensacolaBeachCrowdedContent() {
       <h2>Where to Go When Casino Beach Feels Too Busy</h2>
       <p>
         Casino Beach is useful, but it shouldn&apos;t be your only plan. Park East and Park West can give
-        you more breathing room than the main pier area. Fort Pickens, west of the central beach inside
-        Gulf Islands National Seashore, adds a more natural, historic feel, and Opal Beach to the east is
+        you more breathing room than the main pier area. <Link href="/blog/fort-pickens-day-guide">Fort Pickens</Link>, west of the central beach inside
+        <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a>, adds a more natural, historic feel, and Opal Beach to the east is
         a good choice for a less commercial beach day. Early-morning Casino Beach, Quietwater Beach, and
         a downtown Pensacola outing are other good crowd-relief options.
       </p>
@@ -119,7 +119,7 @@ export default function IsPensacolaBeachCrowdedContent() {
         beach; <Link href="/destinations/seaside">30A</Link> for prettier planned communities;{' '}
         <Link href="/destinations/destin">Destin</Link> for more boating and activity (with bigger
         crowds); <Link href="/destinations/gulf-shores">Gulf Shores</Link> for a classic family beach
-        town; or <Link href="/destinations/orange-beach">Orange Beach</Link> for marinas and The Wharf.
+        town; or <Link href="/destinations/orange-beach">Orange Beach</Link> for marinas and <a href="https://www.alwharf.com/" target="_blank" rel="noopener noreferrer">The Wharf</a>.
         Pensacola Beach sits in the middle: busier than Navarre, usually easier than Destin.
       </p>
 

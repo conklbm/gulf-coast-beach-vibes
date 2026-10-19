@@ -11,8 +11,8 @@ export default function WhereToStayPanamaCityBeachContent() {
       </p>
       <p>
         The city follows a long coastal corridor, and its sections can feel like separate beach
-        towns. A condo beside St. Andrews State Park puts you close to fishing boats and Shell
-        Island excursions. A hotel near Pier Park lets you walk to restaurants, events, and the
+        towns. A condo beside <a href="https://www.floridastateparks.org/parks-and-trails/st-andrews-state-park" target="_blank" rel="noopener noreferrer">St. Andrews State Park</a> puts you close to fishing boats and Shell
+        Island excursions. A hotel near <a href="https://www.simon.com/mall/pier-park" target="_blank" rel="noopener noreferrer">Pier Park</a> lets you walk to restaurants, events, and the
         Russell-Fields Pier. A rental house on the West End buys quieter evenings and fewer
         high-rises. Crossing town in summer traffic consumes more of the day than the map suggests —
         so choose the section that matches the trip you actually want.
@@ -60,7 +60,7 @@ export default function WhereToStayPanamaCityBeachContent() {
         traditional hotels, and residential streets. Holiday Inn Express &amp; Suites is a prominent
         beachfront pick with pools and a lazy river; Beachbreak by the Sea offers a lower-rise
         alternative with kitchenettes. It&apos;s a practical base for splitting time between
-        Shipwreck Island Waterpark, WonderWorks, Pier Park, and the east end. The county pier&apos;s
+        <a href="https://www.shipwreckisland.com/" target="_blank" rel="noopener noreferrer">Shipwreck Island</a> Waterpark, <a href="https://www.wonderworksonline.com/panama-city-beach/" target="_blank" rel="noopener noreferrer">WonderWorks</a>, Pier Park, and the east end. The county pier&apos;s
         paid parking fills fast in season — one more point for beachfront lodging.
       </p>
       <p>
@@ -109,7 +109,7 @@ export default function WhereToStayPanamaCityBeachContent() {
         Some of the best sunsets I&apos;ve seen anywhere in the world have been along this section
         of the Gulf Coast, and the West End gives you room to slow down for them. This is also
         where a vacation rental shines: a kitchen, a porch, and a quieter street change the rhythm
-        of the trip. Camp Helen State Park sits at the western edge beside Lake Powell, and the
+        of the trip. <a href="https://www.floridastateparks.org/parks-and-trails/camp-helen-state-park" target="_blank" rel="noopener noreferrer">Camp Helen State Park</a> sits at the western edge beside Lake Powell, and the
         drive to Inlet Beach and eastern <Link href="/blog/what-is-30a">30A</Link> is short. The
         tradeoff is driving — restaurants are spread out and Grand Lagoon is at the opposite end of
         town.

@@ -8,12 +8,12 @@ export default function ThreeDaysInOrangeBeachContent() {
       <p className="text-xl text-navy/80 leading-relaxed font-medium">
         Orange Beach is one of the easiest Gulf Coast towns to turn into a three-day trip because the
         best parts are close together. You can beach in the morning, ride bikes through Gulf State
-        Park, take a dolphin cruise from The Wharf, and eat dinner on the water, all without driving
+        Park, take a dolphin cruise from <a href="https://www.alwharf.com/" target="_blank" rel="noopener noreferrer">The Wharf</a>, and eat dinner on the water, all without driving
         all over Baldwin County.
       </p>
       <p>
         This itinerary keeps <Link href="/destinations/orange-beach">Orange Beach</Link> as your base
-        and uses nearby Gulf State Park and a few{' '}
+        and uses nearby <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a> and a few{' '}
         <Link href="/destinations/gulf-shores">Gulf Shores</Link>-adjacent stops where they make sense.
         You&apos;ll want a car. A few things to know: public beach access parking is paid at the state
         lots (Romar Beach, Cotton Bayou, Alabama Point East, Shell Beach), double red flags mean the
@@ -34,8 +34,8 @@ export default function ThreeDaysInOrangeBeachContent() {
       </TipCallout>
 
       <p>
-        For the first night, keep dinner waterfront and close. Cobalt, near Perdido Pass under the
-        bridge, is the classic first-night pick for seafood and views (go early). The Gulf, built from
+        For the first night, keep dinner waterfront and close. <a href="https://cobaltrestaurant.net/" target="_blank" rel="noopener noreferrer">Cobalt</a>, near Perdido Pass under the
+        bridge, is the classic first-night pick for seafood and views (go early). <a href="https://thegulf.com/locations/orange-beach/" target="_blank" rel="noopener noreferrer">The Gulf</a>, built from
         shipping containers right on the water, is the casual alternative for fish tacos and Gulf air.
       </p>
 
@@ -78,7 +78,7 @@ export default function ThreeDaysInOrangeBeachContent() {
         The best rhythm is one casual meal, one waterfront dinner, and one flexible meal each day.
         Cobalt is best for a first or final dinner (waterfront, polished). The Gulf is best for a casual
         beachy meal. GTs on the Bay is a calmer bayfront choice on Wolf Bay. Big Fish Restaurant &amp;
-        Bar on Canal Road leans seafood and sushi (no reservations as of 2026). Flora-Bama, on the
+        Bar on Canal Road leans seafood and sushi (no reservations as of 2026). <a href="https://www.florabama.com/" target="_blank" rel="noopener noreferrer">Flora-Bama</a>, on the
         Alabama-Florida line since 1964, is the live-music, go-once landmark, best for adults and music
         people.
       </p>

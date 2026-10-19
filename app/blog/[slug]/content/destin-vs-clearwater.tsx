@@ -25,8 +25,8 @@ export default function DestinVsClearwaterContent() {
         personality. The sand is bright, the Gulf can look impossibly green on a good day, and the
         trip often revolves around getting out on the water. Choose it if your ideal vacation includes
         fishing charters, pontoon rentals, dolphin cruises, Crab Island, snorkeling, harbor
-        restaurants, and condo time with a Gulf view. The Destin Harbor Boardwalk and HarborWalk
-        Village anchor the evenings. Crab Island, a submerged sandbar near the Destin Bridge, is the
+        restaurants, and condo time with a Gulf view. The Destin Harbor Boardwalk and <a href="https://www.harborwalkvillage.com/" target="_blank" rel="noopener noreferrer">HarborWalk
+        Village</a> anchor the evenings. Crab Island, a submerged sandbar near the Destin Bridge, is the
         other major draw. The good days are excellent, but the best parts often need planning. If you
         want the honest case for the trip, our take on{' '}
         <Link href="/blog/is-destin-worth-it">whether Destin is worth it</Link> goes deeper.
@@ -46,7 +46,7 @@ export default function DestinVsClearwaterContent() {
       <h2>Beaches, Access, and Parking</h2>
       <p>
         Destin has the prettier classic Panhandle look, especially if you love white sand and emerald
-        water, and Henderson Beach State Park is one of the best options, though in 2026 it requires a
+        water, and <a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson Beach State Park</a> is one of the best options, though in 2026 it requires a
         day-use reservation. Destin also has public access points like June White Decker Beach Park and
         Norriego Point, but parking and amenities vary, and Destin launched paid public parking in 2026.
       </p>
@@ -66,7 +66,7 @@ export default function DestinVsClearwaterContent() {
       <h2>Things to Do</h2>
       <p>
         Destin wins if the trip is about water activities: fishing charters, pontoon rentals, dolphin
-        cruises, Crab Island, and Big Kahuna&apos;s for a family attraction away from the beach.
+        cruises, Crab Island, and <a href="https://www.bigkahunas.com/" target="_blank" rel="noopener noreferrer">Big Kahuna&apos;s</a> for a family attraction away from the beach.
         HarborWalk Marina makes it easy to find boat tours and excursions, and Henderson Beach State
         Park offers a quieter natural break.
       </p>
@@ -84,7 +84,7 @@ export default function DestinVsClearwaterContent() {
       <h2>Food, Nightlife, and Overall Feel</h2>
       <p>
         Destin&apos;s food scene is built around seafood, harbor views, and the fishing-town identity,
-        with names like Boshamps, Dewey Destin&apos;s, Brotula&apos;s, The Back Porch, and McGuire&apos;s.
+        with names like <a href="https://www.boshamps.com/" target="_blank" rel="noopener noreferrer">Boshamps</a>, <a href="https://www.destinseafood.com/" target="_blank" rel="noopener noreferrer">Dewey Destin&apos;s</a>, <a href="https://www.brotulas.com/" target="_blank" rel="noopener noreferrer">Brotula&apos;s</a>, <a href="https://www.theback-porch.com/" target="_blank" rel="noopener noreferrer">The Back Porch</a>, and McGuire&apos;s.
         The best meals often make sense after a boat day. Clearwater&apos;s dining feels more resort-beach
         and sunset-driven, with beachfront restaurants, hotel restaurants, and Pier 60-area dining you
         can walk to. Neither food scene is bad; the difference is movement. Destin is more

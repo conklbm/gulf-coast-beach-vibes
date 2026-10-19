@@ -31,7 +31,7 @@ export default function ThreeDaysInGulfShoresContent() {
           work fine but cost $40–60/day; your own setup saves money and gives you flexibility
         </li>
         <li>
-          <strong>Get a Gulf State Park day pass</strong> — $5/vehicle and worth buying in
+          <strong>Get a <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a> day pass</strong> — $5/vehicle and worth buying in
           advance; download the parking app before you arrive
         </li>
       </ul>
@@ -58,15 +58,15 @@ export default function ThreeDaysInGulfShoresContent() {
       </p>
       <ul>
         <li>
-          <strong>The Hangout</strong> — the iconic main-strip beach bar; loud, fun, great Gulf
+          <strong><a href="https://thehangout.com/hangout-gulf-shores/" target="_blank" rel="noopener noreferrer">The Hangout</a></strong> — the iconic main-strip beach bar; loud, fun, great Gulf
           seafood, always a crowd. Go once for the experience.
         </li>
         <li>
-          <strong>Tacky Jack&apos;s</strong> — waterfront tiki bar, live music most nights,
+          <strong><a href="https://www.tackyjacks.com/" target="_blank" rel="noopener noreferrer">Tacky Jack&apos;s</a></strong> — waterfront tiki bar, live music most nights,
           excellent sunset views
         </li>
         <li>
-          <strong>Gulf Shores Steamer</strong> — local seafood boil spot; shrimp and crab by
+          <strong><a href="https://www.gulfshoressteamer.com/" target="_blank" rel="noopener noreferrer">Gulf Shores Steamer</a></strong> — local seafood boil spot; shrimp and crab by
           the pound, no frills, excellent
         </li>
       </ul>
@@ -113,9 +113,9 @@ export default function ThreeDaysInGulfShoresContent() {
       <h3>Evening: Orange Beach for Dinner</h3>
       <p>
         Drive 10 minutes east to <Link href="/destinations/orange-beach">Orange Beach</Link> for
-        dinner at The Wharf. The waterfront here is excellent in the evening — restaurants,
+        dinner at <a href="https://www.alwharf.com/" target="_blank" rel="noopener noreferrer">The Wharf</a>. The waterfront here is excellent in the evening — restaurants,
         live music, a Ferris wheel, and the marina full of fishing boats coming back in from
-        the day. LuLu&apos;s (Jimmy Buffett&apos;s sister&apos;s restaurant) is right here and
+        the day. <a href="https://www.lulusfunfoodmusic.com/" target="_blank" rel="noopener noreferrer">LuLu&apos;s</a> (Jimmy Buffett&apos;s sister&apos;s restaurant) is right here and
         is a Gulf Shores institution.
       </p>
 
@@ -158,7 +158,7 @@ export default function ThreeDaysInGulfShoresContent() {
           fort with extraordinary Mobile Bay views. Under-visited and genuinely impressive.
         </li>
         <li>
-          <strong>Bon Secour National Wildlife Refuge</strong> — west of Gulf Shores; hiking
+          <strong><a href="https://www.fws.gov/refuge/bon-secour" target="_blank" rel="noopener noreferrer">Bon Secour National Wildlife Refuge</a></strong> — west of Gulf Shores; hiking
           trails through undeveloped barrier island habitat. Excellent birding, almost no crowds.
         </li>
         <li>

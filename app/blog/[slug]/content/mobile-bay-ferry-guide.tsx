@@ -6,7 +6,7 @@ export default function MobileBayFerryGuideContent() {
   return (
     <>
       <p className="text-xl text-navy/80 leading-relaxed font-medium">
-        Most write-ups treat the Mobile Bay Ferry as a shortcut — a way to skip the drive around the
+        Most write-ups treat the <a href="https://mobilebayferry.com/" target="_blank" rel="noopener noreferrer">Mobile Bay Ferry</a> as a shortcut — a way to skip the drive around the
         bay between <Link href="/destinations/dauphin-island">Dauphin Island</Link> and Fort Morgan.
         That undersells it. Forty minutes across open water with the Gulf on one side, working rigs
         on the horizon, and pelicans tracking the boat is a genuinely good hour of a trip. It is an
@@ -172,7 +172,7 @@ export default function MobileBayFerryGuideContent() {
       </p>
       <p>
         <strong>Fort Morgan</strong> puts you at the historic fort itself and the west end of the
-        Gulf Shores peninsula — quiet beaches, the Bon Secour National Wildlife Refuge, and a long
+        Gulf Shores peninsula — quiet beaches, the <a href="https://www.fws.gov/refuge/bon-secour" target="_blank" rel="noopener noreferrer">Bon Secour National Wildlife Refuge</a>, and a long
         drive east into <Link href="/destinations/gulf-shores">Gulf Shores</Link> and{' '}
         <Link href="/destinations/orange-beach">Orange Beach</Link> proper.
       </p>

@@ -15,7 +15,7 @@ export default function GulfBreezeVsPensacolaBeachContent() {
         <Link href="/destinations/pensacola-beach">Pensacola Beach</Link> is the beach vacation
         itself. Gulf Breeze gives you quieter hotels, parks, the zoo, Santa Rosa Sound access, and
         easier drives back toward Pensacola or Navarre. Pensacola Beach gives you Gulf-front lodging,
-        Casino Beach, the pier, the boardwalk, the trolley, beach restaurants, and Fort Pickens. Both
+        Casino Beach, the pier, the boardwalk, the trolley, beach restaurants, and <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a>. Both
         can work. The question is how much of your trip you want to spend on the island.
       </p>
 
@@ -36,7 +36,7 @@ export default function GulfBreezeVsPensacolaBeachContent() {
         Pensacola Beach is the beach trip people usually mean. It sits on Santa Rosa Island, with the
         Gulf on one side and Santa Rosa Sound on the other. This is where you get white sand,
         Gulf-front hotels, beach bars, the Pensacola Beach Gulf Pier, the Quietwater Beach Boardwalk,
-        Casino Beach, Fort Pickens, and Gulf Islands National Seashore. Pensacola Beach is easier if
+        Casino Beach, <Link href="/blog/fort-pickens-day-guide">Fort Pickens</Link>, and <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a>. Pensacola Beach is easier if
         your main goal is simple: wake up, walk to the sand, eat near the water, and stay in beach mode
         until sunset. The free island trolley runs in summer and helps once you&apos;re already there.
         The tradeoff is cost, crowds, and the usual beach-town squeeze.

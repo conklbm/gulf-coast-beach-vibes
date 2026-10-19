@@ -12,9 +12,9 @@ export default function DauphinIslandVsGulfShoresContent() {
       <p>
         That&apos;s the difference. <Link href="/destinations/dauphin-island">Dauphin Island</Link>
         {' '}is quiet, flat, birdy, breezy, and slow. You go there for beach walks, Fort Gaines, the
-        Alabama Aquarium, the Audubon Bird Sanctuary, the ferry, and a few days where nobody asks
+        <a href="https://www.disl.edu/aquarium/" target="_blank" rel="noopener noreferrer">Alabama Aquarium</a>, the Audubon Bird Sanctuary, the ferry, and a few days where nobody asks
         what the plan is. <Link href="/destinations/gulf-shores">Gulf Shores</Link> gives you more of
-        the familiar beach-week setup: condos, restaurants, beach shops, Gulf State Park, the zoo,
+        the familiar beach-week setup: condos, restaurants, beach shops, <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a>, the zoo,
         mini golf, public beach access, and enough options to keep a family from getting restless.
       </p>
       <p>Both are real Alabama beaches. They serve very different travelers.</p>
@@ -61,9 +61,9 @@ export default function DauphinIslandVsGulfShoresContent() {
       </p>
       <p>
         Gulf Shores has far more to do. Gulf State Park is the biggest advantage, with trails,
-        biking, fishing, kayaking, beach access, and the pier. You also have the Alabama Gulf Coast
-        Zoo, Waterville USA, mini golf, beach shops, restaurants, and nearby Orange Beach if you want
-        The Wharf or more nightlife.
+        biking, fishing, kayaking, beach access, and the pier. You also have the <a href="https://alabamagulfcoastzoo.org/" target="_blank" rel="noopener noreferrer">Alabama Gulf Coast
+        Zoo</a>, <a href="https://www.watervilleusa.com/" target="_blank" rel="noopener noreferrer">Waterville USA</a>, mini golf, beach shops, restaurants, and nearby Orange Beach if you want
+        <a href="https://www.alwharf.com/" target="_blank" rel="noopener noreferrer">The Wharf</a> or more nightlife.
       </p>
       <div className="not-prose flex flex-col sm:flex-row gap-3 my-6">
         <AffiliateLink href="tripshock-gulf-shores-all" label="Gulf Shores Activities" provider="generic" />
@@ -71,7 +71,7 @@ export default function DauphinIslandVsGulfShoresContent() {
       </div>
 
       <TipCallout title="See Both in One Trip" variant="tip">
-        If you want to see both places in one trip, use the Mobile Bay Ferry between Dauphin Island
+        If you want to see both places in one trip, use the <a href="https://mobilebayferry.com/" target="_blank" rel="noopener noreferrer">Mobile Bay Ferry</a> between Dauphin Island
         and Fort Morgan, then continue toward Gulf Shores. Build in extra time. Ferry service can
         change because of weather, maintenance, capacity, and seasonal schedules.
       </TipCallout>
@@ -85,8 +85,8 @@ export default function DauphinIslandVsGulfShoresContent() {
         nightlife. Dinner is simple. Nights get quiet.
       </p>
       <p>
-        Gulf Shores has a much deeper restaurant scene. The Hangout, LuLu&apos;s, Sea-N-Suds,
-        Original Oyster House, Bahama Bob&apos;s, and nearby Orange Beach options give you far more
+        Gulf Shores has a much deeper restaurant scene. <a href="https://thehangout.com/hangout-gulf-shores/" target="_blank" rel="noopener noreferrer">The Hangout</a>, <a href="https://www.lulusfunfoodmusic.com/" target="_blank" rel="noopener noreferrer">LuLu&apos;s</a>, Sea-N-Suds,
+        <a href="https://www.originaloysterhouse.com/" target="_blank" rel="noopener noreferrer">Original Oyster House</a>, <a href="https://www.bahamabobs.com/" target="_blank" rel="noopener noreferrer">Bahama Bob&apos;s</a>, and nearby Orange Beach options give you far more
         choices. It&apos;s also stronger after dark, with live music, beach bars, and busy
         restaurants. Dauphin Island is better for early nights; Gulf Shores is better when dinner is
         part of the vacation.

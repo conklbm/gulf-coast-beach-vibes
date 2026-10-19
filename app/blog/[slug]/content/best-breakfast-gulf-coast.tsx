@@ -33,7 +33,7 @@ export default function BestBreakfastGulfCoastContent() {
         <Link href="/destinations/gulf-shores">Gulf Shores</Link>, make it this.
       </p>
       <p>
-        <strong>Sunliner Diner</strong> is the fifties-throwback option — bigger on theme than
+        <strong><a href="https://www.sunlinerdiner.com/" target="_blank" rel="noopener noreferrer">Sunliner Diner</a></strong> is the fifties-throwback option — bigger on theme than
         Kitty&apos;s, and a reliable hit with kids who are bored of the condo kitchen.
       </p>
       <p>
@@ -41,7 +41,7 @@ export default function BestBreakfastGulfCoastContent() {
         means Benedicts and something boozy if you are in that mood.
       </p>
       <p>
-        <strong>Tacky Jack&apos;s</strong> in <Link href="/destinations/orange-beach">Orange
+        <strong><a href="https://www.tackyjacks.com/" target="_blank" rel="noopener noreferrer">Tacky Jack&apos;s</a></strong> in <Link href="/destinations/orange-beach">Orange
         Beach</Link> is the water-view play. The food is solid rather than exceptional; the morning
         view over the water is the reason to go, and it is a genuinely good one.
       </p>
@@ -67,7 +67,7 @@ export default function BestBreakfastGulfCoastContent() {
 
       <h2>Fort Walton Beach and Destin</h2>
       <p>
-        <strong>Harbor Docks</strong> in <Link href="/destinations/destin">Destin</Link> is the
+        <strong><a href="https://www.harbordocks.com/" target="_blank" rel="noopener noreferrer">Harbor Docks</a></strong> in <Link href="/destinations/destin">Destin</Link> is the
         standout, and an odd one: a serious seafood restaurant that also runs a breakfast worth
         getting up for, on the harbor. Locals eat there year-round.
       </p>
@@ -85,17 +85,17 @@ export default function BestBreakfastGulfCoastContent() {
         seriously and it shows.
       </p>
       <p>
-        <strong>Great Southern Cafe</strong> in Seaside is the one to plan around — Southern dishes
+        <strong><a href="https://www.thegreatsoutherncafe.com/" target="_blank" rel="noopener noreferrer">Great Southern Cafe</a></strong> in Seaside is the one to plan around — Southern dishes
         with a twist, fried green tomato Benedict, corned beef hash Benedict, chicken and waffles.
         Breakfast runs daily from 8 a.m. to 10:45 a.m., so it is genuinely a breakfast service rather
         than an all-day menu. Get there early.
       </p>
       <p>
-        <strong>Bud &amp; Alley&apos;s</strong>, also in Seaside, was one of 30A&apos;s first
+        <strong><a href="https://www.budandalleys.com/" target="_blank" rel="noopener noreferrer">Bud &amp; Alley&apos;s</a></strong>, also in Seaside, was one of 30A&apos;s first
         farm-to-table places and still cooks like it.
       </p>
       <p>
-        <strong>Black Bear Bread Company</strong> has several 30A locations and is the coffee-and-
+        <strong><a href="https://www.blackbearbreadco.com/" target="_blank" rel="noopener noreferrer">Black Bear Bread Company</a></strong> has several 30A locations and is the coffee-and-
         pastry answer — avocado toast, breakfast sandwiches, locally roasted coffee. The most
         reliable quick option on the road.
       </p>

@@ -8,7 +8,7 @@ export default function OrangeBeachGuideContent() {
       <p className="text-xl text-navy/80 leading-relaxed font-medium">
         Orange Beach rewards the traveler who likes a beach trip with options. You can spend the
         morning on the Gulf side, be on a dolphin cruise by late afternoon, eat seafood under the
-        Perdido Pass Bridge, and ride the Ferris wheel at The Wharf after dinner.
+        Perdido Pass Bridge, and ride the Ferris wheel at <a href="https://www.alwharf.com/" target="_blank" rel="noopener noreferrer">The Wharf</a> after dinner.
       </p>
       <p>
         That&apos;s the appeal. <Link href="/destinations/orange-beach">Orange Beach</Link> gives you
@@ -21,7 +21,7 @@ export default function OrangeBeachGuideContent() {
       <h2>Start With the Public Beach Access Points</h2>
       <p>
         Orange Beach has beautiful Gulf shoreline, but you need to understand access before assuming
-        you can park anywhere. The four main Gulf State Park public beach access points are:
+        you can park anywhere. The four main <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a> public beach access points are:
       </p>
       <ul>
         <li><strong>Romar Beach</strong> — a quieter stop with parking and restrooms</li>
@@ -101,8 +101,8 @@ export default function OrangeBeachGuideContent() {
       <h2>Where to Eat in Orange Beach</h2>
       <p>
         The best meals fall into a few zones. For waterfront atmosphere, look around Perdido Pass, where
-        Cobalt (under the Perdido Pass Bridge) and The Gulf make sense for seafood with a view. For live
-        music and Gulf Coast character, Flora-Bama at the Alabama-Florida line is the famous name, loud
+        <a href="https://cobaltrestaurant.net/" target="_blank" rel="noopener noreferrer">Cobalt</a> (under the Perdido Pass Bridge) and <a href="https://thegulf.com/locations/orange-beach/" target="_blank" rel="noopener noreferrer">The Gulf</a> make sense for seafood with a view. For live
+        music and Gulf Coast character, <a href="https://www.florabama.com/" target="_blank" rel="noopener noreferrer">Flora-Bama</a> at the Alabama-Florida line is the famous name, loud
         and iconic. The Wharf is useful for dinner paired with walking, shopping, or a concert. You can
         also drive west into Gulf Shores for more restaurants.
       </p>

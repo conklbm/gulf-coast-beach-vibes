@@ -10,7 +10,7 @@ export default function GulfCoastWithKidsContent() {
         end with children racing across white sand at sunset.
       </p>
       <p>
-        I grew up staying in a Gulf Shores beach house a few doors from where The Hangout stands
+        I grew up staying in a Gulf Shores beach house a few doors from where <a href="https://thehangout.com/hangout-gulf-shores/" target="_blank" rel="noopener noreferrer">The Hangout</a> stands
         today. Back then, a successful beach day meant staying in the water until somebody made me
         come inside. Now I notice the details parents need: which accesses have restrooms, where
         parking disappears early, and which attractions rescue an afternoon when the Gulf turns
@@ -22,25 +22,25 @@ export default function GulfCoastWithKidsContent() {
       <h2>Choose the Right Beach for Your Family</h2>
       <p>
         <strong><Link href="/destinations/dauphin-island">Dauphin Island</Link> — quiet,
-        nature-focused.</strong> The Alabama Aquarium is manageable with little ones, Fort Gaines
-        gives school-age kids tunnels and cannons, and the Mobile Bay Ferry crossing makes the
+        nature-focused.</strong> The <a href="https://www.disl.edu/aquarium/" target="_blank" rel="noopener noreferrer">Alabama Aquarium</a> is manageable with little ones, Fort Gaines
+        gives school-age kids tunnels and cannons, and the <a href="https://mobilebayferry.com/" target="_blank" rel="noopener noreferrer">Mobile Bay Ferry</a> crossing makes the
         geography click — kids can see why forts guard both sides of the bay. Limited restaurants;
         buy groceries before the bridge.
       </p>
       <p>
         <strong><Link href="/destinations/gulf-shores">Gulf Shores</Link> and{' '}
         <Link href="/destinations/orange-beach">Orange Beach</Link> — best overall first trip.</strong>{' '}
-        Beach mornings, Gulf State Park&apos;s paved trails and playgrounds, dolphin cruises, the
-        Alabama Gulf Coast Zoo, and Tropic Falls&apos; indoor water park as the rainy-day ace.
+        Beach mornings, <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a>&apos;s paved trails and playgrounds, dolphin cruises, the
+        <a href="https://alabamagulfcoastzoo.org/" target="_blank" rel="noopener noreferrer">Alabama Gulf Coast Zoo</a>, and Tropic Falls&apos; indoor water park as the rainy-day ace.
         (The park&apos;s pool and splash pad are for registered campground guests only — don&apos;t
         promise them on a day visit.) A car is essential; everything is spread out.
       </p>
       <p>
         <strong><Link href="/destinations/pensacola-beach">Pensacola Beach</Link> — beach +
         history.</strong> Casino Beach for the easy setup, Quietwater&apos;s calm Sound-side water
-        for small kids, Fort Pickens for the adventure day. Strong rainy-day bench in downtown
-        Pensacola: the MESS Hall, the Children&apos;s Museum, and the free National Naval Aviation
-        Museum (adults need REAL ID or a passport for base entry).
+        for small kids, <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a> for the adventure day. Strong rainy-day bench in downtown
+        Pensacola: the MESS Hall, the Children&apos;s Museum, and the free <a href="https://www.navalaviationmuseum.org/" target="_blank" rel="noopener noreferrer">National Naval Aviation
+        Museum</a> (adults need REAL ID or a passport for base entry).
       </p>
       <p>
         <strong><Link href="/destinations/navarre-beach">Navarre</Link> — for families who want
@@ -52,24 +52,24 @@ export default function GulfCoastWithKidsContent() {
         <strong><Link href="/destinations/fort-walton-beach">Fort Walton Beach</Link> and{' '}
         <Link href="/destinations/destin">Destin</Link> — boats and younger kids.</strong> FWB is
         often easier with preschoolers: John Beasley Park&apos;s big lot and pavilions, Ross Marler
-        Park&apos;s fenced playground and calm bay swimming, Gulfarium&apos;s scheduled dolphin
+        Park&apos;s fenced playground and calm bay swimming, <a href="https://gulfarium.com/" target="_blank" rel="noopener noreferrer">Gulfarium</a>&apos;s scheduled dolphin
         presentations, and the free Armament Museum. Destin adds the bigger charter fleet — a
         dolphin cruise spans all ages, and a short bay trip introduces kids to fishing. Crab Island
-        is boat-only (no safe swim from land) — book a captained trip. Henderson Beach State Park
+        is boat-only (no safe swim from land) — book a captained trip. <a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson Beach State Park</a>
         now requires day-use reservations; James Lee Park is the walk-up alternative with a
         playground.
       </p>
       <p>
         <strong>30A — bikes and rental-centered weeks.</strong> Ride realistic Timpoochee sections
-        (Grayton–Seaside, Rosemary–Alys) rather than all 19 miles, paddle Western Lake at Grayton
-        Beach State Park, and read beach-access fine print carefully — a beautiful rental near
+        (Grayton–Seaside, Rosemary–Alys) rather than all 19 miles, paddle Western Lake at <a href="https://www.floridastateparks.org/parks-and-trails/grayton-beach-state-park" target="_blank" rel="noopener noreferrer">Grayton
+        Beach State Park</a>, and read beach-access fine print carefully — a beautiful rental near
         Seaside doesn&apos;t automatically include the community pool or nearest private pavilion.
       </p>
       <p>
         <strong><Link href="/destinations/panama-city-beach">Panama City Beach</Link> — the
-        attraction capital.</strong> Shipwreck Island (measure kids against the 36/42/48-inch slide
-        requirements first), WonderWorks, ZooWorld, Pier Park, and the PCB Wheel, with St. Andrews
-        State Park as the nature day. One update for old guidebooks: Gulf World closed permanently
+        attraction capital.</strong> <a href="https://www.shipwreckisland.com/" target="_blank" rel="noopener noreferrer">Shipwreck Island</a> (measure kids against the 36/42/48-inch slide
+        requirements first), <a href="https://www.wonderworksonline.com/panama-city-beach/" target="_blank" rel="noopener noreferrer">WonderWorks</a>, ZooWorld, <a href="https://www.simon.com/mall/pier-park" target="_blank" rel="noopener noreferrer">Pier Park</a>, and the PCB Wheel, with <a href="https://www.floridastateparks.org/parks-and-trails/st-andrews-state-park" target="_blank" rel="noopener noreferrer">St. Andrews
+        State Park</a> as the nature day. One update for old guidebooks: Gulf World closed permanently
         in 2025.
       </p>
 

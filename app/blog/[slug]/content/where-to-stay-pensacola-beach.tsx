@@ -13,13 +13,13 @@ export default function WhereToStayPensacolaBeachContent() {
       <p>
         The island stretches about eight miles, but the developed lodging occupies a much smaller
         section around the Bob Sikes Bridge. Hotels cluster near Casino Beach, condos and rental
-        houses extend east and west, and Fort Pickens Campground sits beyond miles of protected
+        houses extend east and west, and <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a> Campground sits beyond miles of protected
         shoreline at the western end. I&apos;ve learned to decide which water I want outside the
         door before comparing bedrooms and pools — on an island this narrow,
         &quot;waterfront&quot; can describe two very different vacations.
       </p>
       <p>
-        The short version: stay central for a first visit, go west for quiet and Fort Pickens, head
+        The short version: stay central for a first visit, go west for quiet and <Link href="/blog/fort-pickens-day-guide">Fort Pickens</Link>, head
         east for larger condos and Portofino, and choose Sound-side for calm water and sunsets.
       </p>
 
@@ -52,7 +52,7 @@ export default function WhereToStayPensacolaBeachContent() {
 
       <h2>Choose the West End for Quieter Surroundings</h2>
       <p>
-        Fort Pickens Road runs west toward Park West and Gulf Islands National Seashore, getting
+        Fort Pickens Road runs west toward Park West and <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a>, getting
         progressively quieter as you leave Casino Beach behind. It suits travelers who want the Gulf
         to shape the day: Fort Pickens visits, long shoreline walks, fishing, cycling. Holiday Inn
         Express has a private Gulf balcony for every room on this side, while Paradise Inn sits on

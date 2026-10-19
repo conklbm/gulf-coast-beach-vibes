@@ -44,7 +44,7 @@ export default function ShellIslandPanamaCityBeachGuideContent() {
         PCB and therefore the busiest. Fine if you want the shortest crossing and do not mind company.
       </p>
 
-      <h3>The St. Andrews State Park Ferry</h3>
+      <h3>The <a href="https://www.floridastateparks.org/parks-and-trails/st-andrews-state-park" target="_blank" rel="noopener noreferrer">St. Andrews State Park</a> Ferry</h3>
       <p>
         Leaves from inside St. Andrews State Park, priced from around <strong>$25.63 per
         person</strong>. In summer it runs 9 a.m. to 3 p.m., hourly — leaving the park on the hour and

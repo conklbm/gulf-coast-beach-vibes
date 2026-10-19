@@ -30,8 +30,8 @@ export default function BestTimeToVisitDestinContent() {
         <strong>Prices:</strong> Lowest of the year
       </p>
       <p>
-        Not a beach swimming trip. But Destin in winter has its own appeal — empty Henderson
-        Beach State Park, dramatic winter surf on windy days, excellent fishing (cobia run
+        Not a beach swimming trip. But Destin in winter has its own appeal — empty <a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson
+        Beach State Park</a>, dramatic winter surf on windy days, excellent fishing (cobia run
         starts in late winter), and prices you&apos;ll never see in summer. Great for couples
         who want a quiet escape, nature walkers, and serious anglers.
       </p>
@@ -143,7 +143,7 @@ export default function BestTimeToVisitDestinContent() {
       </p>
       <p>
         October might be the best month to visit Destin. The{' '}
-        <strong>Destin Fishing Rodeo</strong> runs every single day of October — the largest
+        <strong><a href="https://www.destinfishingrodeo.org/" target="_blank" rel="noopener noreferrer">Destin Fishing Rodeo</a></strong> runs every single day of October — the largest
         inshore/offshore fishing tournament on the Gulf Coast. The weigh-ins at Destin Harbor
         each evening are spectacular even if you&apos;re not fishing: massive fish, excited
         crowds, and a festive atmosphere unlike any other month. Henderson Beach has room to

@@ -42,8 +42,8 @@ export default function WhereToStay30AContent() {
       <h3>Dune Allen Beach</h3>
       <p>
         Quiet and nature-adjacent, with houses and cottages around the coastal dune lakes. Fort
-        Panic and Dune Allen regional accesses provide public beach routes, and Topsail Hill
-        Preserve State Park — three miles of beach, tall dunes, and cabins, tent sites, and RV
+        Panic and Dune Allen regional accesses provide public beach routes, and <a href="https://www.floridastateparks.org/parks-and-trails/topsail-hill-preserve-state-park" target="_blank" rel="noopener noreferrer">Topsail Hill
+        Preserve</a> State Park — three miles of beach, tall dunes, and cabins, tent sites, and RV
         camping — defines the neighborhood. Choose it for state-park access, larger houses, and a
         quieter residential feel.
       </p>
@@ -65,11 +65,11 @@ export default function WhereToStay30AContent() {
       <h2>Central 30A: The Best Location for a First Trip</h2>
       <h3>Grayton Beach</h3>
       <p>
-        The strongest personality on 30A — older cottages, oak-shaded streets, galleries, The Red
-        Bar, and fishing charters launching directly from the sand. Downtown parking is extremely
+        The strongest personality on 30A — older cottages, oak-shaded streets, galleries, <a href="https://www.theredbar.com/" target="_blank" rel="noopener noreferrer">The Red
+        Bar</a>, and fishing charters launching directly from the sand. Downtown parking is extremely
         limited (the county runs a park-and-ride with tram service), so a rental near Hotz Avenue is
-        worth a premium — though evenings get lively around the music venues. Grayton Beach State
-        Park&apos;s cabins and campground offer a quieter alternative beside Western Lake.
+        worth a premium — though evenings get lively around the music venues. <a href="https://www.floridastateparks.org/parks-and-trails/grayton-beach-state-park" target="_blank" rel="noopener noreferrer">Grayton Beach State
+        Park</a>&apos;s cabins and campground offer a quieter alternative beside Western Lake.
       </p>
       <h3>WaterColor</h3>
       <p>

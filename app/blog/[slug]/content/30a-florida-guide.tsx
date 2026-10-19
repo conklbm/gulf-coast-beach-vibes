@@ -56,7 +56,7 @@ export default function ThirtyAFloridaGuideContent() {
       <p>
         Grayton Beach is one of the original 30A communities — a funky, low-key beachside
         village with more of a laid-back character than the planned communities further
-        east. Grayton Beach State Park is directly adjacent and is consistently rated among
+        east. <a href="https://www.floridastateparks.org/parks-and-trails/grayton-beach-state-park" target="_blank" rel="noopener noreferrer">Grayton Beach State Park</a> is directly adjacent and is consistently rated among
         the best state parks in Florida: natural dunes, crystal-clear dune lakes, and a
         Gulf beach that rarely gets as crowded as the park&apos;s reputation would suggest.
         Red Bar is the legendary local music venue and restaurant — the anchor of Grayton&apos;s
@@ -150,7 +150,7 @@ export default function ThirtyAFloridaGuideContent() {
           $6/vehicle day use; natural dunes, dune lake access, camping
         </li>
         <li>
-          <strong>Deer Lake State Park</strong> — small, quiet, with access to Deer Lake and
+          <strong><a href="https://www.floridastateparks.org/parks-and-trails/deer-lake-state-park" target="_blank" rel="noopener noreferrer">Deer Lake State Park</a></strong> — small, quiet, with access to Deer Lake and
           a Gulf beach; often less crowded than Grayton
         </li>
         <li>
@@ -176,16 +176,16 @@ export default function ThirtyAFloridaGuideContent() {
           Pickles Deli, and rotating vendors
         </li>
         <li>
-          <strong>The Red Bar (Grayton Beach)</strong> — a Gulf Coast institution; funky
+          <strong><a href="https://www.theredbar.com/" target="_blank" rel="noopener noreferrer">The Red Bar</a> (Grayton Beach)</strong> — a Gulf Coast institution; funky
           decor, live music, French-Creole influenced menu; lines are long in season but
           worth it
         </li>
         <li>
-          <strong>George&apos;s at Alys Beach</strong> — the anchor restaurant of Alys Beach;
+          <strong><a href="https://www.georgesatalysbeach.com/" target="_blank" rel="noopener noreferrer">George&apos;s at Alys Beach</a></strong> — the anchor restaurant of Alys Beach;
           upscale, excellent Gulf seafood, good cocktails
         </li>
         <li>
-          <strong>Old Florida Fish House (Santa Rosa Beach)</strong> — local&apos;s pick for
+          <strong><a href="https://www.oldfloridafishhouse.com/" target="_blank" rel="noopener noreferrer">Old Florida Fish House</a> (Santa Rosa Beach)</strong> — local&apos;s pick for
           casual waterfront dining with Gulf views
         </li>
         <li>
@@ -217,7 +217,7 @@ export default function ThirtyAFloridaGuideContent() {
           conditions before planning around it
         </li>
         <li>
-          <strong>30A Songwriters Festival (January)</strong> — an annual multi-venue music
+          <strong><a href="https://www.30asongwritersfestival.com/" target="_blank" rel="noopener noreferrer">30A Songwriters Festival</a> (January)</strong> — an annual multi-venue music
           festival spread across 30A communities; one of the better shoulder-season events
           on the Panhandle
         </li>
@@ -265,12 +265,12 @@ export default function ThirtyAFloridaGuideContent() {
         </li>
         <li>
           <strong>Choose Destin if:</strong> You want the maximum concentration of dining and
-          activity options; you specifically want Henderson Beach State Park or Harborwalk
+          activity options; you specifically want <a href="https://www.floridastateparks.org/parks-and-trails/henderson-beach-state-park" target="_blank" rel="noopener noreferrer">Henderson Beach State Park</a> or Harborwalk
           Village; you&apos;re bringing young children who want the full resort activity menu
         </li>
         <li>
           <strong>The hybrid move:</strong> Base on 30A and take a day trip to Destin —
-          30–45 minutes on Highway 98 puts you at Henderson Beach or Harborwalk Village for
+          30–45 minutes on Highway 98 puts you at Henderson Beach or <a href="https://www.harborwalkvillage.com/" target="_blank" rel="noopener noreferrer">Harborwalk Village</a> for
           an evening without paying Destin rental rates
         </li>
       </ul>

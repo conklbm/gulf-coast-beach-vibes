@@ -12,7 +12,7 @@ export default function WeekendInGulfShoresContent() {
       </p>
       <p>
         The best version of a <Link href="/destinations/gulf-shores">Gulf Shores</Link> weekend is
-        simple: arrive Friday, get to Gulf Place, spend Saturday morning at Gulf State Park, make room
+        simple: arrive Friday, get to Gulf Place, spend Saturday morning at <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a>, make room
         for one easy family or nature stop, then leave Sunday with sand still in your shoes. You can
         add the zoo, Waterville, Bon Secour, or Fort Morgan, but the beach should stay in charge of the
         schedule.
@@ -29,8 +29,8 @@ export default function WeekendInGulfShoresContent() {
         worrying about the rest of the weekend. Gulf Place is the best first stop because it
         immediately feels like Gulf Shores: the big public beach, restrooms, rinse showers, a grassy
         Town Green, nearby restaurants, and seasonal paid parking. Use the evening for a beach walk,
-        sunset, and dinner close by. The Hangout is the lively Gulf Place-area choice, Sea-N-Suds is
-        classic beachfront, and Original Oyster House is nearby. Don&apos;t schedule a paid attraction
+        sunset, and dinner close by. <a href="https://thehangout.com/hangout-gulf-shores/" target="_blank" rel="noopener noreferrer">The Hangout</a> is the lively Gulf Place-area choice, Sea-N-Suds is
+        classic beachfront, and <a href="https://www.originaloysterhouse.com/" target="_blank" rel="noopener noreferrer">Original Oyster House</a> is nearby. Don&apos;t schedule a paid attraction
         on an arrival night.
       </p>
 
@@ -47,8 +47,8 @@ export default function WeekendInGulfShoresContent() {
       <h2>Saturday Afternoon: Beach Time, Zoo, Waterville, or the Pier</h2>
       <p>
         Your afternoon depends on the group. If everyone&apos;s happy at the beach, stay at the beach,
-        which is usually the right answer. If younger kids need a change of scene, the Alabama Gulf
-        Coast Zoo is a good option. In waterpark season, Waterville USA works as a summer family
+        which is usually the right answer. If younger kids need a change of scene, the <a href="https://alabamagulfcoastzoo.org/" target="_blank" rel="noopener noreferrer">Alabama Gulf
+        Coast Zoo</a> is a good option. In waterpark season, <a href="https://www.watervilleusa.com/" target="_blank" rel="noopener noreferrer">Waterville USA</a> works as a summer family
         afternoon. For a lower-effort plan, go back to the pier. Watch the beach flags: double red
         means the Gulf is closed, and swimming then is both illegal in city limits and dangerous.
       </p>
@@ -58,7 +58,7 @@ export default function WeekendInGulfShoresContent() {
 
       <h2>Saturday Evening: Choose an Easy Gulf Shores Dinner</h2>
       <p>
-        Saturday dinner is not the time to drive all over the coast. LuLu&apos;s on the Intracoastal
+        Saturday dinner is not the time to drive all over the coast. <a href="https://www.lulusfunfoodmusic.com/" target="_blank" rel="noopener noreferrer">LuLu&apos;s</a> on the Intracoastal
         Waterway is a strong family and group option, Original Oyster House is a classic seafood choice
         near the center of town, The Hangout brings beach energy near Gulf Place, and Sea-N-Suds is the
         beachy option right by the Gulf. Eat near wherever you already are.
@@ -67,7 +67,7 @@ export default function WeekendInGulfShoresContent() {
       <h2>Sunday Morning: Pick One Slow Ending</h2>
       <p>
         The better move is to choose one slower plan. For the easiest ending, take an early Gulf Place
-        beach walk. For a nature walk, the Jeff Friend Trail at Bon Secour National Wildlife Refuge is
+        beach walk. For a nature walk, the Jeff Friend Trail at <a href="https://www.fws.gov/refuge/bon-secour" target="_blank" rel="noopener noreferrer">Bon Secour National Wildlife Refuge</a> is
         a short, easy loop near Little Lagoon (check trail conditions). For history, Fort Morgan sits
         about 22 miles west at the end of Highway 180, a real side trip best for people who like forts
         and Mobile Bay history. If Saturday stayed beach-focused, the zoo can also work Sunday. You can

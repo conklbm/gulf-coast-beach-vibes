@@ -26,7 +26,7 @@ export default function GulfCoastFromCharlotteContent() {
         <li><strong>Panama City Beach</strong> — ~9–10+ hrs (most activity, often most practical)</li>
         <li><strong>30A</strong> — ~9.5–10+ hrs (beach towns)</li>
         <li><strong>Destin</strong> — ~9–10.5+ hrs (emerald water, fishing)</li>
-        <li><strong>Pensacola Beach</strong> — ~9.5–10+ hrs (Florida water, Fort Pickens)</li>
+        <li><strong>Pensacola Beach</strong> — ~9.5–10+ hrs (Florida water, <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a>)</li>
         <li><strong>Gulf Shores / Orange Beach</strong> — ~9–10.5+ hrs (Alabama beach experience)</li>
         <li><strong><Link href="/destinations/dauphin-island">Dauphin Island</Link></strong> — ~10+ hrs (quiet, farthest)</li>
       </ul>

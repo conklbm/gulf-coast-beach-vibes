@@ -9,7 +9,7 @@ export default function WhereToStayOrangeBeachContent() {
         The best Orange Beach mornings begin with a short walk over the dunes and bare feet in the
         sand before your coffee has cooled. Getting that morning requires reading the lodging
         description carefully — &quot;waterfront&quot; could put you on the Gulf, beside a marina,
-        overlooking Perdido Pass, or several miles inland at The Wharf.
+        overlooking Perdido Pass, or several miles inland at <a href="https://www.alwharf.com/" target="_blank" rel="noopener noreferrer">The Wharf</a>.
       </p>
       <p>
         <Link href="/destinations/orange-beach">Orange Beach</Link> spreads along Perdido Beach
@@ -21,11 +21,11 @@ export default function WhereToStayOrangeBeachContent() {
       <p>Here&apos;s the quick answer:</p>
       <ul>
         <li><strong>Central beachfront:</strong> first visits, families, easy beach days</li>
-        <li><strong>Gulf State Park / west side:</strong> trails, nature, travelers with dogs</li>
+        <li><strong><a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a> / west side:</strong> trails, nature, travelers with dogs</li>
         <li><strong>Perdido Pass:</strong> boating, fishing, water views, full-service resorts</li>
         <li><strong>Terry Cove and the back bays:</strong> bringing a boat, quieter evenings</li>
         <li><strong>The Wharf:</strong> concerts, restaurants, short stays</li>
-        <li><strong>East end / state line:</strong> Flora-Bama, live music, Perdido Key</li>
+        <li><strong>East end / state line:</strong> <a href="https://www.florabama.com/" target="_blank" rel="noopener noreferrer">Flora-Bama</a>, live music, Perdido Key</li>
       </ul>
 
       <h2>Central Beachfront Is Best for Most First Visits</h2>

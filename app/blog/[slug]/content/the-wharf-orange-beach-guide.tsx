@@ -6,7 +6,7 @@ export default function TheWharfOrangeBeachGuideContent() {
   return (
     <>
       <p className="text-xl text-navy/80 leading-relaxed font-medium">
-        The Wharf is where <Link href="/destinations/orange-beach">Orange Beach</Link> goes when it is
+        <a href="https://www.alwharf.com/" target="_blank" rel="noopener noreferrer">The Wharf</a> is where <Link href="/destinations/orange-beach">Orange Beach</Link> goes when it is
         not at the beach. A marina, a boardwalk, shops and restaurants, a 112-foot Ferris wheel, and a
         10,000-seat amphitheater, all packed into a walkable block on Canal Road beside the
         Intracoastal Waterway.

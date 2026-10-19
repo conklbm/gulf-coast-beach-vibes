@@ -34,7 +34,7 @@ export default function BestThingsToDoGulfShoresContent() {
 
       <h2>Gulf State Park — More Than Just Beach</h2>
       <p>
-        Gulf State Park deserves its own section because it&apos;s genuinely one of the best state
+        <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a> deserves its own section because it&apos;s genuinely one of the best state
         parks in the Southeast — not just the best beach park. The 6,150-acre park includes:
       </p>
       <ul>
@@ -159,11 +159,11 @@ export default function BestThingsToDoGulfShoresContent() {
       </p>
       <ul>
         <li>
-          <strong>The Hangout</strong> — the iconic beach bar on the main strip; live music,
+          <strong><a href="https://thehangout.com/hangout-gulf-shores/" target="_blank" rel="noopener noreferrer">The Hangout</a></strong> — the iconic beach bar on the main strip; live music,
           foam parties on weekends, and solid Gulf seafood. Tourist-y but fun.
         </li>
         <li>
-          <strong>Gulf Shores Steamer</strong> — no-frills seafood boil; shrimp, crab, and
+          <strong><a href="https://www.gulfshoressteamer.com/" target="_blank" rel="noopener noreferrer">Gulf Shores Steamer</a></strong> — no-frills seafood boil; shrimp, crab, and
           crawfish by the pound. Local favorite.
         </li>
         <li>
@@ -171,11 +171,11 @@ export default function BestThingsToDoGulfShoresContent() {
           catch and a great craft cocktail list
         </li>
         <li>
-          <strong>Tacky Jack&apos;s</strong> — waterfront tiki bar atmosphere with live music;
+          <strong><a href="https://www.tackyjacks.com/" target="_blank" rel="noopener noreferrer">Tacky Jack&apos;s</a></strong> — waterfront tiki bar atmosphere with live music;
           best sunset views in the area
         </li>
         <li>
-          <strong>Lulu&apos;s</strong> — Jimmy Buffett&apos;s sister Lucy&apos;s waterfront
+          <strong><a href="https://www.lulusfunfoodmusic.com/" target="_blank" rel="noopener noreferrer">Lulu&apos;s</a></strong> — Jimmy Buffett&apos;s sister Lucy&apos;s waterfront
           restaurant in nearby Orange Beach; enormous, lively, great for families
         </li>
       </ul>
@@ -184,10 +184,11 @@ export default function BestThingsToDoGulfShoresContent() {
       <ul>
         <li>
           <strong>Hangout Music Festival (May)</strong> — three-day music festival on the beach
-          with national headliners; one of the best beach music festivals in the country
+          with national headliners; one of the best beach music festivals in the country. It is
+          <a href="https://www.wvtm13.com/article/hangout-music-festival-2026-gulf-shores/69666667" target="_blank" rel="noopener noreferrer">off for 2026</a> and expected back in May 2027
         </li>
         <li>
-          <strong>National Shrimp Festival (October)</strong> — four days of Gulf shrimp, live
+          <strong><a href="https://www.myshrimpfest.com/" target="_blank" rel="noopener noreferrer">National Shrimp Festival</a> (October)</strong> — four days of Gulf shrimp, live
           music, and arts and crafts on the beach; massive local event drawing 250,000+ visitors
         </li>
         <li>
@@ -208,7 +209,7 @@ export default function BestThingsToDoGulfShoresContent() {
         </li>
         <li>
           <strong><Link href="/destinations/pensacola-beach">Pensacola Beach</Link></strong> — 1
-          hour east; Gulf Islands National Seashore and the Naval Aviation Museum
+          hour east; <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a> and the Naval Aviation Museum
         </li>
         <li>
           <strong>Dauphin Island</strong> — 30 minutes west by ferry (seasonal); the most

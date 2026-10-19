@@ -31,8 +31,8 @@ export default function BestTimeGulfShoresContent() {
       <p>
         Not a swimming trip, but surprisingly appealing for the right traveler. The beach is yours.
         Restaurants are open and un-rushed. Rates are the lowest you&apos;ll find all year —
-        beachfront condos that run $2,500/week in July might be $800–1,000/week in January. Gulf
-        State Park is beautiful for hiking without the heat. Bring a jacket.
+        beachfront condos that run $2,500/week in July might be $800–1,000/week in January. <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf
+        State Park</a> is beautiful for hiking without the heat. Bring a jacket.
       </p>
 
       <h3>March — Spring Break + Shoulder Season</h3>
@@ -152,7 +152,7 @@ export default function BestTimeGulfShoresContent() {
         still comfortably swimmable. Jellyfish, which can be a nuisance in late summer, are mostly
         gone. Prices are at their best post-summer value. And the beach is beautiful in the softer
         fall light. We make the full case in our{' '}
-        <Link href="/blog/gulf-coast-in-october">Gulf Coast in October guide</Link>. The <strong>Frank Brown International Songwriters Festival</strong> runs in early
+        <Link href="/blog/gulf-coast-in-october">Gulf Coast in October guide</Link>. The <strong><a href="https://www.frankbrownsongwriters.com/" target="_blank" rel="noopener noreferrer">Frank Brown International Songwriters Festival</a></strong> runs in early
         November (just barely missing October), but the beach is wonderful all month.
       </p>
 
@@ -197,8 +197,8 @@ export default function BestTimeGulfShoresContent() {
           trips
         </li>
         <li>
-          <strong>Fishermen:</strong> October–November for the best offshore bite (Destin Fishing
-          Rodeo runs all of October)
+          <strong>Fishermen:</strong> October–November for the best offshore bite (<a href="https://www.destinfishingrodeo.org/" target="_blank" rel="noopener noreferrer">Destin Fishing
+          Rodeo</a> runs all of October)
         </li>
         <li>
           <strong>Birders:</strong> Mid-April at Dauphin Island — world-class spring migration

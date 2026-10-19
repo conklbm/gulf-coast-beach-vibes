@@ -8,7 +8,7 @@ export default function PerdidoKeyGuideContent() {
       <p className="text-xl text-navy/80 leading-relaxed font-medium">
         Perdido Key is the barrier island between <Link href="/destinations/pensacola-beach">Pensacola
         Beach</Link> and <Link href="/destinations/orange-beach">Orange Beach</Link>, straddling the
-        Florida–Alabama line. Most of it is protected — Gulf Islands National Seashore on one end, a
+        Florida–Alabama line. Most of it is protected — <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a> on one end, a
         Florida state park on the other — which means it has the emptiest good beaches within easy
         reach of two busy resort towns.
       </p>
@@ -20,7 +20,7 @@ export default function PerdidoKeyGuideContent() {
       <h2>Where It Sits</h2>
       <p>
         Roughly 30 minutes west of Pensacola Beach and 20 minutes east of the heart of Orange Beach,
-        depending on bridge traffic. The Flora-Bama sits at the state line on the western end, which
+        depending on bridge traffic. The <a href="https://www.florabama.com/" target="_blank" rel="noopener noreferrer">Flora-Bama</a> sits at the state line on the western end, which
         is how a lot of people know the area without realizing they were on Perdido Key.
       </p>
       <p>
@@ -108,7 +108,7 @@ export default function PerdidoKeyGuideContent() {
       <h2>The Bottom Line</h2>
       <p>
         Perdido Key is the best easy escape from either Orange Beach or Pensacola Beach — the same
-        water, a fraction of the people, for $25 that also covers a week and Fort Pickens too. Go to
+        water, a fraction of the people, for $25 that also covers a week and <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a> too. Go to
         Johnson Beach, drive to the end of the road, and walk. If you are staying in Orange Beach and
         have not been, that is the gap in your trip.
       </p>
