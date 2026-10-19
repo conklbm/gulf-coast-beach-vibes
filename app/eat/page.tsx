@@ -37,6 +37,15 @@ const eatGuides = [
     meta: 'Dining guide',
   },
   {
+    slug: 'best-restaurants-30a',
+    title: 'Best Restaurants on 30A: A Town-by-Town Guide',
+    excerpt:
+      'Grayton Beach, Seaside, Seagrove, Alys and Rosemary Beach restaurants, plus who takes reservations and who does not.',
+    imageSrc: '/images/best-restaurants-30a.webp',
+    category: '30A',
+    meta: 'Dining guide',
+  },
+  {
     slug: 'best-breakfast-gulf-coast',
     title: 'Best Breakfast Spots on the Gulf Coast',
     excerpt:

@@ -1200,6 +1200,26 @@ export const posts: Post[] = [
     publishedAt: '2026-10-18',
     readTime: '7 min read',
   },
+  {
+    slug: 'best-restaurants-30a',
+    title: 'Best Restaurants on 30A: A Town-by-Town Guide',
+    excerpt:
+      'Where to eat on 30A, town by town: Grayton Beach, Seaside, Seagrove, Alys and Rosemary Beach restaurants, plus who takes reservations and who does not.',
+    category: 'Things to Do',
+    heroImage: '/images/best-restaurants-30a.webp',
+    publishedAt: '2026-10-19',
+    readTime: '9 min read',
+  },
+  {
+    slug: 'baytowne-wharf-guide',
+    title: 'Baytowne Wharf Guide: Where to Eat, Park & Play',
+    excerpt:
+      "Baytowne Wharf in Sandestin is free and open to everyone. Where to eat, how parking works, what to do with kids, and how it compares to HarborWalk.",
+    category: 'Things to Do',
+    heroImage: '/images/baytowne-wharf-guide.webp',
+    publishedAt: '2026-10-19',
+    readTime: '8 min read',
+  },
 ]
 
 export function getPostBySlug(slug: string): Post | undefined {

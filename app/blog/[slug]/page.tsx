@@ -138,7 +138,11 @@ import DestinFromJacksonvilleContent from './content/destin-from-jacksonville'
 import BestWaterfrontRestaurantsFortWaltonBeachContent from './content/best-waterfront-restaurants-fort-walton-beach'
 
 import WatchingStarshipLaunchSouthPadreIslandContent from './content/watching-starship-launch-south-padre-island'
+import BestRestaurants30AContent from './content/best-restaurants-30a'
+import BaytowneWharfGuideContent from './content/baytowne-wharf-guide'
 const CONTENT_MAP: Record<string, React.ComponentType> = {
+  'best-restaurants-30a': BestRestaurants30AContent,
+  'baytowne-wharf-guide': BaytowneWharfGuideContent,
   'best-restaurants-orange-beach': BestRestaurantsOrangeBeachContent,
   'gulf-coast-in-november': GulfCoastNovemberContent,
   'watching-starship-launch-south-padre-island': WatchingStarshipLaunchSouthPadreIslandContent,
