@@ -21,8 +21,8 @@ export default function ThreeDaysInPensacolaBeachContent() {
       </p>
       <p>
         For 2026, a few practical details matter. The Bob Sikes Bridge toll is currently around $1.
-        The free Pensacola Beach trolley runs in summer and is most useful in the evening. Fort
-        Pickens and Opal Beach are part of Gulf Islands National Seashore, so entrance fees apply.
+        The free Pensacola Beach trolley runs in summer and is most useful in the evening. <Link href="/blog/fort-pickens-day-guide">Fort
+        Pickens</Link> and Opal Beach are part of Gulf Islands National Seashore, so entrance fees apply.
         Double red flags mean no swimming or wading in the Gulf.
       </p>
       <p>

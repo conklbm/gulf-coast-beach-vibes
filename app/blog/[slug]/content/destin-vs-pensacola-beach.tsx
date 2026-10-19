@@ -116,7 +116,8 @@ export default function DestinVsPensacolaContent() {
         <li>
           <strong>Gulf Islands National Seashore</strong> — miles of undeveloped federal beach land
           in both directions from the main beach; <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a> (free entry with America the
-          Beautiful pass) has some of the best snorkeling on the Gulf Coast around its jetties
+          Beautiful pass) has some of the best snorkeling on the Gulf Coast around its jetties (see our{' '}
+          <Link href="/blog/fort-pickens-day-guide">Fort Pickens guide</Link>)
         </li>
         <li>
           <strong>National Naval Aviation Museum</strong> (free, 15 min away) — genuinely

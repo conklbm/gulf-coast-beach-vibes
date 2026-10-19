@@ -33,7 +33,7 @@ export default function FortPickensDayGuideContent() {
         <li><strong>$25 per private vehicle</strong>, good for 1–7 days</li>
         <li><strong>$20 per motorcycle</strong></li>
         <li><strong>$45 annual pass</strong> for the seashore — worth it on a second visit</li>
-        <li>Open <strong>year-round, sunrise to sunset</strong></li>
+        <li>Entrance station gate: <strong>5 a.m.–8 p.m.</strong> (Mar. 1–Oct. 31) and <strong>5 a.m.–6 p.m.</strong> (Nov. 1–Feb. 28); the fort itself is open 8 a.m. to sunset</li>
       </ul>
       <p>
         The 1–7 day window is the thing people miss. That $25 is not a day pass — it covers a week, so
@@ -70,6 +70,13 @@ export default function FortPickensDayGuideContent() {
       </p>
 
       <h2>Camping</h2>
+      <TipCallout title="Hurricane Isaias Closures (October 2026)" variant="warning">
+        As of Oct. 18, 2026, the National Park Service lists Fort Pickens Campground, the Battery Worth
+        Pavilion and the Naval Live Oaks Area as closed until further notice after Hurricane Isaias,
+        with the Fort Pickens Area open for day use only. Check the 
+        <a href="https://www.nps.gov/guis/planyourvisit/conditions.htm" target="_blank" rel="noopener noreferrer">NPS alerts and conditions page</a> 
+        before you book.
+      </TipCallout>
       <p>
         Fort Pickens Campground sits inside the seashore with electric and non-electric sites, fire
         pits, picnic tables, paved pads, heated showers, and flush toilets. Sites book through
@@ -100,26 +107,94 @@ export default function FortPickensDayGuideContent() {
         rest.
       </p>
 
+      <h2>Other Gulf Islands National Seashore Areas Near Pensacola</h2>
+      <p>
+        Fort Pickens is one of several Gulf Islands National Seashore areas in Florida. Your $25
+        vehicle pass covers seven days at the Florida fee areas (Fort Pickens, Opal Beach and Johnson
+        Beach), so it&apos;s easy to visit more than one. The park is cashless, so bring a card or buy
+        a pass on the 
+        <a href="https://www.nps.gov/guis/planyourvisit/fees.htm" target="_blank" rel="noopener noreferrer">NPS fees page</a>.
+      </p>
+      <ul>
+        <li>
+          <strong>
+            <a href="https://www.nps.gov/guis/planyourvisit/santa-rosa-day-use-area.htm" target="_blank" rel="noopener noreferrer">
+              Opal Beach and the Santa Rosa Area
+            </a>
+          </strong> 
+          (east of Pensacola Beach on Highway 399, toward 
+          <Link href="/destinations/navarre-beach">Navarre Beach</Link>): roadside lots along Highway 399
+          offer beach access with no entrance fee. The Opal Beach Complex (8 a.m. to sunset, fee
+          required) has restrooms, outdoor showers, pavilions and summer lifeguards. No pets, and no
+          concessions, so bring supplies.
+        </li>
+        <li>
+          <strong>
+            <a href="https://www.nps.gov/guis/planyourvisit/perdido-key-area.htm" target="_blank" rel="noopener noreferrer">
+              Johnson Beach and the Perdido Key Area
+            </a>
+          </strong>
+          : facilities are at the Rosamond Johnson area just past the entrance station, with about 1.5
+          miles of road to a turnaround, then foot or boat access only. It&apos;s fee-required and
+          credit card only, and it can close at capacity from April through September, so arrive early.
+          Our <Link href="/blog/perdido-key-guide">Perdido Key guide</Link> covers the rest of the key.
+        </li>
+        <li>
+          <strong>
+            <a href="https://www.nps.gov/guis/planyourvisit/naval-live-oaks-area.htm" target="_blank" rel="noopener noreferrer">
+              Naval Live Oaks Area
+            </a>
+          </strong> 
+          (Gulf Breeze, on U.S. 98): one of the most wooded parts of the park, with about 7.5 miles of
+          trails, including the accessible 0.8-mile Brackenridge Nature Trail. Leashed pets are allowed
+          on the trails. It&apos;s listed as closed after Hurricane Isaias as of Oct. 18, 2026.
+        </li>
+        <li>
+          <strong>
+            <a href="https://www.nps.gov/guis/planyourvisit/fort-barrancas-area.htm" target="_blank" rel="noopener noreferrer">
+              Fort Barrancas Area
+            </a>
+          </strong> 
+          (on Naval Air Station Pensacola): historic forts and a visitor center, open Wednesday through
+          Sunday, 9 a.m.–4 p.m. There&apos;s no entrance fee, but you enter through the base&apos;s West
+          Gate and follow base rules.
+        </li>
+        <li>
+          <strong>
+            <a href="https://www.nps.gov/guis/planyourvisit/okaloosa-day-use-area.htm" target="_blank" rel="noopener noreferrer">
+              Okaloosa Day Use Area
+            </a>
+          </strong> 
+          (on <Link href="/blog/okaloosa-island-guide">Okaloosa Island</Link> between Fort Walton Beach
+          and Destin): usually less crowded, with beach access, restrooms, outdoor showers and a small
+          boat launch onto Choctawhatchee Bay. There&apos;s no entrance station, so pay at the
+          collection box or online.
+        </li>
+      </ul>
+
       <h2>Common Questions</h2>
       <p>
         <strong>Is there an entrance fee?</strong> $25 per vehicle, valid 1–7 days.
       </p>
       <p>
-        <strong>Is it open today?</strong> Sunrise to sunset year-round, but check NPS for road
-        closures after any storm.
+        <strong>Is it open today?</strong> The entrance gate opens at 5 a.m. year-round and closes at
+        8 p.m. (March–October) or 6 p.m. (November–February). Check NPS for road closures after any
+        storm.
       </p>
       <p>
-        <strong>Can I bring a dog?</strong> Pets are allowed in parts of the seashore on a leash, but
-        restrictions vary by area and are stricter on some beaches. Check current rules for the
-        specific area, and see our{' '}
+        <strong>Can I bring a dog?</strong> Not on the beach. The NPS says pets aren&apos;t allowed on
+        any Gulf Islands National Seashore beach, though leashed pets are allowed in some other areas,
+        such as the Naval Live Oaks trails. Check the{' '}
+        <a href="https://www.nps.gov/guis/planyourvisit/pets.htm" target="_blank" rel="noopener noreferrer">NPS pet rules</a>, and see our{' '}
         <Link href="/blog/pet-friendly-gulf-coast-beaches">pet-friendly beaches guide</Link> for the
         wider picture.
       </p>
       <p>
-        <strong>Is there a ferry to Fort Pickens?</strong> Seasonal ferry service between downtown
-        Pensacola, Pensacola Beach, and Fort Pickens has run in some years and not others. Do not
-        build a day around it without confirming it is currently operating — driving is the reliable
-        option.
+        <strong>Is there a ferry to Fort Pickens?</strong> The NPS lists ferry service from Pensacola
+        and Pensacola Beach on Fridays, Saturdays and Sundays through the{' '}
+        <a href="https://www.pensacolabaycityferry.com/" target="_blank" rel="noopener noreferrer">Pensacola Bay City Ferry</a>. Schedules
+        change by season and after storms, so confirm before you build a day around it. Driving is the
+        reliable option.
       </p>
       <p>
         <strong>How long do I need?</strong> Half a day minimum. A full day if you are combining the

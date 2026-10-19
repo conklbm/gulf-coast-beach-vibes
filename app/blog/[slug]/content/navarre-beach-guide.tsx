@@ -121,7 +121,7 @@ export default function NavarreBeachGuideContent() {
           the main parking area
         </li>
         <li>
-          <strong>Day trip to Fort Pickens</strong> — 25 minutes west; the Civil War-era fort
+          <strong>Day trip to <Link href="/blog/fort-pickens-day-guide">Fort Pickens</Link></strong> — 25 minutes west; the Civil War-era fort
           on the western tip of Santa Rosa Island is one of the most interesting historical
           sites on the Gulf Coast, with spectacular beach access on both Gulf and bay sides
         </li>

@@ -41,7 +41,7 @@ export default function BestThingsToDoPensacolaBeachContent() {
 
       <h2>Explore Fort Pickens and the National Seashore</h2>
       <p>
-        Fort Pickens is the most distinctive attraction on Santa Rosa Island. The drive west
+        <Link href="/blog/fort-pickens-day-guide">Fort Pickens</Link> is the most distinctive attraction on Santa Rosa Island. The drive west
         gradually trades condos for dunes, sea oats, and open water on both sides of the road. The
         1830s fort&apos;s brick corridors, arched passageways, and batteries are open for
         self-guided exploration — plan at least two hours, and bring water and food, since services

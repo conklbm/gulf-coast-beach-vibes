@@ -19,7 +19,7 @@ export default function WhereToStayPensacolaBeachContent() {
         &quot;waterfront&quot; can describe two very different vacations.
       </p>
       <p>
-        The short version: stay central for a first visit, go west for quiet and Fort Pickens, head
+        The short version: stay central for a first visit, go west for quiet and <Link href="/blog/fort-pickens-day-guide">Fort Pickens</Link>, head
         east for larger condos and Portofino, and choose Sound-side for calm water and sunsets.
       </p>
 

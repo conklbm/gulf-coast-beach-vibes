@@ -100,7 +100,7 @@ export default function IsNavarreBeachWorthItContent() {
         Choose <Link href="/destinations/destin">Destin</Link> for shopping, charter boats, and
         nightlife; <Link href="/destinations/panama-city-beach">Panama City Beach</Link> for waterparks
         and <a href="https://www.simon.com/mall/pier-park" target="_blank" rel="noopener noreferrer">Pier Park</a>; <Link href="/destinations/pensacola-beach">Pensacola Beach</Link> for a slightly
-        more active island trip with <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a>; 30A for design-forward beach towns; and{' '}
+        more active island trip with <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a> (see our <Link href="/blog/fort-pickens-day-guide">Fort Pickens guide</Link>); 30A for design-forward beach towns; and{' '}
         <Link href="/destinations/gulf-shores">Gulf Shores</Link> for a classic family beach town.
         Navarre Beach is best when quiet is the point, and weaker when quiet feels like a problem.
       </p>

@@ -29,7 +29,7 @@ export default function OrangeBeachVsPensacolaBeachContent() {
         groups who want the logistics to stay simple.
       </p>
       <p>
-        Choose Pensacola Beach if you want more variety: beach time, Fort Pickens, protected
+        Choose Pensacola Beach if you want more variety: beach time, <Link href="/blog/fort-pickens-day-guide">Fort Pickens</Link>, protected
         shoreline, beach bars, and the option to head into downtown Pensacola for dinner or a
         rainy-day plan.
       </p>
