@@ -31,7 +31,7 @@ export default function NavarreBeachVsPensacolaBeachContent() {
       <p>
         Choose Pensacola Beach if you want more restaurants, more energy, and more variety. It&apos;s
         better for long weekends, groups with different interests, history lovers, and anyone who
-        wants Fort Pickens, <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a>, and downtown Pensacola close by.
+        wants <Link href="/blog/fort-pickens-day-guide">Fort Pickens</Link>, <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a>, and downtown Pensacola close by.
       </p>
       <p>Navarre Beach is calmer. Pensacola Beach is more complete.</p>
 

@@ -170,6 +170,10 @@ export default function GulfCoastOctoberContent() {
         a secret that locals keep — it&apos;s just a well-kept secret from the rest of the country.
         Now you know.
       </p>
+      <p>
+        Planning a little later in the fall? See our{' '}
+        <Link href="/blog/gulf-coast-in-november">Gulf Coast in November</Link> guide.
+      </p>
 
       <h2>Ready to Book Your October Trip?</h2>
       <p>

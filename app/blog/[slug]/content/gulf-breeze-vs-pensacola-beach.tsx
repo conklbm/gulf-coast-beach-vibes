@@ -36,7 +36,7 @@ export default function GulfBreezeVsPensacolaBeachContent() {
         Pensacola Beach is the beach trip people usually mean. It sits on Santa Rosa Island, with the
         Gulf on one side and Santa Rosa Sound on the other. This is where you get white sand,
         Gulf-front hotels, beach bars, the Pensacola Beach Gulf Pier, the Quietwater Beach Boardwalk,
-        Casino Beach, Fort Pickens, and <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a>. Pensacola Beach is easier if
+        Casino Beach, <Link href="/blog/fort-pickens-day-guide">Fort Pickens</Link>, and <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a>. Pensacola Beach is easier if
         your main goal is simple: wake up, walk to the sand, eat near the water, and stay in beach mode
         until sunset. The free island trolley runs in summer and helps once you&apos;re already there.
         The tradeoff is cost, crowds, and the usual beach-town squeeze.

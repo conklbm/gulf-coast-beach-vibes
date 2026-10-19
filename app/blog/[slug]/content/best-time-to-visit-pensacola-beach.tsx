@@ -34,7 +34,7 @@ export default function BestTimeToVisitPensacolaBeachContent() {
 
       <h2>Month-by-Month at a Glance</h2>
       <ul>
-        <li><strong>January</strong> (~63°F air / 57°F water) — quiet walks, Fort Pickens, downtown Pensacola</li>
+        <li><strong>January</strong> (~63°F air / 57°F water) — quiet walks, <Link href="/blog/fort-pickens-day-guide">Fort Pickens</Link>, downtown Pensacola</li>
         <li><strong>February</strong> (~66°F / 59°F) — Mardi Gras (Krewe of Wrecks), mild walks, quiet stays</li>
         <li><strong>March</strong> (~72°F / 65°F) — spring weather, pier walks, early Blue Angels practice season</li>
         <li><strong>April</strong> (~78°F / 72°F) — comfortable beach days, Bands on the Beach begins</li>

@@ -61,7 +61,9 @@ export default function ThreeDaysInNavarreBeachContent() {
         coast: dunes, water, open sky, and long undeveloped stretches. Opal Beach has parking,
         restrooms, showers, pavilions, summer lifeguards, and an entrance fee (typically open 8 a.m. to
         sunset, cashless, with no concessions). There are also no-fee lots along 399 for a simpler stop.
-        Bring everything you need.
+        Bring everything you need. Our{' '}
+        <Link href="/blog/fort-pickens-day-guide">Gulf Islands National Seashore and Fort Pickens guide</Link> covers
+        passes and the other seashore areas.
       </p>
 
       <TipCallout title="Save the Seashore for Clear Weather" variant="tip">

@@ -90,7 +90,9 @@ export default function BestThingsToDoNavarreBeachContent() {
         the narrow barrier it is. Small free parking areas dot the route for quiet, no-facility
         beach stops, and Opal Beach adds restrooms, pavilions, and seasonal lifeguards (entrance
         fee; bring everything — no concessions). Check seashore alerts first: the road can close
-        after storms, and pets are prohibited throughout this section.
+        after storms, and pets are prohibited throughout this section. Our{' '}
+        <Link href="/blog/fort-pickens-day-guide">Gulf Islands National Seashore and Fort Pickens guide</Link> covers
+        passes and the other seashore areas.
       </p>
 
       <h2>Get Out on Santa Rosa Sound</h2>

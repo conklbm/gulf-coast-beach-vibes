@@ -12,8 +12,8 @@ export default function PensacolaBeachVsPanamaCityBeachContent() {
       <p>
         <Link href="/destinations/pensacola-beach">Pensacola Beach</Link> gives you room to breathe.
         The main beach area has restaurants, bars, and a steady summer buzz, but the island never
-        feels far from dunes, quiet water, or a historic fort. You can spend the morning at Fort
-        Pickens, the afternoon near Casino Beach, then cross into downtown Pensacola for dinner.
+        feels far from dunes, quiet water, or a historic fort. You can spend the morning at <Link href="/blog/fort-pickens-day-guide">Fort
+        Pickens</Link>, the afternoon near Casino Beach, then cross into downtown Pensacola for dinner.
       </p>
       <p>
         <Link href="/destinations/panama-city-beach">Panama City Beach</Link> turns the volume up.

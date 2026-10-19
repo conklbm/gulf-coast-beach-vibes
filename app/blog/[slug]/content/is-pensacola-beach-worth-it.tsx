@@ -24,7 +24,7 @@ export default function IsPensacolaBeachWorthItContent() {
         and blue-green Gulf water. Casino Beach is the easiest place to start, near the Gulf Pier,
         restaurants, restrooms, and parking, so first-timers can set up and stay in one zone for hours.
         The second big advantage is variety. You can spend one day near Casino Beach, then make the
-        next feel completely different by going west toward Fort Pickens or east toward Opal Beach.
+        next feel completely different by going west toward <Link href="/blog/fort-pickens-day-guide">Fort Pickens</Link> or east toward Opal Beach.
         Quietwater Beach and the Boardwalk give you a sound-side break when the Gulf is windy. Pensacola
         Beach is easy, but it doesn&apos;t have to be one-note.
       </p>

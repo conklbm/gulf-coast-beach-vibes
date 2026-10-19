@@ -14,7 +14,7 @@ export default function BestBeachesPensacolaAreaContent() {
         history and dunes. The best beach in the{' '}
         <Link href="/destinations/pensacola-beach">Pensacola</Link> area depends on the trip you want.
         First-timers usually do best at Casino Beach, families with small kids may prefer Quietwater,
-        nature people should look at Fort Pickens and Opal Beach, and travelers who want fewer
+        nature people should look at <Link href="/blog/fort-pickens-day-guide">Fort Pickens</Link> and Opal Beach, and travelers who want fewer
         distractions should consider <Link href="/destinations/navarre-beach">Navarre Beach</Link>.
       </p>
 

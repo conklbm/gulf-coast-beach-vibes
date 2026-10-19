@@ -100,7 +100,7 @@ export default function BestRestaurantsPensacolaBeachContent() {
 
       <h2>Building the Rest of the Day</h2>
       <p>
-        Dinner pairs naturally with an afternoon at <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a> or a day on the sound side. Our{' '}
+        Dinner pairs naturally with an afternoon at <a href="https://www.nps.gov/guis/planyourvisit/fort-pickens-area.htm" target="_blank" rel="noopener noreferrer">Fort Pickens</a> (our <Link href="/blog/fort-pickens-day-guide">Fort Pickens day guide</Link> has the details) or a day on the sound side. Our{' '}
         <Link href="/blog/best-things-to-do-pensacola-beach">things to do on Pensacola Beach</Link>{' '}
         guide covers the options, the{' '}
         <Link href="/blog/3-days-in-pensacola-beach">three-day itinerary</Link> builds them into a

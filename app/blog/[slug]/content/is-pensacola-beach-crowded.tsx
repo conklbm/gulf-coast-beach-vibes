@@ -66,7 +66,7 @@ export default function IsPensacolaBeachCrowdedContent() {
       <h2>Where to Go When Casino Beach Feels Too Busy</h2>
       <p>
         Casino Beach is useful, but it shouldn&apos;t be your only plan. Park East and Park West can give
-        you more breathing room than the main pier area. Fort Pickens, west of the central beach inside
+        you more breathing room than the main pier area. <Link href="/blog/fort-pickens-day-guide">Fort Pickens</Link>, west of the central beach inside
         <a href="https://www.nps.gov/guis/index.htm" target="_blank" rel="noopener noreferrer">Gulf Islands National Seashore</a>, adds a more natural, historic feel, and Opal Beach to the east is
         a good choice for a less commercial beach day. Early-morning Casino Beach, Quietwater Beach, and
         a downtown Pensacola outing are other good crowd-relief options.
