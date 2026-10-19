@@ -1,3 +1,4 @@
+import Image from 'next/image'
 import TipCallout from '@/components/TipCallout'
 import AffiliateLink from '@/components/AffiliateLink'
 import Link from 'next/link'
@@ -35,6 +36,19 @@ export default function ThreeDaysInNavarreBeachContent() {
         sunset set the pace.
       </TipCallout>
 
+
+      <figure className="not-prose my-6">
+        <Image
+          src="/images/local/navarre-fall-balcony-1.webp"
+          alt="Gulf view from a hotel balcony in Navarre on a sunny fall morning"
+          width={1200}
+          height={1600}
+          className="rounded-2xl w-full h-auto"
+        />
+        <figcaption className="text-sm text-navy/60 mt-2">
+          Settling in with a Gulf view on our fall trip to Navarre. Brooks&apos;s own photo.
+        </figcaption>
+      </figure>
       <h2>Day 2: Marine Park, Sea Turtles, and the Snorkeling Reefs</h2>
       <p>
         Stay close to Navarre Beach Marine Park, which has beach access, pavilions, restrooms, parking,

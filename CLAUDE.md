@@ -222,6 +222,7 @@ Key slugs to use in content:
 - Card images: `h-52 overflow-hidden`, `object-cover object-center`
 - Landscape images are strongly preferred — vertical images get center-cropped
 - Use `object-top` or `object-bottom` on the Image component to adjust crop for vertical shots
+- **Family photos OK (Brooks, 2026-10-19):** Brooks's own photos with family in them, including selfies, are approved for the site ("I'm good with family photos. I think it adds personality to the site."). Don't name people in alt text or captions; keep captions warm and factual and credit them as Brooks's own photos. Resize to 1200px wide, under 100 KB, and strip EXIF/GPS. Don't put dog photos in a Gulf Islands National Seashore context, and don't caption them to suggest dogs are allowed on beaches where they aren't (Navarre Beach, the Navarre pier and all GUIS beaches ban pets).
 
 ---
 
