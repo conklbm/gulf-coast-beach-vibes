@@ -245,7 +245,8 @@ Key slugs to use in content:
 
 - Always `git pull` before starting work.
 - **Small fixes go straight to `main`** (titles/meta, redirects for dead URLs, internal links, typo/fact fixes). Run `npm run build` first; never push a failing build.
-- **New posts and big changes go to a preview branch with a PR** into `main`. Brooks reviews the Vercel preview and merges.
+- **New posts and big changes go to a preview branch with a PR** into `main`, with a Vercel preview and a pre-merge review (below).
+- **Self-merge (Brooks, 2026-10-19):** the bot may merge its own PR (squash, via the GitHub REST API with `GCBV_GITHUB_TOKEN`) once the review passes, then must wait for the production deploy and verify it live (200, correct title, in the sitemap, linked where relevant) and fill in the changelog rows. Brooks no longer needs to say "publish". The no-deletion/no-URL-change rule and the rollback rule below are unchanged.
 - **No deletions, unpublishing, or URL/slug changes without Brooks's explicit OK.**
 - **Verify every deploy is live** (curl production or the preview URL and confirm the change).
 - **Log every SEO change in `SEO-CHANGELOG.md`** (date, commit, URL, change type, what changed, why/GSC query, baseline GSC numbers, recheck date). Add pending rows for PR changes and fill in the commit when merged.
