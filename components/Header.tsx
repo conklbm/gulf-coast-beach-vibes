@@ -3,6 +3,7 @@
 import { useState, useEffect } from 'react'
 import Link from 'next/link'
 import { usePathname } from 'next/navigation'
+import { SOCIAL } from '@/lib/social'
 
 const navLinks = [
   { href: '/destinations', label: 'Destinations' },
@@ -71,6 +72,19 @@ export default function Header() {
                 {link.label}
               </Link>
             ))}
+            <a
+              href={SOCIAL.etsy}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hidden lg:inline-flex items-center gap-1 px-4 py-2 rounded-full text-sm font-medium text-coral-700
+                         hover:text-coral hover:bg-coral/5 transition-colors duration-200"
+            >
+              Shop
+              <span className="sr-only">(opens our Etsy shop in a new tab)</span>
+              <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+              </svg>
+            </a>
             <Link
               href="/newsletter"
               className="ml-4 px-5 py-2 rounded-full bg-coral text-white text-sm font-semibold
@@ -110,7 +124,7 @@ export default function Header() {
       {/* Mobile Menu */}
       <div
         className={`md:hidden overflow-hidden transition-all duration-300 ${
-          menuOpen ? 'max-h-96 border-t border-sand-300' : 'max-h-0'
+          menuOpen ? 'max-h-[28rem] border-t border-sand-300' : 'max-h-0'
         }`}
       >
         <nav className="px-4 py-4 flex flex-col gap-1 bg-white" aria-label="Mobile navigation">
@@ -127,6 +141,14 @@ export default function Header() {
               {link.label}
             </Link>
           ))}
+          <a
+            href={SOCIAL.etsy}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="px-4 py-3 rounded-xl text-base font-medium text-coral-700 hover:bg-coral/5 transition-colors"
+          >
+            Shop Our Etsy Store ↗
+          </a>
           <Link
             href="/newsletter"
             className="mt-2 px-4 py-3 rounded-xl bg-coral text-white font-semibold text-center

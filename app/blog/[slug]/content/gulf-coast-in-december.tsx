@@ -1,6 +1,7 @@
 import TipCallout from '@/components/TipCallout'
 import AffiliateLink from '@/components/AffiliateLink'
 import Link from 'next/link'
+import EtsyPromo from '@/components/EtsyPromo'
 
 export default function GulfCoastInDecemberContent() {
   return (
@@ -188,6 +189,8 @@ export default function GulfCoastInDecemberContent() {
         wind: it&apos;s not a swimming month, and exposed areas can feel chilly. The Florida fee areas
         require entrance fees and the park is cashless, so check current conditions before you drive out.
       </p>
+
+      <EtsyPromo lead="Shopping for the holidays?" />
 
       <h2>The Bottom Line</h2>
       <p>

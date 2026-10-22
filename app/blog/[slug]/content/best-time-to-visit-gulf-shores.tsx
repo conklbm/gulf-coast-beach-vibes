@@ -1,6 +1,7 @@
 import TipCallout from '@/components/TipCallout'
 import AffiliateLink from '@/components/AffiliateLink'
 import Link from 'next/link'
+import EtsyPromo from '@/components/EtsyPromo'
 
 export default function BestTimeGulfShoresContent() {
   return (
@@ -216,6 +217,8 @@ export default function BestTimeGulfShoresContent() {
         <Link href="/destinations/gulf-shores">Gulf Shores destination page</Link> collects the
         beaches, stays and restaurants in one place.
       </p>
+
+      <EtsyPromo lead="Heading to Gulf Shores?" />
 
       <h2>Ready to Book?</h2>
       <p>

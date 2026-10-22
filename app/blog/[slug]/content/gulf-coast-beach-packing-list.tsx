@@ -1,6 +1,7 @@
 import TipCallout from '@/components/TipCallout'
 import AffiliateLink from '@/components/AffiliateLink'
 import Link from 'next/link'
+import EtsyPromo from '@/components/EtsyPromo'
 
 export default function PackingListContent() {
   return (
@@ -133,6 +134,8 @@ export default function PackingListContent() {
         <li>Baby powder — seriously dries sand right off your skin</li>
         <li>Insect repellent — especially important around sunset near marshy areas</li>
       </ul>
+
+      <EtsyPromo lead="Packing for the beach?" />
 
       <h2>Practical Logistics</h2>
       <p>

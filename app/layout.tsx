@@ -5,8 +5,31 @@ import Script from 'next/script'
 import './globals.css'
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
+import { SAME_AS } from '@/lib/social'
 
 const GA_ID = 'G-ZHKYEKM7JE'
+
+const SITE_URL = 'https://gulfcoastbeachvibes.com'
+
+const siteJsonLd = {
+  '@context': 'https://schema.org',
+  '@graph': [
+    {
+      '@type': 'Organization',
+      '@id': `${SITE_URL}/#organization`,
+      name: 'Gulf Coast Beach Vibes',
+      url: SITE_URL,
+      sameAs: SAME_AS,
+    },
+    {
+      '@type': 'WebSite',
+      '@id': `${SITE_URL}/#website`,
+      name: 'Gulf Coast Beach Vibes',
+      url: SITE_URL,
+      publisher: { '@id': `${SITE_URL}/#organization` },
+    },
+  ],
+}
 
 const playfair = Playfair_Display({
   subsets: ['latin'],
@@ -58,6 +81,10 @@ export default function RootLayout({
         >
           Skip to content
         </a>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(siteJsonLd) }}
+        />
         <Header />
         <main id="main-content">{children}</main>
         <Footer />

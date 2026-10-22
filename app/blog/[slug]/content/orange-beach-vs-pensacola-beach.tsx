@@ -1,6 +1,7 @@
 import TipCallout from '@/components/TipCallout'
 import AffiliateLink from '@/components/AffiliateLink'
 import Link from 'next/link'
+import EtsyPromo from '@/components/EtsyPromo'
 
 export default function OrangeBeachVsPensacolaBeachContent() {
   return (
@@ -142,6 +143,8 @@ export default function OrangeBeachVsPensacolaBeachContent() {
         <li>You&apos;re planning a long weekend instead of a full condo week</li>
         <li>You want more history, variety, and local texture in the trip</li>
       </ul>
+
+      <EtsyPromo />
 
       <h2>The Bottom Line</h2>
       <p>

@@ -5,6 +5,7 @@ import Link from 'next/link'
 import Breadcrumb from '@/components/Breadcrumb'
 import NewsletterBanner from '@/components/NewsletterBanner'
 import { posts, getPostBySlug } from '@/lib/posts'
+import { SAME_AS } from '@/lib/social'
 
 // Content components — one per article
 import PackingListContent from './content/gulf-coast-beach-packing-list'
@@ -317,6 +318,7 @@ export default function BlogPostPage({ params }: Props) {
       '@type': 'Organization',
       name: 'Gulf Coast Beach Vibes',
       url: 'https://gulfcoastbeachvibes.com',
+      sameAs: SAME_AS,
     },
   }
 
