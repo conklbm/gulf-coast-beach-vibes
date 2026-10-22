@@ -5,6 +5,7 @@ import DestinationCard from '@/components/DestinationCard'
 import CategoryTile from '@/components/CategoryTile'
 import ContentCard from '@/components/ContentCard'
 import NewsletterBanner from '@/components/NewsletterBanner'
+import EtsyShopSection from '@/components/EtsyShopSection'
 import { destinations } from '@/lib/destinations'
 import { posts } from '@/lib/posts'
 
@@ -132,6 +133,9 @@ export default function HomePage() {
           </div>
         </div>
       </section>
+
+      {/* ── 2b. ETSY SHOP ───────────────────────────────────────── */}
+      <EtsyShopSection />
 
       {/* Wave divider */}
       <div className="bg-cream overflow-hidden leading-none">

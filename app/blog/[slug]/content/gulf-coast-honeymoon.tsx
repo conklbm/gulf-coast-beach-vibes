@@ -1,6 +1,7 @@
 import TipCallout from '@/components/TipCallout'
 import AffiliateLink from '@/components/AffiliateLink'
 import Link from 'next/link'
+import EtsyPromo from '@/components/EtsyPromo'
 
 export default function GulfCoastHoneymoonContent() {
   return (
@@ -140,6 +141,8 @@ export default function GulfCoastHoneymoonContent() {
         rescheduled, and leave part of the itinerary blank — a honeymoon should have room for a
         slow morning and an unexpected sunset.
       </p>
+
+      <EtsyPromo lead="Want a keepsake from the trip?" />
 
       <h2>The Bottom Line</h2>
       <p>

@@ -1,4 +1,6 @@
 import Link from 'next/link'
+import { SOCIAL } from '@/lib/social'
+import { EtsyIcon, FacebookIcon, PinterestIcon } from '@/components/SocialIcons'
 
 const footerLinks = {
   Explore: [
@@ -16,7 +18,9 @@ const footerLinks = {
     { href: '/destinations/panama-city-beach',label: 'Panama City Beach, FL' },
   ],
   Connect: [
-    { href: 'https://facebook.com/gulfcoastbeachvibes', label: 'Facebook Page', external: true },
+    { href: SOCIAL.etsy,      label: 'Shop on Etsy', external: true },
+    { href: SOCIAL.facebook,  label: 'Facebook Page', external: true },
+    { href: SOCIAL.pinterest, label: 'Pinterest', external: true },
     { href: '/newsletter', label: 'Get the Insider Tips' },
     { href: '/about', label: 'About' },
     { href: '/contact', label: 'Contact' },
@@ -55,18 +59,38 @@ export default function Footer() {
             <p className="text-white/60 text-sm leading-relaxed mb-6">
               Your local guide to the Gulf Coast&apos;s most beautiful beaches &mdash; from Dauphin Island, AL to Panama City Beach, FL.
             </p>
-            <a
-              href="https://facebook.com/gulfcoastbeachvibes"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/10
-                         hover:bg-white/20 text-sm font-medium transition-colors"
-            >
-              <svg className="w-4 h-4" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-                <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z" />
-              </svg>
-              Follow on Facebook
-            </a>
+            <div className="flex flex-wrap gap-2">
+              <a
+                href={SOCIAL.facebook}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/10
+                           hover:bg-white/20 text-sm font-medium transition-colors"
+              >
+                <FacebookIcon />
+                Follow on Facebook
+              </a>
+              <a
+                href={SOCIAL.pinterest}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-white/10
+                           hover:bg-white/20 text-sm font-medium transition-colors"
+              >
+                <PinterestIcon />
+                Pinterest
+              </a>
+              <a
+                href={SOCIAL.etsy}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-coral
+                           hover:bg-coral-600 text-sm font-semibold transition-colors"
+              >
+                <EtsyIcon />
+                Shop on Etsy
+              </a>
+            </div>
           </div>
 
           {/* Link columns */}

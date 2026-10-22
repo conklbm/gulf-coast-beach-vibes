@@ -1,6 +1,7 @@
 import TipCallout from '@/components/TipCallout'
 import AffiliateLink from '@/components/AffiliateLink'
 import Link from 'next/link'
+import EtsyPromo from '@/components/EtsyPromo'
 
 export default function PanamaCityBeachVsDestinContent() {
   return (
@@ -149,6 +150,8 @@ export default function PanamaCityBeachVsDestinContent() {
         <li><strong>Best overall entertainment:</strong> Panama City Beach (more variety)</li>
         <li><strong>Best for a first Gulf Coast trip:</strong> Depends — Destin for the iconic water, PCB for the full resort experience</li>
       </ul>
+
+      <EtsyPromo />
 
       <h2>Book Your Trip</h2>
       <div className="not-prose flex flex-col sm:flex-row gap-3 my-6">

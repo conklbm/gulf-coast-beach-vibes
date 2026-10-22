@@ -1,6 +1,7 @@
 import TipCallout from '@/components/TipCallout'
 import AffiliateLink from '@/components/AffiliateLink'
 import Link from 'next/link'
+import EtsyPromo from '@/components/EtsyPromo'
 
 export default function GulfCoastOctoberContent() {
   return (
@@ -162,6 +163,8 @@ export default function GulfCoastOctoberContent() {
         8pm. If long beach afternoons are important to you, plan your days accordingly — morning
         sessions are particularly beautiful in October light.
       </TipCallout>
+
+      <EtsyPromo lead="Planning a fall beach trip?" />
 
       <h2>The Bottom Line</h2>
       <p>
