@@ -105,13 +105,13 @@ Last reviewed: 2026-11-10
 - Refresh: Where to Stay in Orange Beach (The Wharf vs Gulf-front condos) | "orange beach hotels" (27,100 / SD 40) | commercial | refresh due | Sage KW 2026-09-10 (refresh brief 18); Sage GSC 2026-09-21/10-05 'still valid'; Notion KW | brief: content/OUTLINES/refresh/18-where-to-stay-orange-beach-REFRESH.md
 
 ## Next up
-Ranked, 3 to 5 items. **Proposed by Sage, not approved.** Only Brooks moves items here (Tish for her lane).
+Ranked, 3 to 5 items. Approved by Brooks 2026-11-10. Only Brooks moves items here (Tish for her lane).
 
-1. (proposed — Brooks to approve) Gulf State Park Campground Guide | "gulf state park camping" | info | brief ready | Sage GSC 2026-11-02 | Why: Score 100, softest 10k+ term in the bank (SD 12); spoke off the live GSP guide
-2. (proposed — Brooks to approve) Best Restaurants in Miramar Beach | "miramar beach restaurants" | local | brief ready | Sage GSC 2026-11-02 | Why: Score 80 and the weakest SERP measured (DA 20 and DA 8 sites, Reddit, TripAdvisor in the top 10)
-3. (proposed — Brooks to approve) Best Restaurants in Perdido Key | "perdido key fl restaurants" | local | brief ready | Sage GSC 2026-11-02 | Why: Score 80; Perdido guide has 156 impr and no food section
-4. (proposed — Brooks to approve) Closest Gulf Coast Beaches to Atlanta | "beaches closest to atlanta" | info | brief ready | Sage GSC 2026-10-05/10-19/11-02 | Why: Score 60, SD 8 (softest term measured); Google already tests the Atlanta page for it (296 impr)
-5. (proposed — Brooks to approve) Best Restaurants in Navarre Beach | "restaurants navarre beach" | local | brief ready | Sage GSC 2026-10-05/10-19/11-02 | Why: Score 60; Navarre is the site's #2 query cluster (849 impr) with no food page
+1. (approved by Brooks 2026-11-10) Gulf State Park Campground Guide | "gulf state park camping" | info | brief ready | Sage GSC 2026-11-02 | Why: Score 100, softest 10k+ term in the bank (SD 12); spoke off the live GSP guide. Note: Brooks has his own photos and video clips of the Gulf State Park area (not necessarily the campground). Ask him for them for the hero image and the cover; prefer them over stock.
+2. (approved by Brooks 2026-11-10) Best Restaurants in Miramar Beach | "miramar beach restaurants" | local | brief ready | Sage GSC 2026-11-02 | Why: Score 80 and the weakest SERP measured (DA 20 and DA 8 sites, Reddit, TripAdvisor in the top 10)
+3. (approved by Brooks 2026-11-10) Best Restaurants in Perdido Key | "perdido key fl restaurants" | local | brief ready | Sage GSC 2026-11-02 | Why: Score 80; Perdido guide has 156 impr and no food section
+4. (approved by Brooks 2026-11-10) Closest Gulf Coast Beaches to Atlanta | "beaches closest to atlanta" | info | brief ready | Sage GSC 2026-10-05/10-19/11-02 | Why: Score 60, SD 8 (softest term measured); Google already tests the Atlanta page for it (296 impr)
+5. (approved by Brooks 2026-11-10) Best Restaurants in Navarre Beach | "restaurants navarre beach" | local | brief ready | Sage GSC 2026-10-05/10-19/11-02 | Why: Score 60; Navarre is the site's #2 query cluster (849 impr) with no food page
 
 Time-sensitive, outside the top 5: **Gulf Coast in January** (draft by early December) and **February** (by mid-December). Both are briefed, and the 11/02 packet suggested building them alongside the top 3.
 
