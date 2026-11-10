@@ -1,7 +1,7 @@
 # Content: Gulf Coast Beach Vibes
 
-Article queue for gulfcoastbeachvibes.com. Features and tech work live in [ROADMAP.md](ROADMAP.md).
-Claude Code: read this file and ROADMAP.md before any build.
+Article queue for gulfcoastbeachvibes.com. Features and tech work live in [ROADMAP.md](ROADMAP.md). Keyword and competitor research lives in [KEYWORDS.md](KEYWORDS.md).
+Claude Code: read this file, ROADMAP.md, and KEYWORDS.md before any build.
 Last reviewed: 2026-11-10
 
 ## Rules
@@ -11,11 +11,11 @@ Last reviewed: 2026-11-10
 - This repo is the source of truth for published counts (`lib/posts.ts` + `app/blog/[slug]/content/`), not the old sheet.
 - Every item: title | keyword (vol / SD) | intent | status | source | brief, PR or URL.
 - Status: idea > brief ready > drafting > in review > live > refresh due
-- Long research (packets, keyword exports) stays outside the file; briefs live in `content/OUTLINES/`.
+- Long research (packets, keyword exports) stays in [KEYWORDS.md](KEYWORDS.md); briefs live in `content/OUTLINES/`.
 
-**Source tags:** `Sage GSC <date>` = biweekly GSC + keyword review packet (rank and D×W×F score from that packet) · `Sage KW <date>` = `content/KEYWORD-RESEARCH.md` cluster (Ubersuggest US) · `Notion KW` = SEO Keywords database row (Brand = GCBV) · `Old plan 2026-03` = `docs/archive/content-plan.md` · `Old sheet #` = `docs/archive/content-pipeline.csv` · `Repo stub` = noindex "Coming soon" page already linked on the site. "unmeasured" = no Ubersuggest metric yet.
+**Source tags:** `Sage GSC <date>` = biweekly GSC + keyword review packet (rank and D×W×F score from that packet) · `Sage KW <date>` = Ubersuggest US cluster, now recorded in [KEYWORDS.md](KEYWORDS.md) (original notes in `docs/archive/KEYWORD-RESEARCH.md`) · `Notion KW` = row migrated from the Notion SEO Keywords database into [KEYWORDS.md](KEYWORDS.md) on 2026-11-10 · `Old plan 2026-03` = `docs/archive/content-plan.md` · `Old sheet #` = `docs/archive/content-pipeline.csv` · `Repo stub` = noindex "Coming soon" page already linked on the site. "unmeasured" = no Ubersuggest metric yet.
 
-**Pilot note (2026-11-10):** this file replaces `content/BACKLOG-1-20.md`, `content-plan.md` and `content-pipeline.csv` (moved to `docs/archive/` with pointers). All 20 BACKLOG-1-20 items are live (see Done). The old sheet and content plan said 27 published; the repo has 121 blog posts plus 2 guide pages.
+**Pilot note (2026-11-10):** this file replaces `content/BACKLOG-1-20.md`, `content-plan.md` and `content-pipeline.csv` (moved to `docs/archive/` with pointers). All 20 BACKLOG-1-20 items are live (see Done). The old sheet and content plan said 27 published; the repo has 121 blog posts plus 2 guide pages. Keyword and competitor research now lives in [KEYWORDS.md](KEYWORDS.md); the Ubersuggest cluster notes moved to `docs/archive/KEYWORD-RESEARCH.md`.
 
 ## Ideas
 

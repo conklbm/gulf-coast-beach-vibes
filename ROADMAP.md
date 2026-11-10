@@ -1,7 +1,7 @@
 # Roadmap: Gulf Coast Beach Vibes
 
-Features and tech work for gulfcoastbeachvibes.com. Articles live in [CONTENT.md](CONTENT.md).
-Claude Code: read this file and CONTENT.md before any build.
+Features and tech work for gulfcoastbeachvibes.com. Articles live in [CONTENT.md](CONTENT.md). Keyword and competitor research lives in [KEYWORDS.md](KEYWORDS.md).
+Claude Code: read this file, CONTENT.md, and KEYWORDS.md before any build.
 Last reviewed: 2026-11-10
 
 ## Rules
@@ -36,7 +36,7 @@ Ranked, 3 to 5 items. **Proposed by Sage, not approved.** Only Brooks moves item
 
 ## In progress
 - [Feature] Blog cover tool + `ogImage` on new posts. Sage. [PR #6](https://github.com/conklbm/gulf-coast-beach-vibes/pull/6) (`feat/blog-cover-tool`), opened 2026-11-10, waiting on Brooks
-- [Tech] ROADMAP.md + CONTENT.md pilot (this PR). Sage. Opened 2026-11-10, waiting on Brooks
+- [Tech] ROADMAP.md + CONTENT.md + KEYWORDS.md pilot (this PR). Sage. Opened 2026-11-10, waiting on Brooks
 
 ## Done
 - 2026-10-22 [Feature] Facebook / Pinterest / Etsy links sitewide, Etsy shop section on the homepage + Etsy promo on 7 posts, Organization/WebSite JSON-LD `sameAs`. PR #5

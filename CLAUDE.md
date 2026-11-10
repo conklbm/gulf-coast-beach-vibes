@@ -1,6 +1,6 @@
 # CLAUDE.md — Gulf Coast Beach Vibes
 
-> **Before any build, read [`ROADMAP.md`](ROADMAP.md) (features/tech) and [`CONTENT.md`](CONTENT.md) (articles).** Work on items in Next up unless Brooks says otherwise, and in the same PR move the item to In progress / Done. New ideas go in the Ideas section by PR.
+> **Before any build, read [`ROADMAP.md`](ROADMAP.md) (features/tech), [`CONTENT.md`](CONTENT.md) (articles), and [`KEYWORDS.md`](KEYWORDS.md) (keyword and competitor research).** Work on items in Next up unless Brooks says otherwise, and in the same PR move the item to In progress / Done. New ideas go in the Ideas section by PR.
 
 ## Project Overview
 - **Site name:** Gulf Coast Beach Vibes
