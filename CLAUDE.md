@@ -182,7 +182,7 @@ Key slugs to use in content:
 
 ## Adding a New Blog Post — Checklist
 
-1. Add metadata to `lib/posts.ts` (slug, title, excerpt, category, heroImage, publishedAt, readTime)
+1. Add metadata to `lib/posts.ts` (slug, title, excerpt, category, heroImage, publishedAt, readTime; add `ogImage` in step 9)
 2. Create content file at `app/blog/[slug]/content/[slug].tsx`
 3. Register component in `CONTENT_MAP` in `app/blog/[slug]/page.tsx`
 4. **Include affiliate links** — at minimum: VRBO + Booking.com or TripShock/FishingBooker
@@ -191,6 +191,7 @@ Key slugs to use in content:
 7. Cross-link to relevant destination pages and other blog posts
 8. Choose a hero image: local `/images/` file preferred; Unsplash CDN as fallback
    - **Unsplash gotcha:** Short photo IDs (e.g. `Jy0s-88SdmI`) don't work with the CDN pattern. Use `curl` to scrape the `og:image` from the Unsplash photo page to get the real timestamp-based CDN URL.
+9. After the draft is SEO-checked, make a branded OG cover with `scripts/blog-cover/` (see that folder's README). Use the post title, highlight 1–3 key words with `*asterisks*`, and pass the hero photo as `--image` when you have one. Save it to `public/images/covers/<slug>.png` and set `ogImage: '/images/covers/<slug>.png'` in `lib/posts.ts`. Include the cover in the article PR. The approved look is the dark photo layout (hero under a navy overlay; navy-to-ocean gradient if there's no photo). Covers are for new posts; don't replace existing posts' images unless Brooks asks.
 
 ---
 
@@ -218,6 +219,7 @@ Key slugs to use in content:
 ## Image Conventions
 
 - Local images: `/public/images/[name].jpg` → used as `/images/[name].jpg`
+- New-post OG covers: `/public/images/covers/[slug].png` (1200×630) → `ogImage` in `lib/posts.ts`. The on-page hero stays `heroImage`. See `scripts/blog-cover/README.md`.
 - Blog hero: `h-[50vh] min-h-[400px]`, `object-cover object-center`
 - Card images: `h-52 overflow-hidden`, `object-cover object-center`
 - Landscape images are strongly preferred — vertical images get center-cropped

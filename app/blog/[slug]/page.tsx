@@ -272,6 +272,7 @@ export async function generateStaticParams() {
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const post = getPostBySlug(params.slug)
   if (!post) return {}
+  const ogImage = post.ogImage ?? post.heroImage
   return {
     title: post.title,
     description: post.excerpt,
@@ -279,7 +280,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     openGraph: {
       title: post.title,
       description: post.excerpt,
-      images: [{ url: post.heroImage, width: 1200, height: 630 }],
+      images: [{ url: ogImage, width: 1200, height: 630 }],
+    },
+    twitter: {
+      card: "summary_large_image",
+      images: [ogImage],
     },
   }
 }
@@ -313,7 +318,7 @@ export default function BlogPostPage({ params }: Props) {
     '@type': 'Article',
     headline: post.title,
     description: post.excerpt,
-    image: post.heroImage,
+    image: post.ogImage ?? post.heroImage,
     publisher: {
       '@type': 'Organization',
       name: 'Gulf Coast Beach Vibes',
