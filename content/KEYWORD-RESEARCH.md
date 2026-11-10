@@ -264,3 +264,175 @@ Collected via `user-Ubersuggest` `keyword_overview` + `keyword_suggestions`, US 
 7. Largest new heads: **Gulf State Park / HarborWalk (49.5k each)**, then Wharf / Okaloosa / Perdido (27.1k each).
 8. Softest supporting entries in the new set: **GSP camping SD 12**, **Johnson Beach SD 13**, **Wharf amphitheater SD 20**, **Okaloosa “things to do” SD 17**.
 9. Legacy hard-conflict refreshes retained under `OUTLINES/refresh/` — do not republish as new URLs.
+
+---
+
+## Cluster J — Wave 2 seeds (queued 2026-09-21) — METRICS FILLED 2026-10-05
+
+**Context:** Seeds were queued on 2026-09-21 when the Ubersuggest daily quota was exhausted. On 2026-10-05 all 15 were filled with `keyword_overview`, US `locId` 2840, metrics as returned. **Do not re-pull.**
+
+| Keyword / seed | Vol | SD | CPC | Intent | GSC 2026-09-04→10-02 | Disposition |
+|----------------|-----|----|-----|--------|----------------------|-------------|
+| best restaurants orange beach | 6,600 | 43 | 0.36 | Commercial | — | #21 H1 variant |
+| restaurants orange beach alabama | 33,100 | 21 | 0.41 | — | — | **#21 primary** |
+| best restaurants 30a | 5,400 | 13 | 0.39 | Informational | — | **#22 primary** |
+| restaurants seaside florida | 3,600 | 21 | 0.30 | — | — | #22 H2 |
+| how far is dauphin island from gulf shores | 210 | 18 | 3.20 | Informational | 59 impr / pos 10.7 | #23 → fold into DI guide refresh |
+| how far is dauphin island from orange beach | 70 | 21 | 0 | Informational | 33 impr / pos 7.8 | DI guide FAQ |
+| how long is dauphin island | 110 | 25 | 0 | Informational | 50 impr / pos 10.3 | DI guide FAQ |
+| st andrews state park | 74,000 | 46 | 1.65 | Informational | — | NEW, hard (rank 19) |
+| eden gardens state park | 9,900 | 36 | 2.01 | Informational | — | NEW (rank 15) |
+| topsail hill preserve state park | 22,200 | 32 | 2.98 | Navigational | — | NEW (rank 6) |
+| is miramar beach in destin | 390 | 57 | 3.67 | Informational | 82 impr / pos 12.7 | REFRESH miramar-vs-destin FAQ |
+| is orange beach alabama dog friendly | 30 | 21 | 2.12 | Informational | 42 impr / pos 23.9 | REFRESH pet-friendly page |
+| national naval aviation museum | 49,500 | 52 | 0.48 | Navigational | — | NEW, hard (rank 22) |
+| flora-bama | 60,500 | 50 | 2.05 | — | 5 impr | NEW, hard (rank 13) |
+| best restaurants navarre beach | 390 | 20 | 0.19 | Informational | — | #25 H1 variant |
+
+---
+
+## Cluster K — New gaps measured 2026-10-05 (food + named attractions first)
+
+`keyword_overview`, US `locId` 2840, metrics as returned. Chosen from GSC gaps and food/attraction pillars that have no URL in the 140-URL sitemap.
+
+### K-food
+
+| Keyword | Vol | SD | CPC | Intent | Use |
+|---------|-----|----|-----|--------|-----|
+| seafood restaurants orange beach | 3,600 | 12 | 0.43 | — | #21 H2 |
+| restaurants 30a | 2,400 | 15 | 0.32 | Informational | #22 support |
+| rosemary beach restaurants | 18,100 | 32 | 0.29 | Commercial | #22 big H2 |
+| restaurants navarre beach | 8,100 | 21 | 0.35 | Commercial | **#25 primary** |
+| dauphin island restaurants | 9,900 | 30 | 0.22 | Commercial | NEW rank 8 |
+| best restaurants panama city beach | 12,100 | 61 | 0.43 | Commercial | NEW, hard (rank 21) |
+
+### K-attraction
+
+| Keyword | Vol | SD | CPC | Intent | Use |
+|---------|-----|----|-----|--------|-----|
+| baytowne wharf | 12,100 | 24 | 1.58 | — | **#24 primary** |
+| big lagoon state park | 12,100 | 31 | 2.96 | Informational | NEW rank 7 |
+| alabama gulf coast zoo | 18,100 | 43 | 1.36 | Navigational | NEW rank 10 |
+| pier park panama city beach | 90,500 | 42 | 1.05 | Navigational | NEW rank 12 (shopping intent) |
+| gulfarium | 40,500 | 60 | 0.49 | — | NEW, hard (rank 20) |
+| camp helen state park | 6,600 | 45 | 1.97 | Informational | NEW rank 16 |
+| bon secour national wildlife refuge | 5,400 | 44 | 1.04 | Informational | NEW rank 17 |
+| navarre beach pier | 1,900 | 32 | 2.41 | Navigational | NEW rank 18 |
+| pensacola lighthouse | 3,600 | 46 | 2.02 | Navigational | NEW rank 23 |
+
+### K-seasonal / drive
+
+| Keyword | Vol | SD | CPC | Intent | Use |
+|---------|-----|----|-----|--------|-----|
+| beaches closest to atlanta | 4,400 | 8 | 1.24 | — | **#26 primary** (GSC 60 impr / pos 29.5) |
+| beaches near atlanta | 1,600 | 22 | 3.40 | Informational | #26 support (GSC 39 impr / pos 28) |
+| gulf shores water temperature | 1,900 | 25 | 0 | Informational | NEW rank 9 or best-time GS refresh |
+| destin in november | 320 | 15 | 0.90 | Informational | **#27 primary** (Oct peak 720) |
+| gulf shores in november | 110 | 21 | 1.10 | Informational | #27 support |
+
+**Notes (2026-10-05):**
+10. Food heads were softer than expected: **OB restaurants 33.1k at SD 21**, **30A best restaurants SD 13**, **OB seafood SD 12**, and **Navarre restaurants SD 21**.
+11. The big named-attraction heads (St. Andrews 74k, Flora-Bama 60.5k, Naval Aviation 49.5k, Gulfarium 40.5k, Pier Park 90.5k) are all **SD 42 to 60**. Treat them as later or hard targets.
+12. The DI distance seeds measured small (~390/mo combined). Fold them into the DI guide rather than creating a new URL.
+13. **Softest term measured so far:** `beaches closest to atlanta` (SD 8).
+
+**Cumulative rule:** Clusters A–J are fully measured. Next cycle should pull only unmeasured seeds (e.g. baytowne wharf events/restaurants, grayton beach restaurants, best seafood orange beach, gulf coast in november variants) and should not re-pull anything above.
+
+---
+
+## Cluster L — Measured 2026-10-19 (winter months, food sections, named attractions)
+
+`keyword_overview`, US `locId` 2840, metrics as returned (25 calls, no quota errors). Chosen from GSC gaps (weather 424 impr, Jan/Feb 18 impr) and food/attraction pillars with no URL in the 141-URL sitemap. **Do not re-pull.**
+
+### L-seasonal
+
+| Keyword | Vol | SD | CPC | Peak | Use |
+|---------|-----|----|-----|------|-----|
+| destin in january | 210 | 13 | 2.08 | Dec 590 | **#29 primary** |
+| gulf shores in january | 70 | 18 | 7.55 | Dec 170 | #29 support |
+| orange beach in january | 20 | 11 | 1.62 | Dec 50 | #29 H2 |
+| destin in february | 260 | 13 | 1.29 | Jan 880 | **#30 primary** |
+| gulf shores in february | 110 | 18 | 0.74 | Jan 320 | #30 support |
+| destin in winter | 110 | 13 | 0.40 | Dec 260 | #29/#30 support |
+| gulf shores in winter | 40 | 19 | 0.38 | — | #29/#30 support |
+| snowbird rentals gulf shores | 170 | 15 | 1.87 | — | #29/#30 snowbird H2 (Commercial) |
+| christmas in destin | 260 | 16 | 1.15 | Dec 880 | REFRESH gulf-coast-in-december |
+| christmas in gulf shores | 140 | 17 | 0.99 | Nov–Dec 390 | REFRESH gulf-coast-in-december |
+| christmas in orange beach | 50 | 9 | 1.01 | Dec 210 | REFRESH gulf-coast-in-december |
+| thanksgiving in destin | 110 | 15 | 1.08 | Nov 590 | H2 in November post (PR #1) |
+| thanksgiving in gulf shores | 50 | 12 | 0.89 | Nov 210 | H2 in November post (PR #1) |
+| gulf shores weather by month | 720 | 33 | 0.06 | flat | REFRESH best-time-to-visit-gulf-shores |
+
+### L-food
+
+| Keyword | Vol | SD | CPC | Peak | Use |
+|---------|-----|----|-----|------|-----|
+| baytowne wharf restaurants | 5,400 | 32 | 0.76 | Jun–Jul 14,800 | #24 H2 |
+| grayton beach restaurants | 2,900 | 23 | 0.39 | spring 4,400 | #22 H2 |
+| best seafood orange beach | 1,600 | 42 | 0.27 | Jul 3,600 | OB restaurants H2 (PR #1) |
+| best breakfast gulf shores | 880 | 32 | 0.23 | 1,300 | REFRESH best-breakfast-gulf-coast |
+
+### L-attraction
+
+| Keyword | Vol | SD | CPC | Use |
+|---------|-----|----|-----|-----|
+| the hangout gulf shores | 27,100 | 49 | 0.50 | NEW hard (score 20); Brooks first-hand angle |
+| owa foley | 12,100 | 38 | 0.27 | **NEW #28** (score 40) |
+| fort gaines | 8,100 | 42 | 0.53 | NEW (score 30) or DI guide H2 |
+| dolphin cruise orange beach | 8,100 | 53 | 3.98 | skip (paid difficulty 100) |
+| pensacola beach pier | 4,400 | 40 | 0.77 | NEW (score 30) |
+| dolphin cruise destin | 1,600 | 33 | 4.78 | later (score 24) |
+| dauphin island estuarium | 170 | 40 | 1.63 | DI guide / Fort Gaines H2 |
+
+**Notes (2026-10-19):**
+14. Winter month terms are tiny but very soft (SD 11–19) and peak Nov–Jan, which matches the proven month series. Publish Jan/Feb posts by early-to-mid December.
+15. `gulf islands national seashore` (Cluster B, 12,100 / SD 12) is already targeted by live #05 Fort Pickens guide, so it's a refresh, not a new URL.
+16. Big attraction heads near Gulf Shores (Hangout 27.1k/49, OWA 12.1k/38, Fort Gaines 8.1k/42) are all SD 38+.
+
+**Cumulative rule (superseded 2026-11-02, see Cluster M):** Clusters A–L are measured. Next cycle: only unmeasured seeds (e.g. gulf coast in april/june/july/august, mardi gras orange beach/pensacola, fort gaines hours, owa tropic falls, seaside fl restaurants already partly covered).
+
+
+---
+
+## Cluster M (2026-11-02, US 2840): food + named-attraction pillars + spring months
+
+### M-food
+| Keyword | Vol | SD | CPC | Peak | Use |
+|---------|-----|----|-----|------|-----|
+| miramar beach restaurants | 9,900 | 21 | 0.45 | Jul 18,100 | **NEW 11/2 #2** (score 80) |
+| gulf breeze restaurants | 4,400 | 23 | 0.36 | Jul 6,600 | NEW 11/2 #5 (score 60) |
+| lulu's gulf shores | 27,100 | 23 | 0.18 | Jun–Jul 49,500 | NEW 11/2 #4 (60, nav −1) |
+
+### M-attraction
+| Keyword | Vol | SD | CPC | Intent | Use |
+|---------|-----|----|-----|--------|-----|
+| alys beach | 110,000 | 26 | 2.41 | Navigational | NEW 11/2 #6 (50, nav −1) |
+| rosemary beach fl | 33,100 | 49 | 1.86 | Informational | secondary for Rosemary post |
+| things to do in rosemary beach | 5,400 | 29 | 1.25 | Informational | NEW 11/2 #7 (45) |
+| big kahuna's destin | 27,100 | 29 | 1.19 | brand | NEW 11/2 #8 (40, nav −1); Jul 74k, publish by Mar |
+| navarre beach sea turtle conservation center | 9,900 | 30 | 0.40 | Navigational | Navarre H2 (30) |
+| gulf breeze zoo | 22,200 | 43 | 0.16 | Navigational | skip; Gulf Breeze hub H2 (20) |
+| waterville usa | 9,900 | 38 | 1.98 | Informational | skip; things-to-do GS H2 (30) |
+| gulf world marine institute | 40 | 19 | 0 | Navigational | dead |
+
+### M-seasonal
+| Keyword | Vol | SD | CPC | Peak | Use |
+|---------|-----|----|-----|------|-----|
+| destin in april | 260 | 15 | 0 | Jan 720 | NEW 11/2 #9 April post (30) |
+| gulf shores in april | 90 | 13 | 1.04 | Jan–Feb 210 | April support |
+| spring break destin | 390 | 18 | 0.63 | Mar 1,300 | April H2 |
+| gulf shores spring break | 480 | 25 | 1.42 | Mar 1,900 | April H2 |
+| destin in june | 170 | 21 | 0 | May 390 | later June post |
+
+**Saved-bank terms promoted to NEW pages 11/2 (no re-pull):** gulf state park camping 12,100 / 12 (#1), perdido key fl restaurants 6,600 / 20 (#3).
+
+**SERP weak-competitor notes (2026-11-02, serp_analysis cached):**
+- miramar beach restaurants: royalpalmgrille.com DA 20 (#4), bosforomiramarbeach.com DA 8 (#11), Reddit r/30A, TripAdvisor forum. WEAK.
+- perdido key fl restaurants: crabtrapflorida.com DA 40, perdidochamber.com DA 37, Reddit r/Pensacola. MODERATE.
+- things to do in rosemary beach: newwavepropertymgmt.com DA 9 (#13), getmyboat DA 57, AI overview. MID.
+- big kahuna's destin: brand-dominated (knowledge graph, official DA 42, Facebook).
+- gulf breeze restaurants, gulf state park camping: noData; re-check from cache.
+
+**Scoring rule added 11/2:** winnability −1 for navigational or brand-dominated SERPs.
+
+**Cumulative rule:** Clusters A–M are measured. Next cycle: pull only unmeasured seeds (gulf coast in july/august, mardi gras orange beach/pensacola, gulf state park cabins/campground variants, seaside fl restaurants, fort walton beach restaurants if not already in the bank, flora-bama). Re-check SERPs for gulf breeze restaurants and gulf state park camping.

@@ -1,3 +1,5 @@
+> **Archived 2026-11-10.** This list now lives in [`CONTENT.md`](../../CONTENT.md) (articles) and [`ROADMAP.md`](../../ROADMAP.md) (site/tech). Kept for history only; do not update.
+
 # Backlog 1–20 — Ranked with status
 
 Active queue is **all NET-NEW or soft-overlap** (2026-09-10 replacement pass). Hard-conflict REFRESH briefs live in `OUTLINES/refresh/` (not numbered in the active 1–20).

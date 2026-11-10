@@ -112,6 +112,8 @@ These capture searchers at the planning stage — the best moment to show accomm
 
 ## Content Tracker
 
+> **2026-11-10:** this tracker is historical. The live article queue and published list are in [`CONTENT.md`](CONTENT.md); unshipped Block A–H items were folded in there.
+
 **✅ 49-ARTICLE BATCH SHIPPED 2026-07-04 — now at 76 published posts.** The writer's Google Drive folder (docs + hero PNGs, named by slug) was pulled, converted to content components, and published across 7 waves: 12 comparisons, 7 "worth it / how crowded" posts, 4 guides/best-beaches, 9 itineraries, 5 "best time to visit", 4 "Gulf Coast in [month]", and 7 road-trips. All dateless, all WebP heroes, all passing the internal-linking gate. One Drive doc named `pensacola-beach-guide` was skipped — its content is a duplicate "3 Days in Pensacola Beach" itinerary, not a guide. Most Block A–H items below shipped in this batch; statuses left as-is for historical reference.
 
 ### Published (76 posts — was 27)

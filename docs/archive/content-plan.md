@@ -1,3 +1,5 @@
+> **Archived 2026-11-10.** This list now lives in [`CONTENT.md`](../../CONTENT.md) (articles) and [`ROADMAP.md`](../../ROADMAP.md) (site/tech). Kept for history only; do not update.
+
 # Gulf Coast Beach Vibes — Content Plan
 *Last updated: 2026-03-29*
 
