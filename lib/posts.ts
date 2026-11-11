@@ -1023,6 +1023,17 @@ export const posts: Post[] = [
     readTime: '8 min read',
   },
   {
+    slug: 'gulf-state-park-campground-guide',
+    title: "Gulf State Park Camping: Sites, Booking & Tips",
+    excerpt:
+      "Gulf State Park camping, explained: 496 full-hookup sites plus an RV Resort, a one-year booking window, and a beach 1.5 miles away. Here's how to plan it.",
+    category: 'Places to Stay',
+    heroImage: '/images/local/gulf-state-park-boardwalk-sunset.webp',
+    ogImage: '/images/covers/gulf-state-park-campground-guide.png',
+    publishedAt: '2026-11-11',
+    readTime: '8 min read',
+  },
+  {
     slug: 'destin-harborwalk-guide',
     title: 'Destin HarborWalk: Parking, Restaurants, and What It Is Really Like',
     excerpt:

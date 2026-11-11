@@ -114,7 +114,7 @@ export default function GulfStateParkGuideContent() {
         Four distinct options, and they suit very different trips:
       </p>
       <ul>
-        <li><strong>The campground</strong> — large, well-run, with nightly, weekly, and monthly rates. Snowbirds fill it all winter.</li>
+        <li><strong>The campground</strong> — large, well-run, with nightly, weekly, and monthly rates. Snowbirds fill it all winter. Our <Link href="/blog/gulf-state-park-campground-guide">Gulf State Park campground guide</Link> covers sites, booking rules, and the newer RV Resort.</li>
         <li><strong>Lakeside Cabins</strong> — on the freshwater lakes rather than the Gulf, quiet and wooded.</li>
         <li><strong>Eagle Cottages</strong> — the upscale cottage option, small and books far ahead.</li>
         <li><strong><a href="https://lodgeatgulfstatepark.com/" target="_blank" rel="noopener noreferrer">The Lodge at Gulf State Park</a></strong> — a Hilton directly on the Gulf, and the only way to be inside the park with hotel service.</li>
