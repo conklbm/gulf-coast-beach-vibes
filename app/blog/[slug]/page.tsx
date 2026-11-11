@@ -116,6 +116,7 @@ import CrabIslandDestinGuideContent from './content/crab-island-destin-guide'
 import BestRestaurantsDestinContent from './content/best-restaurants-destin'
 
 import GulfStateParkGuideContent from './content/gulf-state-park-guide'
+import GulfStateParkCampgroundGuideContent from './content/gulf-state-park-campground-guide'
 import DestinHarborWalkGuideContent from './content/destin-harborwalk-guide'
 import BestSeafoodGulfShoresContent from './content/best-seafood-gulf-shores'
 import BestRestaurantsPensacolaBeachContent from './content/best-restaurants-pensacola-beach'
@@ -162,6 +163,7 @@ const CONTENT_MAP: Record<string, React.ComponentType> = {
   'shell-island-panama-city-beach-guide': ShellIslandPanamaCityBeachGuideContent,
   'mobile-bay-ferry-guide': MobileBayFerryGuideContent,
   'gulf-state-park-guide': GulfStateParkGuideContent,
+  'gulf-state-park-campground-guide': GulfStateParkCampgroundGuideContent,
   'destin-harborwalk-guide': DestinHarborWalkGuideContent,
   'best-seafood-gulf-shores': BestSeafoodGulfShoresContent,
   'best-restaurants-pensacola-beach': BestRestaurantsPensacolaBeachContent,
