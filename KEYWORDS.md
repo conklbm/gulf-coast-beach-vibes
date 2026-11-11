@@ -17,7 +17,7 @@ Last reviewed: 2026-11-10
 ## Snapshot (2026-11-10)
 
 - **217 keywords** in this file: **60** exported from the Notion SEO Keywords database (Brand = Gulf Coast Beach Vibes; all 60 still said Status = Idea), plus **135** useful terms merged from `content/KEYWORD-RESEARCH.md` that were not in Notion, plus **22** unmeasured terms already listed in CONTENT.md.
-- Repo state: **24** live as the primary (or co-primary) page, **21** live with a refresh in CONTENT.md Ideas, **103** covered by a live post, **7** in CONTENT.md Next up, **58** in CONTENT.md Ideas, **3** skipped, **1** unmapped.
+- Repo state: **24** live as the primary (or co-primary) page, **21** live with a refresh in CONTENT.md Ideas, **103** covered by a live post, **7** in CONTENT.md Next up, **59** in CONTENT.md Ideas, **3** skipped, **0** unmapped. Updated 2026-11-11: "grayton beach restaurants" moved from Unmapped to Ideas in CONTENT.md.
 - Origin was blank on every Notion row; those Ubersuggest rows are recorded here as Research. No GSC volume, clicks, CTR, position, or ranking URL was filled on any GCBV keyword row.
 - Competitors: **0** GCBV rows in the Notion SEO Competitors database (see below).
 
@@ -117,7 +117,7 @@ Last reviewed: 2026-11-10
 | camping at grayton beach state park | 2,900 | 37 | 1.56 | Commercial | Research | KW research | 76.3 | Covered by /blog/grayton-beach-state-park-guide | Clusters: C | 2026-09-11 |
 | crab island destin pontoon rentals | 2,900 | 28 | 2.84 | Commercial | Research | KW research | 100.0 | Covered by /blog/crab-island-destin-guide | Clusters: A | 2026-09-11 |
 | destin harborwalk restaurants | 2,900 | 44 | 0.68 | Informational | Research | KW research | 64.4 | Covered by /blog/destin-harborwalk-guide | Clusters: I / Destin HarborWalk (active #10) | 2026-09-10 |
-| grayton beach restaurants | 2,900 | 23 | 0.39 |  | Research | KW research | 120.8 | Unmapped | Clusters: L / L-food; Use: #22 H2; Peak: spring 4,400 | 2026-10-19 |
+| grayton beach restaurants | 2,900 | 23 | 0.39 |  | Research | KW research | 120.8 | Ideas in CONTENT.md | Clusters: L / L-food; Best Restaurants in Grayton Beach; originally noted as #22 H2 on /blog/best-restaurants-30a (that H2 is already live); Peak: spring 4,400 | 2026-10-19 |
 | henderson beach state park camping | 2,900 | 35 | 1.61 | Informational | Research | KW research | 80.6 | Covered by /blog/henderson-beach-state-park-guide | Clusters: A | 2026-09-11 |
 | marina at the wharf orange beach | 2,900 | 34 | 0.91 |  | Research | KW research | 82.9 | Covered by /blog/the-wharf-orange-beach-guide | Clusters: I / The Wharf Orange Beach (active #14) | 2026-09-10 |
 | mobile bay ferry dauphin island | 2,900 | 37 | 0.13 |  | Research | KW research | 76.3 | Covered by /blog/mobile-bay-ferry-guide | Clusters: D | 2026-09-11 |
