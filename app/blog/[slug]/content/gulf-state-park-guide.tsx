@@ -34,23 +34,27 @@ export default function GulfStateParkGuideContent() {
 
       <h2>Fees and Which Entrance to Use</h2>
       <p>
-        The park has separate access points, and picking the wrong one costs you a drive.
+        The park has several beach access points (the pier and the Beach Pavilion in Gulf Shores,
+        plus Romar Beach, Cotton Bayou, Alabama Point East, and Shell Beach in Orange Beach), and
+        picking the wrong one costs you a drive. Fees as listed by Alabama State Parks:
       </p>
       <ul>
-        <li><strong>Beach parking:</strong> $5 at the entrance</li>
-        <li><strong>Pier parking:</strong> $10, its own lot</li>
-        <li><strong>Pier sightseeing:</strong> $2 all day for adults; veterans, under-12s, and campground or Lodge guests free</li>
-        <li><strong>Pier fishing:</strong> $9 all day for adults; $6 veterans and campground/Lodge guests; under 12 free</li>
+        <li><strong>Daily parking:</strong> $15 all day for a personal vehicle ($35 with a trailer, bus, or large RV). One daily pass covers every park beach access point, wherever you buy it.</li>
+        <li><strong>Pier sightseeing:</strong> $3 all day for adults; veterans, kids 11 and under, and campground or Lodge guests free</li>
+        <li><strong>Pier fishing:</strong> $10 all day for adults; $7 for veterans and campground/Lodge guests; kids 11 and under free</li>
       </ul>
       <p>
-        Note the pier has its own parking fee separate from the beach lot — people regularly pay
-        twice because they parked at the beach and then decided to walk the pier.
+        Paying the daily parking fee at the pier also gets you one all-day fishing permit or three
+        sightseeing admissions, so keep your parking receipt and show it at the pier window. Fees
+        change, so check the{' '}
+        <a href="https://www.alapark.com/parks/gulf-state-park/fishing-and-education-pier" target="_blank" rel="noopener noreferrer">pier page</a>{' '}
+        before you go.
       </p>
 
       <TipCallout title="Check Day-Use Reservations Before You Drive" variant="tip">
-        Alabama State Parks runs a day-use reservation system for Gulf State Park at
-        reserve.alapark.com. Availability and whether it is required vary by season and by area of
-        the park, so check it the day before rather than discovering a full lot at 10 a.m. on a July
+        Parking is paid by scanning the QR code at the lot and registering your license plate, and
+        you can pre-purchase a permit through the Gulf State Park Patron Portal. Lots still fill on
+        summer weekends, so arrive early rather than discovering a full lot at 10 a.m. on a July
         Saturday.
       </TipCallout>
 
@@ -78,12 +82,13 @@ export default function GulfStateParkGuideContent() {
       <p>
         One of the longest piers on the Gulf, and a genuinely good use of a day when the water is
         rough, the jellyfish are in, or the wind has made the beach unpleasant. You do not need to
-        fish to enjoy it — $2 buys a sightseeing pass and a long walk out over water where you will
+        fish to enjoy it — $3 buys an adult sightseeing pass and a long walk out over water where you will
         usually see rays, sometimes dolphins, and always somebody catching something.
       </p>
       <p>
-        For anglers, $9 all day is a lot of fishing for the money, with no license required from the
-        pier. It is busiest at dawn and dusk. If you want to go out on a boat instead, our{' '}
+        For anglers, $10 all day is a lot of fishing for the money. The pier fee does not include an
+        Alabama saltwater or pier fishing license, so buy one before you go. It is busiest at dawn
+        and dusk. If you want to go out on a boat instead, our{' '}
         <Link href="/blog/gulf-coast-fishing-guide">Gulf Coast fishing guide</Link> covers charters.
       </p>
 
@@ -115,8 +120,8 @@ export default function GulfStateParkGuideContent() {
         <li><strong><a href="https://lodgeatgulfstatepark.com/" target="_blank" rel="noopener noreferrer">The Lodge at Gulf State Park</a></strong> — a Hilton directly on the Gulf, and the only way to be inside the park with hotel service.</li>
       </ul>
       <p>
-        Staying in the park means free pier access and no daily parking fee, which adds up over a
-        week. If you would rather be in town, our{' '}
+        Campground and Lodge guests get free pier sightseeing and a discounted $7 fishing pass,
+        which adds up over a week. If you would rather be in town, our{' '}
         <Link href="/blog/where-to-stay-gulf-shores">where to stay in Gulf Shores</Link> and{' '}
         <Link href="/blog/where-to-stay-orange-beach">Orange Beach</Link> guides cover the areas, and
         our <Link href="/blog/gulf-coast-camping">Gulf Coast camping guide</Link> compares this
@@ -146,10 +151,10 @@ export default function GulfStateParkGuideContent() {
 
       <h2>The Bottom Line</h2>
       <p>
-        Gulf State Park is the best-value day on the Alabama coast — $5 to park, $2 to walk the pier,
-        and 28 miles of trail for nothing. Go early, know which lot you need, and check day-use
-        reservations before a summer weekend. If you can stay inside the park, do; the free pier
-        access and parking pay for themselves and the mornings are worth it.
+        Gulf State Park is one of the best-value days on the Alabama coast — $15 to park (pay at
+        the pier and it includes a pier pass), and 28 miles of trail for nothing. Go early and know which lot
+        you need, especially on a summer weekend. If you can stay inside the park, do; the pier
+        perks help, and the mornings are worth it.
       </p>
 
       <h2>Where to Stay Near Gulf State Park</h2>

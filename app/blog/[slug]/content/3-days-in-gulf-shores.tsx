@@ -31,8 +31,8 @@ export default function ThreeDaysInGulfShoresContent() {
           work fine but cost $40–60/day; your own setup saves money and gives you flexibility
         </li>
         <li>
-          <strong>Get a <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a> day pass</strong> — $5/vehicle and worth buying in
-          advance; download the parking app before you arrive
+          <strong>Get a <a href="https://www.alapark.com/parks/gulf-state-park" target="_blank" rel="noopener noreferrer">Gulf State Park</a> day pass</strong> — $15/vehicle, good at every park beach access point
+          that day; you pay by QR code at the lot, or pre-purchase through the park&apos;s Patron Portal
         </li>
       </ul>
 
@@ -178,7 +178,7 @@ export default function ThreeDaysInGulfShoresContent() {
         <li><strong>Accommodations:</strong> $150–400/night depending on Gulf-front vs. off-beach and season</li>
         <li><strong>Dining:</strong> $50–100/day for two people eating at restaurants</li>
         <li><strong>Activities:</strong> $0 (beach, park trails, pier) to $200+ (fishing charter, dolphin cruise)</li>
-        <li><strong>Gas/parking:</strong> $20–40 for beach parking; Gulf State Park $5/vehicle</li>
+        <li><strong>Gas/parking:</strong> $20–40 for beach parking; Gulf State Park $15/vehicle</li>
       </ul>
       <p>
         Vacation rentals with kitchen access cut food costs significantly — breakfast and lunch

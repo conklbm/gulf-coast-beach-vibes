@@ -55,7 +55,7 @@ export const posts: Post[] = [
     slug: 'gulf-coast-from-atlanta',
     title: 'Best Gulf Coast Beach from Atlanta (and How to Get There)',
     excerpt:
-      "Atlanta to the Gulf Coast is one of the best beach drives in the Southeast — under 6 hours, no tolls, and some of the most beautiful white-sand beaches in America waiting at the end.",
+      "Atlanta to the Gulf Coast is one of the best beach drives in the Southeast — about 5 to 6.5 hours of mostly highway driving, with some of the most beautiful white-sand beaches in America waiting at the end.",
     category: 'Road Trips',
     heroImage: '/images/gulf-coast-from-atlanta.webp',
     publishedAt: '2025-01-20',
