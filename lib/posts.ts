@@ -1134,6 +1134,17 @@ export const posts: Post[] = [
     readTime: '7 min read',
   },
   {
+    slug: 'best-restaurants-perdido-key',
+    title: "Perdido Key Restaurants: Where to Eat on the Key",
+    excerpt:
+      "Perdido Key restaurants, honestly sorted: seafood on the key, the Flora-Bama complex, breakfast on Innerarity Point, and one local favorite nearby.",
+    category: 'Things to Do',
+    heroImage: '/images/local/perdido-pass-gulf-view.webp',
+    ogImage: '/images/covers/best-restaurants-perdido-key.png',
+    publishedAt: '2026-11-11',
+    readTime: '7 min read',
+  },
+  {
     slug: 'okaloosa-island-guide',
     title: 'Okaloosa Island Guide: Beaches, Boardwalk, and the Pier',
     excerpt:
