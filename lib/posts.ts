@@ -62,6 +62,17 @@ export const posts: Post[] = [
     readTime: '8 min read',
   },
   {
+    slug: 'closest-beaches-to-atlanta',
+    title: "Closest Beaches to Atlanta, Ranked by Drive",
+    excerpt:
+      "Beaches closest to Atlanta, ranked by road miles: Tybee Island is nearest at ~266 miles, and Panama City Beach and 30A are the closest Gulf beaches.",
+    category: 'Road Trips',
+    heroImage: '/images/panama-city-beach-florida.webp',
+    ogImage: '/images/covers/closest-beaches-to-atlanta.png',
+    publishedAt: '2026-11-11',
+    readTime: '8 min read',
+  },
+  {
     slug: 'best-time-to-visit-gulf-shores',
     title: 'Best Time to Visit Gulf Shores: A Month-by-Month Guide',
     excerpt:
