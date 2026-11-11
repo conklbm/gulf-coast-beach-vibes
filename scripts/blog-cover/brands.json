@@ -1,0 +1,39 @@
+{
+  "gcbv": {
+    "name": "Gulf Coast Beach Vibes",
+    "site": "gulfcoastbeachvibes.com",
+    "default_layout": "photo",
+    "layouts": [
+      "photo",
+      "sand"
+    ],
+    "default_eyebrow": "GULFCOASTBEACHVIBES.COM",
+    "colors": {
+      "ocean": "#0EA5BE",
+      "ocean_light": "#50CCEA",
+      "ocean_dark": "#086373",
+      "navy": "#1A2E44",
+      "navy_deep": "#0E1B2C",
+      "coral": "#FF6B4A",
+      "sand": "#F5E6C8",
+      "sand_light": "#FEF9F0",
+      "cream": "#FAFAF8",
+      "white": "#FFFFFF"
+    },
+    "fonts": {
+      "display": {
+        "family": "Playfair Display",
+        "file": "assets/fonts/PlayfairDisplay-VariableFont_wght.ttf",
+        "weight": 700
+      },
+      "body": {
+        "family": "DM Sans",
+        "file": "assets/fonts/DMSans-VariableFont_opsz,wght.ttf",
+        "weight": 500
+      }
+    },
+    "logos": {
+      "icon": "assets/logos/gcbv-icon.svg"
+    }
+  }
+}

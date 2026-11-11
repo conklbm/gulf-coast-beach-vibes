@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- Teal background with rounded corners -->
+  <rect width="32" height="32" rx="6" fill="#0EA5BE"/>
+  <!-- Coral sun -->
+  <circle cx="23" cy="11" r="5" fill="#FF6B4A"/>
+  <!-- Back wave (navy, subtle) -->
+  <path d="M0 24 C5 19 9 28 14 23 C19 18 23 27 28 22 L32 20 L32 32 L0 32 Z" fill="#1A2E44" opacity="0.3"/>
+  <!-- Front wave (white) -->
+  <path d="M0 26 C5 21 9 30 14 25 C19 20 23 29 28 24 L32 22 L32 32 L0 32 Z" fill="white"/>
+</svg>

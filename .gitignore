@@ -39,3 +39,6 @@ next-env.d.ts
 
 # claude code local settings
 .claude/settings.local.json
+
+# blog cover tool
+scripts/blog-cover/.venv/

@@ -4,6 +4,7 @@ export interface Post {
   excerpt: string
   category: string
   heroImage: string
+  ogImage?: string // branded 1200x630 cover for new posts; falls back to heroImage
   publishedAt: string
   readTime: string
 }
