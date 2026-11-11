@@ -114,6 +114,7 @@ interface Props {
 import HendersonBeachStateParkGuideContent from './content/henderson-beach-state-park-guide'
 import CrabIslandDestinGuideContent from './content/crab-island-destin-guide'
 import BestRestaurantsDestinContent from './content/best-restaurants-destin'
+import BestRestaurantsMiramarBeachContent from './content/best-restaurants-miramar-beach'
 
 import GulfStateParkGuideContent from './content/gulf-state-park-guide'
 import GulfStateParkCampgroundGuideContent from './content/gulf-state-park-campground-guide'
@@ -170,6 +171,7 @@ const CONTENT_MAP: Record<string, React.ComponentType> = {
   'henderson-beach-state-park-guide': HendersonBeachStateParkGuideContent,
   'crab-island-destin-guide': CrabIslandDestinGuideContent,
   'best-restaurants-destin': BestRestaurantsDestinContent,
+  'best-restaurants-miramar-beach': BestRestaurantsMiramarBeachContent,
   'where-to-stay-gulf-shores': WhereToStayGulfShoresContent,
   'where-to-stay-destin': WhereToStayDestinContent,
   'where-to-stay-pensacola-beach': WhereToStayPensacolaBeachContent,

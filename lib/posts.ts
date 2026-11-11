@@ -1013,6 +1013,17 @@ export const posts: Post[] = [
     readTime: '10 min read',
   },
   {
+    slug: 'best-restaurants-miramar-beach',
+    title: "Miramar Beach Restaurants: Where to Eat in 2026",
+    excerpt:
+      "Miramar Beach restaurants, organized by Scenic Gulf Drive, US-98 and Sandestin so you can eat near where you're staying. Seafood, barbecue, date night.",
+    category: 'Things to Do',
+    heroImage: '/images/miramar-beach-florida.webp',
+    ogImage: '/images/covers/best-restaurants-miramar-beach.png',
+    publishedAt: '2026-11-11',
+    readTime: '8 min read',
+  },
+  {
     slug: 'gulf-state-park-guide',
     title: 'Gulf State Park Visitor Guide: Beaches, Pier, Trails & Camping',
     excerpt:

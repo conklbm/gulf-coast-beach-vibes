@@ -98,7 +98,9 @@ export default function BestRestaurantsDestinContent() {
         If your condo is east of Destin proper — and a lot of them are — you do not need to fight
         into the harbor every night. See our{' '}
         <Link href="/blog/miramar-beach-vs-destin">Miramar Beach and Destin comparison</Link> for how
-        the two areas differ.
+        the two areas differ, and our{' '}
+        <Link href="/blog/best-restaurants-miramar-beach">Miramar Beach restaurants guide</Link> for
+        where to eat along Scenic Gulf Drive, US-98, and Sandestin.
       </p>
 
       <h3><a href="https://www.seagars.com/" target="_blank" rel="noopener noreferrer">Seagar&apos;s</a> Prime Steaks &amp; Seafood</h3>
