@@ -2,7 +2,7 @@
 
 Keyword and competitor record for gulfcoastbeachvibes.com. Article ideas live in [CONTENT.md](CONTENT.md). Site and tech work lives in [ROADMAP.md](ROADMAP.md).
 Claude Code: read this file with CONTENT.md and ROADMAP.md before any build.
-Last reviewed: 2026-11-10
+Last reviewed: 2026-11-11
 
 ## Rules
 - This file is the keyword and competitor record for the site. Sage adds rows from research and Search Console packets.
@@ -17,7 +17,7 @@ Last reviewed: 2026-11-10
 ## Snapshot (2026-11-10)
 
 - **217 keywords** in this file: **60** exported from the Notion SEO Keywords database (Brand = Gulf Coast Beach Vibes; all 60 still said Status = Idea), plus **135** useful terms merged from `content/KEYWORD-RESEARCH.md` that were not in Notion, plus **22** unmeasured terms already listed in CONTENT.md.
-- Repo state: **24** live as the primary (or co-primary) page, **21** live with a refresh in CONTENT.md Ideas, **103** covered by a live post, **7** in CONTENT.md Next up, **59** in CONTENT.md Ideas, **3** skipped, **0** unmapped. Updated 2026-11-11: "grayton beach restaurants" moved from Unmapped to Ideas in CONTENT.md.
+- Repo state: **24** live as the primary (or co-primary) page, **21** live with a refresh in CONTENT.md Ideas, **103** covered by a live post, **43** in CONTENT.md Next up, **23** in CONTENT.md Ideas, **3** skipped, **0** unmapped. Updated 2026-11-11: 25 topics from approval batch 1 (36 keyword rows, including support terms for January, February, April, and Rosemary Beach) moved from Ideas to Next up. "grayton beach restaurants" is in that batch.
 - Origin was blank on every Notion row; those Ubersuggest rows are recorded here as Research. No GSC volume, clicks, CTR, position, or ranking URL was filled on any GCBV keyword row.
 - Competitors: **0** GCBV rows in the Notion SEO Competitors database (see below).
 
@@ -25,57 +25,57 @@ Last reviewed: 2026-11-10
 
 | Keyword | Vol | SD | CPC | Intent | Origin | Source | Score | Repo state | Notes | Last checked |
 |---------|-----|----|-----|--------|--------|--------|-------|------------|-------|--------------|
-| alys beach | 110,000 | 26 | 2.41 | Navigational | Research | KW research | 4074.1 | Ideas in CONTENT.md | Clusters: M / M-attraction; Alys Beach Visitor Guide; Use: NEW 11/2 #6 (50, nav −1) | 2026-11-02 |
+| alys beach | 110,000 | 26 | 2.41 | Navigational | Research | KW research | 4074.1 | Next up in CONTENT.md | Clusters: M / M-attraction; Alys Beach Visitor Guide; Use: NEW 11/2 #6 (50, nav −1) | 2026-11-02 |
 | henderson beach state park | 90,500 | 36 | 2.81 | Navigational | Research | Notion + KW research | 2445.9 | Live /blog/henderson-beach-state-park-guide | Clusters: A | 2026-09-11 |
 | henderson beach state park in florida | 90,500 | 38 | 2.81 | Informational | Research | Notion | 2320.5 | Covered by /blog/henderson-beach-state-park-guide |  | 2026-09-11 |
 | navarre beach | 90,500 | 57 | 1.96 | Informational | Research | Notion + KW research | 1560.3 | Live /blog/navarre-beach-guide | Clusters: H | 2026-09-11 |
-| pier park panama city beach | 90,500 | 42 | 1.05 | Navigational | Research | Notion + KW research | 2104.7 | Ideas in CONTENT.md | Clusters: K / K-attraction; Pier Park Panama City Beach Guide; NEW rank 12 (shopping intent) | 2026-10-05 |
+| pier park panama city beach | 90,500 | 42 | 1.05 | Navigational | Research | Notion + KW research | 2104.7 | Next up in CONTENT.md | Clusters: K / K-attraction; Pier Park Panama City Beach Guide; NEW rank 12 (shopping intent) | 2026-10-05 |
 | restaurants destin fl | 74,000 | 38 | 1.62 |  | Research | Notion + KW research | 1897.4 | Covered by /blog/best-restaurants-destin | Clusters: A | 2026-09-11 |
-| st andrews state park | 74,000 | 46 | 1.65 | Informational | Research | Notion + KW research | 1574.5 | Ideas in CONTENT.md | Clusters: J; St. Andrews State Park Guide; NEW, hard (rank 19) | 2026-10-05 |
-| flora-bama | 60,500 | 50 | 2.05 |  | Research | Notion + KW research | 1186.3 | Ideas in CONTENT.md | Clusters: J; Flora-Bama Visitor Guide; NEW, hard (rank 13) | 2026-10-05 |
+| st andrews state park | 74,000 | 46 | 1.65 | Informational | Research | Notion + KW research | 1574.5 | Next up in CONTENT.md | Clusters: J; St. Andrews State Park Guide; NEW, hard (rank 19) | 2026-10-05 |
+| flora-bama | 60,500 | 50 | 2.05 |  | Research | Notion + KW research | 1186.3 | Next up in CONTENT.md | Clusters: J; Flora-Bama Visitor Guide; NEW, hard (rank 13) | 2026-10-05 |
 | gulf state park in alabama | 60,500 | 31 | 1.67 |  | Research | Notion + KW research | 1890.6 | Covered by /blog/gulf-state-park-guide | Clusters: I / Gulf State Park (active #8) | 2026-09-11 |
 | destin harborwalk | 49,500 | 53 | 1.08 |  | Research | Notion + KW research | 916.7 | Live /blog/destin-harborwalk-guide | Clusters: I / Destin HarborWalk (active #10) | 2026-09-11 |
 | gulf state park | 49,500 | 42 | 1.80 | Informational | Research | Notion + KW research | 1151.2 | Live /blog/gulf-state-park-guide | Clusters: I / Gulf State Park (active #8) | 2026-09-11 |
 | gulf state park alabama | 49,500 | 43 | 1.80 |  | Research | Notion + KW research | 1125.0 | Covered by /blog/gulf-state-park-guide | Clusters: I / Gulf State Park (active #8) | 2026-09-11 |
-| national naval aviation museum | 49,500 | 52 | 0.48 | Navigational | Research | Notion + KW research | 934.0 | Ideas in CONTENT.md | Clusters: J; National Naval Aviation Museum Guide; NEW, hard (rank 22) | 2026-10-05 |
-| gulfarium | 40,500 | 60 | 0.49 |  | Research | Notion + KW research | 663.9 | Ideas in CONTENT.md | Clusters: K / K-attraction; Gulfarium Guide; NEW, hard (rank 20) | 2026-10-05 |
+| national naval aviation museum | 49,500 | 52 | 0.48 | Navigational | Research | Notion + KW research | 934.0 | Next up in CONTENT.md | Clusters: J; National Naval Aviation Museum Guide; NEW, hard (rank 22) | 2026-10-05 |
+| gulfarium | 40,500 | 60 | 0.49 |  | Research | Notion + KW research | 663.9 | Next up in CONTENT.md | Clusters: K / K-attraction; Gulfarium Guide; NEW, hard (rank 20) | 2026-10-05 |
 | fort pickens | 33,100 | 52 | 0.73 | Navigational | Research | Notion + KW research | 624.5 | Covered by /blog/fort-pickens-day-guide | Clusters: B | 2026-09-11 |
 | fort pickens florida | 33,100 | 24 | 1.09 |  | Research | Notion + KW research | 1324.0 | Covered by /blog/fort-pickens-day-guide | Clusters: B | 2026-09-11 |
 | grayton beach state park | 33,100 | 22 | 1.47 |  | Research | Notion + KW research | 1439.1 | Live /blog/grayton-beach-state-park-guide | Clusters: C | 2026-09-11 |
 | grayton beach state park florida | 33,100 | 55 | 2.77 | Informational | Research | Notion | 591.1 | Covered by /blog/grayton-beach-state-park-guide |  | 2026-09-11 |
 | pensacola beach hotels | 33,100 | 50 | 3.27 | Commercial | Research | Notion + KW research | 649.0 | Live /blog/where-to-stay-pensacola-beach (refresh in CONTENT.md Ideas) | Clusters: B; Refresh: Where to Stay in Pensacola Beach (areas; families vs couples) | 2026-09-11 |
 | restaurants orange beach alabama | 33,100 | 21 | 0.41 |  | Research | Notion + KW research | 1504.5 | Live /blog/best-restaurants-orange-beach | Clusters: J; #21 primary| 2026-10-05 |
-| rosemary beach fl | 33,100 | 49 | 1.86 | Informational | Research | KW research | 662.0 | Ideas in CONTENT.md | Clusters: M / M-attraction; Things to Do in Rosemary Beach; Use: secondary for Rosemary post | 2026-11-02 |
-| big kahuna's destin | 27,100 | 29 | 1.19 | Navigational | Research | KW research | 903.3 | Ideas in CONTENT.md | Clusters: M / M-attraction; Big Kahuna's Destin: Tips + Is It Worth It?; Use: NEW 11/2 #8 (40, nav −1); Jul 74k, publish by Mar | 2026-11-02 |
+| rosemary beach fl | 33,100 | 49 | 1.86 | Informational | Research | KW research | 662.0 | Next up in CONTENT.md | Clusters: M / M-attraction; Things to Do in Rosemary Beach; Use: secondary for Rosemary post | 2026-11-02 |
+| big kahuna's destin | 27,100 | 29 | 1.19 | Navigational | Research | KW research | 903.3 | Next up in CONTENT.md | Clusters: M / M-attraction; Big Kahuna's Destin: Tips + Is It Worth It?; Use: NEW 11/2 #8 (40, nav −1); Jul 74k, publish by Mar | 2026-11-02 |
 | crab island destin | 27,100 | 27 | 3.20 | Informational | Research | Notion + KW research | 967.9 | Live /blog/crab-island-destin-guide | Clusters: A | 2026-09-11 |
-| lulu's gulf shores | 27,100 | 23 | 0.18 |  | Research | KW research | 1129.2 | Ideas in CONTENT.md | Clusters: M / M-food; LuLu's Gulf Shores: What to Know Before You Go; Use: NEW 11/2 #4 (60, nav −1); Peak: Jun–Jul 49,500 | 2026-11-02 |
+| lulu's gulf shores | 27,100 | 23 | 0.18 |  | Research | KW research | 1129.2 | Next up in CONTENT.md | Clusters: M / M-food; LuLu's Gulf Shores: What to Know Before You Go; Use: NEW 11/2 #4 (60, nav −1); Peak: Jun–Jul 49,500 | 2026-11-02 |
 | okaloosa island | 27,100 | 36 | 1.78 |  | Research | Notion + KW research | 732.4 | Live /blog/okaloosa-island-guide | Clusters: I / Okaloosa Island (active #15) | 2026-09-11 |
 | orange beach hotels | 27,100 | 40 | 2.67 | Commercial | Research | Notion + KW research | 661.0 | Live /blog/where-to-stay-orange-beach (refresh in CONTENT.md Ideas) | Clusters: D; Refresh: Where to Stay in Orange Beach (The Wharf vs Gulf-front condos) | 2026-09-11 |
 | perdido key | 27,100 | 67 | 2.19 | Informational | Research | Notion + KW research | 398.5 | Live /blog/perdido-key-guide | Clusters: I / Perdido Key (active #18) | 2026-09-11 |
-| the hangout gulf shores | 27,100 | 49 | 0.50 | Navigational | Research | Notion + KW research | 542.0 | Ideas in CONTENT.md | Clusters: L / L-attraction; The Hangout Gulf Shores; NEW hard (score 20); Brooks first-hand angle| 2026-10-19 |
+| the hangout gulf shores | 27,100 | 49 | 0.50 | Navigational | Research | Notion + KW research | 542.0 | Next up in CONTENT.md | Clusters: L / L-attraction; The Hangout Gulf Shores; NEW hard (score 20); Brooks first-hand angle | 2026-10-19 |
 | the wharf orange beach | 27,100 | 42 | 0.76 | Navigational | Research | Notion + KW research | 630.2 | Live /blog/the-wharf-orange-beach-guide | Clusters: D; I / The Wharf Orange Beach (active #14) | 2026-09-11 |
 | the wharf orange beach alabama | 27,100 | 43 | 0.76 |  | Research | Notion + KW research | 615.9 | Covered by /blog/the-wharf-orange-beach-guide | Clusters: I / The Wharf Orange Beach (active #14) | 2026-09-11 |
 | crab island destin fl | 22,200 | 35 | 3.43 | Informational | Research | Notion + KW research | 616.7 | Covered by /blog/crab-island-destin-guide | Clusters: A | 2026-09-11 |
 | gulf breeze zoo | 22,200 | 43 | 0.16 | Navigational | Research | KW research | 504.5 | Skipped — H2 on /destinations/gulf-breeze | Clusters: M / M-attraction; Cluster M: skip as a post; use as an H2 on the Gulf Breeze hub; Use: skip; Gulf Breeze hub H2 (20) | 2026-11-02 |
 | restaurants fort walton beach | 22,200 | 46 | 0.40 | Informational | Research | Notion + KW research | 472.3 | Live /blog/best-waterfront-restaurants-fort-walton-beach | Clusters: E | 2026-09-11 |
-| topsail hill preserve state park | 22,200 | 32 | 2.98 | Navigational | Research | Notion + KW research | 672.7 | Ideas in CONTENT.md | Clusters: J; Topsail Hill Preserve State Park Guide; NEW (rank 6) | 2026-10-05 |
-| alabama gulf coast zoo | 18,100 | 43 | 1.36 | Navigational | Research | Notion + KW research | 411.4 | Ideas in CONTENT.md | Clusters: K / K-attraction; Alabama Gulf Coast Zoo Guide; NEW rank 10| 2026-10-05 |
+| topsail hill preserve state park | 22,200 | 32 | 2.98 | Navigational | Research | Notion + KW research | 672.7 | Next up in CONTENT.md | Clusters: J; Topsail Hill Preserve State Park Guide; NEW (rank 6) | 2026-10-05 |
+| alabama gulf coast zoo | 18,100 | 43 | 1.36 | Navigational | Research | Notion + KW research | 411.4 | Next up in CONTENT.md | Clusters: K / K-attraction; Alabama Gulf Coast Zoo Guide; NEW rank 10 | 2026-10-05 |
 | best restaurants in destin florida | 18,100 | 28 | 0.42 | Commercial | Research | Notion + KW research | 624.1 | Covered by /blog/best-restaurants-destin | Clusters: A | 2026-09-11 |
-| rosemary beach restaurants | 18,100 | 32 | 0.29 | Commercial | Research | Notion + KW research | 548.5 | Ideas in CONTENT.md | Clusters: K / K-food; Secondary for Things to Do in Rosemary Beach; also an H2 on /blog/best-restaurants-30a; #22 big H2| 2026-10-05 |
+| rosemary beach restaurants | 18,100 | 32 | 0.29 | Commercial | Research | Notion + KW research | 548.5 | Next up in CONTENT.md | Clusters: K / K-food; Secondary for Things to Do in Rosemary Beach; also an H2 on /blog/best-restaurants-30a; #22 big H2 | 2026-10-05 |
 | amphitheater at the wharf orange beach al | 14,800 | 20 | 0.65 |  | Research | Notion + KW research | 704.8 | Covered by /blog/the-wharf-orange-beach-guide | Clusters: I / The Wharf Orange Beach (active #14) | 2026-09-11 |
 | best restaurants in destin | 14,800 | 18 | 0.58 | Commercial | Research | Notion + KW research | 778.9 | Live /blog/best-restaurants-destin | Clusters: A | 2026-09-11 |
 | pensacola beach restaurants | 14,800 | 38 | 0.52 | Commercial | Research | Notion + KW research | 379.5 | Live /blog/best-restaurants-pensacola-beach | Clusters: B | 2026-09-11 |
 | perdido key johnson beach | 14,800 | 13 | 1.17 |  | Research | Notion + KW research | 1057.1 | Covered by /blog/perdido-key-guide | Clusters: I / Perdido Key (active #18) | 2026-09-11 |
 | baytowne wharf | 12,100 | 24 | 1.58 |  | Research | Notion + KW research | 484.0 | Live /blog/baytowne-wharf-guide | Clusters: K / K-attraction; #24 primary| 2026-10-05 |
 | best restaurants panama city beach | 12,100 | 61 | 0.43 | Commercial | Research | Notion + KW research | 195.2 | Ideas in CONTENT.md | Clusters: K / K-food; Best Restaurants in Panama City Beach; NEW, hard (rank 21) | 2026-10-05 |
-| big lagoon state park | 12,100 | 31 | 2.96 | Informational | Research | Notion + KW research | 378.1 | Ideas in CONTENT.md | Clusters: K / K-attraction; Big Lagoon State Park Guide; NEW rank 7| 2026-10-05 |
+| big lagoon state park | 12,100 | 31 | 2.96 | Informational | Research | Notion + KW research | 378.1 | Next up in CONTENT.md | Clusters: K / K-attraction; Big Lagoon State Park Guide; NEW rank 7 | 2026-10-05 |
 | florida 30a beaches | 12,100 | 13 | 2.52 | Informational | Research | Notion + KW research | 864.3 | Covered by /blog/best-30a-beaches-ranked | Clusters: C | 2026-09-11 |
 | gulf islands national seashore | 12,100 | 12 | 1.50 |  | Research | Notion + KW research | 930.8 | Live /blog/fort-pickens-day-guide | Clusters: B | 2026-09-11 |
 | gulf state park camping | 12,100 | 12 | 0.81 |  | Research | Notion + KW research | 930.8 | Next up in CONTENT.md | Clusters: I / Gulf State Park (active #8); Gulf State Park Campground Guide | 2026-09-11 |
-| owa foley | 12,100 | 38 | 0.27 | Informational | Research | Notion + KW research | 310.3 | Ideas in CONTENT.md | Clusters: L / L-attraction; OWA Parks & Resort (Foley) Guide; NEW #28 (score 40) | 2026-10-19 |
+| owa foley | 12,100 | 38 | 0.27 | Informational | Research | Notion + KW research | 310.3 | Next up in CONTENT.md | Clusters: L / L-attraction; OWA Parks & Resort (Foley) Guide; NEW #28 (score 40) | 2026-10-19 |
 | 30a beaches | 9,900 | 26 | 1.29 |  | Research | Notion + KW research | 366.7 | Covered by /blog/best-30a-beaches-ranked | Clusters: C | 2026-09-11 |
-| dauphin island restaurants | 9,900 | 30 | 0.22 | Commercial | Research | Notion + KW research | 319.4 | Ideas in CONTENT.md | Clusters: K / K-food; Best Restaurants on Dauphin Island; NEW rank 8| 2026-10-05 |
-| eden gardens state park | 9,900 | 36 | 2.01 | Informational | Research | Notion + KW research | 267.6 | Ideas in CONTENT.md | Clusters: J; Eden Gardens State Park Guide; NEW (rank 15) | 2026-10-05 |
+| dauphin island restaurants | 9,900 | 30 | 0.22 | Commercial | Research | Notion + KW research | 319.4 | Next up in CONTENT.md | Clusters: K / K-food; Best Restaurants on Dauphin Island; NEW rank 8 | 2026-10-05 |
+| eden gardens state park | 9,900 | 36 | 2.01 | Informational | Research | Notion + KW research | 267.6 | Next up in CONTENT.md | Clusters: J; Eden Gardens State Park Guide; NEW (rank 15) | 2026-10-05 |
 | fort morgan alabama | 9,900 | 46 | 2.11 | Informational | Research | Notion + KW research | 210.6 | Live /blog/fort-morgan-alabama-guide | Clusters: I / Fort Morgan, AL (active #17) | 2026-09-11 |
 | fort pickens campground | 9,900 | 19 | 0.16 |  | Research | Notion + KW research | 495.0 | Covered by /blog/fort-pickens-day-guide | Clusters: B | 2026-09-11 |
 | gulf state park orange beach | 9,900 | 15 | 1.23 |  | Research | Notion + KW research | 618.8 | Covered by /blog/gulf-state-park-guide | Clusters: I / Gulf State Park (active #8) | 2026-09-11 |
@@ -92,20 +92,20 @@ Last reviewed: 2026-11-10
 | best restaurants gulf shores | 6,600 | 11 | 0.49 |  | Research | Notion + KW research | 550.0 | Live /blog/best-seafood-gulf-shores (refresh in CONTENT.md Ideas) | Clusters: D; Refresh: Best Seafood Gulf Shores → broaden to 'Best Restaurants in Gulf Shores (Seafood First)' | 2026-09-11 |
 | best restaurants orange beach | 6,600 | 43 | 0.36 | Commercial | Research | KW research | 150.0 | Covered by /blog/best-restaurants-orange-beach | Clusters: J; Disposition: #21 H1 variant | 2026-10-05 |
 | boat rental crab island destin fl | 6,600 | 19 | 2.60 | Commercial | Research | Notion + KW research | 330.0 | Covered by /blog/crab-island-destin-guide | Clusters: A | 2026-09-11 |
-| camp helen state park | 6,600 | 45 | 1.97 | Informational | Research | KW research | 143.5 | Ideas in CONTENT.md | Clusters: K / K-attraction; Camp Helen State Park Guide; Use: NEW rank 16 | 2026-10-05 |
+| camp helen state park | 6,600 | 45 | 1.97 | Informational | Research | KW research | 143.5 | Next up in CONTENT.md | Clusters: K / K-attraction; Camp Helen State Park Guide; Use: NEW rank 16 | 2026-10-05 |
 | dauphin island ferry | 6,600 | 25 | 0.21 | Navigational | Research | Notion + KW research | 253.8 | Live /blog/mobile-bay-ferry-guide | Clusters: D; I / Fort Morgan, AL (active #17) | 2026-09-11 |
 | perdido key fl restaurants | 6,600 | 20 | 0.29 |  | Research | Notion + KW research | 314.3 | Next up in CONTENT.md | Clusters: I / Perdido Key (active #18); Best Restaurants in Perdido Key | 2026-09-11 |
 | baytowne wharf restaurants | 5,400 | 32 | 0.76 |  | Research | KW research | 163.6 | Covered by /blog/baytowne-wharf-guide | Clusters: L / L-food; Food section on the live Baytowne guide; Use: #24 H2; Peak: Jun–Jul 14,800 | 2026-10-19 |
 | best restaurants 30a | 5,400 | 13 | 0.39 | Informational | Research | Notion + KW research | 385.7 | Live /blog/best-restaurants-30a | Clusters: J; #22 primary| 2026-10-05 |
-| bon secour national wildlife refuge | 5,400 | 44 | 1.04 | Informational | Research | KW research | 120.0 | Ideas in CONTENT.md | Clusters: K / K-attraction; Bon Secour National Wildlife Refuge Guide; Use: NEW rank 17 | 2026-10-05 |
+| bon secour national wildlife refuge | 5,400 | 44 | 1.04 | Informational | Research | KW research | 120.0 | Next up in CONTENT.md | Clusters: K / K-attraction; Bon Secour National Wildlife Refuge Guide; Use: NEW rank 17 | 2026-10-05 |
 | fort morgan alabama beach | 5,400 | 30 | 2.26 | Informational | Research | KW research | 174.2 | Covered by /blog/fort-morgan-alabama-guide | Clusters: I / Fort Morgan, AL (active #17) | 2026-09-10 |
 | seafood restaurants gulf shores | 5,400 | 41 | 0.30 | Commercial | Research | KW research | 128.6 | Covered by /blog/best-seafood-gulf-shores | Clusters: D | 2026-09-11 |
 | shell island panama city beach | 5,400 | 36 | 2.23 | Informational | Research | KW research | 145.9 | Live /blog/shell-island-panama-city-beach-guide | Clusters: F | 2026-09-11 |
-| things to do in rosemary beach | 5,400 | 29 | 1.25 | Informational | Research | KW research | 180.0 | Ideas in CONTENT.md | Clusters: M / M-attraction; Things to Do in Rosemary Beach; Use: NEW 11/2 #7 (45) | 2026-11-02 |
+| things to do in rosemary beach | 5,400 | 29 | 1.25 | Informational | Research | KW research | 180.0 | Next up in CONTENT.md | Clusters: M / M-attraction; Things to Do in Rosemary Beach; Use: NEW 11/2 #7 (45) | 2026-11-02 |
 | beaches closest to atlanta | 4,400 | 8 | 1.24 |  | Research | Notion + KW research | 488.9 | Next up in CONTENT.md | Clusters: K / K-seasonal / drive; Closest Gulf Coast Beaches to Atlanta; #26 primary (GSC 60 impr / pos 29.5) | 2026-10-05 |
-| gulf breeze restaurants | 4,400 | 23 | 0.36 |  | Research | KW research | 183.3 | Ideas in CONTENT.md | Clusters: M / M-food; Best Restaurants in Gulf Breeze; Use: NEW 11/2 #5 (score 60); Peak: Jul 6,600 | 2026-11-02 |
+| gulf breeze restaurants | 4,400 | 23 | 0.36 |  | Research | KW research | 183.3 | Next up in CONTENT.md | Clusters: M / M-food; Best Restaurants in Gulf Breeze; Use: NEW 11/2 #5 (score 60); Peak: Jul 6,600 | 2026-11-02 |
 | okaloosa island florida hotels | 4,400 | 26 | 4.39 |  | Research | KW research | 163.0 | Covered by /blog/okaloosa-island-guide | Clusters: I / Okaloosa Island (active #15) | 2026-09-10 |
-| pensacola beach pier | 4,400 | 40 | 0.77 |  | Research | KW research | 107.3 | Ideas in CONTENT.md | Clusters: L / L-attraction; Pensacola Beach Pier Guide; Use: NEW (score 30) | 2026-10-19 |
+| pensacola beach pier | 4,400 | 40 | 0.77 |  | Research | KW research | 107.3 | Next up in CONTENT.md | Clusters: L / L-attraction; Pensacola Beach Pier Guide; Use: NEW (score 30) | 2026-10-19 |
 | perdido key florida | 4,400 | 66 | 2.27 |  | Research | KW research | 65.7 | Covered by /blog/perdido-key-guide | Clusters: I / Perdido Key (active #18) | 2026-09-10 |
 | perdido key state park | 4,400 | 24 | 2.61 |  | Research | KW research | 176.0 | Covered by /blog/perdido-key-guide | Clusters: I / Perdido Key (active #18) | 2026-09-10 |
 | gulf state park pavilion | 3,600 | 41 | 0.48 |  | Research | KW research | 85.7 | Covered by /blog/gulf-state-park-guide | Clusters: I / Gulf State Park (active #8) | 2026-09-10 |
@@ -117,7 +117,7 @@ Last reviewed: 2026-11-10
 | camping at grayton beach state park | 2,900 | 37 | 1.56 | Commercial | Research | KW research | 76.3 | Covered by /blog/grayton-beach-state-park-guide | Clusters: C | 2026-09-11 |
 | crab island destin pontoon rentals | 2,900 | 28 | 2.84 | Commercial | Research | KW research | 100.0 | Covered by /blog/crab-island-destin-guide | Clusters: A | 2026-09-11 |
 | destin harborwalk restaurants | 2,900 | 44 | 0.68 | Informational | Research | KW research | 64.4 | Covered by /blog/destin-harborwalk-guide | Clusters: I / Destin HarborWalk (active #10) | 2026-09-10 |
-| grayton beach restaurants | 2,900 | 23 | 0.39 |  | Research | KW research | 120.8 | Ideas in CONTENT.md | Clusters: L / L-food; Best Restaurants in Grayton Beach; originally noted as #22 H2 on /blog/best-restaurants-30a (that H2 is already live); Peak: spring 4,400 | 2026-10-19 |
+| grayton beach restaurants | 2,900 | 23 | 0.39 |  | Research | KW research | 120.8 | Next up in CONTENT.md | Clusters: L / L-food; Best Restaurants in Grayton Beach; originally noted as #22 H2 on /blog/best-restaurants-30a (that H2 is already live); Peak: spring 4,400 | 2026-10-19 |
 | henderson beach state park camping | 2,900 | 35 | 1.61 | Informational | Research | KW research | 80.6 | Covered by /blog/henderson-beach-state-park-guide | Clusters: A | 2026-09-11 |
 | marina at the wharf orange beach | 2,900 | 34 | 0.91 |  | Research | KW research | 82.9 | Covered by /blog/the-wharf-orange-beach-guide | Clusters: I / The Wharf Orange Beach (active #14) | 2026-09-10 |
 | mobile bay ferry dauphin island | 2,900 | 37 | 0.13 |  | Research | KW research | 76.3 | Covered by /blog/mobile-bay-ferry-guide | Clusters: D | 2026-09-11 |
@@ -138,7 +138,7 @@ Last reviewed: 2026-11-10
 | best breakfast destin | 1,600 | 27 | 0.28 | Informational | Research | KW research | 57.1 | Live /blog/best-breakfast-gulf-coast | Clusters: A; H | 2026-09-11 |
 | best restaurants pensacola beach | 1,600 | 36 | 0.57 | Commercial | Research | KW research | 43.2 | Covered by /blog/best-restaurants-pensacola-beach | Clusters: B | 2026-09-11 |
 | best seafood orange beach | 1,600 | 42 | 0.27 |  | Research | KW research | 37.2 | Live /blog/best-restaurants-orange-beach (refresh in CONTENT.md Ideas) | Clusters: L / L-food; Refresh: Orange Beach restaurants (add a 'best seafood' line); Use: OB restaurants H2 (PR #1); Peak: Jul 3,600 | 2026-10-19 |
-| dolphin cruise destin | 1,600 | 33 | 4.78 |  | Research | KW research | 47.1 | Ideas in CONTENT.md | Clusters: L / L-attraction; Destin Dolphin Cruise / Gulf Coast Dolphin Tours; Use: later (score 24) | 2026-10-19 |
+| dolphin cruise destin | 1,600 | 33 | 4.78 |  | Research | KW research | 47.1 | Next up in CONTENT.md | Clusters: L / L-attraction; Destin Dolphin Cruise / Gulf Coast Dolphin Tours; Use: later (score 24) | 2026-10-19 |
 | fort pickens camping | 1,600 | 39 | 0.20 | Navigational | Research | KW research | 40.0 | Covered by /blog/fort-pickens-day-guide | Clusters: B | 2026-09-11 |
 | gulf state park nature center | 1,600 | 43 | 0.18 |  | Research | KW research | 36.4 | Covered by /blog/gulf-state-park-guide | Clusters: I / Gulf State Park (active #8) | 2026-09-10 |
 | restaurants fort morgan alabama | 1,600 | 34 | 0.24 |  | Research | KW research | 45.7 | Covered by /blog/fort-morgan-alabama-guide | Clusters: I / Fort Morgan, AL (active #17) | 2026-09-10 |
@@ -164,22 +164,22 @@ Last reviewed: 2026-11-10
 | visit shell island panama city beach | 720 | 38 | 1.65 | Transactional | Research | KW research | 18.5 | Covered by /blog/shell-island-panama-city-beach-guide | Clusters: F | 2026-09-11 |
 | destin vs gulf shores | 590 | 25 | 0.28 | Informational | Research | KW research | 22.7 | Covered by /blog/gulf-shores-vs-destin | Clusters: G; Same comparison, reversed word order | 2026-09-11 |
 | fort morgan alabama history | 480 | 39 | 0.44 |  | Research | KW research | 12.0 | Covered by /blog/fort-morgan-alabama-guide | Clusters: I / Fort Morgan, AL (active #17) | 2026-09-10 |
-| gulf shores spring break | 480 | 25 | 1.42 |  | Research | KW research | 18.5 | Ideas in CONTENT.md | Clusters: M / M-seasonal; H2 on the Gulf Coast in April post; Use: April H2; Peak: Mar 1,900 | 2026-11-02 |
+| gulf shores spring break | 480 | 25 | 1.42 |  | Research | KW research | 18.5 | Next up in CONTENT.md | Clusters: M / M-seasonal; H2 on the Gulf Coast in April post; Use: April H2; Peak: Mar 1,900 | 2026-11-02 |
 | best 30a beaches | 390 | 18 | 4.09 | Informational | Research | KW research | 20.5 | Live /blog/best-30a-beaches-ranked | Clusters: C | 2026-09-11 |
 | best restaurants navarre beach | 390 | 20 | 0.19 | Informational | Research | KW research | 18.6 | Next up in CONTENT.md | Clusters: J; H1 variant of Best Restaurants in Navarre Beach; Disposition: #25 H1 variant | 2026-10-05 |
 | best time to visit panama city beach | 390 | 33 | 1.72 | Informational | Research | KW research | 11.5 | Live /blog/best-time-to-visit-panama-city-beach (refresh in CONTENT.md Ideas) | Clusters: F; Refresh: Best Time to Visit Panama City Beach (true Jan–Dec H2s) | 2026-09-11 |
 | destin harborwalk hotel | 390 | 39 | 1.77 |  | Research | KW research | 9.75 | Covered by /blog/destin-harborwalk-guide | Clusters: I / Destin HarborWalk (active #10) | 2026-09-10 |
 | is miramar beach in destin | 390 | 57 | 3.67 | Informational | Research | KW research | 6.72 | Live /blog/miramar-beach-vs-destin (refresh in CONTENT.md Ideas) | Clusters: J; Refresh: Miramar Beach vs Destin ('Is Miramar Beach in Destin?' H2 + Baytowne link); Disposition: REFRESH miramar-vs-destin FAQ; GSC 2026-09-04→10-02: 82 impr / pos 12.7 | 2026-10-05 |
 | memphis to gulf shores | 390 | 23 | 0.29 | Informational | Research | KW research | 16.2 | Covered by /blog/gulf-coast-from-memphis | Clusters: G; Also a planned refresh (Destin vs Gulf Shores frame) | 2026-09-11 |
-| spring break destin | 390 | 18 | 0.63 |  | Research | KW research | 20.5 | Ideas in CONTENT.md | Clusters: M / M-seasonal; Gulf Coast in April (+ spring break); Use: April H2; Peak: Mar 1,300 | 2026-11-02 |
+| spring break destin | 390 | 18 | 0.63 |  | Research | KW research | 20.5 | Next up in CONTENT.md | Clusters: M / M-seasonal; Gulf Coast in April (+ spring break); Use: April H2; Peak: Mar 1,300 | 2026-11-02 |
 | destin harborwalk hours | 320 | 42 | 1.97 |  | Research | KW research | 7.44 | Covered by /blog/destin-harborwalk-guide | Clusters: I / Destin HarborWalk (active #10) | 2026-09-10 |
 | destin in november | 320 | 15 | 0.90 | Informational | Research | KW research | 20.0 | Live /blog/gulf-coast-in-november | Clusters: K / K-seasonal / drive; Use: **#27 primary** (Oct peak 720) | 2026-10-05 |
 | christmas in destin | 260 | 16 | 1.15 |  | Research | KW research | 15.3 | Covered by /blog/gulf-coast-in-december | Clusters: L / L-seasonal; Christmas events section shipped 2026-10-19; Use: REFRESH gulf-coast-in-december; Peak: Dec 880 | 2026-10-19 |
-| destin in april | 260 | 15 | 0.00 |  | Research | KW research | 16.2 | Ideas in CONTENT.md | Clusters: M / M-seasonal; Gulf Coast in April (+ spring break); Use: NEW 11/2 #9 April post (30); Peak: Jan 720 | 2026-11-02 |
-| destin in february | 260 | 13 | 1.29 |  | Research | KW research | 18.6 | Ideas in CONTENT.md | Clusters: L / L-seasonal; Gulf Coast in February (Mardi Gras, snowbirds); Use: **#30 primary**; Peak: Jan 880 | 2026-10-19 |
+| destin in april | 260 | 15 | 0.00 |  | Research | KW research | 16.2 | Next up in CONTENT.md | Clusters: M / M-seasonal; Gulf Coast in April (+ spring break); Use: NEW 11/2 #9 April post (30); Peak: Jan 720 | 2026-11-02 |
+| destin in february | 260 | 13 | 1.29 |  | Research | KW research | 18.6 | Next up in CONTENT.md | Clusters: L / L-seasonal; Gulf Coast in February (Mardi Gras, snowbirds); Use: **#30 primary**; Peak: Jan 880 | 2026-10-19 |
 | ferry to shell island panama city beach | 260 | 40 | 2.17 | Navigational | Research | KW research | 6.34 | Covered by /blog/shell-island-panama-city-beach-guide | Clusters: F | 2026-09-11 |
 | best breakfast pensacola beach | 210 | 25 | 0.22 |  | Research | KW research | 8.08 | Covered by /blog/best-breakfast-gulf-coast | Clusters: B; H | 2026-09-11 |
-| destin in january | 210 | 13 | 2.08 |  | Research | KW research | 15.0 | Ideas in CONTENT.md | Clusters: L / L-seasonal; Gulf Coast in January (weather, snowbirds); Use: **#29 primary**; Peak: Dec 590 | 2026-10-19 |
+| destin in january | 210 | 13 | 2.08 |  | Research | KW research | 15.0 | Next up in CONTENT.md | Clusters: L / L-seasonal; Gulf Coast in January (weather, snowbirds); Use: **#29 primary**; Peak: Dec 590 | 2026-10-19 |
 | fort pickens entrance fee | 210 | 45 | 0.00 | Informational | Research | KW research | 4.57 | Covered by /blog/fort-pickens-day-guide | Clusters: B | 2026-09-11 |
 | how far is dauphin island from gulf shores | 210 | 18 | 3.20 | Informational | Research | KW research | 11.1 | Live /blog/dauphin-island-guide (refresh in CONTENT.md Ideas) | Clusters: J; Refresh: Dauphin Island guide (How far / how big FAQ + drive-time table; Fort Gaines + Estuarium H2s); Disposition: #23 → fold into DI guide refresh; GSC 2026-09-04→10-02: 59 impr / pos 10.7 | 2026-10-05 |
 | where to stay orange beach | 210 | 42 | 2.81 | Transactional | Research | KW research | 4.88 | Covered by /blog/where-to-stay-orange-beach | Clusters: D | 2026-09-11 |
@@ -189,20 +189,20 @@ Last reviewed: 2026-11-10
 | destin in june | 170 | 21 | 0.00 |  | Research | KW research | 7.73 | Ideas in CONTENT.md | Clusters: M / M-seasonal; Gulf Coast in June / July / August (month-series gaps); Use: later June post; Peak: May 390 | 2026-11-02 |
 | how to get to crab island destin | 170 | 13 | 2.20 | Informational | Research | KW research | 12.1 | Covered by /blog/crab-island-destin-guide | Clusters: A | 2026-09-11 |
 | shell island panama city beach ferry | 170 | 38 | 1.05 | Navigational | Research | KW research | 4.36 | Covered by /blog/shell-island-panama-city-beach-guide | Clusters: F | 2026-09-11 |
-| snowbird rentals gulf shores | 170 | 15 | 1.87 |  | Research | KW research | 10.6 | Ideas in CONTENT.md | Clusters: L / L-seasonal; Snowbird angle on the January / February posts; Use: #29/#30 snowbird H2 (Commercial) | 2026-10-19 |
+| snowbird rentals gulf shores | 170 | 15 | 1.87 |  | Research | KW research | 10.6 | Next up in CONTENT.md | Clusters: L / L-seasonal; Snowbird angle on the January / February posts; Use: #29/#30 snowbird H2 (Commercial) | 2026-10-19 |
 | waterfront restaurants fort walton beach | 170 | 33 | 0.25 | Commercial | Research | KW research | 5.00 | Covered by /blog/best-waterfront-restaurants-fort-walton-beach | Clusters: E | 2026-09-11 |
 | christmas in gulf shores | 140 | 17 | 0.99 |  | Research | KW research | 7.78 | Covered by /blog/gulf-coast-in-december | Clusters: L / L-seasonal; Christmas events section shipped 2026-10-19; Use: REFRESH gulf-coast-in-december; Peak: Nov–Dec 390 | 2026-10-19 |
 | destin harborwalk events | 140 | 37 | 1.36 |  | Research | KW research | 3.68 | Covered by /blog/destin-harborwalk-guide | Clusters: I / Destin HarborWalk (active #10) | 2026-09-10 |
 | where to stay pensacola beach | 140 | 56 | 3.17 | Commercial | Research | KW research | 2.46 | Covered by /blog/where-to-stay-pensacola-beach | Clusters: B | 2026-09-11 |
 | cheap gulf coast vacation | 110 | 26 | 1.14 |  | Research | KW research | 4.07 | Live /blog/gulf-coast-on-a-budget (refresh in CONTENT.md Ideas) | Clusters: D; Refresh: Gulf Coast on a Budget (where to base + what to skip) | 2026-09-11 |
 | destin harborwalk zipline | 110 | 20 | 2.20 |  | Research | KW research | 5.24 | Covered by /blog/destin-harborwalk-guide | Clusters: I / Destin HarborWalk (active #10) | 2026-09-10 |
-| destin in winter | 110 | 13 | 0.40 |  | Research | KW research | 7.86 | Ideas in CONTENT.md | Clusters: L / L-seasonal; Support for the January / February month posts; Use: #29/#30 support; Peak: Dec 260 | 2026-10-19 |
-| gulf shores in february | 110 | 18 | 0.74 |  | Research | KW research | 5.79 | Ideas in CONTENT.md | Clusters: L / L-seasonal; Support for Gulf Coast in February; Use: #30 support; Peak: Jan 320 | 2026-10-19 |
+| destin in winter | 110 | 13 | 0.40 |  | Research | KW research | 7.86 | Next up in CONTENT.md | Clusters: L / L-seasonal; Support for the January / February month posts; Use: #29/#30 support; Peak: Dec 260 | 2026-10-19 |
+| gulf shores in february | 110 | 18 | 0.74 |  | Research | KW research | 5.79 | Next up in CONTENT.md | Clusters: L / L-seasonal; Support for Gulf Coast in February; Use: #30 support; Peak: Jan 320 | 2026-10-19 |
 | gulf shores in november | 110 | 21 | 1.10 | Informational | Research | KW research | 5.00 | Covered by /blog/gulf-coast-in-november | Clusters: K / K-seasonal / drive; Use: #27 support | 2026-10-05 |
 | how long is dauphin island | 110 | 25 | 0.00 | Informational | Research | KW research | 4.23 | Live /blog/dauphin-island-guide (refresh in CONTENT.md Ideas) | Clusters: J; Refresh: Dauphin Island guide (How far / how big FAQ + drive-time table; Fort Gaines + Estuarium H2s); Disposition: DI guide FAQ; GSC 2026-09-04→10-02: 50 impr / pos 10.3 | 2026-10-05 |
 | thanksgiving in destin | 110 | 15 | 1.08 |  | Research | KW research | 6.88 | Covered by /blog/gulf-coast-in-november | Clusters: L / L-seasonal; Thanksgiving week section shipped 2026-10-19; Use: H2 in November post (PR #1); Peak: Nov 590 | 2026-10-19 |
-| gulf shores in april | 90 | 13 | 1.04 |  | Research | KW research | 6.43 | Ideas in CONTENT.md | Clusters: M / M-seasonal; Support for the Gulf Coast in April post; Use: April support; Peak: Jan–Feb 210 | 2026-11-02 |
-| gulf shores in january | 70 | 18 | 7.55 |  | Research | KW research | 3.68 | Ideas in CONTENT.md | Clusters: L / L-seasonal; Support for Gulf Coast in January; Use: #29 support; Peak: Dec 170 | 2026-10-19 |
+| gulf shores in april | 90 | 13 | 1.04 |  | Research | KW research | 6.43 | Next up in CONTENT.md | Clusters: M / M-seasonal; Support for the Gulf Coast in April post; Use: April support; Peak: Jan–Feb 210 | 2026-11-02 |
+| gulf shores in january | 70 | 18 | 7.55 |  | Research | KW research | 3.68 | Next up in CONTENT.md | Clusters: L / L-seasonal; Support for Gulf Coast in January; Use: #29 support; Peak: Dec 170 | 2026-10-19 |
 | how far is dauphin island from orange beach | 70 | 21 | 0.00 | Informational | Research | KW research | 3.18 | Covered by /blog/dauphin-island-guide | Clusters: J; Disposition: DI guide FAQ; GSC 2026-09-04→10-02: 33 impr / pos 7.8 | 2026-10-05 |
 | memphis to destin drive | 70 | 19 | 0.00 | Informational | Research | KW research | 3.50 | Covered by /blog/gulf-coast-from-memphis | Clusters: G | 2026-09-11 |
 | quiet beaches florida panhandle | 70 | 26 | 2.82 | Informational | Research | KW research | 2.59 | Covered by /blog/quietest-gulf-coast-beaches | Clusters: H | 2026-09-11 |
@@ -211,10 +211,10 @@ Last reviewed: 2026-11-10
 | jacksonville to destin drive | 50 | 22 | 0.00 | Informational | Research | KW research | 2.17 | Covered by /blog/destin-from-jacksonville | Clusters: G | 2026-09-11 |
 | thanksgiving in gulf shores | 50 | 12 | 0.89 |  | Research | KW research | 3.85 | Covered by /blog/gulf-coast-in-november | Clusters: L / L-seasonal; Thanksgiving week section shipped 2026-10-19; Use: H2 in November post (PR #1); Peak: Nov 210 | 2026-10-19 |
 | destin harborwalk parking | 40 | 15 | 0.00 |  | Research | KW research | 2.50 | Covered by /blog/destin-harborwalk-guide | Clusters: I / Destin HarborWalk (active #10) | 2026-09-10 |
-| gulf shores in winter | 40 | 19 | 0.38 |  | Research | KW research | 2.00 | Ideas in CONTENT.md | Clusters: L / L-seasonal; Support for the January / February month posts; Use: #29/#30 support | 2026-10-19 |
+| gulf shores in winter | 40 | 19 | 0.38 |  | Research | KW research | 2.00 | Next up in CONTENT.md | Clusters: L / L-seasonal; Support for the January / February month posts; Use: #29/#30 support | 2026-10-19 |
 | gulf world marine institute | 40 | 19 | 0.00 | Navigational | Research | KW research | 2.00 | Skipped (dead term) | Clusters: M / M-attraction; Cluster M: dead (40 vol); Use: dead | 2026-11-02 |
 | is orange beach alabama dog friendly | 30 | 21 | 2.12 | Informational | Research | KW research | 1.36 | Live /blog/pet-friendly-gulf-coast-beaches (refresh in CONTENT.md Ideas) | Clusters: J; Refresh: Pet-friendly beaches (Orange Beach / Gulf Shores / Fort Pickens dog-rules FAQ); Disposition: REFRESH pet-friendly page; GSC 2026-09-04→10-02: 42 impr / pos 23.9 | 2026-10-05 |
-| orange beach in january | 20 | 11 | 1.62 |  | Research | KW research | 1.67 | Ideas in CONTENT.md | Clusters: L / L-seasonal; Support for Gulf Coast in January; Use: #29 H2; Peak: Dec 50 | 2026-10-19 |
+| orange beach in january | 20 | 11 | 1.62 |  | Research | KW research | 1.67 | Next up in CONTENT.md | Clusters: L / L-seasonal; Support for Gulf Coast in January; Use: #29 H2; Peak: Dec 50 | 2026-10-19 |
 | secluded beaches florida panhandle | 20 | 25 | 2.17 |  | Research | KW research | 0.77 | Covered by /blog/quietest-gulf-coast-beaches | Clusters: H | 2026-09-11 |
 | shell island water taxi | 20 | 15 | 0.89 |  | Research | KW research | 1.25 | Covered by /blog/shell-island-panama-city-beach-guide | Clusters: F | 2026-09-11 |
 | best breakfast gulf coast florida | 0 | 4 | 0.00 |  | Research | KW research | 0.00 | Covered by /blog/best-breakfast-gulf-coast | Clusters: H | 2026-09-11 |
