@@ -46,6 +46,15 @@ const eatGuides = [
     meta: 'Dining guide',
   },
   {
+    slug: 'best-restaurants-navarre-beach',
+    title: "Navarre Beach Restaurants: Where to Eat in 2026",
+    excerpt:
+      "Navarre Beach restaurants open after Hurricane Isaias: island-side waterfront spots and casual Navarre Parkway picks.",
+    imageSrc: '/images/navarre-beach-florida.jpg',
+    category: 'Navarre Beach',
+    meta: 'Dining guide',
+  },
+  {
     slug: 'best-breakfast-gulf-coast',
     title: 'Best Breakfast Spots on the Gulf Coast',
     excerpt:

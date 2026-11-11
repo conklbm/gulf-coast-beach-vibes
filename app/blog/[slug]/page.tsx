@@ -31,6 +31,7 @@ import BestTimeToVisitDestinContent from './content/best-time-to-visit-destin'
 import ThreeDaysInDestinContent from './content/3-days-in-destin'
 import PanamaCityBeachVsDestinContent from './content/panama-city-beach-vs-destin'
 import NavarreBeachGuideContent from './content/navarre-beach-guide'
+import BestRestaurantsNavarreBeachContent from './content/best-restaurants-navarre-beach'
 import FortWaltonBeachGuideContent from './content/fort-walton-beach-guide'
 import FortWaltonBeachVsDestinContent from './content/fort-walton-beach-vs-destin'
 import DauphinIslandGuideContent from './content/dauphin-island-guide'
@@ -213,6 +214,7 @@ const CONTENT_MAP: Record<string, React.ComponentType> = {
   '3-days-in-destin': ThreeDaysInDestinContent,
   'panama-city-beach-vs-destin': PanamaCityBeachVsDestinContent,
   'navarre-beach-guide': NavarreBeachGuideContent,
+  'best-restaurants-navarre-beach': BestRestaurantsNavarreBeachContent,
   'fort-walton-beach-guide': FortWaltonBeachGuideContent,
   'fort-walton-beach-vs-destin': FortWaltonBeachVsDestinContent,
   'dauphin-island-guide': DauphinIslandGuideContent,
