@@ -215,12 +215,13 @@ export default function GulfCoastOnABudgetContent() {
           experience costs nothing except maybe $5–10 for public beach parking.
         </li>
         <li>
-          <strong>Gulf State Park trails</strong> — $5/vehicle day use; 28 miles of trails,
+          <strong>Gulf State Park trails</strong> — 28 miles of trails ($15/vehicle to park at the park&apos;s beach lots),
           a freshwater lake, and the best natural beach on the Alabama coast
         </li>
         <li>
-          <strong>Gulf State Park Pier fishing</strong> — included with park entry; 1,540 feet
-          into the Gulf, no fishing license required
+          <strong>Gulf State Park Pier fishing</strong> — paying the $15 daily parking fee at the
+          pier includes one all-day fishing permit (otherwise $10 for adults); 1,540 feet into the
+          Gulf. You still need an Alabama saltwater or pier fishing license.
         </li>
         <li>
           <strong><a href="https://www.navalaviationmuseum.org/" target="_blank" rel="noopener noreferrer">National Naval Aviation Museum</a> (Pensacola)</strong> — completely free;
@@ -278,9 +279,9 @@ export default function GulfCoastOnABudgetContent() {
         <li><strong>Accommodations:</strong> 2nd-row condo, sleeps 4 — ~$1,400 total ($350/night)</li>
         <li><strong>Groceries (breakfasts + lunches):</strong> ~$150</li>
         <li><strong>Dinners out (3 evenings):</strong> ~$180</li>
-        <li><strong>Activities:</strong> Gulf State Park ($5/day × 2), pier fishing ($0), beach ($0) — ~$25</li>
+        <li><strong>Activities:</strong> Gulf State Park parking ($15/day × 2, includes a pier fishing permit), beach ($0) — ~$30</li>
         <li><strong>Gas (Birmingham, ~380mi round trip):</strong> ~$60</li>
-        <li><strong>Total for 2 people:</strong> ~$1,815 (~$225/person/night)</li>
+        <li><strong>Total for 2 people:</strong> ~$1,820 (~$230/person/night)</li>
       </ul>
       <p>
         Compare that to peak summer in a Gulf-front condo at a Florida destination and you can

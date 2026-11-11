@@ -184,7 +184,7 @@ export default function NavarreBeachGuideContent() {
         <li><strong>Northwest Florida Beaches International (ECP / Panama City Beach)</strong> — 90 minutes east</li>
       </ul>
       <p>
-        By car from major cities: Atlanta ~5 hours, Nashville ~5.5 hours, Birmingham ~4 hours.
+        By car from major cities: Atlanta ~5.5 hours, Nashville ~5.5 hours, Birmingham ~4 hours.
         Navarre sits almost exactly between Pensacola Beach and Fort Walton Beach on Highway 98,
         making it a natural stop if you&apos;re doing a multi-destination panhandle road trip.
       </p>
