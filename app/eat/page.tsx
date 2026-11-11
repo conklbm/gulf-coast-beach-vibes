@@ -19,6 +19,15 @@ const eatGuides = [
     meta: 'Dining guide',
   },
   {
+    slug: 'best-restaurants-perdido-key',
+    title: "Perdido Key Restaurants: Where to Eat on the Key",
+    excerpt:
+      "Where to eat on Perdido Key: seafood on the key, the Flora-Bama complex at the state line, and Innerarity Point, plus one favorite just west.",
+    imageSrc: '/images/local/perdido-pass-gulf-view.webp',
+    category: 'Perdido Key',
+    meta: 'Dining guide',
+  },
+  {
     slug: 'best-seafood-gulf-shores',
     title: 'Best Seafood Restaurants in Gulf Shores, AL',
     excerpt:

@@ -132,6 +132,7 @@ import ShellIslandPanamaCityBeachGuideContent from './content/shell-island-panam
 
 import FortMorganAlabamaGuideContent from './content/fort-morgan-alabama-guide'
 import PerdidoKeyGuideContent from './content/perdido-key-guide'
+import BestRestaurantsPerdidoKeyContent from './content/best-restaurants-perdido-key'
 import OkaloosaIslandGuideContent from './content/okaloosa-island-guide'
 
 import BestBreakfastGulfCoastContent from './content/best-breakfast-gulf-coast'
@@ -156,6 +157,7 @@ const CONTENT_MAP: Record<string, React.ComponentType> = {
   'best-waterfront-restaurants-fort-walton-beach': BestWaterfrontRestaurantsFortWaltonBeachContent,
   'fort-morgan-alabama-guide': FortMorganAlabamaGuideContent,
   'perdido-key-guide': PerdidoKeyGuideContent,
+  'best-restaurants-perdido-key': BestRestaurantsPerdidoKeyContent,
   'okaloosa-island-guide': OkaloosaIslandGuideContent,
   'the-wharf-orange-beach-guide': TheWharfOrangeBeachGuideContent,
   'fort-pickens-day-guide': FortPickensDayGuideContent,
