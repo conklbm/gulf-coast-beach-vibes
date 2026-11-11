@@ -13,6 +13,7 @@ import BestThingsToDoGulfShoresContent from './content/best-things-to-do-gulf-sh
 import BestGulfCoastBeachesFamiliesContent from './content/best-gulf-coast-beaches-for-families'
 import GulfShoresVsDestinContent from './content/gulf-shores-vs-destin'
 import GulfCoastFromAtlantaContent from './content/gulf-coast-from-atlanta'
+import ClosestBeachesToAtlantaContent from './content/closest-beaches-to-atlanta'
 import BestTimeGulfShoresContent from './content/best-time-to-visit-gulf-shores'
 import DestinVsPensacolaContent from './content/destin-vs-pensacola-beach'
 import GulfCoastOctoberContent from './content/gulf-coast-in-october'
@@ -192,6 +193,7 @@ const CONTENT_MAP: Record<string, React.ComponentType> = {
   'best-gulf-coast-beaches-for-families': BestGulfCoastBeachesFamiliesContent,
   'gulf-shores-vs-destin': GulfShoresVsDestinContent,
   'gulf-coast-from-atlanta': GulfCoastFromAtlantaContent,
+  'closest-beaches-to-atlanta': ClosestBeachesToAtlantaContent,
   'best-time-to-visit-gulf-shores': BestTimeGulfShoresContent,
   'destin-vs-pensacola-beach': DestinVsPensacolaContent,
   'gulf-coast-in-october': GulfCoastOctoberContent,

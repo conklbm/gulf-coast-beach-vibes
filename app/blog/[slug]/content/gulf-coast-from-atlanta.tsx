@@ -84,7 +84,9 @@ export default function GulfCoastFromAtlantaContent() {
 
       <h2>Which Beach Should You Pick?</h2>
       <p>
-        From Atlanta, your decision mostly comes down to how much time you have:
+        From Atlanta, your decision mostly comes down to how much time you have. For every Gulf
+        and Atlantic option ranked by road miles, see our{' '}
+        <Link href="/blog/closest-beaches-to-atlanta">closest beaches to Atlanta</Link> guide.
       </p>
       <ul>
         <li>
