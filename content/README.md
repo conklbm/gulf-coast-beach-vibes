@@ -11,7 +11,7 @@
 | `README.md` | This file |
 | `CONTENT-INVENTORY.md` | Existing themes/pages from live sitemap + GSC + homepage crawl |
 | `KEYWORD-RESEARCH.md` | Ubersuggest US (`locId` 2840) clusters with volume/SD |
-| `BACKLOG-1-20.md` | Ranked active 1–20 (all NEW / soft-overlap after 2026-09-10 replacements) |
+| `BACKLOG-1-20.md` | **Archived 2026-11-10** to `docs/archive/BACKLOG-1-20.md`; the live queue is `CONTENT.md` at the repo root |
 | `OUTLINES/` | 20 detailed NEW/soft outlines (`01`–`20`) |
 | `OUTLINES/refresh/` | 6 hard-conflict REFRESH briefs (kept; not in active 1–20) |
 | `sitemap-live.xml` / `sitemap-urls.txt` | Live sitemap snapshot (115 URLs) |
