@@ -177,10 +177,10 @@ export default function FortWaltonBeachGuideContent() {
       <ul>
         <li>
           <strong>Destin-Fort Walton Beach Airport (VPS)</strong> — the closest airport;
-          10 minutes from Okaloosa Island, with direct service from several major hubs
+          about 11 miles and 20 minutes from Okaloosa Island, with direct service from several major hubs
         </li>
         <li>
-          <strong>Pensacola International (PNS)</strong> — 50 minutes west; more flight
+          <strong>Pensacola International (PNS)</strong> — about an hour west; more flight
           options and often cheaper fares; larger rental car selection
         </li>
         <li>
@@ -198,7 +198,7 @@ export default function FortWaltonBeachGuideContent() {
       <ul>
         <li><strong>Beach:</strong> Okaloosa Island — white quartz sand, emerald Gulf water</li>
         <li><strong>Nearest neighbor:</strong> Destin (8 miles east), Navarre Beach (20 miles west)</li>
-        <li><strong>Closest airport:</strong> VPS (Destin-Fort Walton Beach), 10 minutes</li>
+        <li><strong>Closest airport:</strong> VPS (Destin-Fort Walton Beach), about 20 minutes (<Link href="/blog/closest-airports-gulf-coast-beaches">compare airports</Link>)</li>
         <li><strong>Price vs. Destin:</strong> 15–25% lower on comparable condos and rentals</li>
         <li><strong>Best for:</strong> Travelers who want the Destin corridor experience at a better price, military-affiliated travelers (AFRC access at Eglin), families who want space on the beach</li>
         <li><strong>Not ideal for:</strong> Travelers who want Destin&apos;s resort-density dining scene and nightlife within walking distance</li>

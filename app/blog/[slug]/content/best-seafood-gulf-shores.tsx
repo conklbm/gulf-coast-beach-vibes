@@ -89,7 +89,7 @@ export default function BestSeafoodGulfShoresContent() {
 
       <h2>What to Order</h2>
       <p>
-        Royal reds if you see them — a deep-water shrimp that tastes closer to lobster than to the
+        <Link href="/blog/royal-red-shrimp-gulf-coast">Royal reds</Link> if you see them — a deep-water shrimp that tastes closer to lobster than to the
         shrimp you know, and they are not always available. Gulf oysters, which Alabama now farms as
         well as harvests wild. Whole fried or grilled snapper in season. And anything the board says
         came in that day.

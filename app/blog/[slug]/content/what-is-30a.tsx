@@ -36,7 +36,9 @@ export default function WhatIs30AContent() {
         30A is in South Walton along the Florida Panhandle, between the larger Destin/Miramar Beach area
         to the west and Panama City Beach to the east. The closest airports are usually Northwest
         Florida Beaches International (ECP) near Panama City Beach, Destin-Fort Walton Beach (VPS), and
-        Pensacola International. Most visitors still want a car for groceries, different beach towns,
+        Pensacola International; our{' '}
+        <Link href="/blog/closest-airports-gulf-coast-beaches">closest airports guide</Link> shows which
+        end of 30A each one suits. Most visitors still want a car for groceries, different beach towns,
         state parks, and restaurants, even though biking is a big part of the experience.
       </p>
 

@@ -146,9 +146,13 @@ import BestWaterfrontRestaurantsFortWaltonBeachContent from './content/best-wate
 import WatchingStarshipLaunchSouthPadreIslandContent from './content/watching-starship-launch-south-padre-island'
 import BestRestaurants30AContent from './content/best-restaurants-30a'
 import BaytowneWharfGuideContent from './content/baytowne-wharf-guide'
+import RoyalRedShrimpGulfCoastContent from './content/royal-red-shrimp-gulf-coast'
+import ClosestAirportsGulfCoastBeachesContent from './content/closest-airports-gulf-coast-beaches'
 const CONTENT_MAP: Record<string, React.ComponentType> = {
   'best-restaurants-30a': BestRestaurants30AContent,
   'baytowne-wharf-guide': BaytowneWharfGuideContent,
+  'royal-red-shrimp-gulf-coast': RoyalRedShrimpGulfCoastContent,
+  'closest-airports-gulf-coast-beaches': ClosestAirportsGulfCoastBeachesContent,
   'best-restaurants-orange-beach': BestRestaurantsOrangeBeachContent,
   'gulf-coast-in-november': GulfCoastNovemberContent,
   'watching-starship-launch-south-padre-island': WatchingStarshipLaunchSouthPadreIslandContent,

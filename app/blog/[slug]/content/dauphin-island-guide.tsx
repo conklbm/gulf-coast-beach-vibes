@@ -176,8 +176,10 @@ export default function DauphinIslandGuideContent() {
         </li>
       </ul>
       <p>
-        The nearest airport is Mobile Regional (MOB) — about 45 minutes to the island.
-        Pensacola (PNS) is also an option at about 90 minutes.
+        No airline flies to the island. The nearest airport with flights is Mobile Regional (MOB),
+        about 37 miles and an hour&apos;s drive. Pensacola (PNS) is about 93 miles, closer to two
+        hours. Our <Link href="/blog/closest-airports-gulf-coast-beaches">closest airports guide</Link>{' '}
+        compares every option on the coast.
       </p>
 
       <h2>Where to Stay</h2>

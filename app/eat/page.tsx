@@ -73,6 +73,15 @@ const eatGuides = [
     meta: 'Dining guide',
   },
   {
+    slug: 'royal-red-shrimp-gulf-coast',
+    title: "Royal Red Shrimp: Where to Eat the Gulf's Sweetest Shrimp",
+    excerpt:
+      'What royal reds are, when they are in season, and the restaurants and seafood markets serving them from Gulf Shores to Destin.',
+    imageSrc: '/images/best-seafood-gulf-shores.webp',
+    category: 'All Destinations',
+    meta: 'Seafood',
+  },
+  {
     slug: 'best-breakfast-gulf-coast',
     title: 'Best Breakfast Spots on the Gulf Coast',
     excerpt:
