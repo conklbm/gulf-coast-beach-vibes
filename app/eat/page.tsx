@@ -37,6 +37,15 @@ const eatGuides = [
     meta: 'Dining guide',
   },
   {
+    slug: 'best-restaurants-miramar-beach',
+    title: "Miramar Beach Restaurants: Where to Eat in 2026",
+    excerpt:
+      "Miramar Beach restaurants by road: beachfront seafood on Scenic Gulf Drive, strip-center finds on US-98, and Sandestin date-night tables.",
+    imageSrc: '/images/miramar-beach-florida.webp',
+    category: 'Miramar Beach',
+    meta: 'Dining guide',
+  },
+  {
     slug: 'best-restaurants-30a',
     title: 'Best Restaurants on 30A: A Town-by-Town Guide',
     excerpt:
