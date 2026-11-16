@@ -175,14 +175,19 @@ export default function NavarreBeachGuideContent() {
 
       <h2>Getting to Navarre Beach</h2>
       <p>
-        Navarre Beach sits on Santa Rosa Island, accessed via the Bob Sikes Bridge (US-98)
-        from the mainland town of Navarre. The nearest airports:
+        Navarre Beach sits on Santa Rosa Island, reached by the Navarre Beach bridge from US-98 in
+        the mainland town of Navarre. The nearest airports (no-traffic drive times):
       </p>
       <ul>
-        <li><strong>Pensacola International Airport (PNS)</strong> — 30 minutes west; the most convenient option</li>
-        <li><strong>Destin-Fort Walton Beach Airport (VPS)</strong> — 35 minutes east; smaller airport, fewer direct flights</li>
-        <li><strong>Northwest Florida Beaches International (ECP / Panama City Beach)</strong> — 90 minutes east</li>
+        <li><strong>Destin-Fort Walton Beach Airport (VPS)</strong> — about 26 miles, 35–45 minutes east</li>
+        <li><strong>Pensacola International Airport (PNS)</strong> — about 31 miles, 40–55 minutes west; the most airlines</li>
+        <li><strong>Northwest Florida Beaches International (ECP / Panama City Beach)</strong> — about 2 hours east</li>
       </ul>
+      <p>
+        VPS and PNS are close to a tie, so pick the better flight. Our{' '}
+        <Link href="/blog/closest-airports-gulf-coast-beaches">closest airports guide</Link> lists the
+        airlines at each.
+      </p>
       <p>
         By car from major cities: Atlanta ~5.5 hours, Nashville ~5.5 hours, Birmingham ~4 hours.
         Navarre sits almost exactly between Pensacola Beach and Fort Walton Beach on Highway 98,

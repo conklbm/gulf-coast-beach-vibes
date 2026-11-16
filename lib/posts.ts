@@ -73,6 +73,28 @@ export const posts: Post[] = [
     readTime: '8 min read',
   },
   {
+    slug: 'royal-red-shrimp-gulf-coast',
+    title: "Royal Red Shrimp: Where to Eat the Gulf's Sweetest Shrimp",
+    excerpt:
+      "Royal reds live 1,200+ feet down and get compared to lobster. What they are, when they're in season, and where to order them from Gulf Shores to Destin.",
+    category: 'Things to Do',
+    heroImage: '/images/best-seafood-gulf-shores.webp',
+    ogImage: '/images/covers/royal-red-shrimp-gulf-coast.png',
+    publishedAt: '2026-11-16',
+    readTime: '8 min read',
+  },
+  {
+    slug: 'closest-airports-gulf-coast-beaches',
+    title: 'Closest Airport to Destin and Every Gulf Coast Beach',
+    excerpt:
+      'Closest airport to Destin, 30A, Gulf Shores, Pensacola Beach and Dauphin Island, with drive times, airlines, and when a farther airport is the better call.',
+    category: 'Travel Tips',
+    heroImage: '/images/gulf-coast-road-trip.webp',
+    ogImage: '/images/covers/closest-airports-gulf-coast-beaches.png',
+    publishedAt: '2026-11-16',
+    readTime: '9 min read',
+  },
+  {
     slug: 'best-time-to-visit-gulf-shores',
     title: 'Best Time to Visit Gulf Shores: A Month-by-Month Guide',
     excerpt:

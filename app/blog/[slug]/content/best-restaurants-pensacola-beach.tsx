@@ -84,7 +84,7 @@ export default function BestRestaurantsPensacolaBeachContent() {
 
       <h2>What to Order</h2>
       <p>
-        Gulf oysters, raw or chargrilled. Royal red shrimp when they are on. Whatever the board says
+        Gulf oysters, raw or chargrilled. <Link href="/blog/royal-red-shrimp-gulf-coast">Royal red shrimp</Link> when they are on. Whatever the board says
         came in that day. Pensacola sits close enough to the fleet that the fresh list is real rather
         than decorative.
       </p>
