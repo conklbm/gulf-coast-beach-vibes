@@ -254,7 +254,8 @@ export default function NavarreBeachGuideContent() {
         prices or fighting Pensacola Beach parking. The trade-off is fewer restaurants and
         fewer activities within walking distance. If the beach itself is the trip, and you
         don&apos;t need a resort district outside your door, Navarre Beach is one of the best
-        value propositions on the entire Gulf Coast.
+        value propositions on the entire Gulf Coast. For where to eat, see our{' '}
+        <Link href="/blog/best-restaurants-navarre-beach">Navarre Beach restaurants guide</Link>.
       </p>
 
       <h2>Ready to Book?</h2>

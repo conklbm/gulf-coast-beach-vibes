@@ -243,6 +243,17 @@ export const posts: Post[] = [
     readTime: '8 min read',
   },
   {
+    slug: 'best-restaurants-navarre-beach',
+    title: "Navarre Beach Restaurants: Where to Eat in 2026",
+    excerpt:
+      "Navarre Beach restaurants open after Hurricane Isaias: island picks by the causeway and Gulf Blvd, casual spots along Hwy 98, and sunset tables.",
+    category: 'Things to Do',
+    heroImage: '/images/navarre-beach-florida.jpg',
+    ogImage: '/images/covers/best-restaurants-navarre-beach.png',
+    publishedAt: '2026-11-11',
+    readTime: '7 min read',
+  },
+  {
     slug: 'fort-walton-beach-guide',
     title: 'Fort Walton Beach, Florida: The Underrated Alternative to Destin',
     excerpt:
