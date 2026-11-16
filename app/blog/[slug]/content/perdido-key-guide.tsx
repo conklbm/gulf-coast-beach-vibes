@@ -25,7 +25,8 @@ export default function PerdidoKeyGuideContent() {
       </p>
       <p>
         The developed middle is condos and a handful of restaurants. The two ends are protected land.
-        Plan around the ends.
+        Plan around the ends. For where to eat, see our{' '}
+        <Link href="/blog/best-restaurants-perdido-key">Perdido Key restaurants guide</Link>.
       </p>
 
       <h2>Johnson Beach (Gulf Islands National Seashore)</h2>
