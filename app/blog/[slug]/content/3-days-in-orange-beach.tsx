@@ -107,6 +107,11 @@ export default function ThreeDaysInOrangeBeachContent() {
       </p>
 
       <h2>Where to Stay in Orange Beach</h2>
+      <p>
+        Weighing Orange Beach against other towns? Our{' '}
+        <Link href="/stay/best-places-to-stay-gulf-coast">best places to stay on the Gulf Coast</Link> guide
+        compares hotels, rentals and resorts across the coast.
+      </p>
       <div className="not-prose flex flex-col sm:flex-row gap-3 my-6">
         <AffiliateLink href="vrbo-orange-beach" label="Browse Orange Beach Rentals" provider="vrbo" />
         <AffiliateLink href="booking-orange-beach" label="Find Orange Beach Hotels" provider="booking" />

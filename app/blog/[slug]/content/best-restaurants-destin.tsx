@@ -14,7 +14,9 @@ export default function BestRestaurantsDestinContent() {
       <p>
         This is organized by where you are staying rather than by ranking, because in summer traffic
         the question is never &ldquo;what is the best restaurant in Destin.&rdquo; It is
-        &ldquo;what is worth the drive from here, tonight, with these people.&rdquo;
+        &ldquo;what is worth the drive from here, tonight, with these people.&rdquo; Still picking
+        where to stay? Start with our{' '}
+        <Link href="/stay/best-places-to-stay-gulf-coast">best places to stay on the Gulf Coast</Link> guide.
       </p>
 
       <h2>How We Picked</h2>

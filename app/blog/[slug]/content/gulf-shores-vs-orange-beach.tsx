@@ -180,6 +180,11 @@ export default function GulfShoresVsOrangeBeachContent() {
       </p>
 
       <h2>Book Your Trip</h2>
+      <p>
+        Still deciding on a base? Our{' '}
+        <Link href="/stay/best-places-to-stay-gulf-coast">best places to stay on the Gulf Coast</Link> guide
+        covers hotels, rentals and resorts in both towns and the rest of the coast.
+      </p>
       <div className="not-prose flex flex-col sm:flex-row gap-3 my-6">
         <AffiliateLink href="vrbo-gulf-shores" label="Browse Gulf Shores Rentals" provider="vrbo" />
         <AffiliateLink href="vrbo-orange-beach" label="Browse Orange Beach Rentals" provider="vrbo" />

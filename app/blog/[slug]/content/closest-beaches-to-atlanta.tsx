@@ -308,7 +308,9 @@ export default function ClosestBeachesToAtlantaContent() {
       <p>
         Panama City Beach has the shortest Gulf drive and the widest spread of condos, hotels and
         rentals. 30A is the small-town alternative a few miles farther. Gulf Shores is the family
-        pick on the interstate route. Book early for summer and holiday weeks.
+        pick on the interstate route. Book early for summer and holiday weeks. Our{' '}
+        <Link href="/stay/best-places-to-stay-gulf-coast">best places to stay on the Gulf Coast</Link> guide
+        compares every town.
       </p>
       <div className="not-prose flex flex-col sm:flex-row gap-3 my-6">
         <AffiliateLink href="vrbo-panama-city-beach" label="Browse Panama City Beach Rentals" provider="vrbo" />
