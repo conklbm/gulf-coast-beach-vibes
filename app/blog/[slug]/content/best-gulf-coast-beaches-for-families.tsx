@@ -235,7 +235,8 @@ export default function BestGulfCoastBeachesFamiliesContent() {
         For Gulf Shores, the condo towers on West Beach (the stretch west of the public beach)
         have some of the best Gulf-front value. For Destin, look at condos on Scenic Gulf Drive
         in Miramar Beach — often 10–15% cheaper than the Destin proper zip code with the same
-        water access.
+        water access. For more options in every town, see our{' '}
+        <Link href="/stay/best-places-to-stay-gulf-coast">best places to stay on the Gulf Coast</Link> guide.
       </p>
       <div className="not-prose flex flex-col sm:flex-row gap-3 my-6">
         <AffiliateLink href="vrbo-gulf-shores" label="Browse Gulf Shores Family Rentals" provider="vrbo" />

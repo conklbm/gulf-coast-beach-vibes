@@ -131,7 +131,9 @@ export default function BestRestaurantsOrangeBeachContent() {
         If you are staying in Gulf Shores, the restaurants in our{' '}
         <Link href="/blog/best-seafood-gulf-shores">best seafood in Gulf Shores</Link> guide are ten
         minutes west. And if you keep driving east past the pass, you are into{' '}
-        <Link href="/destinations/pensacola-beach">the Florida side</Link> within minutes.
+        <Link href="/destinations/pensacola-beach">the Florida side</Link> within minutes. Still
+        choosing a base? See our{' '}
+        <Link href="/stay/best-places-to-stay-gulf-coast">best places to stay on the Gulf Coast</Link> guide.
       </p>
 
       <h2>Practical Tips: Traffic, Waits, and Timing</h2>
